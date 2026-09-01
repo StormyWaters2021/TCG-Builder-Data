@@ -107,7 +107,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "760bcfbf-4736-4f3a-a403-83253fe44582.png"
   },
   {
@@ -218,7 +218,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "dccaf658-fd20-49e5-82a9-230e3c60f8af.png"
   },
   {
@@ -342,7 +342,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "3fd88441-0a54-43e0-b572-987375f70a88.png"
   },
   {
@@ -528,7 +528,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "74e558a2-3e09-4610-9804-dfbc9447bf05.png"
   },
   {
@@ -700,7 +700,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "57477392-7918-42be-b067-6d56b17535fa.png"
   },
   {
@@ -871,7 +871,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "771e7377-2e2d-4fcc-84ef-6cc18c3467a3.png"
   },
   {
@@ -1042,7 +1042,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "f80c9e04-9ad1-4b33-a270-bc534d4af84b.png"
   },
   {
@@ -1213,7 +1213,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "0eb229ce-abf9-456e-a1e7-395ceeaec6dc.png"
   },
   {
@@ -1384,7 +1384,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "793e5ef1-90c4-440b-a543-f29048ee51b1.png"
   },
   {
@@ -1551,7 +1551,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "b02e7ac9-dddd-4eac-bd2c-e2ea0c277b39.png"
   },
   {
@@ -1718,7 +1718,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "f739125f-dacc-4cf0-8a2d-082cf041521a.png"
   },
   {
@@ -1888,7 +1888,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "4ac3bb7e-ebce-4d9f-857f-d9b30902a0ad.png"
   },
   {
@@ -2055,7 +2055,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "5443c21e-fe2f-43e8-a9c1-311a1630a976.png"
   },
   {
@@ -2258,13 +2258,13 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "debb808e-2a93-40b9-a8c1-b99d014e3d0b.png"
   },
   {
     "id": "4511b5d4-77c7-4dff-9c54-0a4d50a7041a",
     "name": "Copycat",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "micnb001",
     "Collector Number": "b001",
     "Unit Type": "Bystander",
@@ -2294,13 +2294,13 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "4511b5d4-77c7-4dff-9c54-0a4d50a7041a.png"
   },
   {
     "id": "efebe6f2-53d7-4ce5-9a93-93ee38da355f",
     "name": "Valentine Vuong",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "micnb002",
     "Collector Number": "b002",
     "Unit Type": "Bystander",
@@ -2335,13 +2335,13 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "efebe6f2-53d7-4ce5-9a93-93ee38da355f.png"
   },
   {
     "id": "648b8fff-aa9d-4651-9bf8-8866bd0d3669",
     "name": "Rogue",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "micnb003",
     "Collector Number": "b003",
     "Unit Type": "Bystander",
@@ -2374,7 +2374,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "648b8fff-aa9d-4651-9bf8-8866bd0d3669.png"
   },
   {
@@ -2386,7 +2386,7 @@
     "Unit Type": "Legacy Card",
     "Rarity": "Chase",
     "Properties": "Unique",
-    "Point Values": "450/300/250",
+    "Point Values": "450/300/250/150/80",
     "Team Abilities": "Cosmic Energy",
     "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Herald | Deity | Ultimates",
@@ -2395,7 +2395,7 @@
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Improved Targeting": "Hindering",
-    "Traits and Special Powers": "MULTI-DIALWhen the G001a dial would be \"KOd\", instead Galactus continues on click #1 of the G001b dial. Excess damage does not carry over. When Galactus is healed, he can't be healed above click #1 of the G001b dial or back onto the G001a dial.PLACEMENT WHEN STARTING THE GAMEWhen Galactus is placed during game set-up or starts the game when generated by the Herald dial, he can be placed in blocking terrain and immediately destroys that terrain when doing so.[Trait] GALACTUS'S ARRIVALPOWER: Place Galactus anywhere on the map. Galactus may be placed on blocking terrain this way and immediately destroys that terrain when doing so. After resolutions, knock back all adjacent opposing characters.",
+    "Traits and Special Powers": "MULTI-DIALWhen the G001a dial would be \"KOd\", instead Galactus continues on click #1 of the G001b dial. Excess damage does not carry over. When Galactus is healed, he can't be healed above click #1 of the G001b dial or back onto the G001a dial.PLACEMENT WHEN STARTING THE GAMEWhen Galactus is placed during game set-up or starts the game when generated by the Herald dial, he can be placed in blocking terrain and immediately destroys that terrain when doing so.[Trait] GALACTUS'S ARRIVALPOWER: Place Galactus anywhere on the map. Galactus may be placed on blocking terrain this way and immediately destroys that terrain when doing so. After resolutions, knock back all adjacent opposing characters.[Defense] THE WORLD SHAKESPowers: Stop, ImperviousSTOP. Impervious. Galactus can reduce penetrating damage. // When this click is revealed, after resolutions deal 1 penetrating damage to all other characters.",
     "alternates": [
       {
         "name": "Galactus",
@@ -2675,39 +2675,12 @@
         "Damage": "5",
         "Damage Ability": "Perplex",
         "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click19.png"
-      }
-    ],
-    "Set": "Marvel Iconix",
-    "Designer": "Official",
-    "Type": "Legacy Card",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
-    "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.png"
-  },
-  {
-    "id": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a",
-    "name": "Galactus",
-    "size": "Card",
-    "Unit ID": "micnLG001b",
-    "Collector Number": "LG001b",
-    "Unit Type": "Legacy Card",
-    "Rarity": "Chase",
-    "Properties": "Unique",
-    "Point Values": "150/80",
-    "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
-    "Keywords": "Cosmic | Herald | Deity | Ultimates",
-    "Keywords Search": "| Cosmic | Herald | Deity | Ultimates |",
-    "Range": "11",
-    "Targets": "3",
-    "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
-    "Improved Targeting": "Hindering",
-    "Traits and Special Powers": "MULTI-DIALWhen the G001a dial would be \"KOd\", instead Galactus continues on click #1 of the G001b dial. Excess damage does not carry over. When Galactus is healed, he can't be healed above click #1 of the G001b dial or back onto the G001a dial.PLACEMENT WHEN STARTING THE GAMEWhen Galactus is placed during game set-up or starts the game when generated by the Herald dial, he can be placed in blocking terrain and immediately destroys that terrain when doing so.[Trait] GALACTUS'S ARRIVALPOWER: Place Galactus anywhere on the map. Galactus may be placed on blocking terrain this way and immediately destroys that terrain when doing so. After resolutions, knock back all adjacent opposing characters.[Defense] THE WORLD SHAKESPowers: Stop, ImperviousSTOP. Impervious. Galactus can reduce penetrating damage. // When this click is revealed, after resolutions deal 1 penetrating damage to all other characters.",
-    "alternates": [
+      },
       {
         "name": "Galactus",
-        "type": "Click1",
+        "type": "Click20",
         "size": "3x6",
-        "Click Number": "1",
+        "Click Number": "20",
         "Starting Line": "Yellow",
         "Speed": "0",
         "Attack": "12",
@@ -2716,13 +2689,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click1.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click20.png"
       },
       {
         "name": "Galactus",
-        "type": "Click2",
+        "type": "Click21",
         "size": "3x6",
-        "Click Number": "2",
+        "Click Number": "21",
         "Speed": "0",
         "Attack": "11",
         "Attack Ability": "Penetrating Psychic Blast",
@@ -2730,13 +2703,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click2.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click21.png"
       },
       {
         "name": "Galactus",
-        "type": "Click3",
+        "type": "Click22",
         "size": "3x6",
-        "Click Number": "3",
+        "Click Number": "22",
         "Speed": "0",
         "Speed Ability": "Force Blast",
         "Attack": "11",
@@ -2745,13 +2718,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Perplex",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click3.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click22.png"
       },
       {
         "name": "Galactus",
-        "type": "Click4",
+        "type": "Click23",
         "size": "3x6",
-        "Click Number": "4",
+        "Click Number": "23",
         "Speed": "0",
         "Speed Ability": "Force Blast",
         "Attack": "11",
@@ -2760,13 +2733,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Perplex",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click4.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click23.png"
       },
       {
         "name": "Galactus",
-        "type": "Click5",
+        "type": "Click24",
         "size": "3x6",
-        "Click Number": "5",
+        "Click Number": "24",
         "Speed": "0",
         "Attack": "11",
         "Attack Ability": "Pulse Wave",
@@ -2774,13 +2747,13 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click5.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click24.png"
       },
       {
         "name": "Galactus",
-        "type": "Click6",
+        "type": "Click25",
         "size": "3x6",
-        "Click Number": "6",
+        "Click Number": "25",
         "Starting Line": "Purple",
         "Speed": "0",
         "Attack": "11",
@@ -2789,13 +2762,13 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click6.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click25.png"
       },
       {
         "name": "Galactus",
-        "type": "Click7",
+        "type": "Click26",
         "size": "3x6",
-        "Click Number": "7",
+        "Click Number": "26",
         "Speed": "0",
         "Attack": "11",
         "Attack Ability": "Penetrating Psychic Blast",
@@ -2803,13 +2776,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click7.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click26.png"
       },
       {
         "name": "Galactus",
-        "type": "Click8",
+        "type": "Click27",
         "size": "3x6",
-        "Click Number": "8",
+        "Click Number": "27",
         "Speed": "0",
         "Attack": "10",
         "Attack Ability": "Penetrating Psychic Blast",
@@ -2817,13 +2790,13 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click8.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click27.png"
       },
       {
         "name": "Galactus",
-        "type": "Click9",
+        "type": "Click28",
         "size": "3x6",
-        "Click Number": "9",
+        "Click Number": "28",
         "Speed": "0",
         "Speed Ability": "Force Blast",
         "Attack": "10",
@@ -2832,13 +2805,13 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click9.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click28.png"
       },
       {
         "name": "Galactus",
-        "type": "Click10",
+        "type": "Click29",
         "size": "3x6",
-        "Click Number": "10",
+        "Click Number": "29",
         "Speed": "0",
         "Speed Ability": "Force Blast",
         "Attack": "10",
@@ -2847,13 +2820,13 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click10.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click29.png"
       },
       {
         "name": "Galactus",
-        "type": "Click11",
+        "type": "Click30",
         "size": "3x6",
-        "Click Number": "11",
+        "Click Number": "30",
         "Speed": "0",
         "Attack": "10",
         "Attack Ability": "Quake",
@@ -2861,14 +2834,24 @@
         "Defense Ability": "Special - THE WORLD SHAKES",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.Click11.png"
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.Click30.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "KO",
+        "size": "3x6",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.KO.png"
       }
     ],
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Legacy Card",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
-    "image": "d3cb4fe9-aa9e-4c23-9b53-915c3392d18a.png"
+    "set_id": "Marvel Iconix",
+    "image": "1fddb83d-8c87-4403-9ea2-eaa2f9d6a58b.png"
   },
   {
     "id": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae",
@@ -2885,7 +2868,7 @@
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click1.png"
@@ -2893,133 +2876,133 @@
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click2.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click3.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click4.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click5.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click6.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click7.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click8.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click9.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click10.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click11",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "11",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click11.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click12",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "12",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click12.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click13",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "13",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click13.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click14",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "14",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click14.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click15",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "15",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click15.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click16",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "16",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click16.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click17",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "17",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click17.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click18",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "18",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click18.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click19",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "19",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click19.png"
       },
       {
         "name": "Galactus (Elemental Converter)",
         "type": "Click20",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "20",
         "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.Click20.png"
       }
@@ -3027,7 +3010,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Attachment",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "ffce23a6-3530-4c1a-89cc-5df238e5d9ae.png"
   },
   {
@@ -3045,7 +3028,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "Speed Ability": "Phasing Teleport",
@@ -3054,7 +3037,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "Speed Ability": "Hypersonic Speed",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click2.png"
@@ -3062,7 +3045,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "Speed Ability": "Running Shot",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click3.png"
@@ -3070,7 +3053,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "Speed Ability": "Charge",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click4.png"
@@ -3078,7 +3061,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "Attack Ability": "Quake",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click5.png"
@@ -3086,7 +3069,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "Attack Ability": "Penetrating Psychic Blast",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click6.png"
@@ -3094,7 +3077,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "Attack Ability": "Pulse Wave",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click7.png"
@@ -3102,7 +3085,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "Damage Ability": "Ranged Combat Expert",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click8.png"
@@ -3110,7 +3093,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "Damage Ability": "Outwit",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click9.png"
@@ -3118,7 +3101,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "Damage Ability": "Perplex",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click10.png"
@@ -3126,7 +3109,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click11",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "11",
         "Damage Ability": "Probability Control",
         "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.Click11.png"
@@ -3134,7 +3117,7 @@
       {
         "name": "Galactus (Herald Dial)",
         "type": "Click12",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "12",
         "Attack Ability": "Pulse Wave",
         "Damage Ability": "Probability Control",
@@ -3144,7 +3127,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Attachment",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "ef162aa8-ada3-415f-9f2e-062e564adb05.png"
   },
   {
@@ -3314,7 +3297,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "22b5cebc-78be-442b-812a-2a829c10cc78.png"
   },
   {
@@ -3484,7 +3467,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "cf6d9c95-9d23-41f7-b537-97644cad5180.png"
   },
   {
@@ -3656,13 +3639,13 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "54787392-4aab-45c2-8977-6f433397b37c.png"
   },
   {
     "id": "a9e8f864-b682-417c-a8c3-f777653d2166",
     "name": "Marie Cartier",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "micnMVX-012bt",
     "Collector Number": "MVX-012bt",
     "Unit Type": "Bystander",
@@ -3691,7 +3674,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "a9e8f864-b682-417c-a8c3-f777653d2166.png"
   },
   {
@@ -3864,7 +3847,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "cb2fcac1-0ee1-4d7f-b4db-94f52ab9ea7d.png"
   },
   {
@@ -4003,7 +3986,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "e6a7a8f8-00a0-4dd9-9b4f-d95b6c65d7f4.png"
   },
   {
@@ -4121,7 +4104,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "a6a4952d-e05a-4bf1-95d7-3e4d005718fc.png"
   },
   {
@@ -4273,7 +4256,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "fd510352-83b1-4a25-adb3-7b527b1400ef.png"
   },
   {
@@ -4431,7 +4414,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "056b8cd7-3c47-4352-8f4d-2c47849b94de.png"
   },
   {
@@ -4585,7 +4568,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "e67a3072-b4b0-479e-becb-202bb15bab88.png"
   },
   {
@@ -4741,7 +4724,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "d1a58989-3ee4-4c66-89ab-4b90521b5d3b.png"
   },
   {
@@ -4899,7 +4882,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "7997ba1f-2652-43c5-a3cf-ff420f3ccc06.png"
   },
   {
@@ -5056,7 +5039,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "734f97c6-a35b-4c51-8492-7ee45fa40639.png"
   },
   {
@@ -5213,7 +5196,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "450b5bbd-a57f-4169-a552-5ebd36fb0ed7.png"
   },
   {
@@ -5365,7 +5348,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "b0697545-f1f8-45c2-8e64-6b974de8fb27.png"
   },
   {
@@ -5519,7 +5502,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "a3a53873-4a5b-49d1-8ca4-5629dcb39ece.png"
   },
   {
@@ -5677,7 +5660,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "5c9dff49-19ac-4757-b85b-23a20f976f2f.png"
   },
   {
@@ -5834,7 +5817,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "55e15548-e547-47d3-9fef-4b2017fd8070.png"
   },
   {
@@ -5992,7 +5975,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "7140ecbb-d436-486f-b293-7712312da2a6.png"
   },
   {
@@ -6144,7 +6127,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "c93c7bb6-6218-43ca-bdc2-4d6a57fdcd43.png"
   },
   {
@@ -6348,7 +6331,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Character",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "9c3b496c-3a9f-46d9-b6e2-d198d1bd56e1.png"
   },
   {
@@ -6364,7 +6347,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Equipment",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "aff4f319-8ae2-4a35-acb9-85762a5418b9.png"
   },
   {
@@ -6381,7 +6364,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Trick Arrow Card",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "3ecf186e-2942-4452-a035-0bc3035a07d8.png"
   },
   {
@@ -6398,7 +6381,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Trick Arrow Card",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "66f08dd0-ed1c-47a8-a0cc-0d41a7291e8c.png"
   },
   {
@@ -6415,7 +6398,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Trick Arrow Card",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "f6f3f2ea-56a7-4263-bdff-c5f425fe283d.png"
   },
   {
@@ -6519,7 +6502,7 @@
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "a4bd5924-867b-4e38-a6b4-379cb66bd3ee",
+    "set_id": "Marvel Iconix",
     "image": "d832e921-7ab7-42c0-9d7b-4cf87d321797.png"
   }
 ]
