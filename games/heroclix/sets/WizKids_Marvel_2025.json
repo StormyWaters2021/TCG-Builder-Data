@@ -14,11 +14,20 @@
     "Keywords": "Cosmic | Herald | Monster | Deity | Symbiote",
     "Keywords Search": "| Cosmic | Herald | Monster | Deity | Symbiote |",
     "Traits and Special Powers": "[Trait] MULTI-DIAL: VENOM GALACTUSDuring force construction, you may add Venom Galactus' Tendrils, Planet Breaker, and/or Maw dials to your force by paying each of their point costs. When Venom Galactus chooses a dial to be the active dial, he may only choose from among the dials that were paid for.// When Venom Galactus starts the game, at the beginning of your turn, and when one of his dials are KO'd, choose one of his dials to be the active dial. Venom Galactus uses the combat values, powers, and abilities of the active dial. Only the active dial is clicked when Venom Galactus is damaged or healed. // Each of Venom Galactus' dials are scored when KO'd, and he is KO'd when all his dials are KO'd.",
+    "multidial_active": "None",
+    "alternates": [
+      {
+        "name": "Venom Galactus",
+        "type": "Base",
+        "size": "3x6",
+        "image": "fc3fe1ca-34f8-4e92-af49-e14bb0be2ae4.Base.jpg"
+      }
+    ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "fc3fe1ca-34f8-4e92-af49-e14bb0be2ae4.png"
+    "image": "fc3fe1ca-34f8-4e92-af49-e14bb0be2ae4.jpg"
   },
   {
     "id": "650df7ac-847b-49f9-a785-81b21ed9f63d",
@@ -38,7 +47,7 @@
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "Speed": "0",
@@ -48,12 +57,12 @@
         "Defense": "18",
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "4",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click1.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click1.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -62,12 +71,12 @@
         "Defense": "18",
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "4",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click2.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click2.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -77,12 +86,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "4",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click3.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click3.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -92,12 +101,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click4.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click4.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -107,12 +116,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click5.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click5.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -121,12 +130,12 @@
         "Defense": "17",
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click6.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click6.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -135,12 +144,12 @@
         "Defense": "17",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click7.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click7.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -149,12 +158,12 @@
         "Defense": "17",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click8.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click8.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -163,12 +172,12 @@
         "Defense": "17",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click9.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click9.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -177,12 +186,12 @@
         "Defense": "17",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click10.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click10.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click11",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "11",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -191,12 +200,12 @@
         "Defense": "17",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click11.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click11.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click12",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "12",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -205,12 +214,12 @@
         "Defense": "17",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click12.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click12.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click13",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "13",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -220,12 +229,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click13.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click13.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click14",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "14",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -235,12 +244,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click14.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click14.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click15",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "15",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -250,12 +259,12 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click15.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click15.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click16",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "16",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -264,12 +273,12 @@
         "Defense": "17",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click16.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click16.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click17",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "17",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -278,12 +287,12 @@
         "Defense": "17",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click17.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click17.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click18",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "18",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -292,12 +301,12 @@
         "Defense": "17",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click18.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click18.jpg"
       },
       {
         "name": "Venom Galactus (Tendrils)",
         "type": "Click19",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "19",
         "Speed": "0",
         "Speed Ability": "Special - COSMIC ARRIVAL",
@@ -306,14 +315,24 @@
         "Defense": "17",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click19.png"
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.Click19.jpg"
+      },
+      {
+        "name": "Venom Galactus (Tendrils)",
+        "type": "KO",
+        "size": "3x6",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Attachment",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.png"
+    "image": "650df7ac-847b-49f9-a785-81b21ed9f63d.jpg"
   },
   {
     "id": "73e8df4a-9d46-4c56-a993-efd0efe5dafe",
@@ -335,7 +354,7 @@
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "Speed": "9",
@@ -345,12 +364,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click1.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click1.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -359,12 +378,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click2.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click2.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -373,12 +392,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click3.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click3.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -387,12 +406,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click4.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click4.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -401,12 +420,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click5.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click5.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -415,12 +434,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click6.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click6.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "Speed": "9",
         "Speed Ability": "Plasticity",
@@ -429,12 +448,12 @@
         "Defense": "16",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click7.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click7.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -443,12 +462,12 @@
         "Defense": "16",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click8.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click8.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -457,12 +476,12 @@
         "Defense": "16",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click9.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click9.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -471,12 +490,12 @@
         "Defense": "16",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click10.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click10.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click11",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "11",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -485,12 +504,12 @@
         "Defense": "16",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click11.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click11.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click12",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "12",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -499,12 +518,12 @@
         "Defense": "15",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click12.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click12.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click13",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "13",
         "Speed": "8",
         "Speed Ability": "Charge",
@@ -513,12 +532,12 @@
         "Defense": "15",
         "Damage": "2",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click13.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click13.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click14",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "14",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -526,12 +545,12 @@
         "Defense": "15",
         "Damage": "3",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click14.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click14.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click15",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "15",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -539,12 +558,12 @@
         "Defense": "15",
         "Damage": "3",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click15.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click15.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click16",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "16",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -552,12 +571,12 @@
         "Defense": "15",
         "Damage": "3",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click16.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click16.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click17",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "17",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -565,12 +584,12 @@
         "Defense": "15",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click17.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click17.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click18",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "18",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -578,12 +597,12 @@
         "Defense": "15",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click18.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click18.jpg"
       },
       {
         "name": "Venom Galactus (Planet Breaker)",
         "type": "Click19",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "19",
         "Speed": "7",
         "Speed Ability": "Flurry",
@@ -591,14 +610,24 @@
         "Defense": "15",
         "Damage": "4",
         "Damage Ability": "Special - CRACK THE PLANET",
-        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click19.png"
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.Click19.jpg"
+      },
+      {
+        "name": "Venom Galactus (Planet Breaker)",
+        "type": "KO",
+        "size": "3x6",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Attachment",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.png"
+    "image": "73e8df4a-9d46-4c56-a993-efd0efe5dafe.jpg"
   },
   {
     "id": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3",
@@ -618,7 +647,7 @@
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "Speed": "4",
@@ -628,12 +657,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click1.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click1.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -642,12 +671,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click2.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click2.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -656,12 +685,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click3.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click3.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -670,12 +699,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click4.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click4.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -684,12 +713,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click5.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click5.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -698,12 +727,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click6.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click6.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -713,12 +742,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click7.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click7.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -728,12 +757,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click8.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click8.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -743,12 +772,12 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click9.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click9.jpg"
       },
       {
         "name": "Venom Galactus (Maw)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "Speed": "4",
         "Speed Ability": "Sidestep",
@@ -758,14 +787,24 @@
         "Defense Ability": "Special - DEVOUR",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click10.png"
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.Click10.jpg"
+      },
+      {
+        "name": "Venom Galactus (Maw)",
+        "type": "KO",
+        "size": "3x6",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Attachment",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.png"
+    "image": "1e64fbb4-8e8c-4f27-9a45-fdec59fe1af3.jpg"
   },
   {
     "id": "c5ab1d84-9c9b-42d1-9356-57f758af7208",
@@ -781,106 +820,106 @@
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click1",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "1",
         "Starting Line": "Auto",
         "Speed": "0",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click1.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click1.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click2",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "2",
         "Speed": "0",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click2.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click2.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click3",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "3",
         "Speed": "1",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click3.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click3.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click4",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "4",
         "Speed": "1",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click4.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click4.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click5",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "5",
         "Speed": "2",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click5.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click5.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click6",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "6",
         "Speed": "2",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click6.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click6.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click7",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "7",
         "Speed": "2",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click7.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click7.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click8",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "8",
         "Speed": "3",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click8.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click8.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click9",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "9",
         "Speed": "3",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click9.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click9.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click10",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "10",
         "Speed": "3",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click10.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click10.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click11",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "11",
         "Speed": "4",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click11.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click11.jpg"
       },
       {
         "name": "Venom Galactus (Cosmic Hunger)",
         "type": "Click12",
-        "size": "Card",
+        "size": "3x6",
         "Click Number": "12",
         "Speed": "5",
-        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click12.png"
+        "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.Click12.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Special Dial",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.png"
+    "image": "c5ab1d84-9c9b-42d1-9356-57f758af7208.jpg"
   },
   {
     "id": "aff9f677-9844-42fe-a169-35cc59aa962a",
@@ -893,7 +932,7 @@
     "Designer": "Official",
     "Type": "Map",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "aff9f677-9844-42fe-a169-35cc59aa962a.png"
+    "image": "aff9f677-9844-42fe-a169-35cc59aa962a.jpg"
   },
   {
     "id": "c5dfde6d-b760-4996-8c76-077b73dd1cf1",
@@ -906,7 +945,7 @@
     "Designer": "Official",
     "Type": "Map",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "c5dfde6d-b760-4996-8c76-077b73dd1cf1.png"
+    "image": "c5dfde6d-b760-4996-8c76-077b73dd1cf1.jpg"
   },
   {
     "id": "6bec083a-f0a4-4502-a606-77a82c73265a",
@@ -940,7 +979,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click1.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click1.jpg"
       },
       {
         "name": "Spider-Man",
@@ -955,7 +994,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click2.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click2.jpg"
       },
       {
         "name": "Spider-Man",
@@ -970,7 +1009,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click3.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click3.jpg"
       },
       {
         "name": "Spider-Man",
@@ -986,7 +1025,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click4.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click4.jpg"
       },
       {
         "name": "Spider-Man",
@@ -1001,7 +1040,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click5.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click5.jpg"
       },
       {
         "name": "Spider-Man",
@@ -1016,7 +1055,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click6.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click6.jpg"
       },
       {
         "name": "Spider-Man",
@@ -1031,7 +1070,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click7.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.Click7.jpg"
       },
       {
         "name": "Spider-Man",
@@ -1041,14 +1080,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.KO.png"
+        "image": "6bec083a-f0a4-4502-a606-77a82c73265a.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "6bec083a-f0a4-4502-a606-77a82c73265a.png"
+    "image": "6bec083a-f0a4-4502-a606-77a82c73265a.jpg"
   },
   {
     "id": "629eb893-3624-454c-89d7-5f6d6fb4d209",
@@ -1082,7 +1121,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click1.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click1.jpg"
       },
       {
         "name": "Thor",
@@ -1097,7 +1136,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click2.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click2.jpg"
       },
       {
         "name": "Thor",
@@ -1112,7 +1151,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click3.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click3.jpg"
       },
       {
         "name": "Thor",
@@ -1128,7 +1167,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click4.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click4.jpg"
       },
       {
         "name": "Thor",
@@ -1143,7 +1182,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click5.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click5.jpg"
       },
       {
         "name": "Thor",
@@ -1158,7 +1197,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - GOD SQUAD UNIT!",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click6.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click6.jpg"
       },
       {
         "name": "Thor",
@@ -1172,7 +1211,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click7.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click7.jpg"
       },
       {
         "name": "Thor",
@@ -1186,7 +1225,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click8.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.Click8.jpg"
       },
       {
         "name": "Thor",
@@ -1196,14 +1235,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.KO.png"
+        "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.png"
+    "image": "629eb893-3624-454c-89d7-5f6d6fb4d209.jpg"
   },
   {
     "id": "b542c3a6-9903-4f4f-a02c-0a210de9bda3",
@@ -1237,7 +1276,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click1.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click1.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1252,7 +1291,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click2.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click2.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1267,7 +1306,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Special - PARKER WAS HOLDING BACK...",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click3.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click3.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1282,7 +1321,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Special - PARKER WAS HOLDING BACK...",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click4.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click4.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1297,7 +1336,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Special - PARKER WAS HOLDING BACK...",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click5.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click5.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1312,7 +1351,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "2",
         "Damage Ability": "Special - PARKER WAS HOLDING BACK...",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click6.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click6.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1327,7 +1366,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click7.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.Click7.jpg"
       },
       {
         "name": "Superior Spider-Man",
@@ -1337,14 +1376,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.KO.png"
+        "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.png"
+    "image": "b542c3a6-9903-4f4f-a02c-0a210de9bda3.jpg"
   },
   {
     "id": "907e2a39-5185-49fa-92c3-0b64c3933e8b",
@@ -1379,7 +1418,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - INTIMIDATING PRESENCE",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click1.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click1.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1394,7 +1433,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - INTIMIDATING PRESENCE",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click2.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click2.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1409,7 +1448,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - INTIMIDATING PRESENCE",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click3.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click3.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1424,7 +1463,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click4.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click4.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1439,7 +1478,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click5.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click5.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1454,7 +1493,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click6.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click6.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1469,7 +1508,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click7.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click7.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1484,7 +1523,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Empower",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click8.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click8.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1499,7 +1538,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - INTIMIDATING PRESENCE",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click9.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click9.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1514,7 +1553,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - INTIMIDATING PRESENCE",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click10.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.Click10.jpg"
       },
       {
         "name": "Joe Fixit",
@@ -1524,14 +1563,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.KO.png"
+        "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.png"
+    "image": "907e2a39-5185-49fa-92c3-0b64c3933e8b.jpg"
   },
   {
     "id": "8179fc03-0592-4c6e-84f6-0bc835010fc9",
@@ -1565,7 +1604,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click1.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click1.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1580,7 +1619,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click2.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click2.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1595,7 +1634,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click3.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click3.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1611,7 +1650,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click4.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click4.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1626,7 +1665,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click5.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click5.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1641,7 +1680,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click6.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click6.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1656,7 +1695,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click7.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.Click7.jpg"
       },
       {
         "name": "Stilt-Man",
@@ -1666,14 +1705,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.KO.png"
+        "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.png"
+    "image": "8179fc03-0592-4c6e-84f6-0bc835010fc9.jpg"
   },
   {
     "id": "ffa15b04-f440-4d8a-a033-3223e62aac29",
@@ -1709,7 +1748,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click1.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click1.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1724,7 +1763,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click2.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click2.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1739,7 +1778,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click3.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click3.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1754,7 +1793,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click4.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click4.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1769,7 +1808,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click5.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click5.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1784,7 +1823,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click6.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click6.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1799,7 +1838,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Close Combat Expert",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click7.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click7.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1814,7 +1853,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Perplex",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click8.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click8.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1829,7 +1868,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Perplex",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click9.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click9.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1844,7 +1883,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Perplex",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click10.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click10.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1859,7 +1898,7 @@
         "Defense Ability": "Invincible",
         "Damage": "5",
         "Damage Ability": "Perplex",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click11.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.Click11.jpg"
       },
       {
         "name": "Phoenix Force Thor",
@@ -1869,14 +1908,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.KO.png"
+        "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.png"
+    "image": "ffa15b04-f440-4d8a-a033-3223e62aac29.jpg"
   },
   {
     "id": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7",
@@ -1910,7 +1949,7 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click1.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click1.jpg"
       },
       {
         "name": "Deadpool",
@@ -1925,7 +1964,7 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click2.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click2.jpg"
       },
       {
         "name": "Deadpool",
@@ -1940,7 +1979,7 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click3.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click3.jpg"
       },
       {
         "name": "Deadpool",
@@ -1955,7 +1994,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click4.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click4.jpg"
       },
       {
         "name": "Deadpool",
@@ -1970,7 +2009,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click5.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click5.jpg"
       },
       {
         "name": "Deadpool",
@@ -1985,7 +2024,7 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click6.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.Click6.jpg"
       },
       {
         "name": "Deadpool",
@@ -1995,14 +2034,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.KO.png"
+        "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.png"
+    "image": "7ed6c840-7a25-4515-88ff-dd63ba8d6da7.jpg"
   },
   {
     "id": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31",
@@ -2037,7 +2076,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click1.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click1.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2052,7 +2091,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click2.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click2.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2067,7 +2106,7 @@
         "Defense Ability": "Special - BURNING ANGER AND RAGE",
         "Damage": "4",
         "Damage Ability": "Outwit",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click3.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click3.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2082,7 +2121,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click4.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click4.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2097,7 +2136,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click5.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click5.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2112,7 +2151,7 @@
         "Defense Ability": "Special - BURNING ANGER AND RAGE",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click6.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.Click6.jpg"
       },
       {
         "name": "Phoenix Force",
@@ -2122,14 +2161,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.KO.png"
+        "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.png"
+    "image": "f856f8c4-bdbc-46c1-a01e-57e5b6befb31.jpg"
   },
   {
     "id": "5065e1e9-f3ba-486a-863c-715ee62ec527",
@@ -2146,7 +2185,7 @@
     "Designer": "Official",
     "Type": "Attachment",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "5065e1e9-f3ba-486a-863c-715ee62ec527.png"
+    "image": "5065e1e9-f3ba-486a-863c-715ee62ec527.jpg"
   },
   {
     "id": "88856edb-f5d1-46ae-a606-1ecd0bbec04c",
@@ -2180,7 +2219,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "1",
         "Damage Ability": "Special - ARMCHAIR THEORIZING",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click1.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click1.jpg"
       },
       {
         "name": "Deadpool",
@@ -2195,7 +2234,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "1",
         "Damage Ability": "Special - ARMCHAIR THEORIZING",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click2.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click2.jpg"
       },
       {
         "name": "Deadpool",
@@ -2210,7 +2249,7 @@
         "Defense Ability": "Super Senses",
         "Damage": "1",
         "Damage Ability": "Special - ARMCHAIR THEORIZING",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click3.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click3.jpg"
       },
       {
         "name": "Deadpool",
@@ -2225,7 +2264,7 @@
         "Defense Ability": "Special - UGH... YOU'RE MAKING ME GET UP?",
         "Damage": "3",
         "Damage Ability": "Probability Control",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click4.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click4.jpg"
       },
       {
         "name": "Deadpool",
@@ -2240,7 +2279,7 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click5.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click5.jpg"
       },
       {
         "name": "Deadpool",
@@ -2255,7 +2294,7 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click6.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.Click6.jpg"
       },
       {
         "name": "Deadpool",
@@ -2265,14 +2304,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.KO.png"
+        "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.png"
+    "image": "88856edb-f5d1-46ae-a606-1ecd0bbec04c.jpg"
   },
   {
     "id": "b87a5def-b349-4bef-82a6-45c9f67fc0e2",
@@ -2306,7 +2345,7 @@
         "Defense Ability": "Invincible",
         "Damage": "5",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click1.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click1.jpg"
       },
       {
         "name": "Infinaut",
@@ -2321,7 +2360,7 @@
         "Defense Ability": "Invincible",
         "Damage": "5",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click2.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click2.jpg"
       },
       {
         "name": "Infinaut",
@@ -2336,7 +2375,7 @@
         "Defense Ability": "Invincible",
         "Damage": "5",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click3.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click3.jpg"
       },
       {
         "name": "Infinaut",
@@ -2351,7 +2390,7 @@
         "Defense Ability": "Invincible",
         "Damage": "5",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click4.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click4.jpg"
       },
       {
         "name": "Infinaut",
@@ -2366,7 +2405,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click5.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click5.jpg"
       },
       {
         "name": "Infinaut",
@@ -2382,7 +2421,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click6.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click6.jpg"
       },
       {
         "name": "Infinaut",
@@ -2397,7 +2436,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click7.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click7.jpg"
       },
       {
         "name": "Infinaut",
@@ -2412,7 +2451,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click8.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click8.jpg"
       },
       {
         "name": "Infinaut",
@@ -2427,7 +2466,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click9.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click9.jpg"
       },
       {
         "name": "Infinaut",
@@ -2442,7 +2481,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click10.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click10.jpg"
       },
       {
         "name": "Infinaut",
@@ -2457,7 +2496,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - UNFATHOMABLY LARGE",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click11.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.Click11.jpg"
       },
       {
         "name": "Infinaut",
@@ -2467,14 +2506,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.KO.png"
+        "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.png"
+    "image": "b87a5def-b349-4bef-82a6-45c9f67fc0e2.jpg"
   },
   {
     "id": "34380240-833e-49bd-a198-a54b898059ea",
@@ -2508,7 +2547,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Battle Fury",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click1.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click1.jpg"
       },
       {
         "name": "Orka",
@@ -2523,7 +2562,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Battle Fury",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click2.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click2.jpg"
       },
       {
         "name": "Orka",
@@ -2539,7 +2578,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click3.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click3.jpg"
       },
       {
         "name": "Orka",
@@ -2554,7 +2593,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click4.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click4.jpg"
       },
       {
         "name": "Orka",
@@ -2569,7 +2608,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click5.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click5.jpg"
       },
       {
         "name": "Orka",
@@ -2584,7 +2623,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click6.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click6.jpg"
       },
       {
         "name": "Orka",
@@ -2598,7 +2637,7 @@
         "Defense": "18",
         "Defense Ability": "Toughness",
         "Damage": "3",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click7.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click7.jpg"
       },
       {
         "name": "Orka",
@@ -2612,7 +2651,7 @@
         "Defense": "18",
         "Defense Ability": "Toughness",
         "Damage": "2",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.Click8.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.Click8.jpg"
       },
       {
         "name": "Orka",
@@ -2622,14 +2661,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "34380240-833e-49bd-a198-a54b898059ea.KO.png"
+        "image": "34380240-833e-49bd-a198-a54b898059ea.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "34380240-833e-49bd-a198-a54b898059ea.png"
+    "image": "34380240-833e-49bd-a198-a54b898059ea.jpg"
   },
   {
     "id": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8",
@@ -2662,7 +2701,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click1.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click1.jpg"
       },
       {
         "name": "Prime Sentinel",
@@ -2677,7 +2716,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click2.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click2.jpg"
       },
       {
         "name": "Prime Sentinel",
@@ -2692,7 +2731,7 @@
         "Defense Ability": "Special - PRIME SENTINEL",
         "Damage": "3",
         "Damage Ability": "Special - CONVERTED CIVILIANS",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click3.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click3.jpg"
       },
       {
         "name": "Prime Sentinel",
@@ -2708,7 +2747,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Special - CONVERTED CIVILIANS",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click4.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click4.jpg"
       },
       {
         "name": "Prime Sentinel",
@@ -2723,7 +2762,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Special - CONVERTED CIVILIANS",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click5.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.Click5.jpg"
       },
       {
         "name": "Prime Sentinel",
@@ -2733,14 +2772,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.KO.png"
+        "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.png"
+    "image": "a8f12aff-b3f9-4f20-a1ad-8093aa9667a8.jpg"
   },
   {
     "id": "520e8c74-eb2f-4a4d-8011-ebc641f51610",
@@ -2774,7 +2813,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click1.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click1.jpg"
       },
       {
         "name": "Bastion",
@@ -2789,7 +2828,7 @@
         "Defense Ability": "Invincible",
         "Damage": "4",
         "Damage Ability": "Probability Control",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click2.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click2.jpg"
       },
       {
         "name": "Bastion",
@@ -2804,7 +2843,7 @@
         "Defense Ability": "Invincible",
         "Damage": "3",
         "Damage Ability": "Special - I EVOLVED",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click3.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click3.jpg"
       },
       {
         "name": "Bastion",
@@ -2819,7 +2858,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - I EVOLVED",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click4.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click4.jpg"
       },
       {
         "name": "Bastion",
@@ -2835,7 +2874,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - I EVOLVED",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click5.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click5.jpg"
       },
       {
         "name": "Bastion",
@@ -2850,7 +2889,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - I EVOLVED",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click6.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click6.jpg"
       },
       {
         "name": "Bastion",
@@ -2865,7 +2904,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click7.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click7.jpg"
       },
       {
         "name": "Bastion",
@@ -2880,7 +2919,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click8.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.Click8.jpg"
       },
       {
         "name": "Bastion",
@@ -2890,14 +2929,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.KO.png"
+        "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.png"
+    "image": "520e8c74-eb2f-4a4d-8011-ebc641f51610.jpg"
   },
   {
     "id": "300e8ca1-ddd9-44e8-b771-80d1978aeacd",
@@ -2929,7 +2968,7 @@
         "Defense": "19",
         "Defense Ability": "Invulnerability",
         "Damage": "3",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click1.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click1.jpg"
       },
       {
         "name": "Sentinel",
@@ -2943,7 +2982,7 @@
         "Defense": "19",
         "Defense Ability": "Invulnerability",
         "Damage": "3",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click2.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click2.jpg"
       },
       {
         "name": "Sentinel",
@@ -2958,7 +2997,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - SENTINEL DAMAGED",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click3.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click3.jpg"
       },
       {
         "name": "Sentinel",
@@ -2972,7 +3011,7 @@
         "Defense": "18",
         "Defense Ability": "Invulnerability",
         "Damage": "3",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click4.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click4.jpg"
       },
       {
         "name": "Sentinel",
@@ -2988,7 +3027,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click5.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click5.jpg"
       },
       {
         "name": "Sentinel",
@@ -3003,7 +3042,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click6.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click6.jpg"
       },
       {
         "name": "Sentinel",
@@ -3018,7 +3057,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - SENTINEL DAMAGED",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click7.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click7.jpg"
       },
       {
         "name": "Sentinel",
@@ -3033,7 +3072,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click8.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click8.jpg"
       },
       {
         "name": "Sentinel",
@@ -3048,7 +3087,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Enhancement",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click9.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click9.jpg"
       },
       {
         "name": "Sentinel",
@@ -3064,7 +3103,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Enhancement",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click10.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click10.jpg"
       },
       {
         "name": "Sentinel",
@@ -3079,7 +3118,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Special - SENTINEL DAMAGED",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click11.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click11.jpg"
       },
       {
         "name": "Sentinel",
@@ -3094,7 +3133,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Enhancement",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click12.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click12.jpg"
       },
       {
         "name": "Sentinel",
@@ -3109,7 +3148,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Enhancement",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click13.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click13.jpg"
       },
       {
         "name": "Sentinel",
@@ -3124,7 +3163,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Special - SENTINEL DAMAGED",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click14.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.Click14.jpg"
       },
       {
         "name": "Sentinel",
@@ -3134,14 +3173,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.KO.png"
+        "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.png"
+    "image": "300e8ca1-ddd9-44e8-b771-80d1978aeacd.jpg"
   },
   {
     "id": "40c7514b-2167-4aaa-add6-f2010245cfec",
@@ -3174,7 +3213,7 @@
         "Defense Ability": "Invincible",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click1.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click1.jpg"
       },
       {
         "name": "Sentinel",
@@ -3189,7 +3228,7 @@
         "Defense Ability": "Invincible",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click2.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click2.jpg"
       },
       {
         "name": "Sentinel",
@@ -3204,7 +3243,7 @@
         "Defense Ability": "Invincible",
         "Damage": "3",
         "Damage Ability": "Battle Fury",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click3.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click3.jpg"
       },
       {
         "name": "Sentinel",
@@ -3219,7 +3258,7 @@
         "Defense Ability": "Invincible",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click4.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click4.jpg"
       },
       {
         "name": "Sentinel",
@@ -3234,7 +3273,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click5.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click5.jpg"
       },
       {
         "name": "Sentinel",
@@ -3249,7 +3288,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Empower",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click6.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click6.jpg"
       },
       {
         "name": "Sentinel",
@@ -3264,7 +3303,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click7.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click7.jpg"
       },
       {
         "name": "Sentinel",
@@ -3280,7 +3319,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click8.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click8.jpg"
       },
       {
         "name": "Sentinel",
@@ -3295,7 +3334,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click9.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click9.jpg"
       },
       {
         "name": "Sentinel",
@@ -3310,7 +3349,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click10.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click10.jpg"
       },
       {
         "name": "Sentinel",
@@ -3324,7 +3363,7 @@
         "Defense": "18",
         "Defense Ability": "Toughness",
         "Damage": "3",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click11.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click11.jpg"
       },
       {
         "name": "Sentinel",
@@ -3338,7 +3377,7 @@
         "Defense": "18",
         "Defense Ability": "Toughness",
         "Damage": "3",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click12.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click12.jpg"
       },
       {
         "name": "Sentinel",
@@ -3354,7 +3393,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click13.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click13.jpg"
       },
       {
         "name": "Sentinel",
@@ -3369,7 +3408,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click14.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click14.jpg"
       },
       {
         "name": "Sentinel",
@@ -3384,7 +3423,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click15.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click15.jpg"
       },
       {
         "name": "Sentinel",
@@ -3399,7 +3438,7 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click16.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.Click16.jpg"
       },
       {
         "name": "Sentinel",
@@ -3409,14 +3448,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.KO.png"
+        "image": "40c7514b-2167-4aaa-add6-f2010245cfec.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "40c7514b-2167-4aaa-add6-f2010245cfec.png"
+    "image": "40c7514b-2167-4aaa-add6-f2010245cfec.jpg"
   },
   {
     "id": "c4a86494-2069-499f-bdfa-73108b6b4e63",
@@ -3451,7 +3490,7 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click1.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click1.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3466,7 +3505,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click2.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click2.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3481,7 +3520,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click3.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click3.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3496,7 +3535,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click4.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click4.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3511,7 +3550,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click5.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click5.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3526,7 +3565,7 @@
         "Defense Ability": "Special - DISCONCERTING, YET PROVOCATIVE",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click6.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click6.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3541,7 +3580,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "4",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click7.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click7.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3556,7 +3595,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "4",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click8.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click8.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3571,7 +3610,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click9.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click9.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3586,7 +3625,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click10.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click10.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3601,7 +3640,7 @@
         "Defense Ability": "Special - DISCONCERTING, YET PROVOCATIVE",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click11.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click11.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3617,7 +3656,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click12.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click12.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3632,7 +3671,7 @@
         "Defense Ability": "Impervious",
         "Damage": "3",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click13.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click13.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3647,7 +3686,7 @@
         "Defense Ability": "Impervious",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click14.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click14.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3662,7 +3701,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "2",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click15.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click15.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3677,7 +3716,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "3",
         "Damage Ability": "Perplex",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click16.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click16.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3692,7 +3731,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click17.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click17.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3707,7 +3746,7 @@
         "Defense Ability": "Invulnerability",
         "Damage": "2",
         "Damage Ability": "Outwit",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click18.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click18.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3722,7 +3761,7 @@
         "Defense Ability": "Special - DISCONCERTING, YET PROVOCATIVE",
         "Damage": "3",
         "Damage Ability": "Special - WELL, THE GREEKS DID LOVE HORSES. AND IRONY.",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click19.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.Click19.jpg"
       },
       {
         "name": "Sentinel (Beast)",
@@ -3732,14 +3771,14 @@
         "Attack": "KO",
         "Defense": "KO",
         "Damage": "KO",
-        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.KO.png"
+        "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.KO.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Character",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.png"
+    "image": "c4a86494-2069-499f-bdfa-73108b6b4e63.jpg"
   },
   {
     "id": "2494a4f1-9450-44a1-bc12-02ebc31feb7c",
@@ -3754,7 +3793,7 @@
     "Designer": "Official",
     "Type": "One Shot",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "2494a4f1-9450-44a1-bc12-02ebc31feb7c.png"
+    "image": "2494a4f1-9450-44a1-bc12-02ebc31feb7c.jpg"
   },
   {
     "id": "2c83c13e-8b1d-4312-b3f9-ce1043342dcb",
@@ -3769,7 +3808,7 @@
     "Designer": "Official",
     "Type": "One Shot",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "2c83c13e-8b1d-4312-b3f9-ce1043342dcb.png"
+    "image": "2c83c13e-8b1d-4312-b3f9-ce1043342dcb.jpg"
   },
   {
     "id": "12972119-9233-4e52-98aa-f83b34ba69dc",
@@ -3784,7 +3823,7 @@
     "Designer": "Official",
     "Type": "One Shot",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "12972119-9233-4e52-98aa-f83b34ba69dc.png"
+    "image": "12972119-9233-4e52-98aa-f83b34ba69dc.jpg"
   },
   {
     "id": "3c818af3-d007-4188-b0fa-76c18f728d73",
@@ -3799,7 +3838,7 @@
     "Designer": "Official",
     "Type": "One Shot",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "3c818af3-d007-4188-b0fa-76c18f728d73.png"
+    "image": "3c818af3-d007-4188-b0fa-76c18f728d73.jpg"
   },
   {
     "id": "6ac59adc-72ef-4ec0-90cd-c18cf47779ba",
@@ -3816,14 +3855,14 @@
         "name": "Sentinel Arms",
         "type": "Tile",
         "size": "1x2",
-        "image": "6ac59adc-72ef-4ec0-90cd-c18cf47779ba.Tile.png"
+        "image": "6ac59adc-72ef-4ec0-90cd-c18cf47779ba.Tile.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "6ac59adc-72ef-4ec0-90cd-c18cf47779ba.png"
+    "image": "6ac59adc-72ef-4ec0-90cd-c18cf47779ba.jpg"
   },
   {
     "id": "c8b5768a-68dd-4a4c-a664-17e15eb8bc25",
@@ -3840,14 +3879,14 @@
         "name": "Lower Body",
         "type": "Tile",
         "size": "1x2",
-        "image": "c8b5768a-68dd-4a4c-a664-17e15eb8bc25.Tile.png"
+        "image": "c8b5768a-68dd-4a4c-a664-17e15eb8bc25.Tile.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "c8b5768a-68dd-4a4c-a664-17e15eb8bc25.png"
+    "image": "c8b5768a-68dd-4a4c-a664-17e15eb8bc25.jpg"
   },
   {
     "id": "9a818279-fedd-4dbe-af43-2bad10206f75",
@@ -3864,14 +3903,14 @@
         "name": "Upper Body",
         "type": "Tile",
         "size": "2x2",
-        "image": "9a818279-fedd-4dbe-af43-2bad10206f75.Tile.png"
+        "image": "9a818279-fedd-4dbe-af43-2bad10206f75.Tile.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "9a818279-fedd-4dbe-af43-2bad10206f75.png"
+    "image": "9a818279-fedd-4dbe-af43-2bad10206f75.jpg"
   },
   {
     "id": "dbd203e5-f894-4687-a1af-4641e906a37a",
@@ -3888,13 +3927,13 @@
         "name": "Head",
         "type": "Tile",
         "size": "1x1",
-        "image": "dbd203e5-f894-4687-a1af-4641e906a37a.Tile.png"
+        "image": "dbd203e5-f894-4687-a1af-4641e906a37a.Tile.jpg"
       }
     ],
     "Set": "WizKids Marvel 2025",
     "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "dc3ab9f5-a070-4c6a-896e-d7f1d23c562b",
-    "image": "dbd203e5-f894-4687-a1af-4641e906a37a.png"
+    "image": "dbd203e5-f894-4687-a1af-4641e906a37a.jpg"
   }
 ]
