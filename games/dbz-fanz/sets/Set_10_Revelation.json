@@ -1741,7 +1741,7 @@
     "Endurance": "1",
     "Text": "[DEFENSE]: Stops a physical attack. \nYour next physical attack this combat cannot be stopped by Event cards and deals +2 stages of damage.",
     "Traits": "",
-    "Limit": "",
+    "Limit": "3",
     "PUR": "",
     "Power Rating": "",
     "Rarity": "Uncommon",

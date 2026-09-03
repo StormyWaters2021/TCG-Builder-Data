@@ -3672,7 +3672,7 @@
     "Endurance": "",
     "Text": "POWER: Your MP loses 4 stages. Your attacks deal +3 life cards of damage this combat.",
     "Traits": "",
-    "Limit": "",
+    "Limit": "3",
     "PUR": "",
     "Power Rating": "",
     "Rarity": "Promo",
