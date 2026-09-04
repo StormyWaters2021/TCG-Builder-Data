@@ -963,7 +963,7 @@
   },
   {
     "name": "Android Reformation Drill",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR37",
     "Type": "Drill",
     "Endurance": "",
@@ -989,7 +989,7 @@
   },
   {
     "name": "Divine Instincts",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR38",
     "Type": "Event",
     "Endurance": "",
@@ -1015,7 +1015,7 @@
   },
   {
     "name": "Devastating Assault",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR39",
     "Type": "Physical Combat",
     "Endurance": "2",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Otherworldly Grasp",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR40",
     "Type": "Physical Combat",
     "Endurance": "",
@@ -1067,7 +1067,7 @@
   },
   {
     "name": "Unorthodox Onslaught",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR41",
     "Type": "Physical Combat",
     "Endurance": "",
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "Assisted Galick Gun",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR42",
     "Type": "Energy Combat",
     "Endurance": "",
@@ -1119,7 +1119,7 @@
   },
   {
     "name": "Skillful Deflection",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR43",
     "Type": "Energy Combat",
     "Endurance": "3",
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "Unpredictable Volley",
-    "Style": "Non-styled",
+    "Style": "Non-Styled",
     "Card Number": "UR44",
     "Type": "Energy Combat",
     "Endurance": "1",
