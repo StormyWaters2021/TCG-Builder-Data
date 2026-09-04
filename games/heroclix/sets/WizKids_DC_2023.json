@@ -427,7 +427,7 @@
   {
     "id": "ffc10fd7-c629-4c50-a8a2-4706be48e05d",
     "name": "Superman Proxy",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23D23-003bt",
     "Collector Number": "D23-003bt",
     "Unit Type": "Bystander",
@@ -1918,7 +1918,7 @@
   {
     "id": "6c5b1711-241f-446d-855a-446d9e2b80a5",
     "name": "Ace",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23DC23-b001",
     "Collector Number": "DC23-b001",
     "Unit Type": "Bystander",
@@ -1954,7 +1954,7 @@
   {
     "id": "3e349d03-6405-4fb9-a0da-ba47c2af090a",
     "name": "Ten",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23DC23-b002",
     "Collector Number": "DC23-b002",
     "Unit Type": "Bystander",
@@ -1992,7 +1992,7 @@
   {
     "id": "530076a5-53a4-4b05-9a38-301d4b686162",
     "name": "Jack",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23DC23-b003",
     "Collector Number": "DC23-b003",
     "Unit Type": "Bystander",
@@ -2029,7 +2029,7 @@
   {
     "id": "e0ee51ad-69ee-4b27-b6d0-01de8c038f46",
     "name": "Queen",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23DC23-b004",
     "Collector Number": "DC23-b004",
     "Unit Type": "Bystander",
@@ -2066,7 +2066,7 @@
   {
     "id": "ba76632e-b305-4246-8725-ec2b48676dd7",
     "name": "King",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd23DC23-b005",
     "Collector Number": "DC23-b005",
     "Unit Type": "Bystander",

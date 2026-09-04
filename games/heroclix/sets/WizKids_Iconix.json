@@ -1263,7 +1263,7 @@
   {
     "id": "73f4eb1a-38bb-42d9-b052-d706aabdc96b",
     "name": "Moriarty Henchman",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wicnWKX-005bt",
     "Collector Number": "WKX-005bt",
     "Unit Type": "Bystander",
@@ -1427,7 +1427,7 @@
   {
     "id": "1b805207-34dc-4a26-aae4-0879588f615b",
     "name": "Adler Disguise",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wicnWKX-006bt",
     "Collector Number": "WKX-006bt",
     "Unit Type": "Bystander",

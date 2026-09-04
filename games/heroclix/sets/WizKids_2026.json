@@ -735,6 +735,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT:Powers: IncapacitateIncapacitate. If this character can already use Incapacitate, when they use it all opposing characters adjacent to an original target also become targets.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Snowballs",
+        "image": "40cc0ab6-3bfa-4f7f-97fa-05866b659e4c.Tile.png"
+      }
+    ],
     "Set": "WizKids 2026",
     "Designer": "Official",
     "Type": "Equipment",

@@ -1154,6 +1154,14 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECT:Powers: Force Blast, Close Combat ExpertGiant Reach: 3. [it:destroy_blocking,characters,elevated], but only for close attacks. // Force Blast. Close Combat Expert, but only when attacking a character at least 3 squares away.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Kinetic Hammer",
+        "image": "4c96e486-6a92-4b1f-a9ef-2d1295dfa5ec.Tile.png"
+      }
+    ],
     "Set": "WizKids DC 2026",
     "Designer": "Official",
     "Type": "Equipment",

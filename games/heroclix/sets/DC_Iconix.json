@@ -130,7 +130,7 @@
   {
     "id": "cf0e60fc-2bdf-4a23-bfa2-1acebf944827",
     "name": "Alfred Pennyworth",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicn001bta",
     "Collector Number": "001bta",
     "Unit Type": "Bystander",
@@ -165,7 +165,7 @@
   {
     "id": "73ba99a4-bb23-4f43-b8ef-68d9e2b48fac",
     "name": "Nightwing",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicn001btb",
     "Collector Number": "001btb",
     "Unit Type": "Bystander",
@@ -200,7 +200,7 @@
   {
     "id": "c2feefa0-319f-4374-be6b-4697f467b4d6",
     "name": "Oracle",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicn001btc",
     "Collector Number": "001btc",
     "Unit Type": "Bystander",
@@ -235,7 +235,7 @@
   {
     "id": "a5b97369-5da9-42f2-b726-86c1dfb19160",
     "name": "Robin",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicn001btd",
     "Collector Number": "001btd",
     "Unit Type": "Bystander",
@@ -2675,6 +2675,14 @@
     "Rarity": "Special Edition",
     "Point Values": "25",
     "Traits and Special Powers": "EFFECTPowers: Willpower[ta:cosmic_energy]. If this character already has [ta:cosmic_energy] printed on its base, when they use Willpower they succeed on a [d:3]-[d:6].",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Dream's Helm",
+        "image": "1fb4d829-7f89-4ea1-b2e9-2cdb102991b3.Tile.png"
+      }
+    ],
     "Set": "DC Iconix",
     "Designer": "Official",
     "Type": "Equipment",
@@ -2691,6 +2699,14 @@
     "Rarity": "Special Edition",
     "Point Values": "15",
     "Traits and Special Powers": "EFFECTPowers: IncapacitateThis character gains an extra [cs:bolt]. // Incapacitate. If this character can already use Incapacitate, when they use it, after resolutions heal this character 1 click for each hit character.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Pouch of Sand",
+        "image": "d62c1722-2fef-491a-bada-707a660c32e1.Tile.png"
+      }
+    ],
     "Set": "DC Iconix",
     "Designer": "Official",
     "Type": "Equipment",
@@ -2707,6 +2723,14 @@
     "Rarity": "Special Edition",
     "Point Values": "15",
     "Traits and Special Powers": "EFFECTPowers: Barrier, Shape ChangeBarrier, Shape Change. If this character can already use Shape Change, when they use it and succeed, after resolutions deal the attacker damage equal to the attacker's printed damage value.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Dream Ruby",
+        "image": "b83eded5-e19d-4a03-b4e1-8aedd2cffee6.Tile.png"
+      }
+    ],
     "Set": "DC Iconix",
     "Designer": "Official",
     "Type": "Equipment",
@@ -3735,7 +3759,7 @@
   {
     "id": "cb8e6855-12f2-4299-8427-9b786f272b43",
     "name": "Butterfly Swarm",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicnDCX-024bt",
     "Collector Number": "DCX-024bt",
     "Unit Type": "Bystander",
@@ -4715,7 +4739,7 @@
   {
     "id": "574f17dc-66f0-4d69-93f9-9897d245763d",
     "name": "Robin",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "dicnDCX-031bt",
     "Collector Number": "DCX-031bt",
     "Unit Type": "Bystander",
@@ -5814,6 +5838,14 @@
     "Rarity": "Special Edition",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Invulnerability, Sidestep, Pulse Wave, PoisonFREE: Roll a d6. The equipped character can use the resulting effect until your next turn.[d:1] Screwdriver: Invulnerability.[d:2] Anti-Gravity: [cs:wing], Sidestep.[d:3] X-Ray Vision: [it:hindering,destroy_blocking].[d:4] Sonic Boom: KNOCKBACK. Pulse Wave.[d:5] Scabies For All: Poison, and they deal penetrating damage when they use it.[d:6]: Choose any other result.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Peacemaker's Helmet",
+        "image": "a59c63d7-1348-4deb-b000-cc6256705ffc.Tile.png"
+      }
+    ],
     "Set": "DC Iconix",
     "Designer": "Official",
     "Type": "Equipment",

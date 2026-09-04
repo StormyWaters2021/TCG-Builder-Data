@@ -4978,6 +4978,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Rare",
     "Traits and Special Powers": "EFFECTPowers: Shape ChangeShape Change. When this character uses it and fails, after resolutions heal them 1 click and destroy Symbiote Prototype.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Symbiote Prototype",
+        "image": "18729ce0-1e50-493b-b68b-ce5fd81c9dd9.Tile.png"
+      }
+    ],
     "Set": "Venom",
     "Designer": "Official",
     "Type": "Equipment",
@@ -5147,6 +5155,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECT:When this character hits, choose one:*Destroy all equipment equipped to a hit character.*Choose an opposing character adjacent to a hit character. That character also becomes a hit target of the attack (Both hit characters are dealt damage).",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Venom's Axe",
+        "image": "19ad9eb3-3197-4699-9ca2-89be0a7415db.Tile.png"
+      }
+    ],
     "Set": "Venom",
     "Designer": "Official",
     "Type": "Equipment",
@@ -5163,6 +5179,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECT:Powers: Battle FuryBattle Fury, Giant Reach: 3. // When this character attacks, before rolling you may choose that results of [d:1] in the attack roll are [d:6] instead. If you do and the attack is a critical hit, after resolutions remove this equipment from the game.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "All-Blood the Necrospear",
+        "image": "f7a3a964-3c6b-4ece-bcc0-33b12d0dcb09.Tile.png"
+      }
+    ],
     "Set": "Venom",
     "Designer": "Official",
     "Type": "Equipment",

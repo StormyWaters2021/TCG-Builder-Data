@@ -9343,6 +9343,14 @@
     "Rarity": "Super Rare",
     "Point Values": "20",
     "Traits and Special Powers": "EFFECTPowers: Quake, Pulse WaveGiant Reach: 3, [it:characters]. Quake, Pulse Wave. // If this character has one of Mjolnir's Qualifying Names, Mjolnir can't be unequipped, destroyed, or removed from the game by opposing effects.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Mjolnir",
+        "image": "9211d9e4-80f9-4ce3-a1ab-769966acefc0.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9359,6 +9367,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Super Strength[im:destroy_blocking], Super Strength, SAFEGUARD: Mind Control.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Crimson Gem",
+        "image": "dbef4b65-f52f-48a7-8bf9-edc289fed217.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9375,6 +9391,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Close Combat ExpertClose Combat Expert, KNOCKBACK. // When this character knocks back any opposing characters, any knockback damage dealt is penetrating.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Stormbreaker",
+        "image": "6fdf1e4d-ef80-4347-a819-6a3fe6b02fed.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9391,6 +9415,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Blades Claws Fangs, Energy Explosion, Pulse Wave, Quake, Super Strength, Incapacitate, Penetrating Psychic Blast, Smoke Cloud, Precision Strike, Poison, Steal Energy, TelekinesisAt the beginning of your turn, choose a standard attack power to use until your next turn.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Universal Weapon",
+        "image": "338cbff4-3435-4fd9-9d23-63b25fc243c4.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9407,6 +9439,14 @@
     "Rarity": "Super Rare",
     "Point Values": "20",
     "Traits and Special Powers": "EFFECTWhen this equipment is equipped, generate a Yaka Arrow marker. When this equipment is unequipped, remove that marker from the game. // FREE: Place the Yaka Arrow marker up to 4 squares away from its current square, on a direct line from its current square. Deal 1 penetrating damage to an opposing character on that direct line between those squares.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Yaka Arrow",
+        "image": "2e6b5c14-1f69-436b-a753-f0c6ff18ba42.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9423,6 +9463,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Probability ControlWhen equipped, place the Cosmic Cube in the circle on the back of this card with the arrow indicator pointing to the effect of your choice. // FREE: Roll a d6. Turn the Cosmic Cube clockwise a number of effects equal to half the result. Until your next turn, the equipped character can use the listed effect: *FREE: Place an adjacent character up to 4 squares away from their current square. *FREE: Generate a blocking terrain marker, or remove a non-debris terrain marker within 4 squares. *Opposing characters within 4 squares can't use the EFFECT of equipment. *Probability Control.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Cosmic Cube",
+        "image": "30cfeae7-a962-48c3-bd75-cb46841d4c00.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9439,6 +9487,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: RegenerationRegeneration. // When an opposing character would heal, instead they heal 1 click less.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Bloodstone",
+        "image": "6809039c-abcd-46c6-b2fb-d4afa6a06106.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9455,6 +9511,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Mind Control, WillpowerMind Control, Willpower. When this character uses Mind Control, a hit character may be given a CLOSE or RANGE as FREE instead of making an attack.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Serpent Crown",
+        "image": "291a4136-b451-40c2-9798-ec12e28b3d5a.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9496,6 +9560,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT[cs:wing], Speed +1.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Flying Carpet",
+        "image": "c3fb9471-4dc7-4827-977d-f6dbf719082f.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9512,6 +9584,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: Toughness[cs:wing], Toughness.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Etherion Armor",
+        "image": "5a082bed-edef-43ab-bd4a-9d3d421ab8fc.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9528,6 +9608,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: Energy ExplosionEnergy Explosion.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Vandarian Wand",
+        "image": "f9fd1741-91b9-4197-8ef1-3a50dc2673e8.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9544,6 +9632,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT[it:hindering]. Minimum Range 4.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Cosmic Viewer",
+        "image": "ecccccaa-78ca-455b-8409-9df1c51c6a4f.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9560,6 +9656,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: Shape ChangeShape Change.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Biogram Image",
+        "image": "a6816ce1-db29-4aed-a82a-3d7b123c8dc2.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9576,6 +9680,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT[ta:team_player].",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Kymellien Flute",
+        "image": "3e00a0be-d902-4f54-959f-db8da6f86dd1.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9592,6 +9704,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: Energy Shield DeflectionEnergy Shield/Deflection.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Captain America's Shield",
+        "image": "17349369-32ac-4f93-a4ce-6353a5f6bb4e.Tile.png"
+      }
+    ],
     "Set": "Collector's Trove",
     "Designer": "Official",
     "Type": "Equipment",

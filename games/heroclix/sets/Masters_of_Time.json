@@ -701,6 +701,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityA force may only contain one Trick Arrow equipment. Once per game when this is equipped, place up to three Trick Arrow cards face down (you may look at them). // Once per turn when this character hits, you may flip over a face down Trick Arrow card and perform its ON REVEAL effect.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Trick Arrow",
+        "image": "a237e703-fd4e-4996-9eff-fbd2f3847407.Tile.png"
+      }
+    ],
     "Set": "Masters of Time",
     "Designer": "Official",
     "Type": "Equipment",
@@ -9199,7 +9207,7 @@
   {
     "id": "ef2b08f2-7bff-49d8-81eb-c49d3261a886",
     "name": "Richard",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "mot057bta",
     "Collector Number": "057bta",
     "Unit Type": "Bystander",
@@ -9237,7 +9245,7 @@
   {
     "id": "9ce84be8-723e-47ca-810a-75df783486c2",
     "name": "Timothy",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "mot057btb",
     "Collector Number": "057btb",
     "Unit Type": "Bystander",
@@ -9275,7 +9283,7 @@
   {
     "id": "0e4a4435-d379-4992-b294-a7d6d7ad33de",
     "name": "Cassandra",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "mot057btc",
     "Collector Number": "057btc",
     "Unit Type": "Bystander",
@@ -13747,7 +13755,7 @@
   {
     "id": "5f7ef50a-8c81-4e9f-973e-f4ef6a651dd2",
     "name": "Matilda",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "mot074bt",
     "Collector Number": "074bt",
     "Unit Type": "Bystander",
@@ -15445,7 +15453,7 @@
   {
     "id": "84a2332f-1602-4573-9b60-7372ad632724",
     "name": "Starrophyte",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "motLG001bt",
     "Collector Number": "LG001bt",
     "Unit Type": "Bystander",

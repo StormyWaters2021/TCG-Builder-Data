@@ -2024,7 +2024,7 @@
   {
     "id": "233fe07b-0329-4f17-bfe4-7ba7c6b049a7",
     "name": "Dolphin",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd24DCD24-003bt",
     "Collector Number": "DCD24-003bt",
     "Unit Type": "Bystander",
@@ -6043,6 +6043,14 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Blades Claws FangsBlades/Claws/Fangs. If this character has the Green Lantern Corps keyword, they may use Blades/Claws/Fangs during range attacks. // Modify this character's defense +1.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Broadsword Construct",
+        "image": "a7794ff7-195b-4d9e-8cd2-7cbc8c30138e.Tile.png"
+      }
+    ],
     "Set": "WizKids DC 2024",
     "Designer": "Official",
     "Type": "Equipment",
@@ -6059,6 +6067,14 @@
     "Rarity": "Super Rare",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: PoisonPoison. // Opposing characters within 4 squares that have [cs:dolphin] have [cs:boot] instead.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Joker Fish",
+        "image": "8b4f0c7c-3220-4ca8-8777-fee7c82ca4ac.Tile.png"
+      }
+    ],
     "Set": "WizKids DC 2024",
     "Designer": "Official",
     "Type": "Equipment",
@@ -6068,7 +6084,7 @@
   {
     "id": "b4fa53f9-19b0-4ea6-a234-3a4c44ddd4e8",
     "name": "Trophy Construct (Green)",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkd24DCP24-s003",
     "Collector Number": "DCP24-s003",
     "Unit Type": "Bystander",

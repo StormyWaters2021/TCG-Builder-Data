@@ -590,7 +590,7 @@
   {
     "id": "6d4695c7-f5ee-4a29-ad8a-6598140782b0",
     "name": "Test Subject",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkm23003bt",
     "Collector Number": "003bt",
     "Unit Type": "Bystander",
@@ -1414,7 +1414,7 @@
   {
     "id": "0f0dfb54-5df0-4e62-934f-fc1a89c8f5b8",
     "name": "Kate Bishop",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkm23M23-002bt",
     "Collector Number": "M23-002bt",
     "Unit Type": "Bystander",
@@ -1950,7 +1950,7 @@
   {
     "id": "3a5886f7-0b0b-4cc1-bb87-443f1a2220de",
     "name": "Symbiote",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkm23M23-005bt",
     "Collector Number": "M23-005bt",
     "Unit Type": "Bystander",

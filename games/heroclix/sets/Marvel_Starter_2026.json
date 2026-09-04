@@ -1250,7 +1250,7 @@
   {
     "id": "4f583469-2574-4263-9863-8c9fccfd6948",
     "name": "Civilian",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "m26b001",
     "Collector Number": "b001",
     "Unit Type": "Bystander",
@@ -1282,7 +1282,7 @@
   {
     "id": "e3ec4fc9-e060-4c9c-981f-318d01d748c1",
     "name": "Prime Sentinel",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "m26b002",
     "Collector Number": "b002",
     "Unit Type": "Bystander",
@@ -1316,7 +1316,7 @@
   {
     "id": "7aece751-ae33-48f8-b395-042ff7e2f985",
     "name": "Sentinel",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "m26b003",
     "Collector Number": "b003",
     "Unit Type": "Bystander",
@@ -1350,7 +1350,7 @@
   {
     "id": "8327672b-3b83-44f0-9309-7dd3670f3e9a",
     "name": "Training Dummy",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "m26b004",
     "Collector Number": "b004",
     "Unit Type": "Bystander",
@@ -1384,7 +1384,7 @@
   {
     "id": "9aa07590-993f-4d8b-8e18-702f23b8855a",
     "name": "Evil Training Dummy",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "m26b005",
     "Collector Number": "b005",
     "Unit Type": "Bystander",

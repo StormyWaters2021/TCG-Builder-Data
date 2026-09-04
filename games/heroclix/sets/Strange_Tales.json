@@ -3173,6 +3173,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTWhen this character is given a MOVE, POWER, or FREE action, after resolutions deal this character 1 penetrating damage.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Shanzar",
+        "image": "ea0855b6-b1ca-4263-8720-e7f275d55026.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",
@@ -3190,6 +3198,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTWhen this character deals damage, they deal half as much damage to themselves (rounded up).",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Nightmare",
+        "image": "18587343-4083-4637-a5dd-876295628b0c.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",
@@ -3207,6 +3223,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTThis character can't make range attacks or use Improved Abilities.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Jericho Drumm",
+        "image": "f9c05fdd-cd10-4302-9719-6215b1bdc7a0.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",
@@ -11394,6 +11418,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Agamotto's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Agamotto's Avatar. // When Agamotto's Avatar uses Outwit or Probability Control, they may do so regardless of line of fire. // When Agamotto's Avatar is KO'd, remove Agamotto from the game.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Agamotto",
+        "image": "7affc7f5-8770-4111-91e6-456e3a3c386a.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",
@@ -11411,6 +11443,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Oshtur's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Oshtur's Avatar. // When Oshtur's Avatar uses Perplex or Probability Control, after resolutions you may heal the target 1 click. // When Oshtur's Avatar is KO'd, remove Oshtur from the game.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Oshtur",
+        "image": "ea94e4a1-170a-4c0a-9b9b-5fe6b514a564.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",
@@ -11428,6 +11468,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Hoggoth's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Hoggoth's Avatar. If Hoggoth's Avatar can use Outwit or Perplex, they can use that power twice a turn. // When Hoggoth's Avatar is KO'd, remove Hoggoth from the game.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Hoggoth",
+        "image": "5fee3a24-6a1f-4a55-b272-2d6d7b03c520.Tile.png"
+      }
+    ],
     "Set": "Strange Tales",
     "Designer": "Official",
     "Type": "Attachment",

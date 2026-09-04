@@ -6,14 +6,17 @@
     "Unit ID": "roc25M001",
     "Collector Number": "M001",
     "Unit Type": "Map",
+    "alternates": [
+      {
+        "name": "Sailor's Dream",
+        "type": "Image",
+        "size": "16x16",
+        "image": "8dc93f6b-e37c-4fd7-ba3d-76c666640ab3.Image.png"
+      }
+    ],
     "Set": "ROC 2025",
     "Designer": "Official",
     "Type": "Map",
-	"alternates": [
-      {
-        "name": "Sailor's Dream",
-        "image": "8dc93f6b-e37c-4fd7-ba3d-76c666640ab3.Image.png"
-      }],
     "set_id": "d1d11d1f-d489-4f7c-a9f7-37c0ca2f4301",
     "image": "8dc93f6b-e37c-4fd7-ba3d-76c666640ab3.png"
   },
@@ -24,14 +27,17 @@
     "Unit ID": "roc25M002",
     "Collector Number": "M002",
     "Unit Type": "Map",
+    "alternates": [
+      {
+        "name": "Alien Aquarium",
+        "type": "Image",
+        "size": "16x16",
+        "image": "8b9b0718-faa8-4cf9-a1bb-4158fa235885.Image.png"
+      }
+    ],
     "Set": "ROC 2025",
     "Designer": "Official",
     "Type": "Map",
-	"alternates": [
-      {
-        "name": "Alien Aquarium",
-        "image": "8b9b0718-faa8-4cf9-a1bb-4158fa235885.Image.png"
-      }],
     "set_id": "d1d11d1f-d489-4f7c-a9f7-37c0ca2f4301",
     "image": "8b9b0718-faa8-4cf9-a1bb-4158fa235885.png"
   },
@@ -56,14 +62,17 @@
     "Unit ID": "roc25M004",
     "Collector Number": "M004",
     "Unit Type": "Map",
+    "alternates": [
+      {
+        "name": "Phoenix Nest Headquarters",
+        "type": "Image",
+        "size": "16x16",
+        "image": "74a06c45-a18d-4254-bfc3-8ad080cddd40.Image.png"
+      }
+    ],
     "Set": "ROC 2025",
     "Designer": "Official",
     "Type": "Map",
-	"alternates": [
-      {
-        "name": "Phoenix Nest Headquarters",
-        "image": "74a06c45-a18d-4254-bfc3-8ad080cddd40.Image.png"
-      }],
     "set_id": "d1d11d1f-d489-4f7c-a9f7-37c0ca2f4301",
     "image": "74a06c45-a18d-4254-bfc3-8ad080cddd40.png"
   },
@@ -74,14 +83,17 @@
     "Unit ID": "roc25M008",
     "Collector Number": "M004",
     "Unit Type": "Map",
+    "alternates": [
+      {
+        "name": "The Holidays at Phoenix Nest Headquarters",
+        "type": "Image",
+        "size": "16x16",
+        "image": "3632d157-a6cc-4c58-9f08-0c801caad868.Image.png"
+      }
+    ],
     "Set": "ROC 2025",
     "Designer": "Official",
     "Type": "Map",
-	"alternates": [
-      {
-        "name": "The Holidays at Phoenix Nest Headquarters",
-        "image": "3632d157-a6cc-4c58-9f08-0c801caad868.Image.png"
-      }],
     "set_id": "d1d11d1f-d489-4f7c-a9f7-37c0ca2f4301",
     "image": "3632d157-a6cc-4c58-9f08-0c801caad868.png"
   },
@@ -92,14 +104,17 @@
     "Unit ID": "roc25M005",
     "Collector Number": "M005",
     "Unit Type": "Map",
+    "alternates": [
+      {
+        "name": "Sailor's Dream (Fall)",
+        "type": "Image",
+        "size": "16x16",
+        "image": "5bdded98-40a2-4322-a673-36209eb9f64b.Image.png"
+      }
+    ],
     "Set": "ROC 2025",
     "Designer": "Official",
     "Type": "Map",
-	"alternates": [
-      {
-        "name": "Sailor's Dream (Fall)",
-        "image": "5bdded98-40a2-4322-a673-36209eb9f64b.Image.png"
-      }],
     "set_id": "d1d11d1f-d489-4f7c-a9f7-37c0ca2f4301",
     "image": "5bdded98-40a2-4322-a673-36209eb9f64b.png"
   },

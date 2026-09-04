@@ -936,7 +936,7 @@
   {
     "id": "78afe0ce-5bdb-4b1c-911e-b485deddf51b",
     "name": "Multiple Man",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkm24MVHR24-002bt",
     "Collector Number": "MVHR24-002bt",
     "Unit Type": "Bystander",
@@ -2276,7 +2276,7 @@
   {
     "id": "7ab98471-78b4-4297-a911-fe1ca9114410",
     "name": "Brood",
-    "size": "1x1",
+    "size": "Card",
     "Unit ID": "wkm24MVP24-010bt",
     "Collector Number": "MVP24-010bt",
     "Unit Type": "Bystander",
@@ -3702,6 +3702,14 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Traits and Special Powers": "EFFECTWhen this character KO's an opposing character, score an additional 5 Victory Points.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Trophy",
+        "image": "21cd5515-6aa9-4ff7-b35f-dc5ca9ea31c6.Tile.png"
+      }
+    ],
     "Set": "WizKids Marvel 2024",
     "Designer": "Official",
     "Type": "Equipment",

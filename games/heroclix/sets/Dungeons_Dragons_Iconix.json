@@ -763,6 +763,14 @@
     "Rarity": "Special Edition",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTWhen this character picks up an object you may place it on Bag of Holding's card. // POWER: Place an object on Bag of Holding's card into an adjacent square. // FREE: Choose an EFFECT from an object on Bag of Holding's card for this character to use until they choose again.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Bag of Holding",
+        "image": "d5df87ce-5cd5-42e3-9fca-bf7379cf4714.Tile.png"
+      }
+    ],
     "Set": "Dungeons & Dragons Iconix",
     "Designer": "Official",
     "Type": "Equipment",
@@ -779,6 +787,14 @@
     "Rarity": "Special Edition",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Close Combat Expert, Blades Claws FangsClose Combat Expert. // Blades/Claws/Fangs. When this character uses it, increase damage dealt by +1.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "+1 Longsword",
+        "image": "9ea8f320-996b-4220-a258-117b958bca0c.Tile.png"
+      }
+    ],
     "Set": "Dungeons & Dragons Iconix",
     "Designer": "Official",
     "Type": "Equipment",
@@ -795,6 +811,14 @@
     "Rarity": "Special Edition",
     "Point Values": "10",
     "Traits and Special Powers": "EFFECTPowers: Telekinesis, PerplexTelekinesis as FREE, but only to place terrain markers. // Perplex, but only to target a character adjacent to a terrain marker this character placed this turn regardless of range and line of fire.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Ring of Telekinesis",
+        "image": "83650560-2bda-4e44-aef4-ece0c1f2333b.Tile.png"
+      }
+    ],
     "Set": "Dungeons & Dragons Iconix",
     "Designer": "Official",
     "Type": "Equipment",

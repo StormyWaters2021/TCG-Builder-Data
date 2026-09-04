@@ -5817,6 +5817,14 @@
     "Unit Type": "Attachment",
     "Rarity": "Super Rare",
     "Traits and Special Powers": "[Trait] SPOT'S SPOTFriendly characters named The Spot treat characters occupying or adjacent to this marker as adjacent when making close attacks. // When a friendly character named The Spot would move, before moving they may place themselves and the Spot marker in each other's squares.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Spot's Spot",
+        "image": "2ffdf6fc-0363-4b63-a450-2faa8b3598af.Tile.png"
+      }
+    ],
     "Set": "Spider-Verse",
     "Designer": "Official",
     "Type": "Attachment",
@@ -7213,6 +7221,14 @@
     "Rarity": "Super Rare",
     "Point Values": "5",
     "Traits and Special Powers": "[Trait] IT'S AN HOMAGE!During force construction, you may add 5 points to Lady Stilt-Man's cost as many times as you choose. For each time you choose to do so, at the beginning of the game, give Lady Stilt-Man a Leg Extension. // Lady Stilt-Man can use the following effects based on the number of Leg Extensions she has:*1-2: [cs:giant] *3-4: [cs:colossal] *5+: [cs:colossal], Giant Reach: 4, and modify her combat values +1.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Lady Stilt-Man (Leg Extension)",
+        "image": "ae2d773b-5479-4f1f-9416-80361e6f2a2e.Tile.png"
+      }
+    ],
     "Set": "Spider-Verse",
     "Designer": "Official",
     "Type": "Attachment",
@@ -7676,6 +7692,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Chase",
     "Traits and Special Powers": "EFFECTPowers: Perplex[ta:cosmic_energy], Perplex.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Infinity Gauntlet",
+        "image": "bc89434a-cb70-400d-81a0-023a061c648e.Tile.png"
+      }
+    ],
     "Set": "Spider-Verse",
     "Designer": "Official",
     "Type": "Equipment",

@@ -11933,6 +11933,14 @@
     "Rarity": "Super Rare",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT:Giant Reach: 2. [it:destroy_blocking], but instead only during close attacks.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Wrecking Ball",
+        "image": "4c22149d-5eb8-436e-8a70-cd8121b87005.Tile.png"
+      }
+    ],
     "Set": "Smash and Destroy",
     "Designer": "Official",
     "Type": "Equipment",

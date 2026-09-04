@@ -1580,6 +1580,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Common",
     "Traits and Special Powers": "EFFECTDefense +1",
+    "alternates": [
+      {
+        "name": "Vibranium Armor",
+        "type": "Tile",
+        "size": "1x1",
+        "image": "b91f7155-66e2-461c-8355-5e9a8a970fb0.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Equipment",
@@ -3449,6 +3457,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Common",
     "Traits and Special Powers": "EFFECTDefense +1",
+    "alternates": [
+      {
+        "name": "Vibranium Armor",
+        "type": "Tile",
+        "size": "1x1",
+        "image": "1f2482a2-dea0-4af4-a888-cc59d8322e63.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Equipment",
@@ -3464,6 +3480,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Common",
     "Traits and Special Powers": "EFFECTDamage +1",
+    "alternates": [
+      {
+        "name": "Vibranium Weapon",
+        "type": "Tile",
+        "size": "1x1",
+        "image": "fc44a00e-6713-4a0d-975b-f994a5959495.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Equipment",
@@ -4001,6 +4025,14 @@
     "Keywords": "Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries",
     "Keywords Search": "| Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries |",
     "Traits and Special Powers": "[Trait] REMOTE DRONE PILOTINGDuring force construction, you may add 5 points to Col. James Rhode's cost up to 6 times. For each time you choose to do so, add a War Machine Drone bystander to your starting force. // Leadership. When Col. James Rhodes uses it and succeeds, after resolutions generate a War Machine Drone bystander [MAX 6].",
+    "alternates": [
+      {
+        "name": "Col. James Rhodes (War Machine Drone)",
+        "type": "Tile",
+        "size": "1x1",
+        "image": "d3ca0cfb-a2c8-448e-addc-3bce5711b7d3.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Attachment",
@@ -6000,6 +6032,14 @@
     "Unit Type": "Equipment",
     "Rarity": "Common",
     "Traits and Special Powers": "EFFECTDamage +1",
+    "alternates": [
+      {
+        "name": "Vibranium Weapon",
+        "type": "Tile",
+        "size": "1x1",
+        "image": "a01b1cc8-a89c-4871-a157-34a52c8b3bb2.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Equipment",
@@ -7792,6 +7832,14 @@
     "Properties": "Unique",
     "Point Values": "10",
     "Traits and Special Powers": "[Trait] AVATAR OF BASTPowers: Outwit, WillpowerSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Bast's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Bast's Avatar can use Outwit and Willpower and also scores the points paid with this trait when they are KO'd.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Avatar of Bast",
+        "image": "21892283-f77c-4206-8dc9-e2df2c96bdfb.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Attachment",
@@ -8012,6 +8060,14 @@
     "Rarity": "Chase",
     "Properties": "Unique",
     "Traits and Special Powers": "[Trait] MOTHER NATURESIDELINE ACTIVE - During force construction, you may choose a character with the Animal or Asgardian keyword to be Gaea's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game lines of fire drawn to that character are hindered, and that character has \"At the beginning of your turn, heal this character 1 click. // When this character clears action tokens, if they're not named Gaea, deal them 2 unavoidable damage.\"[Trait] ELDER GOD: FONT OF CREATIONSIDELINE ACTIVE - When the character chosen for Mother Nature is KO'd, you may immediately generate Gaea from your Sideline or KO area on click #1 in the square that character last occupied. If you do, this game at the end of each of your turns deal all friendly characters 3 unavoidable damage.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Avatar of Gaea",
+        "image": "0750d3d6-b69c-40b1-bfdf-b0c28d4042ca.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Attachment",
@@ -8231,6 +8287,14 @@
     "Rarity": "Chase",
     "Properties": "Unique",
     "Traits and Special Powers": "[Trait] EMPOWERING THE SUN KINGSIDELINE ACTIVE - During force construction, you may choose a character with the Martial Artist or Warrior keyword to be Atum's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game the chosen character deals penetrating damage and has a minimum range of 6. When that character attacks, if they're not named Atum, after resolutions deal them 1 unavoidable damage.[Trait] ELDER GOD: THE DEMOGORGESIDELINE ACTIVE - When the character chosen for Empowering the Sun King is KO'd, you may immediately generate Atum from your Sideline or KO area on click #1 in the square that character last occupied. If you do, at the end of your next turn remove Atum from the game without scoring him, then KO a friendly character of your opponent's choice.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Avatar of Atum",
+        "image": "59af8a08-7668-4acf-b9af-b17fd4592a92.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Attachment",
@@ -11964,6 +12028,14 @@
     "Rarity": "Super Rare",
     "Point Values": "10",
     "Traits and Special Powers": "[Trait] AVATAR OF SETHPowers: PoisonSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Seth's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Seth's Avatar can use Poison and [ta:mystics] and also scores the points paid with this trait when they are KO'd.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Avatar of Seth",
+        "image": "11e9a635-fc8f-4da9-9c16-29f85a0f2fbc.Tile.png"
+      }
+    ],
     "Set": "Black Panther",
     "Designer": "Official",
     "Type": "Attachment",

@@ -6344,6 +6344,14 @@
     "Rarity": "Special Edition",
     "Point Values": "10",
     "Traits and Special Powers": "Unnamed AbilityA force may only contain one Trick Arrow equipment. Once per game when this is equipped, place up to three Trick Arrow cards face down (you may look at them). // Once per turn when this character hits, you may flip over a face down Trick Arrow card and perform its ON REVEAL effect.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Trick Arrow",
+        "image": "aff4f319-8ae2-4a35-acb9-85762a5418b9.Tile.png"
+      }
+    ],
     "Set": "Marvel Iconix",
     "Designer": "Official",
     "Type": "Equipment",

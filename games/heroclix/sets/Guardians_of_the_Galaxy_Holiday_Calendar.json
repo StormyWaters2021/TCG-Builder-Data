@@ -1397,6 +1397,14 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECTPowers: Close Combat Expert, Super SensesClose Combat Expert. Super Senses, but only succeeds on [d:6].",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Bucky's Arm",
+        "image": "6b53d04e-6702-49f2-8e5c-199699187373.Tile.png"
+      }
+    ],
     "Set": "Guardians of the Galaxy Holiday Calendar",
     "Designer": "Official",
     "Type": "Equipment",

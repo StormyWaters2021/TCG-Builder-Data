@@ -1048,6 +1048,14 @@
     "Rarity": "Super Rare",
     "Point Values": "5",
     "Traits and Special Powers": "EFFECT:[cs:wing], [ta:legion_of_super_heroes]. // If the equipped character has [ta:legion_of_super_heroes] printed on their base, modify their attack and defense +1.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Legion Flight Ring",
+        "image": "40aabfe6-3b34-4dc4-be07-023e7c4c2716.Tile.png"
+      }
+    ],
     "Set": "WizKids DC 2025",
     "Designer": "Official",
     "Type": "Equipment",
@@ -1064,6 +1072,14 @@
     "Rarity": "Super Rare",
     "Point Values": "20",
     "Traits and Special Powers": "EFFECT:When this character would be KO'd, instead turn them to any click they could have been on this game and give them a Reanimate token. If you do they gain Immune until your next turn and this game they have \"immediately when this character takes damage, or when they can't use the EFFECT of a DCP25-s002 Black Lantern Ring while nothing is resolving, remove this character and any DCP25-s002 Black Lantern Rings equipped to them from the game.\" Protected: Pulse Wave.",
+    "alternates": [
+      {
+        "type": "Tile",
+        "size": "1x1",
+        "name": "Black Lantern Ring",
+        "image": "4e80f850-2f2a-460a-a19b-f2a721c60ad6.Tile.png"
+      }
+    ],
     "Set": "WizKids DC 2025",
     "Designer": "Official",
     "Type": "Equipment",
