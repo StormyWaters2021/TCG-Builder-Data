@@ -3,7 +3,7 @@
     "id": "4b7d1876-78dc-44b8-b139-8bea58f8cfcf",
     "name": "Betelgeuse",
     "size": "Card",
-    "Unit ID": "wbicnWBX1-001",
+    "Unit ID": "wbxWBX1-001",
     "Collector Number": "WBX1-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -135,7 +135,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "4b7d1876-78dc-44b8-b139-8bea58f8cfcf.png"
@@ -144,7 +143,7 @@
     "id": "ad818e3e-618b-42a9-a7df-4b2d607a5881",
     "name": "Lion-O",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-001",
+    "Unit ID": "wbxWBX3-001",
     "Collector Number": "WBX3-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -305,7 +304,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "ad818e3e-618b-42a9-a7df-4b2d607a5881.png"
@@ -314,7 +312,7 @@
     "id": "bcbcc3ed-422a-4717-84eb-f649b59e2223",
     "name": "Cheetara",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-002",
+    "Unit ID": "wbxWBX3-002",
     "Collector Number": "WBX3-002",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -476,7 +474,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "bcbcc3ed-422a-4717-84eb-f649b59e2223.png"
@@ -485,7 +482,7 @@
     "id": "e40e3d29-bc31-41ad-bb25-ab55bfe0b7da",
     "name": "Tygra",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-003",
+    "Unit ID": "wbxWBX3-003",
     "Collector Number": "WBX3-003",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -647,7 +644,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "e40e3d29-bc31-41ad-bb25-ab55bfe0b7da.png"
@@ -656,7 +652,7 @@
     "id": "ccb75662-ebc4-4a9b-aa0c-230f1031ed51",
     "name": "Panthro",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-004",
+    "Unit ID": "wbxWBX3-004",
     "Collector Number": "WBX3-004",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -817,7 +813,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "ccb75662-ebc4-4a9b-aa0c-230f1031ed51.png"
@@ -826,7 +821,7 @@
     "id": "904f13b1-4bfb-4a83-b713-907d6b2a2588",
     "name": "Mumm-Ra",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-005",
+    "Unit ID": "wbxWBX3-005",
     "Collector Number": "WBX3-005",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1020,7 +1015,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "904f13b1-4bfb-4a83-b713-907d6b2a2588.png"
@@ -1029,7 +1023,7 @@
     "id": "28a68d27-b0ab-4df2-a85b-6015d6f7ef51",
     "name": "Mutant",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-005bt",
+    "Unit ID": "wbxWBX3-005bt",
     "Collector Number": "WBX3-005bt",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1054,7 +1048,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "28a68d27-b0ab-4df2-a85b-6015d6f7ef51.png"
@@ -1063,7 +1056,7 @@
     "id": "deaa55ed-09ef-4ee6-b782-6b85d010613c",
     "name": "Wilykit",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-b001",
+    "Unit ID": "wbxWBX3-b001",
     "Collector Number": "WBX3-b001",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1091,7 +1084,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "deaa55ed-09ef-4ee6-b782-6b85d010613c.png"
@@ -1100,7 +1092,7 @@
     "id": "34a64572-4344-41d5-96ea-af89531efd7c",
     "name": "Wilykat",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-b002",
+    "Unit ID": "wbxWBX3-b002",
     "Collector Number": "WBX3-b002",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1128,7 +1120,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "34a64572-4344-41d5-96ea-af89531efd7c.png"
@@ -1137,7 +1128,7 @@
     "id": "71d42d55-37bc-48df-8c83-9dd2a7f54d00",
     "name": "Snarf",
     "size": "Card",
-    "Unit ID": "wbicnWBX3-b003",
+    "Unit ID": "wbxWBX3-b003",
     "Collector Number": "WBX3-b003",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1165,7 +1156,6 @@
       }
     ],
     "Set": "Warner Bros. Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "21f56675-6a05-4227-ac5d-2a94040084a5",
     "image": "71d42d55-37bc-48df-8c83-9dd2a7f54d00.png"

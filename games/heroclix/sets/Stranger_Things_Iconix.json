@@ -3,7 +3,7 @@
     "id": "a12f56c7-5c42-423a-875a-0b3c634109a2",
     "name": "Will",
     "size": "Card",
-    "Unit ID": "sticnNSTX-001",
+    "Unit ID": "nstxNSTX-001",
     "Collector Number": "NSTX-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -122,7 +122,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "a12f56c7-5c42-423a-875a-0b3c634109a2.png"
@@ -131,7 +130,7 @@
     "id": "71f12ba2-3436-4142-9601-3e60790f7bbf",
     "name": "Mike",
     "size": "Card",
-    "Unit ID": "sticnNSTX-002",
+    "Unit ID": "nstxNSTX-002",
     "Collector Number": "NSTX-002",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -246,7 +245,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "71f12ba2-3436-4142-9601-3e60790f7bbf.png"
@@ -255,7 +253,7 @@
     "id": "b8717fcf-37ce-4b6d-be18-e1ad8772ef28",
     "name": "Dustin",
     "size": "Card",
-    "Unit ID": "sticnNSTX-003",
+    "Unit ID": "nstxNSTX-003",
     "Collector Number": "NSTX-003",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -371,7 +369,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "b8717fcf-37ce-4b6d-be18-e1ad8772ef28.png"
@@ -380,7 +377,7 @@
     "id": "8f15ce24-71ef-40d8-bccd-fb60ac9093c6",
     "name": "Lucas",
     "size": "Card",
-    "Unit ID": "sticnNSTX-004",
+    "Unit ID": "nstxNSTX-004",
     "Collector Number": "NSTX-004",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -496,7 +493,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "8f15ce24-71ef-40d8-bccd-fb60ac9093c6.png"
@@ -505,7 +501,7 @@
     "id": "3e46a4dc-7b9f-4a64-95e2-4d8f54b7b5b7",
     "name": "Hopper",
     "size": "Card",
-    "Unit ID": "sticnNSTX-005",
+    "Unit ID": "nstxNSTX-005",
     "Collector Number": "NSTX-005",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -638,7 +634,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "3e46a4dc-7b9f-4a64-95e2-4d8f54b7b5b7.png"
@@ -647,7 +642,7 @@
     "id": "2ccd1ff9-69ec-476c-af6f-9c0e0c35ff19",
     "name": "Demogorgon",
     "size": "Card",
-    "Unit ID": "sticnNSTX-006",
+    "Unit ID": "nstxNSTX-006",
     "Collector Number": "NSTX-006",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -826,7 +821,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "2ccd1ff9-69ec-476c-af6f-9c0e0c35ff19.png"
@@ -835,7 +829,7 @@
     "id": "22e1d320-a643-459d-a357-bbc32925c0b4",
     "name": "Eleven",
     "size": "Card",
-    "Unit ID": "sticnNSTX-011",
+    "Unit ID": "nstxNSTX-011",
     "Collector Number": "NSTX-011",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -984,7 +978,6 @@
       }
     ],
     "Set": "Stranger Things Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "10cc964a-17ee-4509-99f1-f9a0c0048ad0",
     "image": "22e1d320-a643-459d-a357-bbc32925c0b4.png"

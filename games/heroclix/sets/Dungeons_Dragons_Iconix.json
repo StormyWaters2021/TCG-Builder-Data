@@ -3,7 +3,7 @@
     "id": "bc12e696-77cd-4d2b-93f3-11c5f7426469",
     "name": "Beholder",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-001",
+    "Unit ID": "dndxDNDX-001",
     "Collector Number": "DNDX-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -196,7 +196,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "bc12e696-77cd-4d2b-93f3-11c5f7426469.png"
@@ -205,7 +204,7 @@
     "id": "8d7e72f0-ae8e-43b5-b78d-ed70cba394ce",
     "name": "Displacer Beast",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-002",
+    "Unit ID": "dndxDNDX-002",
     "Collector Number": "DNDX-002",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -382,7 +381,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "8d7e72f0-ae8e-43b5-b78d-ed70cba394ce.png"
@@ -391,7 +389,7 @@
     "id": "14649138-47bc-4043-8f32-34189a84f226",
     "name": "Mimic",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-003",
+    "Unit ID": "dndxDNDX-003",
     "Collector Number": "DNDX-003",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -462,7 +460,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "14649138-47bc-4043-8f32-34189a84f226.png"
@@ -471,7 +468,7 @@
     "id": "5817b2c6-d0a2-401f-add8-5a700f694cb3",
     "name": "Owlbear",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-004",
+    "Unit ID": "dndxDNDX-004",
     "Collector Number": "DNDX-004",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -628,7 +625,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "5817b2c6-d0a2-401f-add8-5a700f694cb3.png"
@@ -637,7 +633,7 @@
     "id": "fb2d9c81-828f-4cba-a456-83c05fc4ccb6",
     "name": "Baby Owlbear",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-005",
+    "Unit ID": "dndxDNDX-005",
     "Collector Number": "DNDX-005",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -723,7 +719,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "fb2d9c81-828f-4cba-a456-83c05fc4ccb6.png"
@@ -732,7 +727,7 @@
     "id": "23365a2b-0c45-4ebc-96af-d5f23c0e9847",
     "name": "Treasure Chest",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-s001",
+    "Unit ID": "dndxDNDX-s001",
     "Collector Number": "DNDX-s001",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -748,7 +743,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "23365a2b-0c45-4ebc-96af-d5f23c0e9847.png"
@@ -757,7 +751,7 @@
     "id": "d5df87ce-5cd5-42e3-9fca-bf7379cf4714",
     "name": "Bag of Holding",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-s002",
+    "Unit ID": "dndxDNDX-s002",
     "Collector Number": "DNDX-s002",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -772,7 +766,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "d5df87ce-5cd5-42e3-9fca-bf7379cf4714.png"
@@ -781,7 +774,7 @@
     "id": "9ea8f320-996b-4220-a258-117b958bca0c",
     "name": "+1 Longsword",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-s003",
+    "Unit ID": "dndxDNDX-s003",
     "Collector Number": "DNDX-s003",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -796,7 +789,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "9ea8f320-996b-4220-a258-117b958bca0c.png"
@@ -805,7 +797,7 @@
     "id": "83650560-2bda-4e44-aef4-ece0c1f2333b",
     "name": "Ring of Telekinesis",
     "size": "Card",
-    "Unit ID": "dndicnDNDX-s004",
+    "Unit ID": "dndxDNDX-s004",
     "Collector Number": "DNDX-s004",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -820,7 +812,6 @@
       }
     ],
     "Set": "Dungeons & Dragons Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "87b7e45e-2d9f-4bae-914d-dcff7770400f",
     "image": "83650560-2bda-4e44-aef4-ece0c1f2333b.png"

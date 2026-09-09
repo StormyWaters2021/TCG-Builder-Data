@@ -3,7 +3,7 @@
     "id": "c3438861-8af1-496d-9d97-5fbf599d2a29",
     "name": "Hercules",
     "size": "Card",
-    "Unit ID": "wicnWKX4-008",
+    "Unit ID": "wkxWKX4-008",
     "Collector Number": "WKX4-008",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -187,7 +187,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "c3438861-8af1-496d-9d97-5fbf599d2a29.png"
@@ -196,7 +195,7 @@
     "id": "9c342b25-e6b9-496c-a787-b0664ec18587",
     "name": "Lernaean Hydra",
     "size": "Card",
-    "Unit ID": "wicnWKX4-009",
+    "Unit ID": "wkxWKX4-009",
     "Collector Number": "WKX4-009",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -391,7 +390,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "9c342b25-e6b9-496c-a787-b0664ec18587.png"
@@ -400,7 +398,7 @@
     "id": "a070542a-22b0-4bf4-a069-a055f72444df",
     "name": "Kong",
     "size": "Card",
-    "Unit ID": "wicnWKX-001",
+    "Unit ID": "wkxWKX-001",
     "Collector Number": "WKX-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -743,7 +741,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "a070542a-22b0-4bf4-a069-a055f72444df.png"
@@ -752,7 +749,7 @@
     "id": "b32b42f8-098c-4800-83e4-65975f4e3d31",
     "name": "Sherlock Holmes",
     "size": "Card",
-    "Unit ID": "wicnWKX-002",
+    "Unit ID": "wkxWKX-002",
     "Collector Number": "WKX-002",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -881,7 +878,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "b32b42f8-098c-4800-83e4-65975f4e3d31.png"
@@ -890,7 +886,7 @@
     "id": "23554ea7-1e00-4651-817d-15c36615ca16",
     "name": "Sherlock Holmes",
     "size": "Card",
-    "Unit ID": "wicnWKX-003",
+    "Unit ID": "wkxWKX-003",
     "Collector Number": "WKX-003",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1022,7 +1018,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "23554ea7-1e00-4651-817d-15c36615ca16.png"
@@ -1031,7 +1026,7 @@
     "id": "a18d06fd-ac93-4a44-8be2-e681dca17db4",
     "name": "Dr. Watson",
     "size": "Card",
-    "Unit ID": "wicnWKX-004",
+    "Unit ID": "wkxWKX-004",
     "Collector Number": "WKX-004",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1159,7 +1154,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "a18d06fd-ac93-4a44-8be2-e681dca17db4.png"
@@ -1168,7 +1162,7 @@
     "id": "ca83cf57-6935-4335-afc1-cdae19e8234a",
     "name": "Professor Moriarty",
     "size": "Card",
-    "Unit ID": "wicnWKX-005",
+    "Unit ID": "wkxWKX-005",
     "Collector Number": "WKX-005",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1255,7 +1249,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "ca83cf57-6935-4335-afc1-cdae19e8234a.png"
@@ -1264,7 +1257,7 @@
     "id": "73f4eb1a-38bb-42d9-b052-d706aabdc96b",
     "name": "Moriarty Henchman",
     "size": "Card",
-    "Unit ID": "wicnWKX-005bt",
+    "Unit ID": "wkxWKX-005bt",
     "Collector Number": "WKX-005bt",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1295,7 +1288,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "73f4eb1a-38bb-42d9-b052-d706aabdc96b.png"
@@ -1304,7 +1296,7 @@
     "id": "d124fc4a-196f-4c1f-9c28-5adf8bd32e97",
     "name": "Irene Adler",
     "size": "Card",
-    "Unit ID": "wicnWKX-006",
+    "Unit ID": "wkxWKX-006",
     "Collector Number": "WKX-006",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1419,7 +1411,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "d124fc4a-196f-4c1f-9c28-5adf8bd32e97.png"
@@ -1428,7 +1419,7 @@
     "id": "1b805207-34dc-4a26-aae4-0879588f615b",
     "name": "Adler Disguise",
     "size": "Card",
-    "Unit ID": "wicnWKX-006bt",
+    "Unit ID": "wkxWKX-006bt",
     "Collector Number": "WKX-006bt",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -1452,7 +1443,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "1b805207-34dc-4a26-aae4-0879588f615b.png"
@@ -1461,7 +1451,7 @@
     "id": "2a77a805-eb33-4680-9ca3-9a0898a4fb84",
     "name": "Hound of the Baskervilles",
     "size": "Card",
-    "Unit ID": "wicnWKX-007",
+    "Unit ID": "wkxWKX-007",
     "Collector Number": "WKX-007",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
@@ -1606,7 +1596,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "2a77a805-eb33-4680-9ca3-9a0898a4fb84.png"
@@ -1615,7 +1604,7 @@
     "id": "2edb2f7b-240b-4a6d-84e2-08b04af38a0a",
     "name": "Case: The Adventure of the Speckled Band",
     "size": "Card",
-    "Unit ID": "wicnWKX-M001",
+    "Unit ID": "wkxWKX-M001",
     "Collector Number": "WKX-M001",
     "Unit Type": "Mystery Card",
     "Rarity": "Special Edition",
@@ -1623,7 +1612,6 @@
     "Keywords Search": "| Past | Detective |",
     "Traits and Special Powers": "CLUE EFFECT: ElementaryWhen a friendly character with a listed keyword uses Outwit to target an opposing character, after resolutions gain 1 Clue token.SUSPECT (3)Friendly characters can use Stealth.EVIDENCE (8)Friendly characters can use Poison.CASE CLOSED (12)When friendly characters use Poison, they deal penetrating damage.",
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Mystery Card",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "2edb2f7b-240b-4a6d-84e2-08b04af38a0a.png"
@@ -1632,7 +1620,7 @@
     "id": "3b4af8fd-e6ca-4fe7-b9e2-f8e8cde37f3d",
     "name": "Banana Pile",
     "size": "Card",
-    "Unit ID": "wicnWKX-TM001",
+    "Unit ID": "wkxWKX-TM001",
     "Collector Number": "WKX-TM001",
     "Unit Type": "Terrain Marker",
     "Point Values": "0",
@@ -1647,7 +1635,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "3b4af8fd-e6ca-4fe7-b9e2-f8e8cde37f3d.png"
@@ -1656,7 +1643,7 @@
     "id": "b8f1c795-2076-426c-92c9-a0c7a1e1f1fb",
     "name": "Crushed Giant Bug",
     "size": "Card",
-    "Unit ID": "wicnWKX-TM002",
+    "Unit ID": "wkxWKX-TM002",
     "Collector Number": "WKX-TM002",
     "Unit Type": "Terrain Marker",
     "Point Values": "0",
@@ -1671,7 +1658,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "b8f1c795-2076-426c-92c9-a0c7a1e1f1fb.png"
@@ -1680,7 +1666,7 @@
     "id": "4c5679a9-c038-4c29-b56a-dcefafca52c7",
     "name": "Twisted Metal",
     "size": "Card",
-    "Unit ID": "wicnWKX-TM003",
+    "Unit ID": "wkxWKX-TM003",
     "Collector Number": "WKX-TM003",
     "Unit Type": "Terrain Marker",
     "Point Values": "0",
@@ -1695,7 +1681,6 @@
       }
     ],
     "Set": "WizKids Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "1d77bcc4-e85f-4ab9-aeac-a437b6ba2064",
     "image": "4c5679a9-c038-4c29-b56a-dcefafca52c7.png"

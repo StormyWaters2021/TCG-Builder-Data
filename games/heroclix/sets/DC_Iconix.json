@@ -3,21 +3,21 @@
     "id": "d241c83d-e22a-4d78-b9d1-b1d4ac1596c1",
     "name": "Batman",
     "size": "Card",
-    "Unit ID": "dicn001",
+    "Unit ID": "dcx001",
     "Collector Number": "001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Martial Artist | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] THE BATTLE FOR GOTHAM'S SOULWhen an opposing character that can't use [ta:batman_ally] heals, after resolutions you may heal Batman 1 click. This trait can be used while Batman is off the map. // When Batman would be KO'd except by this trait, instead turn him to click #8 and place him on this card. // At the beginning of your turn if Batman is on this card and no other friendly characters have [ta:batman_ally], KO him. Otherwise, if he's not on a KO click, you may place him adjacent to a friendly character that has [ta:batman_ally]. Protected: Pulse Wave.[Trait] LET'S GET TO WORKPowers: Leadership, PerplexLeadership, Perplex. When Batman uses Leadership and succeeds, he may also generate a bystander on this card into a square within range. // The bystanders on this card have [MAX 1].[Damage] VITAL STRIKEBatman's close attacks deal penetrating damage and can't be evaded.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -122,7 +122,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d241c83d-e22a-4d78-b9d1-b1d4ac1596c1.png"
@@ -131,7 +130,7 @@
     "id": "cf0e60fc-2bdf-4a23-bfa2-1acebf944827",
     "name": "Alfred Pennyworth",
     "size": "Card",
-    "Unit ID": "dicn001bta",
+    "Unit ID": "dcx001bta",
     "Collector Number": "001bta",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -157,7 +156,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "cf0e60fc-2bdf-4a23-bfa2-1acebf944827.png"
@@ -166,7 +164,7 @@
     "id": "73ba99a4-bb23-4f43-b8ef-68d9e2b48fac",
     "name": "Nightwing",
     "size": "Card",
-    "Unit ID": "dicn001btb",
+    "Unit ID": "dcx001btb",
     "Collector Number": "001btb",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -192,7 +190,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "73ba99a4-bb23-4f43-b8ef-68d9e2b48fac.png"
@@ -201,7 +198,7 @@
     "id": "c2feefa0-319f-4374-be6b-4697f467b4d6",
     "name": "Oracle",
     "size": "Card",
-    "Unit ID": "dicn001btc",
+    "Unit ID": "dcx001btc",
     "Collector Number": "001btc",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -227,7 +224,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "c2feefa0-319f-4374-be6b-4697f467b4d6.png"
@@ -236,7 +232,7 @@
     "id": "a5b97369-5da9-42f2-b726-86c1dfb19160",
     "name": "Robin",
     "size": "Card",
-    "Unit ID": "dicn001btd",
+    "Unit ID": "dcx001btd",
     "Collector Number": "001btd",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -262,7 +258,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "a5b97369-5da9-42f2-b726-86c1dfb19160.png"
@@ -271,19 +266,19 @@
     "id": "d20b1723-b056-48d0-af42-4fbb28f30479",
     "name": "Bane",
     "size": "Card",
-    "Unit ID": "dicn002",
+    "Unit ID": "dcx002",
     "Collector Number": "002",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "75",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Brute | Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Brute | Arkham Asylum | Gotham City Underworld |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VENOM INJECTIONBane begins the game on click #7. // FREE: Roll a d6 and heal Bane equal to the result. If the result was [d:3]-[d:6], give Bane an Overdose token. Bane may heal past his starting line this way. // At the end of your turn, deal Bane 1 unavoidable damage for each Overdose token he has.[Trait] I WILL BREAK HIMPowers: Combat Reflexes, WillpowerCombat Reflexes, Willpower. // When Bane KO's an opposing character or succeeds a Willpower roll, remove an Overdose token from him.[Damage] WEAR DOWN THE BATPowers: OutwitOutwit. When Bane uses it, he may draw line of fire and count range from the square of a friendly character that shares a keyword with him.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Brute | Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Bane",
@@ -449,7 +444,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d20b1723-b056-48d0-af42-4fbb28f30479.png"
@@ -458,19 +452,19 @@
     "id": "94108f9e-2fe9-4cf7-b2ad-3b3f9324755e",
     "name": "Azrael",
     "size": "Card",
-    "Unit ID": "dicn003",
+    "Unit ID": "dcx003",
     "Collector Number": "003",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "65",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Keywords": "Armor | Assassin | Batman Family | Gotham City | Gotham City Underworld | Mystical",
-    "Keywords Search": "| Armor | Assassin | Batman Family | Gotham City | Gotham City Underworld | Mystical |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TERRORIZING GOTHAMPowers: SidestepSidestep. // Opposing characters with the highest point value on their force can't draw lines of fire to Azrael. (If multiple opposing characters are tied for the highest point value, none of them can draw line of fire to Azrael.)[Trait] THE SYSTEM OR BATMAN'S MORALS?Powers: WillpowerWillpower. When Azrael uses it and succeeds, choose one to last until he chooses again: *Damage he deals can't be reduced below 1. *When he attacks, after resolutions heal him 1 click for each hit character.[Attack] WREATHED IN FLAMEPowers: Smoke CloudSmoke Cloud. Smoke Cloud as FREE, but only to generate 2 markers. // At the end of your turn, deal 1 damage to each opposing character occupying a terrain marker generated by Azrael.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
+    "Keywords Search": "| Armor | Assassin | Batman Family | Gotham City | Gotham City Underworld | Mystical |",
     "alternates": [
       {
         "name": "Azrael",
@@ -590,7 +584,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "94108f9e-2fe9-4cf7-b2ad-3b3f9324755e.png"
@@ -599,21 +592,21 @@
     "id": "e9ec6956-678b-4a67-a34e-3125167373e2",
     "name": "Batman",
     "size": "Card",
-    "Unit ID": "dicn004",
+    "Unit ID": "dcx004",
     "Collector Number": "004",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique",
     "Point Values": "55",
     "Team Abilities": "Batman Ally | Superman Enemy",
-    "Team Abilities Search": "| Batman Ally | Superman Enemy |",
     "Keywords": "Batman Family | Gotham City | Martial Artist | Detective | Superman Revenge Squad",
-    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective | Superman Revenge Squad |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Move Through",
     "Traits and Special Powers": "[Trait] INTERRUPTING SLAPOnce per turn when an adjacent opposing character is given an action you may immediately roll a d6. [d:4]-[d:6]: That action has no effect and after resolutions deal that character 1 damage.[Trait] PRETENDING TO BE SUPERMAN'S FRIENDPowers: Shape ChangeShape Change.[Attack] POWERFUL SLAPFREE: Knock back an adjacent opposing character or an adjacent friendly character with the Batman Family keyword. Friendly characters knocked back this way don't take knockback damage.",
+    "Team Abilities Search": "| Batman Ally | Superman Enemy |",
+    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective | Superman Revenge Squad |",
     "alternates": [
       {
         "name": "Batman",
@@ -718,7 +711,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "e9ec6956-678b-4a67-a34e-3125167373e2.png"
@@ -727,21 +719,21 @@
     "id": "98f80ae8-eed2-4318-82c1-90dbb4899ee5",
     "name": "Robin",
     "size": "Card",
-    "Unit ID": "dicn005",
+    "Unit ID": "dcx005",
     "Collector Number": "005",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "45",
     "Team Abilities": "Team Player | Batman Ally",
-    "Team Abilities Search": "| Team Player | Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Martial Artist | Detective | Teen Titans",
-    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] HYPNOTIZED AND RETURNED TO THE ORPHANAGEThe first time Robin would be KO'd, instead turn him to click #6. Protected: Pulse Wave.[Trait] LOOK AT THE PAPERS! SUPERMAN BEAT BRAINIAC!Powers: PlasticityPlasticity. // When Robin is knocked back, if his knockback path is stopped by an opposing character give that character an action token.[Defense] DON'T HIT ME! I'M JUST A KID!When Robin is KO'd by an opposing character, after resolutions deal that character 1 unavoidable damage.",
+    "Team Abilities Search": "| Team Player | Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective | Teen Titans |",
     "alternates": [
       {
         "name": "Robin",
@@ -831,7 +823,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "98f80ae8-eed2-4318-82c1-90dbb4899ee5.png"
@@ -840,20 +831,20 @@
     "id": "76cfead1-fea4-4476-88ec-4fddaeec4e1c",
     "name": "Superman",
     "size": "Card",
-    "Unit ID": "dicn006",
+    "Unit ID": "dcx006",
     "Collector Number": "006",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "160/35",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Justice League | Kryptonian | Metropolis | Reporter",
-    "Keywords Search": "| Justice League | Kryptonian | Metropolis | Reporter |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] LIVING UP TO SUPERMAN'S EXAMPLEUNIQUE MODIFIER - When Superman is KO'd, each friendly character that shared a keyword with him modifies their defense +1 this game. Protected: Pulse Wave.[Speed] RACING TO CONTAIN DOOMSDAYPowers: Hypersonic Speed, PlasticityHypersonic Speed, Plasticity.[Defense] PROTECTING THE JLAPowers: InvincibleInvincible. // When a character attacks, if they could target Superman they must and can't target other characters. Protected: Outwit.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Justice League | Kryptonian | Metropolis | Reporter |",
     "alternates": [
       {
         "name": "Superman",
@@ -984,7 +975,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "76cfead1-fea4-4476-88ec-4fddaeec4e1c.png"
@@ -993,19 +983,19 @@
     "id": "c317423f-c1df-4fd2-96eb-cb679c589736",
     "name": "Doomsday",
     "size": "Card",
-    "Unit ID": "dicn007",
+    "Unit ID": "dcx007",
     "Collector Number": "007",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "300/175/125",
     "Team Abilities": "Cosmic Energy | Superman Enemy",
-    "Team Abilities Search": "| Cosmic Energy | Superman Enemy |",
     "Keywords": "Brute | Kryptonian | Monster | Superman Revenge Squad",
-    "Keywords Search": "| Brute | Kryptonian | Monster | Superman Revenge Squad |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] HEAVY RESTRAINTSPowers: FlurryDoomsday starts the game with a Restraint token. // If Doomsday has a Restraint token, he takes a maximum of 1 damage from attacks. // When an opposing character hits Doomsday with an attack, instead of dealing normal damage they may choose to remove the Restraint token. If they do, Doomsday can use Flurry this game.[Trait] GENOCIDAL HATREDPowers: Battle FuryBattle Fury. // At the beginning of the game, choose a keyword. This game Doomsday modifies his attack and damage +1 when attacking one or more opposing characters with the chosen keyword.[Speed] MEEEEE-TROOOO-PO-LIS!When Doomsday is given a MOVE action after resolutions he may be given a CLOSE as FREE.[Defense] TOUGHER THAN THE JUSTICE LEAGUEPowers: Stop, InvincibleSTOP. Invincible.",
+    "Team Abilities Search": "| Cosmic Energy | Superman Enemy |",
+    "Keywords Search": "| Brute | Kryptonian | Monster | Superman Revenge Squad |",
     "alternates": [
       {
         "name": "Doomsday",
@@ -1187,7 +1177,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "c317423f-c1df-4fd2-96eb-cb679c589736.png"
@@ -1196,19 +1185,19 @@
     "id": "27ee5a8a-3526-4b05-a885-0375ff69afde",
     "name": "Steel",
     "size": "Card",
-    "Unit ID": "dicn008",
+    "Unit ID": "dcx008",
     "Collector Number": "008",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "85/50",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Armor | Justice League | Metropolis | Scientist",
-    "Keywords Search": "| Armor | Justice League | Metropolis | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] KEEPING THE STREETS SAFEFor all characters with this trait, when an equipped opposing character is KO'd, score 10 victory points. // When Steel uses a CLOSE/RANGE: Destroy action, opposing terrain markers can't use INDESTRUCTIBLE.[Trait] THE MAN OF STEELSteel can reduce penetrating damage. // When Steel succeeds on a d6 roll, if a friendly character with [ta:superman_ally] has been KO'd this game, after resolutions heal him 1 click.[Attack] HAMMER TIMEWhen Steel hits, after resolutions hit opposing characters gain Immobile until your next turn.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Armor | Justice League | Metropolis | Scientist |",
     "alternates": [
       {
         "name": "Steel",
@@ -1344,7 +1333,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "27ee5a8a-3526-4b05-a885-0375ff69afde.png"
@@ -1353,19 +1341,19 @@
     "id": "0a93337b-6c0b-405e-aaa1-c190711688d7",
     "name": "Cyborg Superman",
     "size": "Card",
-    "Unit ID": "dicn009",
+    "Unit ID": "dcx009",
     "Collector Number": "009",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "185/75/40",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Kryptonian | Metropolis | Robot | Ruler | Scientist",
-    "Keywords Search": "| Kryptonian | Metropolis | Robot | Ruler | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TECHNOLOGY ABSORPTIONPowers: RegenerationFREE: Choose a non-debris terrain marker that is either within range or held by a character within range and remove that marker from the game. If you do, use Regeneration as FREE.[Trait] THE MAN OF TOMORROWPowers: Shape ChangeShape Change. // If a friendly character with [ta:superman_ally] has been KO'd this game, Cyborg Superman can count range and draw lines of fire from the squares of characters that are equipped or have the Robot keyword. When Cyborg Superman attacks this way, characters take a maximum of 2 damage.[Defense] BUILDING OVER COAST CITY'S REMAINSPowers: ImperviousImpervious. // At the beginning of your turn, Cyborg Superman may generate a blocking terrain marker into a square within range.[Damage] TECHNOPATHYPowers: OutwitOutwit. When Cyborg Superman uses it to target a character with the Robot keyword he may instead choose two powers.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Kryptonian | Metropolis | Robot | Ruler | Scientist |",
     "alternates": [
       {
         "name": "Cyborg Superman",
@@ -1517,7 +1505,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "0a93337b-6c0b-405e-aaa1-c190711688d7.png"
@@ -1526,19 +1513,19 @@
     "id": "b0e8627d-30d4-473c-8e8e-9c1099e0fac2",
     "name": "Superboy",
     "size": "Card",
-    "Unit ID": "dicn010",
+    "Unit ID": "dcx010",
     "Collector Number": "010",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "55",
     "Team Abilities": "Team Player | Superman Ally",
-    "Team Abilities Search": "| Team Player | Superman Ally |",
     "Keywords": "Kryptonian | Metropolis | Suicide Squad | Young Justice | Teen Titans",
-    "Keywords Search": "| Kryptonian | Metropolis | Suicide Squad | Young Justice | Teen Titans |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DON'T CALL ME SUPERBOY!Powers: Battle Fury, Close Combat ExpertWhen an opposing character targets Superboy with Outwit or Perplex, until the end of your next turn he can use Battle Fury and Close Combat Expert. Protected: Outwit.[Trait] THE METROPOLIS KIDPowers: FlurryFlurry. // When Superboy knocks back one or more opposing characters, if a friendly character with [ta:superman_ally] has been KO'd this game, choose a character he knocked back and he may immediately place himself in a square adjacent to them.[Defense] TACTILE TK FIELDPowers: Energy Shield Deflection, InvincibleEnergy Shield/Deflection, Invincible.",
+    "Team Abilities Search": "| Team Player | Superman Ally |",
+    "Keywords Search": "| Kryptonian | Metropolis | Suicide Squad | Young Justice | Teen Titans |",
     "alternates": [
       {
         "name": "Superboy",
@@ -1626,7 +1613,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "b0e8627d-30d4-473c-8e8e-9c1099e0fac2.png"
@@ -1635,19 +1621,19 @@
     "id": "92aa1dc6-db96-4472-87a0-a23fb348fafc",
     "name": "Eradicator",
     "size": "Card",
-    "Unit ID": "dicn011",
+    "Unit ID": "dcx011",
     "Collector Number": "011",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "120/50",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Cosmic | Kryptonian | Metropolis | Past | Robot",
-    "Keywords Search": "| Cosmic | Kryptonian | Metropolis | Past | Robot |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BRUTAL ENFORCEMENTWhen Eradicator KO's an opposing character, opposing characters modify their attack -1 until your next turn.[Trait] LAST SON OF KRYPTONPowers: Penetrating Psychic BlastPenetrating/Psychic Blast. // [it:destroy_blocking], but only if a friendly character with [ta:superman_ally] has been KO'd this game.[Defense] HEALING MATRIXPowers: Super Senses, RegenerationSuper Senses. // Regeneration as FREE, but only if Eradicator is in your starting area.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Cosmic | Kryptonian | Metropolis | Past | Robot |",
     "alternates": [
       {
         "name": "Eradicator",
@@ -1768,7 +1754,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "92aa1dc6-db96-4472-87a0-a23fb348fafc.png"
@@ -1777,20 +1762,20 @@
     "id": "ff7d3ec0-486d-4c31-9443-0304474bcf67",
     "name": "Superman",
     "size": "Card",
-    "Unit ID": "dicn012",
+    "Unit ID": "dcx012",
     "Collector Number": "012",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Properties": "Unique | Sideline Active",
     "Point Values": "90/50",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Armor | Kryptonian | Metropolis | Reporter",
-    "Keywords Search": "| Armor | Kryptonian | Metropolis | Reporter |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE RETURN OF SUPERMANSIDELINE ACTIVE - When a friendly character that can use [ta:superman_ally] is KO'd, after resolutions if Superman is on your Sideline give him a Resurrection token and roll a d6, adding the number of Resurrection tokens to the result. [d:6]+: Generate Superman from your Sideline into the last square the friendly character occupied on his 50 point starting line.[Defense] HIS POWERS RETURNEDPowers: Stop, ImperviousIf Superman is 90 points, STOP. // Impervious. // When this power is first revealed, for the rest of the game Superman has [cs:wing] and can't be healed above this click. (Even if this power is revealed by turning past it.)[Damage] KRYPTONIAN BATTLE-MECH[cs:giant]. Superman takes a maximum of 1 damage from opposing attacks. Protected: Outwit, Pulse Wave.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Armor | Kryptonian | Metropolis | Reporter |",
     "alternates": [
       {
         "name": "Superman",
@@ -1938,7 +1923,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "ff7d3ec0-486d-4c31-9443-0304474bcf67.png"
@@ -1947,19 +1931,19 @@
     "id": "7b5cccf1-8f72-46e3-9b1f-7b99983908a3",
     "name": "Supergirl",
     "size": "Card",
-    "Unit ID": "dicn013",
+    "Unit ID": "dcx013",
     "Collector Number": "013",
     "Unit Type": "Character",
     "Rarity": "Chase",
     "Point Values": "75/50",
     "Team Abilities": "Team Player | Superman Ally",
-    "Team Abilities Search": "| Team Player | Superman Ally |",
     "Keywords": "Cosmic | Kryptonian | Metropolis | Teen Titans",
-    "Keywords Search": "| Cosmic | Kryptonian | Metropolis | Teen Titans |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM LUTHORPowers: OutwitOutwit. // When Supergirl uses [ta:team_player], if a friendly character with [ta:superman_ally] has been KO'd this game, she may instead choose a copyable or uncopyable team ability an opposing character can use.[Trait] PROTOPLASMIC MERGERWhen Supergirl is KO'd, choose a friendly character. This game the chosen character has [cs:wing], [ta:superman_ally], and can use Shape Change.[Trait] MATRIXPowers: Energy Shield Deflection, Super Senses, TelekinesisFREE: Choose one to use until your next turn. If Supergirl is 75 points, choose two instead: *Energy Shield/Deflection *Super Senses *Telekinesis",
+    "Team Abilities Search": "| Team Player | Superman Ally |",
+    "Keywords Search": "| Cosmic | Kryptonian | Metropolis | Teen Titans |",
     "alternates": [
       {
         "name": "Supergirl",
@@ -2065,7 +2049,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "7b5cccf1-8f72-46e3-9b1f-7b99983908a3.png"
@@ -2074,19 +2057,19 @@
     "id": "29b36a7f-ad2a-42fb-9b97-6aa30a6004f2",
     "name": "Harley Quinn",
     "size": "Card",
-    "Unit ID": "dicn014",
+    "Unit ID": "dcx014",
     "Collector Number": "014",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "75/45",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist",
-    "Keywords Search": "| Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] OOH, RED'LL LOVE THESE!Powers: SupportHarley Quinn can pick up and hold Plant terrain markers without using Super Strength. // Support as FREE, but only if Harley Quinn is holding a Plant terrain marker. When Harley Quinn uses it, destroy her held Plant terrain marker.[Trait] QUEENS OF CRIMEIf Harley Quinn is adjacent to a friendly character named Poison Ivy, she and Poison Ivy take a maximum of 2 damage from attacks.[Damage] ... CHOCOLATES?Powers: Probability Control, Shape ChangeProbability Control, Shape Change.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist |",
     "alternates": [
       {
         "name": "Harley Quinn",
@@ -2222,7 +2205,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "29b36a7f-ad2a-42fb-9b97-6aa30a6004f2.png"
@@ -2231,19 +2213,19 @@
     "id": "a7a78038-bb05-40b2-993d-1caeaba88458",
     "name": "Poison Ivy",
     "size": "Card",
-    "Unit ID": "dicn015",
+    "Unit ID": "dcx015",
     "Collector Number": "015",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "75/45",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist",
-    "Keywords Search": "| Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THANKS PEANUT... YOU REALLY SHOULDN'T HAVEWhen Poison Ivy heals one or more clicks, after resolutions heal an adjacent friendly character named Harley Quinn 1 click.[Trait] GROWING OVER GOTHAMAt the beginning of your turn, for all friendly characters with this trait, generate a Plant hindering terrain marker within 4 squares of Poison Ivy or any friendly Plant terrain marker. This game, that marker has \"When this marker hinders line of fire, characters instead modify defense +2.\"[Trait] CHOKING VINESPowers: PoisonPoison. // When Poison Ivy uses Poison or makes a close attack she considers characters occupying or adjacent to squares with friendly Plant terrain markers as adjacent to her.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Sirens | Gotham City Underworld | Scientist |",
     "alternates": [
       {
         "name": "Poison Ivy",
@@ -2379,7 +2361,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "a7a78038-bb05-40b2-993d-1caeaba88458.png"
@@ -2388,19 +2369,19 @@
     "id": "85a1fd25-b395-4014-942d-4b417b0a40aa",
     "name": "Superman",
     "size": "Card",
-    "Unit ID": "dicn026",
+    "Unit ID": "dcx026",
     "Collector Number": "026",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "60",
     "Team Abilities": "Justice Society | Superman Ally",
-    "Team Abilities Search": "| Justice Society | Superman Ally |",
     "Keywords": "Justice League | Justice Society | Kryptonian | Metropolis | Past | Reporter",
-    "Keywords Search": "| Justice League | Justice Society | Kryptonian | Metropolis | Past | Reporter |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] UP, UP, AND AWAY!Powers: ChargeCharge. When Superman uses it, after resolutions knock back each opposing character he moved through.[Defense] THIS LOOKS LIKE A JOB FOR...Powers: Stop, ImperviousSTOP. Impervious.[Damage] MILD-MANNERED REPORTER CLARK KENTPowers: Perplex, OutwitPerplex, Outwit. // At the beginning of  your turn, you may deal Superman 1 unavoidable damage.",
+    "Team Abilities Search": "| Justice Society | Superman Ally |",
+    "Keywords Search": "| Justice League | Justice Society | Kryptonian | Metropolis | Past | Reporter |",
     "alternates": [
       {
         "name": "Superman",
@@ -2517,7 +2498,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "85a1fd25-b395-4014-942d-4b417b0a40aa.png"
@@ -2526,20 +2506,20 @@
     "id": "5492d715-0ba2-4fc6-9acc-925785603dfa",
     "name": "Dream",
     "size": "Card",
-    "Unit ID": "dicnDCSM-001",
+    "Unit ID": "dcxDCSM-001",
     "Collector Number": "DCSM-001",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique",
     "Point Values": "75/40",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Ruler | Mystical | Endless",
-    "Keywords Search": "| Cosmic | Ruler | Mystical | Endless |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE QUEST FOR HIS TOOLSWhen Dream KO's an opposing character, after resolutions he may generate and equip a Vestment equipment that's not already equipped to him. // Dream may be equipped with any number of equipment, as long as they're all Vestments.[Trait] DREAM OF THE ENDLESSOnce per turn, when an opposing effect rerolls one or more dice, you may reroll that roll. // When Dream is KO'd this effect continues for the rest of the game. Protected: Pulse Wave.[Attack] THE GIFT OF ETERNAL SLUMBERPowers: IncapacitateIncapacitate. When Dream uses it, until your next turn when a hit character is given a FREE action, after resolutions deal that character 1 unavoidable damage.[Damage] LORD OF THE DREAMINGPowers: Leadership, Shape ChangeLeadership, Shape Change.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Ruler | Mystical | Endless |",
     "alternates": [
       {
         "name": "Dream",
@@ -2660,7 +2640,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "5492d715-0ba2-4fc6-9acc-925785603dfa.png"
@@ -2669,7 +2648,7 @@
     "id": "1fb4d829-7f89-4ea1-b2e9-2cdb102991b3",
     "name": "Dream's Helm",
     "size": "Card",
-    "Unit ID": "dicnDCSM-s001",
+    "Unit ID": "dcxDCSM-s001",
     "Collector Number": "DCSM-s001",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -2677,14 +2656,13 @@
     "Traits and Special Powers": "EFFECTPowers: Willpower[ta:cosmic_energy]. If this character already has [ta:cosmic_energy] printed on its base, when they use Willpower they succeed on a [d:3]-[d:6].",
     "alternates": [
       {
+        "name": "Dream's Helm",
         "type": "Tile",
         "size": "1x1",
-        "name": "Dream's Helm",
         "image": "1fb4d829-7f89-4ea1-b2e9-2cdb102991b3.Tile.png"
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "1fb4d829-7f89-4ea1-b2e9-2cdb102991b3.png"
@@ -2693,7 +2671,7 @@
     "id": "d62c1722-2fef-491a-bada-707a660c32e1",
     "name": "Pouch of Sand",
     "size": "Card",
-    "Unit ID": "dicnDCSM-s002",
+    "Unit ID": "dcxDCSM-s002",
     "Collector Number": "DCSM-s002",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -2701,14 +2679,13 @@
     "Traits and Special Powers": "EFFECTPowers: IncapacitateThis character gains an extra [cs:bolt]. // Incapacitate. If this character can already use Incapacitate, when they use it, after resolutions heal this character 1 click for each hit character.",
     "alternates": [
       {
+        "name": "Pouch of Sand",
         "type": "Tile",
         "size": "1x1",
-        "name": "Pouch of Sand",
         "image": "d62c1722-2fef-491a-bada-707a660c32e1.Tile.png"
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d62c1722-2fef-491a-bada-707a660c32e1.png"
@@ -2717,7 +2694,7 @@
     "id": "b83eded5-e19d-4a03-b4e1-8aedd2cffee6",
     "name": "Dream Ruby",
     "size": "Card",
-    "Unit ID": "dicnDCSM-s003",
+    "Unit ID": "dcxDCSM-s003",
     "Collector Number": "DCSM-s003",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -2725,14 +2702,13 @@
     "Traits and Special Powers": "EFFECTPowers: Barrier, Shape ChangeBarrier, Shape Change. If this character can already use Shape Change, when they use it and succeed, after resolutions deal the attacker damage equal to the attacker's printed damage value.",
     "alternates": [
       {
+        "name": "Dream Ruby",
         "type": "Tile",
         "size": "1x1",
-        "name": "Dream Ruby",
         "image": "b83eded5-e19d-4a03-b4e1-8aedd2cffee6.Tile.png"
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "b83eded5-e19d-4a03-b4e1-8aedd2cffee6.png"
@@ -2741,19 +2717,19 @@
     "id": "a318e257-c393-4dde-bab6-9069e30037a6",
     "name": "Peacemaker",
     "size": "Card",
-    "Unit ID": "dicnDCX-016",
+    "Unit ID": "dcxDCX-016",
     "Collector Number": "DCX-016",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "70",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Assassin | Martial Artist | Soldier | Suicide Squad",
-    "Keywords Search": "| Assassin | Martial Artist | Soldier | Suicide Squad |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SPECIAL HELMETSIf Peacemaker is equipped with a [set:dicn] #DCX-s001 Peacemaker Helmet, when he uses its EFFECT he may choose a result instead of rolling.[Attack] IT'S A GRENADE TAPED TO A RUSSIAN TANK SHELL!Powers: Energy Explosion, Penetrating Psychic BlastEnergy Explosion, Penetrating/Psychic Blast. When Peacemaker uses Energy Explosion, attack rolls of 10 or higher are critical hits.[Damage] INTERNET RUMORSPowers: Outwit, Probability ControlOutwit, Probability Control",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Assassin | Martial Artist | Soldier | Suicide Squad |",
     "alternates": [
       {
         "name": "Peacemaker",
@@ -2873,7 +2849,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "a318e257-c393-4dde-bab6-9069e30037a6.png"
@@ -2882,19 +2857,19 @@
     "id": "e9551b89-c7fc-4f3f-8a34-bdfd2ddbedfb",
     "name": "Eagly",
     "size": "Card",
-    "Unit ID": "dicnDCX-017",
+    "Unit ID": "dcxDCX-017",
     "Collector Number": "DCX-017",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "30",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Animal | Suicide Squad",
-    "Keywords Search": "| Animal | Suicide Squad |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] JUST CRINKLE A BAG, HE'LL THINK YOU HAVE CHIPSPOWER: If no other characters have been placed this turn, choose an opposing character that damaged a friendly character with the Suicide Squad keyword since your last turn. Place Eagly such that he can make a close attack targeting the chosen character, then do so.[Damage] THANKS, BUT I'M NOT GOING TO EAT THATPowers: SupportSupport. Support as FREE, but only if Eagly KO'd an opposing character this turn.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Animal | Suicide Squad |",
     "alternates": [
       {
         "name": "Eagly",
@@ -2954,7 +2929,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "e9551b89-c7fc-4f3f-8a34-bdfd2ddbedfb.png"
@@ -2963,19 +2937,19 @@
     "id": "1835d2ed-e320-4b49-bf46-3ad5639e5ede",
     "name": "John Economos",
     "size": "Card",
-    "Unit ID": "dicnDCX-018",
+    "Unit ID": "dcxDCX-018",
     "Collector Number": "DCX-018",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "45",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "A.R.G.U.S. | Scientist | Suicide Squad",
-    "Keywords Search": "| A.R.G.U.S. | Scientist | Suicide Squad |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FRAME JOBPOWER: Remove all Hack tokens from friendly characters, then give a Hack token to a friendly character within range. // The character with the Hack token can use Shape Change. When that character uses it and succeeds, after resolutions they may deal 1 penetrating damage to an opposing character.[Damage] TECH AND TACTICSPowers: Perplex, Probability ControlPerplex, Probability Control. When John Economos uses either, he may target the character with the Hack token regardless of range and line of fire.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| A.R.G.U.S. | Scientist | Suicide Squad |",
     "alternates": [
       {
         "name": "John Economos",
@@ -3063,7 +3037,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "1835d2ed-e320-4b49-bf46-3ad5639e5ede.png"
@@ -3072,19 +3045,19 @@
     "id": "a027f891-6757-49e1-973a-30bdbe230484",
     "name": "Abedayo",
     "size": "Card",
-    "Unit ID": "dicnDCX-019",
+    "Unit ID": "dcxDCX-019",
     "Collector Number": "DCX-019",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "50",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Spy | Suicide Squad",
-    "Keywords Search": "| Spy | Suicide Squad |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HUMAN TORPEDO ACTIVATE!POWER: Modify speed +3, [im:destroy_blocking,elevated,characters]. Move Abedayo in a direct path up to her speed value. After resolutions, make a close attack targeting each opposing character she moved through that action, regardless of adjacency. Hit characters are dealt 1 penetrating damage instead of normal damage.[Trait] WALLER'S DAUGHTERFriendly characters with [ta:suicide_squad] may use that team ability to heal when any friendly character is KO'd anywhere on the map.[Damage] 11TH STREET KIDS, THAT'S HOW WE ROLLPowers: Empower, EnhancementEmpower, Enhancement. // Adjacent friendly characters with the Suicide Squad keyword modify attack +1.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Spy | Suicide Squad |",
     "alternates": [
       {
         "name": "Abedayo",
@@ -3174,7 +3147,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "a027f891-6757-49e1-973a-30bdbe230484.png"
@@ -3183,20 +3155,20 @@
     "id": "d7a8184a-0e87-46d7-9341-e6892f779ea3",
     "name": "Vigilante",
     "size": "Card",
-    "Unit ID": "dicnDCX-020",
+    "Unit ID": "dcxDCX-020",
     "Collector Number": "DCX-020",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "50",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Assassin | Martial Artist | Suicide Squad",
-    "Keywords Search": "| Assassin | Martial Artist | Suicide Squad |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] VIGILANTE? I, UH, I DON'T KNOW THAT PERSON.Powers: Shape ChangeVigilante starts the game with a Mask token. // Shape Change, but succeeds on a [d:3]-[d:6] if Vigilante has a Mask token. When he uses it and fails, remove his Mask token.[Speed] WHO'S THE GUY BEHIND THE TRASH CAN?Powers: StealthStealth. // FREE: Place Vigilante adjacent to a terrain marker within range.[Damage] WE ONLY KILL BAD PEOPLE. USUALLY.Powers: Exploit WeaknessExploit Weakness. // When Vigilante hits, modify his damage +1 if one or more of the hit characters damaged a friendly character since your last turn.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Assassin | Martial Artist | Suicide Squad |",
     "alternates": [
       {
         "name": "Vigilante",
@@ -3301,7 +3273,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d7a8184a-0e87-46d7-9341-e6892f779ea3.png"
@@ -3310,20 +3281,20 @@
     "id": "d04b9c91-af9f-4bbf-9f58-66ef6cbcde0e",
     "name": "Harcourt",
     "size": "Card",
-    "Unit ID": "dicnDCX-021",
+    "Unit ID": "dcxDCX-021",
     "Collector Number": "DCX-021",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "80/50",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "A.R.G.U.S. | Martial Artist | Police | Soldier | Spy | Suicide Squad",
-    "Keywords Search": "| A.R.G.U.S. | Martial Artist | Police | Soldier | Spy | Suicide Squad |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] TEAM LEADERPowers: LeadershipLeadership. When Harcourt uses it, after resolutions you may move a friendly character with the Suicide Squad keyword up to half the result.[Speed] C.I.A., D.E.O., A.R.G.U.S. ...Powers: Sidestep, Running Shot, StealthSidestep, Running Shot, Stealth.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| A.R.G.U.S. | Martial Artist | Police | Soldier | Spy | Suicide Squad |",
     "alternates": [
       {
         "name": "Harcourt",
@@ -3443,7 +3414,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d04b9c91-af9f-4bbf-9f58-66ef6cbcde0e.png"
@@ -3452,19 +3422,19 @@
     "id": "2acda96f-fe4c-4130-a033-e3e49d793102",
     "name": "Peacemaker",
     "size": "Card",
-    "Unit ID": "dicnDCX-022",
+    "Unit ID": "dcxDCX-022",
     "Collector Number": "DCX-022",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "60",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Assassin | Martial Artist | Soldier | Suicide Squad",
-    "Keywords Search": "| Assassin | Martial Artist | Soldier | Suicide Squad |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] COLD OPENThe first time a friendly character is dealt damage by an opposing effect, if you haven't begun your second turn, after resolutions you may choose that all characters have Immune until your next turn.[Trait] SYNCHRONIZED MOVESFREE: Once per game, move all characters that don't have Immune 2 squares in the same direction. Characters don't need to break away for this movement.[Speed] DO YOU REALLY WANNA...Powers: Sidestep, Force BlastSidestep, Force Blast. // When Peacemaker moves and ends his movement adjacent to an opposing character, after resolutions he may use Force Blast as FREE.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Assassin | Martial Artist | Soldier | Suicide Squad |",
     "alternates": [
       {
         "name": "Peacemaker",
@@ -3584,7 +3554,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "2acda96f-fe4c-4130-a033-e3e49d793102.png"
@@ -3593,19 +3562,19 @@
     "id": "6981fe29-ae5e-4206-81f9-30a48be0191a",
     "name": "Judomaster",
     "size": "Card",
-    "Unit ID": "dicnDCX-023",
+    "Unit ID": "dcxDCX-023",
     "Collector Number": "DCX-023",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "55",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Assassin | Martial Artist | Warrior",
-    "Keywords Search": "| Assassin | Martial Artist | Warrior |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MERCENARY MARTIAL ARTISTPowers: SidestepSidestep. // Judomaster doesn't count for or against themed teams.[Trait] ESCAPE TO FIGHT AGAINThe first time Judomaster would be KO'd, instead turn him to click #6 and roll a d6. Heal him equal to half the result and place him up to that many squares away from his current square. Protected: Pulse Wave.[Damage] KIAI!When Judomaster hits, increase the damage dealt to each hit character by +1.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Assassin | Martial Artist | Warrior |",
     "alternates": [
       {
         "name": "Judomaster",
@@ -3710,7 +3679,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "6981fe29-ae5e-4206-81f9-30a48be0191a.png"
@@ -3719,20 +3687,20 @@
     "id": "c16dbf93-bdd7-4570-a127-ed9d3b99d64c",
     "name": "Butterfly",
     "size": "Card",
-    "Unit ID": "dicnDCX-024",
+    "Unit ID": "dcxDCX-024",
     "Collector Number": "DCX-024",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Cosmic | Politician | Ruler | Monster",
-    "Keywords Search": "| Animal | Cosmic | Politician | Ruler | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] HOST BODYAt the beginning of the game you may replace Butterfly with a standard character of 50 points or less. If you do, this game that character can use the Mass Leeching trait, is considered to have the Butterfly Swarm bystander on its card, and has \"When this character would be KO'd, instead replace it with Butterfly on click #1.\" (Use the replacement character's name wherever Butterfly uses her name in Mass Leeching.)[Trait] MASS LEECHINGAt the beginning of your turn you may generate a Butterfly Swarm bystander. // Mind Control. When Butterfly uses it, for each friendly Butterfly Swarm bystander, she may also target an opposing character adjacent to that Butterfly Swarm bystander regardless of range or line of fire.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Cosmic | Politician | Ruler | Monster |",
     "alternates": [
       {
         "name": "Butterfly",
@@ -3751,7 +3719,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "c16dbf93-bdd7-4570-a127-ed9d3b99d64c.png"
@@ -3760,7 +3727,7 @@
     "id": "cb8e6855-12f2-4299-8427-9b786f272b43",
     "name": "Butterfly Swarm",
     "size": "Card",
-    "Unit ID": "dicnDCX-024bt",
+    "Unit ID": "dcxDCX-024bt",
     "Collector Number": "DCX-024bt",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
@@ -3785,7 +3752,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "cb8e6855-12f2-4299-8427-9b786f272b43.png"
@@ -3794,19 +3760,19 @@
     "id": "91e7e3a3-ac3c-422d-9685-d9d1df60474e",
     "name": "Murn",
     "size": "Card",
-    "Unit ID": "dicnDCX-025",
+    "Unit ID": "dcxDCX-025",
     "Collector Number": "DCX-025",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "50",
     "Team Abilities": "Police | Suicide Squad",
-    "Team Abilities Search": "| Police | Suicide Squad |",
     "Keywords": "A.R.G.U.S. | Animal | Cosmic | Assassin | Soldier | Spy | Suicide Squad | Monster",
-    "Keywords Search": "| A.R.G.U.S. | Animal | Cosmic | Assassin | Soldier | Spy | Suicide Squad | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BETRAYING THE BUTTERFLIESWhen a friendly character attacks, if a line of fire drawn to an opposing character that shares a keyword with Murn would be blocked, instead it isn't and the target modifies their defense +1. // Opposing characters within 4 squares can't positively modify their combat values.[Defense] JUST TRYING TO DO WHAT I CANPowers: StopSTOP.[Damage] YOU INCOMPETANT DINGUS!Powers: LeadershipLeadership. // When an adjacent friendly character misses, after resolutions you may deal them 1 unavoidable damage. If you do, remove an action token from them.",
+    "Team Abilities Search": "| Police | Suicide Squad |",
+    "Keywords Search": "| A.R.G.U.S. | Animal | Cosmic | Assassin | Soldier | Spy | Suicide Squad | Monster |",
     "alternates": [
       {
         "name": "Murn",
@@ -3911,7 +3877,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "91e7e3a3-ac3c-422d-9685-d9d1df60474e.png"
@@ -3920,20 +3885,20 @@
     "id": "47498cc0-aec8-4d11-96ac-8f2489de58fd",
     "name": "Trigon",
     "size": "Card",
-    "Unit ID": "dicnDCX-027",
+    "Unit ID": "dcxDCX-027",
     "Collector Number": "DCX-027",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "300/200/100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Ruler | Mystical | Deity",
-    "Keywords Search": "| Ruler | Mystical | Deity |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] UNDERWORLD TYRANTWhen Trigon KO's an opposing character of 40 points or less, instead score double that character's point value. // If Trigon is the highest point character and he would take damage, if it's not the first time he would take damage this turn, instead he doesn't.[Trait] CREATING PROGENYAt the beginning of the game, choose a friendly character with a lower point value than Trigon. That character can use Trigon's displayed attack power. If they have the Mystical keyword, they can also use Trigon's displayed damage power. // When the chosen character is KO'd, after resolutions heal Trigon 2 clicks. If their name was Raven, also modify Trigon's combat values +1 this game.[Defense] I WILL NOT BE STOPPEDPowers: Stop, Super Senses, ToughnessSTOP. Super Senses, Toughness. When Trigon uses Super Senses and succeeds, after resolutions deal the attacker penetrating damage equal to the number of their action tokens.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Ruler | Mystical | Deity |",
     "alternates": [
       {
         "name": "Trigon",
@@ -4220,7 +4185,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "47498cc0-aec8-4d11-96ac-8f2489de58fd.png"
@@ -4229,19 +4193,19 @@
     "id": "ccff7feb-07f7-4416-be60-4a7c5e90caae",
     "name": "Raven",
     "size": "Card",
-    "Unit ID": "dicnDCX-028",
+    "Unit ID": "dcxDCX-028",
     "Collector Number": "DCX-028",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "100/50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Monster | Mystical | Teen Titans",
-    "Keywords Search": "| Monster | Mystical | Teen Titans |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE SIN OF PRIDEWhen a friendly character that shares a keyword with Raven attacks, if the finalized attack total is at least 3 more than a target's defense value, that attack is a critical hit.[Trait] TRIGON'S FAVOROnce per turn, you may reroll a roll made by an opposing character within range and line of fire.[Attack] AZARATH METRION ZINTHOS!Powers: Smoke CloudSmoke Cloud as FREE, but only to generate markers in Raven's square or in the squares of adjacent characters.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Monster | Mystical | Teen Titans |",
     "alternates": [
       {
         "name": "Raven",
@@ -4362,7 +4326,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "ccff7feb-07f7-4416-be60-4a7c5e90caae.png"
@@ -4371,20 +4334,20 @@
     "id": "8faa71f5-3a42-4c53-99ca-489c811ebd6e",
     "name": "Batman",
     "size": "Card",
-    "Unit ID": "dicnDCX-029",
+    "Unit ID": "dcxDCX-029",
     "Collector Number": "DCX-029",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Justice League | Martial Artist | Scientist | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Justice League | Martial Artist | Scientist | Detective |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Outdoor Blocking | Move Through",
     "Traits and Special Powers": "[Attack] GRAPPLE GUN. NEVER LEAVE THE CAVE WITHOUT ITFREE: Choose one. *Place Batman in or adjacent to a square of hindering terrain or a terrain marker within range and line of fire. *Choose a standard opposing character within range and line of fire, then choose a terrain marker within 4 squares and line of fire of that character. Place the chosen character adjacent to the chosen terrain marker and deal them 1 damage.[Defense] SOMETIMES, YOU NEED TO FIGHT IN THE OPENPowers: Stop, Combat ReflexesSTOP. Combat Reflexes.[Damage] PREP TIMEPowers: OutwitOutwit. When Batman uses it, after resolutions choose a standard attack or standard damage power on the target's card. Batman can use that power until your next turn.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Justice League | Martial Artist | Scientist | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -4504,7 +4467,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "8faa71f5-3a42-4c53-99ca-489c811ebd6e.png"
@@ -4513,19 +4475,19 @@
     "id": "293c5bc2-87d9-448d-89a9-52a95b75384e",
     "name": "Alfred Pennyworth",
     "size": "Card",
-    "Unit ID": "dicnDCX-030",
+    "Unit ID": "dcxDCX-030",
     "Collector Number": "DCX-030",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "20",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Soldier",
-    "Keywords Search": "| Batman Family | Gotham City | Soldier |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] TIDYING UP THE BATCAVEPowers: TelekinesisTelekinesis. // POWER: Generate an EFFECT terrain marker or special object from your KO area. // Alfred Pennyworth may activate this POWER as FREE. If he does, the generated terrain must be a Batcave terrain marker.[Damage] MUCH MORE THAN A BUTLERPowers: Perplex, SupportPerplex, Support.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Soldier |",
     "alternates": [
       {
         "name": "Alfred Pennyworth",
@@ -4594,7 +4556,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "293c5bc2-87d9-448d-89a9-52a95b75384e.png"
@@ -4603,19 +4564,19 @@
     "id": "0b7f839a-35ba-47e6-b729-3434e7d3465b",
     "name": "Batman",
     "size": "Card",
-    "Unit ID": "dicnDCX-031",
+    "Unit ID": "dcxDCX-031",
     "Collector Number": "DCX-031",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Martial Artist | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] \"NOT JUST A FRIEND... A PARTNER\"At the beginning of your turn, Batman may generate a Robin bystander [MAX 1], or place a friendly Robin bystander adjacent to him.[Speed] \"YOUR ENTRANCE WAS GOOD; HIS WAS BETTER\"Powers: Leap Climb, QuakeLeap/Climb. // When Batman is given a MOVE action, if he changed elevations during the action, after resolutions he may use Quake as FREE.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Martial Artist | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -4731,7 +4692,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "0b7f839a-35ba-47e6-b729-3434e7d3465b.png"
@@ -4740,16 +4700,16 @@
     "id": "574f17dc-66f0-4d69-93f9-9897d245763d",
     "name": "Robin",
     "size": "Card",
-    "Unit ID": "dicnDCX-031bt",
+    "Unit ID": "dcxDCX-031bt",
     "Collector Number": "DCX-031bt",
     "Unit Type": "Bystander",
     "Rarity": "Special Edition",
     "Point Values": "0",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Batman Ally |",
     "alternates": [
       {
         "name": "Robin",
@@ -4769,7 +4729,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Bystander",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "574f17dc-66f0-4d69-93f9-9897d245763d.png"
@@ -4778,20 +4737,20 @@
     "id": "97fd6ebf-80cd-4b61-a2a5-f32197ac90c2",
     "name": "Riddler",
     "size": "Card",
-    "Unit ID": "dicnDCX-032",
+    "Unit ID": "dcxDCX-032",
     "Collector Number": "DCX-032",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Detective",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Detective |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Speed] EVERY BRAIN IN GOTHAM...Powers: Mind ControlMind Control. When Riddler uses it, he may target a single opposing character regardless of range and line of fire if that character was targeted by Outwit or Perplex since your last turn.[Damage] FOR IF KNOWLEDGE IS POWER, THEN A GOD AM... I!Powers: Outwit, Perplex, Probability ControlOutwit, Perplex, Probability Control.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Detective |",
     "alternates": [
       {
         "name": "Riddler",
@@ -4896,7 +4855,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "97fd6ebf-80cd-4b61-a2a5-f32197ac90c2.png"
@@ -4905,20 +4863,20 @@
     "id": "b35de52f-0e1f-407b-819d-851d3cc0ce41",
     "name": "Two-Face",
     "size": "Card",
-    "Unit ID": "dicnDCX-033",
+    "Unit ID": "dcxDCX-033",
     "Collector Number": "DCX-033",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique",
     "Point Values": "45",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Police | Politician",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Police | Politician |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LUCK. BLIND, STUPID, SIMPLE, CLUELESS, DOO-DAH, LUCK.Powers: StealthStealth. // At the beginning of each opponent's turn, flip a coin and call it. If you win the coin flip, that opponent deals 1 unavoidable damage to a character friendly to themselves.[Damage] YOU COULD SAY WE'RE OF TWO MINDS ON THE SUBJECTPowers: LeadershipLeadership. // FREE: Flip a coin and resolve the effect corresponding to the result. *Heads: Move a friendly character of equal or less points than Two-Face up to half their speed value. *Tails: Deal 1 penetrating damage to an opposing character within range and line of fire.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Police | Politician |",
     "alternates": [
       {
         "name": "Two-Face",
@@ -5023,7 +4981,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "b35de52f-0e1f-407b-819d-851d3cc0ce41.png"
@@ -5032,20 +4989,20 @@
     "id": "8d4cc329-e9ea-41e2-9bcc-d3a6734c3956",
     "name": "Barry Allen",
     "size": "Card",
-    "Unit ID": "dicnDCX-034",
+    "Unit ID": "dcxDCX-034",
     "Collector Number": "DCX-034",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "90/50",
     "Team Abilities": "Police | Justice League",
-    "Team Abilities Search": "| Police | Justice League |",
     "Keywords": "Celebrity | Central City | Justice League | Police | Scientist | Speedster",
-    "Keywords Search": "| Celebrity | Central City | Justice League | Police | Scientist | Speedster |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking",
     "Traits and Special Powers": "[Trait] TAPPING THE SPEED FORCE: CYCLONESPowers: Force BlastForce Blast. // When Barry Allen uses Hypersonic Speed he may use Force Blast as FREE instead of making an attack. // Barry Allen can use the Tapping the Speed Force traits of friendly characters in your KO area.[Speed] FASTEST MAN ALIVEPowers: Phasing TeleportPhasing/Teleport. // Once per turn, Barry Allen may be given a CLOSE or POWER action as FREE.[Damage] FLASH FACTPowers: Leadership, Probability ControlLeadership, Probability Control.",
+    "Team Abilities Search": "| Police | Justice League |",
+    "Keywords Search": "| Celebrity | Central City | Justice League | Police | Scientist | Speedster |",
     "alternates": [
       {
         "name": "Barry Allen",
@@ -5181,7 +5138,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "8d4cc329-e9ea-41e2-9bcc-d3a6734c3956.png"
@@ -5190,20 +5146,20 @@
     "id": "c57999d5-0674-433a-bdf9-1206f805b1bf",
     "name": "Barry Allen",
     "size": "Card",
-    "Unit ID": "dicnDCX-034.1",
+    "Unit ID": "dcxDCX-034.1",
     "Collector Number": "DCX-034.1",
     "Unit Type": "Alternate Card",
     "Rarity": "Special Edition",
     "Point Values": "90/50",
     "Team Abilities": "Police | Justice League",
-    "Team Abilities Search": "| Police | Justice League |",
     "Keywords": "Celebrity | Central City | Justice League | Police | Scientist | Speedster",
-    "Keywords Search": "| Celebrity | Central City | Justice League | Police | Scientist | Speedster |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking",
     "Traits and Special Powers": "[Trait] TEAM UP: FOUNDING MEMBERPowers: Super SensesSuper Senses. // If Barry Allen is part of a Speedster or Justice League themed team, friendly characters can use Super Senses and once per game when a friendly character would be hit, they may evade the attack instead.[Trait] LEAGUE CHAIRMANPowers: LeadershipLeadership.[Speed] THE SCARLET SPEEDSTERPowers: Charge, FlurryCharge, Flurry. // MOVE: Move. After resolutions you may choose a standard friendly character that shares a keyword with Barry Allen that he moved through during this action. If you do, place that character adjacent to him.[Damage] DISASSEMBLING THEIR WEAPONSOpposing characters within 3 squares can't be given RANGE actions or make range attacks.",
+    "Team Abilities Search": "| Police | Justice League |",
+    "Keywords Search": "| Celebrity | Central City | Justice League | Police | Scientist | Speedster |",
     "alternates": [
       {
         "name": "Barry Allen",
@@ -5329,7 +5285,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Alternate Card",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "c57999d5-0674-433a-bdf9-1206f805b1bf.png"
@@ -5338,20 +5293,20 @@
     "id": "6c47a357-6da9-481a-bc74-52ddf483953c",
     "name": "Wally West",
     "size": "Card",
-    "Unit ID": "dicnDCX-035",
+    "Unit ID": "dcxDCX-035",
     "Collector Number": "DCX-035",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "90/50",
     "Team Abilities": "Team Player | Titans",
-    "Team Abilities Search": "| Team Player | Titans |",
     "Keywords": "Celebrity | Central City | Justice League | Speedster | Teen Titans",
-    "Keywords Search": "| Celebrity | Central City | Justice League | Speedster | Teen Titans |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] TAPPING THE SPEED FORCE: VIBRATIONPowers: SidestepSidestep. Wally West may use it twice per turn. // Wally West can use the Tapping the Speed Force traits of friendly characters in your KO area.[Speed] INFINITE MASS PUNCHPowers: Hypersonic Speed, Close Combat ExpertHypersonic Speed. When Wally West uses it, he may choose to only move in a direct path. If he does, he can use Close Combat Expert and hit characters are knocked back 6 squares.[Damage] SPEED LENDINGPowers: PerplexPerplex. When Wally West uses it to modify speed +1, the targeted character can use Charge until your next turn.",
+    "Team Abilities Search": "| Team Player | Titans |",
+    "Keywords Search": "| Celebrity | Central City | Justice League | Speedster | Teen Titans |",
     "alternates": [
       {
         "name": "Wally West",
@@ -5472,7 +5427,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "6c47a357-6da9-481a-bc74-52ddf483953c.png"
@@ -5481,19 +5435,19 @@
     "id": "3e3b1a08-a143-42a2-bbe3-f2686f36376f",
     "name": "Jay Garrick",
     "size": "Card",
-    "Unit ID": "dicnDCX-036",
+    "Unit ID": "dcxDCX-036",
     "Collector Number": "DCX-036",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Point Values": "80/50",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Central City | Justice Society | Past | Politician | Scientist | Speedster",
-    "Keywords Search": "| Central City | Justice Society | Past | Politician | Scientist | Speedster |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TAPPING THE SPEED FORCE: RECOVERYFREE: Heal Jay Garrick 1 click. // Jay Garrick can use the Tapping the Speed Force traits of friendly characters in your KO area.[Trait] SPEED MONITORWhen establishing themed teams, choose a friendly character that is lower points than Jay Garrick and can use Hypersonic Speed on their starting click. This game, that character has the Speedster keyword and \"This character can use the Tapping the Speed Force traits of friendly characters in your KO area.\"[Damage] SPEED STEALINGPowers: PerplexPerplex. When Jay Garrick uses it to modify speed -1, the targeted character can't use speed powers until your next turn.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Central City | Justice Society | Past | Politician | Scientist | Speedster |",
     "alternates": [
       {
         "name": "Jay Garrick",
@@ -5614,7 +5568,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "3e3b1a08-a143-42a2-bbe3-f2686f36376f.png"
@@ -5623,21 +5576,21 @@
     "id": "1232e5e6-a7d1-4a25-a2a3-c1d20fda9055",
     "name": "Black Flash",
     "size": "Card",
-    "Unit ID": "dicnDCX-037",
+    "Unit ID": "dcxDCX-037",
     "Collector Number": "DCX-037",
     "Unit Type": "Character",
     "Rarity": "Special Edition",
     "Properties": "Unique | Sideline Active",
     "Point Values": "150/100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Future | Herald | Past | Speedster | Monster | Mystical | New Gods",
-    "Keywords Search": "| Cosmic | Future | Herald | Past | Speedster | Monster | Mystical | New Gods |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking | Characters",
     "Traits and Special Powers": "[Trait] A QUICK DEATHSIDELINE ACTIVE - When an opposing character is dealt damage from an attack by a character with the Speedster keyword, after resolutions deal that opposing character 1 unavoidable damage. If that character is not KO’d, immediately heal them 1 click. If an effect would change the number of clicks healed by this effect, it can’t be changed to a number less than 1. // When a character is KO’d by this effect, after resolutions generate Black Flash from your Sideline on click #8 in your starting area. If you do, this game Black Flash isn’t scored when KO’d.[Speed] COME HE SLOW...Powers: Hypersonic Speed, StealthHypersonic Speed, Stealth.[Attack] OR COME HE FAST...Powers: Blades Claws Fangs, PoisonBlades/Claws/Fangs, Poison.[Defense] IT IS BUT DEATH WHO COMES AT LAST.Powers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Future | Herald | Past | Speedster | Monster | Mystical | New Gods |",
     "alternates": [
       {
         "name": "Black Flash",
@@ -5773,7 +5726,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Character",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "1232e5e6-a7d1-4a25-a2a3-c1d20fda9055.png"
@@ -5782,7 +5734,7 @@
     "id": "384f7b88-8656-44e6-8447-786d7284cddb",
     "name": "Phantom Zone Projector",
     "size": "Card",
-    "Unit ID": "dicnDCX-041",
+    "Unit ID": "dcxDCX-041",
     "Collector Number": "DCX-041",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -5798,7 +5750,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "384f7b88-8656-44e6-8447-786d7284cddb.png"
@@ -5807,7 +5758,7 @@
     "id": "8313b1a6-1364-4067-94d3-9f8c94317ec7",
     "name": "Bottled City of Kandor",
     "size": "Card",
-    "Unit ID": "dicnDCX-042",
+    "Unit ID": "dcxDCX-042",
     "Collector Number": "DCX-042",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -5823,7 +5774,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "8313b1a6-1364-4067-94d3-9f8c94317ec7.png"
@@ -5832,7 +5782,7 @@
     "id": "a59c63d7-1348-4deb-b000-cc6256705ffc",
     "name": "Peacemaker's Helmet",
     "size": "Card",
-    "Unit ID": "dicnDCX-s001",
+    "Unit ID": "dcxDCX-s001",
     "Collector Number": "DCX-s001",
     "Unit Type": "Equipment",
     "Rarity": "Special Edition",
@@ -5840,14 +5790,13 @@
     "Traits and Special Powers": "EFFECTPowers: Invulnerability, Sidestep, Pulse Wave, PoisonFREE: Roll a d6. The equipped character can use the resulting effect until your next turn.[d:1] Screwdriver: Invulnerability.[d:2] Anti-Gravity: [cs:wing], Sidestep.[d:3] X-Ray Vision: [it:hindering,destroy_blocking].[d:4] Sonic Boom: KNOCKBACK. Pulse Wave.[d:5] Scabies For All: Poison, and they deal penetrating damage when they use it.[d:6]: Choose any other result.",
     "alternates": [
       {
+        "name": "Peacemaker's Helmet",
         "type": "Tile",
         "size": "1x1",
-        "name": "Peacemaker's Helmet",
         "image": "a59c63d7-1348-4deb-b000-cc6256705ffc.Tile.png"
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Equipment",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "a59c63d7-1348-4deb-b000-cc6256705ffc.png"
@@ -5856,7 +5805,7 @@
     "id": "d688779f-314e-4378-914f-5d10291c6660",
     "name": "Kryptonite Ring",
     "size": "Card",
-    "Unit ID": "dicnDCX-s002",
+    "Unit ID": "dcxDCX-s002",
     "Collector Number": "DCX-s002",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -5872,7 +5821,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "d688779f-314e-4378-914f-5d10291c6660.png"
@@ -5881,7 +5829,7 @@
     "id": "5f6216f4-11ba-45b6-a84e-4d1d4b194d10",
     "name": "Batcomputer",
     "size": "Card",
-    "Unit ID": "dicnDCX-t002",
+    "Unit ID": "dcxDCX-t002",
     "Collector Number": "DCX-t002",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -5985,7 +5933,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "5f6216f4-11ba-45b6-a84e-4d1d4b194d10.png"
@@ -5994,7 +5941,7 @@
     "id": "f8533b1b-2dfa-4703-b13d-68087b6ad5ff",
     "name": "Batsuit",
     "size": "Card",
-    "Unit ID": "dicnDCX-t003",
+    "Unit ID": "dcxDCX-t003",
     "Collector Number": "DCX-t003",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -6010,7 +5957,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "f8533b1b-2dfa-4703-b13d-68087b6ad5ff.png"
@@ -6019,7 +5965,7 @@
     "id": "55aa0709-3723-4e52-89e5-a5e815f40d9b",
     "name": "Giant Penny",
     "size": "Card",
-    "Unit ID": "dicnDCX-t004",
+    "Unit ID": "dcxDCX-t004",
     "Collector Number": "DCX-t004",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -6035,7 +5981,6 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "55aa0709-3723-4e52-89e5-a5e815f40d9b.png"
@@ -6050,7 +5995,6 @@
     "Point Values": "0",
     "Traits and Special Powers": "EFFECTAt the beginning of your turn, you may choose a terrain marker held by or adjacent to a friendly character. Remove the chosen marker from the game.",
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "One Shot",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "0ce6fa9c-cbab-4dfc-8847-31e67235b512.png"
@@ -6059,7 +6003,7 @@
     "id": "11b94237-992a-43c0-b9d2-7c0b955c22fc",
     "name": "Phone Booth",
     "size": "Card",
-    "Unit ID": "dicnt001",
+    "Unit ID": "dcxt001",
     "Collector Number": "t001",
     "Unit Type": "Terrain Marker",
     "Rarity": "Special Edition",
@@ -6075,9 +6019,22 @@
       }
     ],
     "Set": "DC Iconix",
-    "Designer": "Official",
     "Type": "Terrain Marker",
     "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
     "image": "11b94237-992a-43c0-b9d2-7c0b955c22fc.png"
+  },
+  {
+    "id": "b71b4b06-0099-48f6-9854-f8bfbf1fab92",
+    "name": "Crush Down",
+    "size": "Card",
+    "Unit ID": "dcxDCX-OSFS001",
+    "Collector Number": "DCX-OSFS001",
+    "Unit Type": "One Shot",
+    "Point Values": "0",
+    "Traits and Special Powers": "EFFECTAt the beginning of your turn, you may choose a terrain marker held by or adjacent to a friendly character. Remove the chosen marker from the game.",
+    "Set": "DC Iconix",
+    "Type": "One Shot",
+    "set_id": "5320fd44-dead-47f3-ac0b-1dcdb295af0b",
+    "image": "b71b4b06-0099-48f6-9854-f8bfbf1fab92.png"
   }
 ]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c768d40b-fd13-4918-98df-679032761fd0",
+    "name": "Ed Arnold-Berkovits",
+    "size": "Card",
+    "Unit ID": "roc17B001",
+    "Collector Number": "B001",
+    "Unit Type": "Bystander",
+    "Rarity": "Chase",
+    "Properties": "Unique",
+    "Point Values": "10",
+    "Range": "5",
+    "Targets": "1",
+    "Combat Symbols": "Wing | Fist | Shield | Starburst",
+    "alternates": [
+      {
+        "name": "Ed Arnold-Berkovits",
+        "type": "Click1",
+        "size": "1x1",
+        "Click Number": "1",
+        "Starting Line": "Auto",
+        "Speed": "8",
+        "Speed Ability": "Charge",
+        "Attack": "9",
+        "Defense": "16",
+        "Defense Ability": "Toughness",
+        "Damage": "2",
+        "image": "c768d40b-fd13-4918-98df-679032761fd0.Click1.png"
+      }
+    ],
+    "Set": "ROC 2017",
+    "Type": "Bystander",
+    "set_id": "6d72d873-f131-4346-87da-f4933fc3bf21",
+    "image": "c768d40b-fd13-4918-98df-679032761fd0.png"
+  },
+  {
+    "id": "782b918b-b53a-4baa-b0e4-cafea6fa49cb",
+    "name": "Donut Shoppe",
+    "size": "16x24",
+    "Unit ID": "roc17M001",
+    "Collector Number": "M001",
+    "Unit Type": "Map",
+    "Set": "ROC 2017",
+    "Type": "Map",
+    "set_id": "6d72d873-f131-4346-87da-f4933fc3bf21",
+    "image": "782b918b-b53a-4baa-b0e4-cafea6fa49cb.png"
+  },
+  {
+    "id": "383fb986-1995-4ca6-9081-bb10bdd74427",
+    "name": "Underground",
+    "size": "16x24",
+    "Unit ID": "roc17M002",
+    "Collector Number": "M002",
+    "Unit Type": "Map",
+    "Set": "ROC 2017",
+    "Type": "Map",
+    "set_id": "6d72d873-f131-4346-87da-f4933fc3bf21",
+    "image": "383fb986-1995-4ca6-9081-bb10bdd74427.png"
+  },
+  {
+    "id": "24f39280-e621-4a69-b3ef-73e89878cfb1",
+    "name": "Remote Outpost on the Mexican Border",
+    "size": "16x24",
+    "Unit ID": "roc17M003",
+    "Collector Number": "M003",
+    "Unit Type": "Map",
+    "Set": "ROC 2017",
+    "Type": "Map",
+    "set_id": "6d72d873-f131-4346-87da-f4933fc3bf21",
+    "image": "24f39280-e621-4a69-b3ef-73e89878cfb1.png"
+  },
+  {
+    "id": "68f567ed-a20c-4213-9940-54772f337cb1",
+    "name": "Amusement Park",
+    "size": "16x24",
+    "Unit ID": "roc17M004",
+    "Collector Number": "M004",
+    "Unit Type": "Map",
+    "Set": "ROC 2017",
+    "Type": "Map",
+    "set_id": "6d72d873-f131-4346-87da-f4933fc3bf21",
+    "image": "68f567ed-a20c-4213-9940-54772f337cb1.png"
+  }
+]
