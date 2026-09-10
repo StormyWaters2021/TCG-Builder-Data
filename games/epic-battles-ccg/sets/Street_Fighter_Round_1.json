@@ -12,12 +12,12 @@
       {
         "name": "Alex",
         "type": "alt",
-        "image": "b686e7ce-8647-4b28-b7df-711cc39ec0e4.alt.png"
+        "image": "b686e7ce-8647-4b28-b7df-711cc39ec0e4.alt.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "b686e7ce-8647-4b28-b7df-711cc39ec0e4.png"
+    "image": "b686e7ce-8647-4b28-b7df-711cc39ec0e4.jpg"
   },
   {
     "id": "a61849a4-2f15-43f2-b109-56789092dea9",
@@ -30,7 +30,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a61849a4-2f15-43f2-b109-56789092dea9.png"
+    "image": "a61849a4-2f15-43f2-b109-56789092dea9.jpg"
   },
   {
     "id": "d6f02d11-c8d2-4bf7-87f6-6a7bfc1e3f8e",
@@ -43,7 +43,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d6f02d11-c8d2-4bf7-87f6-6a7bfc1e3f8e.png"
+    "image": "d6f02d11-c8d2-4bf7-87f6-6a7bfc1e3f8e.jpg"
   },
   {
     "id": "ad745aac-107e-4ef1-94e3-1fdba2e00159",
@@ -58,17 +58,17 @@
       {
         "name": "Ken",
         "type": "alt",
-        "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.alt.png"
+        "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.alt.jpg"
       },
       {
         "name": "Ken",
         "type": "alt1",
-        "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.alt1.png"
+        "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.alt1.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.png"
+    "image": "ad745aac-107e-4ef1-94e3-1fdba2e00159.jpg"
   },
   {
     "id": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88",
@@ -83,17 +83,17 @@
       {
         "name": "Ryu",
         "type": "alt",
-        "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.alt.png"
+        "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.alt.jpg"
       },
       {
         "name": "Ryu",
         "type": "alt1",
-        "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.alt1.png"
+        "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.alt1.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.png"
+    "image": "aac2bca2-8aa6-4f2d-934b-41cd7b683e88.jpg"
   },
   {
     "id": "f5675be1-6173-46d9-9bfd-0e528d93274e",
@@ -106,7 +106,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f5675be1-6173-46d9-9bfd-0e528d93274e.png"
+    "image": "f5675be1-6173-46d9-9bfd-0e528d93274e.jpg"
   },
   {
     "id": "3996aa92-5b1e-4203-8263-59d54acce87a",
@@ -119,7 +119,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "3996aa92-5b1e-4203-8263-59d54acce87a.png"
+    "image": "3996aa92-5b1e-4203-8263-59d54acce87a.jpg"
   },
   {
     "id": "94347a99-af0a-48cc-a8a5-0f00b41099e0",
@@ -133,7 +133,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "94347a99-af0a-48cc-a8a5-0f00b41099e0.png"
+    "image": "94347a99-af0a-48cc-a8a5-0f00b41099e0.jpg"
   },
   {
     "id": "efcdcef0-3ba0-47f5-979e-542679ee1356",
@@ -147,7 +147,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "efcdcef0-3ba0-47f5-979e-542679ee1356.png"
+    "image": "efcdcef0-3ba0-47f5-979e-542679ee1356.jpg"
   },
   {
     "id": "ec889816-9f94-4e87-be4e-9b3ed9a1ae47",
@@ -161,7 +161,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ec889816-9f94-4e87-be4e-9b3ed9a1ae47.png"
+    "image": "ec889816-9f94-4e87-be4e-9b3ed9a1ae47.jpg"
   },
   {
     "id": "1050028a-fd6b-4380-a75b-f0195b29e3e2",
@@ -175,7 +175,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "1050028a-fd6b-4380-a75b-f0195b29e3e2.png"
+    "image": "1050028a-fd6b-4380-a75b-f0195b29e3e2.jpg"
   },
   {
     "id": "4776d8e3-22ae-4031-9e6d-4564a1f88109",
@@ -189,7 +189,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4776d8e3-22ae-4031-9e6d-4564a1f88109.png"
+    "image": "4776d8e3-22ae-4031-9e6d-4564a1f88109.jpg"
   },
   {
     "id": "7080d177-e148-4cac-a824-da6b9b917c56",
@@ -203,7 +203,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7080d177-e148-4cac-a824-da6b9b917c56.png"
+    "image": "7080d177-e148-4cac-a824-da6b9b917c56.jpg"
   },
   {
     "id": "a757e9eb-52e3-48e3-83a0-0deb8d59e20c",
@@ -217,7 +217,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a757e9eb-52e3-48e3-83a0-0deb8d59e20c.png"
+    "image": "a757e9eb-52e3-48e3-83a0-0deb8d59e20c.jpg"
   },
   {
     "id": "90584165-bb04-495a-a33e-694b51b15f91",
@@ -231,7 +231,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "90584165-bb04-495a-a33e-694b51b15f91.png"
+    "image": "90584165-bb04-495a-a33e-694b51b15f91.jpg"
   },
   {
     "id": "ae40fa37-6643-40d7-b031-87450a473c93",
@@ -245,7 +245,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ae40fa37-6643-40d7-b031-87450a473c93.png"
+    "image": "ae40fa37-6643-40d7-b031-87450a473c93.jpg"
   },
   {
     "id": "1ac23243-89c6-44ff-941a-54ef235e558a",
@@ -259,7 +259,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "1ac23243-89c6-44ff-941a-54ef235e558a.png"
+    "image": "1ac23243-89c6-44ff-941a-54ef235e558a.jpg"
   },
   {
     "id": "f8fddf26-013a-4736-a844-0c74f90728d6",
@@ -273,7 +273,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f8fddf26-013a-4736-a844-0c74f90728d6.png"
+    "image": "f8fddf26-013a-4736-a844-0c74f90728d6.jpg"
   },
   {
     "id": "d93595b7-63d5-40f9-a502-e23697fec795",
@@ -291,7 +291,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d93595b7-63d5-40f9-a502-e23697fec795.png"
+    "image": "d93595b7-63d5-40f9-a502-e23697fec795.jpg"
   },
   {
     "id": "6cff6906-6583-4dad-9846-2b5ba1f684fd",
@@ -309,7 +309,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "6cff6906-6583-4dad-9846-2b5ba1f684fd.png"
+    "image": "6cff6906-6583-4dad-9846-2b5ba1f684fd.jpg"
   },
   {
     "id": "10fb5f87-82eb-4adb-a83f-e04c9131bb1d",
@@ -327,7 +327,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "10fb5f87-82eb-4adb-a83f-e04c9131bb1d.png"
+    "image": "10fb5f87-82eb-4adb-a83f-e04c9131bb1d.jpg"
   },
   {
     "id": "3ccaac17-442b-433a-81de-8abc56030a4e",
@@ -345,7 +345,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "3ccaac17-442b-433a-81de-8abc56030a4e.png"
+    "image": "3ccaac17-442b-433a-81de-8abc56030a4e.jpg"
   },
   {
     "id": "1640722b-9601-47c4-81f1-62410451a756",
@@ -363,7 +363,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "1640722b-9601-47c4-81f1-62410451a756.png"
+    "image": "1640722b-9601-47c4-81f1-62410451a756.jpg"
   },
   {
     "id": "2fc0682e-605d-4258-b541-dae42ef90b23",
@@ -381,7 +381,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "2fc0682e-605d-4258-b541-dae42ef90b23.png"
+    "image": "2fc0682e-605d-4258-b541-dae42ef90b23.jpg"
   },
   {
     "id": "f5551412-0358-4171-9b37-4ff4939cf34d",
@@ -399,7 +399,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f5551412-0358-4171-9b37-4ff4939cf34d.png"
+    "image": "f5551412-0358-4171-9b37-4ff4939cf34d.jpg"
   },
   {
     "id": "d85d047c-069b-4fdc-83ab-06b2e23560bd",
@@ -417,7 +417,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d85d047c-069b-4fdc-83ab-06b2e23560bd.png"
+    "image": "d85d047c-069b-4fdc-83ab-06b2e23560bd.jpg"
   },
   {
     "id": "0898a758-a321-487a-b275-baedccff213a",
@@ -435,7 +435,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0898a758-a321-487a-b275-baedccff213a.png"
+    "image": "0898a758-a321-487a-b275-baedccff213a.jpg"
   },
   {
     "id": "7cd76ece-aabc-4c63-8350-9b276179b3f8",
@@ -453,7 +453,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7cd76ece-aabc-4c63-8350-9b276179b3f8.png"
+    "image": "7cd76ece-aabc-4c63-8350-9b276179b3f8.jpg"
   },
   {
     "id": "c9526c36-d614-47e6-8be3-fab121dd30d0",
@@ -471,7 +471,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "c9526c36-d614-47e6-8be3-fab121dd30d0.png"
+    "image": "c9526c36-d614-47e6-8be3-fab121dd30d0.jpg"
   },
   {
     "id": "19f864db-92a9-4208-aaa5-f55ee6e999e1",
@@ -489,7 +489,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "19f864db-92a9-4208-aaa5-f55ee6e999e1.png"
+    "image": "19f864db-92a9-4208-aaa5-f55ee6e999e1.jpg"
   },
   {
     "id": "cc346e13-d341-4b85-a319-cf466152e32b",
@@ -507,7 +507,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "cc346e13-d341-4b85-a319-cf466152e32b.png"
+    "image": "cc346e13-d341-4b85-a319-cf466152e32b.jpg"
   },
   {
     "id": "98fdb400-f217-4c0c-901b-ead706049380",
@@ -525,7 +525,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "98fdb400-f217-4c0c-901b-ead706049380.png"
+    "image": "98fdb400-f217-4c0c-901b-ead706049380.jpg"
   },
   {
     "id": "18148bb2-3af1-46de-99fb-0407b9c31496",
@@ -543,7 +543,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "18148bb2-3af1-46de-99fb-0407b9c31496.png"
+    "image": "18148bb2-3af1-46de-99fb-0407b9c31496.jpg"
   },
   {
     "id": "0a8639a4-152b-4997-bb9b-19dae755fed7",
@@ -561,7 +561,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0a8639a4-152b-4997-bb9b-19dae755fed7.png"
+    "image": "0a8639a4-152b-4997-bb9b-19dae755fed7.jpg"
   },
   {
     "id": "ef3f47be-32ce-43ce-a569-43ae4f614d17",
@@ -579,7 +579,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ef3f47be-32ce-43ce-a569-43ae4f614d17.png"
+    "image": "ef3f47be-32ce-43ce-a569-43ae4f614d17.jpg"
   },
   {
     "id": "407bcd71-e47f-4534-ad5a-0cad398e726b",
@@ -597,7 +597,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "407bcd71-e47f-4534-ad5a-0cad398e726b.png"
+    "image": "407bcd71-e47f-4534-ad5a-0cad398e726b.jpg"
   },
   {
     "id": "83107cbf-50a0-48f7-9cc7-aacccea3f365",
@@ -615,7 +615,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "83107cbf-50a0-48f7-9cc7-aacccea3f365.png"
+    "image": "83107cbf-50a0-48f7-9cc7-aacccea3f365.jpg"
   },
   {
     "id": "a44ecaab-297a-444f-b4a5-54b697b10033",
@@ -633,7 +633,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a44ecaab-297a-444f-b4a5-54b697b10033.png"
+    "image": "a44ecaab-297a-444f-b4a5-54b697b10033.jpg"
   },
   {
     "id": "ed84ee68-406e-4563-be45-4fbee895c5b6",
@@ -651,7 +651,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ed84ee68-406e-4563-be45-4fbee895c5b6.png"
+    "image": "ed84ee68-406e-4563-be45-4fbee895c5b6.jpg"
   },
   {
     "id": "e53c38d3-a306-4fb8-b647-f0c42d36cef1",
@@ -669,7 +669,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "e53c38d3-a306-4fb8-b647-f0c42d36cef1.png"
+    "image": "e53c38d3-a306-4fb8-b647-f0c42d36cef1.jpg"
   },
   {
     "id": "df3b0b82-9d29-4f25-93cb-189bd946b8e9",
@@ -687,7 +687,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "df3b0b82-9d29-4f25-93cb-189bd946b8e9.png"
+    "image": "df3b0b82-9d29-4f25-93cb-189bd946b8e9.jpg"
   },
   {
     "id": "79bc7ee1-3f9c-4dec-8aa0-a6772b77313d",
@@ -705,7 +705,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "79bc7ee1-3f9c-4dec-8aa0-a6772b77313d.png"
+    "image": "79bc7ee1-3f9c-4dec-8aa0-a6772b77313d.jpg"
   },
   {
     "id": "49732a91-bfd6-4c7a-b638-750e0af39c39",
@@ -723,7 +723,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "49732a91-bfd6-4c7a-b638-750e0af39c39.png"
+    "image": "49732a91-bfd6-4c7a-b638-750e0af39c39.jpg"
   },
   {
     "id": "ba9f2f8e-be83-42b6-9c05-d0e9182eae58",
@@ -741,7 +741,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ba9f2f8e-be83-42b6-9c05-d0e9182eae58.png"
+    "image": "ba9f2f8e-be83-42b6-9c05-d0e9182eae58.jpg"
   },
   {
     "id": "51d1a9b6-8d3e-4e13-9f8d-451d762e6030",
@@ -759,7 +759,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "51d1a9b6-8d3e-4e13-9f8d-451d762e6030.png"
+    "image": "51d1a9b6-8d3e-4e13-9f8d-451d762e6030.jpg"
   },
   {
     "id": "621dc398-59f6-4d36-841b-0175f79bb0f3",
@@ -777,7 +777,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "621dc398-59f6-4d36-841b-0175f79bb0f3.png"
+    "image": "621dc398-59f6-4d36-841b-0175f79bb0f3.jpg"
   },
   {
     "id": "b16eaa52-04d7-4232-a56a-4111094728c7",
@@ -795,7 +795,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "b16eaa52-04d7-4232-a56a-4111094728c7.png"
+    "image": "b16eaa52-04d7-4232-a56a-4111094728c7.jpg"
   },
   {
     "id": "51ed69af-02ce-4dc5-8978-6ed630d881ba",
@@ -813,7 +813,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "51ed69af-02ce-4dc5-8978-6ed630d881ba.png"
+    "image": "51ed69af-02ce-4dc5-8978-6ed630d881ba.jpg"
   },
   {
     "id": "883321c3-c6b1-4b12-8dd4-f5b781220dc3",
@@ -831,7 +831,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "883321c3-c6b1-4b12-8dd4-f5b781220dc3.png"
+    "image": "883321c3-c6b1-4b12-8dd4-f5b781220dc3.jpg"
   },
   {
     "id": "0614eb31-ada9-4e80-8354-87a8c64d768e",
@@ -849,7 +849,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0614eb31-ada9-4e80-8354-87a8c64d768e.png"
+    "image": "0614eb31-ada9-4e80-8354-87a8c64d768e.jpg"
   },
   {
     "id": "4b26f2ba-09a9-460f-a9d7-7ca4b281b6f4",
@@ -867,7 +867,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4b26f2ba-09a9-460f-a9d7-7ca4b281b6f4.png"
+    "image": "4b26f2ba-09a9-460f-a9d7-7ca4b281b6f4.jpg"
   },
   {
     "id": "7c2736bd-143f-4640-ad8a-fb1aadb2b0a9",
@@ -885,7 +885,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7c2736bd-143f-4640-ad8a-fb1aadb2b0a9.png"
+    "image": "7c2736bd-143f-4640-ad8a-fb1aadb2b0a9.jpg"
   },
   {
     "id": "d59e0375-7e26-414e-915b-7dc2e3e50d4c",
@@ -903,7 +903,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d59e0375-7e26-414e-915b-7dc2e3e50d4c.png"
+    "image": "d59e0375-7e26-414e-915b-7dc2e3e50d4c.jpg"
   },
   {
     "id": "5f82a375-f1b7-4906-bd4b-de4d2011d5dd",
@@ -921,7 +921,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "5f82a375-f1b7-4906-bd4b-de4d2011d5dd.png"
+    "image": "5f82a375-f1b7-4906-bd4b-de4d2011d5dd.jpg"
   },
   {
     "id": "365a3cb8-8966-43a6-b0af-257830776b25",
@@ -939,7 +939,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "365a3cb8-8966-43a6-b0af-257830776b25.png"
+    "image": "365a3cb8-8966-43a6-b0af-257830776b25.jpg"
   },
   {
     "id": "eab2f997-a6cd-4444-91a3-b4f02ef27bc8",
@@ -957,7 +957,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "eab2f997-a6cd-4444-91a3-b4f02ef27bc8.png"
+    "image": "eab2f997-a6cd-4444-91a3-b4f02ef27bc8.jpg"
   },
   {
     "id": "bd1be819-25eb-4260-a5bf-d4e8fe729ba1",
@@ -975,7 +975,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "bd1be819-25eb-4260-a5bf-d4e8fe729ba1.png"
+    "image": "bd1be819-25eb-4260-a5bf-d4e8fe729ba1.jpg"
   },
   {
     "id": "bda62401-9c43-4839-80ed-b0ef964ee51d",
@@ -993,7 +993,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "bda62401-9c43-4839-80ed-b0ef964ee51d.png"
+    "image": "bda62401-9c43-4839-80ed-b0ef964ee51d.jpg"
   },
   {
     "id": "1662cbec-2634-4c4e-a260-d40546331cce",
@@ -1011,7 +1011,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "1662cbec-2634-4c4e-a260-d40546331cce.png"
+    "image": "1662cbec-2634-4c4e-a260-d40546331cce.jpg"
   },
   {
     "id": "f6ed8d27-3e56-4886-be95-514be6702fc7",
@@ -1029,7 +1029,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f6ed8d27-3e56-4886-be95-514be6702fc7.png"
+    "image": "f6ed8d27-3e56-4886-be95-514be6702fc7.jpg"
   },
   {
     "id": "4a8c2651-efc7-4d29-ace7-d44b7ac9a6f0",
@@ -1047,7 +1047,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4a8c2651-efc7-4d29-ace7-d44b7ac9a6f0.png"
+    "image": "4a8c2651-efc7-4d29-ace7-d44b7ac9a6f0.jpg"
   },
   {
     "id": "9019401d-f4f8-4c69-ab09-8bc44d34ee5b",
@@ -1065,7 +1065,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "9019401d-f4f8-4c69-ab09-8bc44d34ee5b.png"
+    "image": "9019401d-f4f8-4c69-ab09-8bc44d34ee5b.jpg"
   },
   {
     "id": "b478334c-1892-486e-8608-e3cfe9f26282",
@@ -1083,7 +1083,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "b478334c-1892-486e-8608-e3cfe9f26282.png"
+    "image": "b478334c-1892-486e-8608-e3cfe9f26282.jpg"
   },
   {
     "id": "dc51bad3-ae50-4d0d-9472-b14715cd5795",
@@ -1101,7 +1101,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "dc51bad3-ae50-4d0d-9472-b14715cd5795.png"
+    "image": "dc51bad3-ae50-4d0d-9472-b14715cd5795.jpg"
   },
   {
     "id": "3baed01e-4b6c-49e7-adf4-429ed2e8b942",
@@ -1119,7 +1119,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "3baed01e-4b6c-49e7-adf4-429ed2e8b942.png"
+    "image": "3baed01e-4b6c-49e7-adf4-429ed2e8b942.jpg"
   },
   {
     "id": "e91e2110-bc7b-4624-aa30-e90f381cf330",
@@ -1137,7 +1137,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "e91e2110-bc7b-4624-aa30-e90f381cf330.png"
+    "image": "e91e2110-bc7b-4624-aa30-e90f381cf330.jpg"
   },
   {
     "id": "91ff363c-57e8-440d-8cc2-274fbcb04a71",
@@ -1155,7 +1155,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "91ff363c-57e8-440d-8cc2-274fbcb04a71.png"
+    "image": "91ff363c-57e8-440d-8cc2-274fbcb04a71.jpg"
   },
   {
     "id": "7c4493dc-5ab5-42f3-bf44-742733755cc0",
@@ -1173,7 +1173,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7c4493dc-5ab5-42f3-bf44-742733755cc0.png"
+    "image": "7c4493dc-5ab5-42f3-bf44-742733755cc0.jpg"
   },
   {
     "id": "6618be6a-3705-4473-b93e-e76017001bae",
@@ -1191,7 +1191,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "6618be6a-3705-4473-b93e-e76017001bae.png"
+    "image": "6618be6a-3705-4473-b93e-e76017001bae.jpg"
   },
   {
     "id": "edfd4893-20d8-4684-a330-fd4c8bfc2eea",
@@ -1209,7 +1209,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "edfd4893-20d8-4684-a330-fd4c8bfc2eea.png"
+    "image": "edfd4893-20d8-4684-a330-fd4c8bfc2eea.jpg"
   },
   {
     "id": "0a0231a2-45e5-4bd3-a36a-bb26b17e4ef4",
@@ -1227,7 +1227,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0a0231a2-45e5-4bd3-a36a-bb26b17e4ef4.png"
+    "image": "0a0231a2-45e5-4bd3-a36a-bb26b17e4ef4.jpg"
   },
   {
     "id": "6f90122c-1fca-4c8f-a43f-889674698b3f",
@@ -1245,7 +1245,7 @@
     "Link type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "6f90122c-1fca-4c8f-a43f-889674698b3f.png"
+    "image": "6f90122c-1fca-4c8f-a43f-889674698b3f.jpg"
   },
   {
     "id": "8f6b36dd-e542-46fb-bb24-43ad20161f9a",
@@ -1260,7 +1260,7 @@
     "Attack Height": "High",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "8f6b36dd-e542-46fb-bb24-43ad20161f9a.png"
+    "image": "8f6b36dd-e542-46fb-bb24-43ad20161f9a.jpg"
   },
   {
     "id": "fad0f5aa-668e-4bb4-b3af-47dff6d317fa",
@@ -1275,7 +1275,7 @@
     "Attack Height": "High",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "fad0f5aa-668e-4bb4-b3af-47dff6d317fa.png"
+    "image": "fad0f5aa-668e-4bb4-b3af-47dff6d317fa.jpg"
   },
   {
     "id": "88632812-1298-445c-8a62-858450eb61aa",
@@ -1292,12 +1292,12 @@
       {
         "name": "High Impact Stop",
         "type": "alt",
-        "image": "88632812-1298-445c-8a62-858450eb61aa.alt.png"
+        "image": "88632812-1298-445c-8a62-858450eb61aa.alt.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "88632812-1298-445c-8a62-858450eb61aa.png"
+    "image": "88632812-1298-445c-8a62-858450eb61aa.jpg"
   },
   {
     "id": "e04ac59d-d388-4eaf-9f27-fbf5dc55ba71",
@@ -1312,7 +1312,7 @@
     "Attack Height": "High",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "e04ac59d-d388-4eaf-9f27-fbf5dc55ba71.png"
+    "image": "e04ac59d-d388-4eaf-9f27-fbf5dc55ba71.jpg"
   },
   {
     "id": "f5dd55d8-eb6f-485f-9b20-165646529f74",
@@ -1327,7 +1327,7 @@
     "Attack Height": "High",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f5dd55d8-eb6f-485f-9b20-165646529f74.png"
+    "image": "f5dd55d8-eb6f-485f-9b20-165646529f74.jpg"
   },
   {
     "id": "3a1b6fa4-447b-4c84-abd0-bbd6503741a2",
@@ -1342,7 +1342,7 @@
     "Attack Height": "Low",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "3a1b6fa4-447b-4c84-abd0-bbd6503741a2.png"
+    "image": "3a1b6fa4-447b-4c84-abd0-bbd6503741a2.jpg"
   },
   {
     "id": "b9849008-258b-40f2-957b-a7ead5b9527d",
@@ -1357,7 +1357,7 @@
     "Attack Height": "Low",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "b9849008-258b-40f2-957b-a7ead5b9527d.png"
+    "image": "b9849008-258b-40f2-957b-a7ead5b9527d.jpg"
   },
   {
     "id": "05426daa-1469-437e-9fad-1a3afaff982f",
@@ -1372,7 +1372,7 @@
     "Attack Height": "Low",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "05426daa-1469-437e-9fad-1a3afaff982f.png"
+    "image": "05426daa-1469-437e-9fad-1a3afaff982f.jpg"
   },
   {
     "id": "b6af79ad-a668-4816-82e7-225fa2355fcb",
@@ -1385,7 +1385,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "b6af79ad-a668-4816-82e7-225fa2355fcb.png"
+    "image": "b6af79ad-a668-4816-82e7-225fa2355fcb.jpg"
   },
   {
     "id": "963eb2de-e2e4-4763-b74d-2158a2718483",
@@ -1398,7 +1398,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "963eb2de-e2e4-4763-b74d-2158a2718483.png"
+    "image": "963eb2de-e2e4-4763-b74d-2158a2718483.jpg"
   },
   {
     "id": "4c3d28a9-e023-439a-a74f-765b022ac9d3",
@@ -1411,7 +1411,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4c3d28a9-e023-439a-a74f-765b022ac9d3.png"
+    "image": "4c3d28a9-e023-439a-a74f-765b022ac9d3.jpg"
   },
   {
     "id": "280fb63e-4d12-4c61-8406-d6859f9beec9",
@@ -1425,7 +1425,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "280fb63e-4d12-4c61-8406-d6859f9beec9.png"
+    "image": "280fb63e-4d12-4c61-8406-d6859f9beec9.jpg"
   },
   {
     "id": "fb7bb8e7-f503-4b84-8f7d-0e7ccf437b5f",
@@ -1439,7 +1439,7 @@
     "Energy Cost": "4",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "fb7bb8e7-f503-4b84-8f7d-0e7ccf437b5f.png"
+    "image": "fb7bb8e7-f503-4b84-8f7d-0e7ccf437b5f.jpg"
   },
   {
     "id": "121295bc-fe29-4d6a-bb39-35e57f3c8d19",
@@ -1453,7 +1453,7 @@
     "Energy Cost": "5",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "121295bc-fe29-4d6a-bb39-35e57f3c8d19.png"
+    "image": "121295bc-fe29-4d6a-bb39-35e57f3c8d19.jpg"
   },
   {
     "id": "42bd0e73-685a-4851-a93a-947a08437fc5",
@@ -1467,7 +1467,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "42bd0e73-685a-4851-a93a-947a08437fc5.png"
+    "image": "42bd0e73-685a-4851-a93a-947a08437fc5.jpg"
   },
   {
     "id": "2e38cb24-53fa-4621-962b-58033da4a7ce",
@@ -1481,7 +1481,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "2e38cb24-53fa-4621-962b-58033da4a7ce.png"
+    "image": "2e38cb24-53fa-4621-962b-58033da4a7ce.jpg"
   },
   {
     "id": "22b3ff06-aca0-4a8b-8885-b00e0cb5723a",
@@ -1499,7 +1499,7 @@
     "Link type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "22b3ff06-aca0-4a8b-8885-b00e0cb5723a.png"
+    "image": "22b3ff06-aca0-4a8b-8885-b00e0cb5723a.jpg"
   },
   {
     "id": "500a52d7-627a-485d-ac64-d4af7f106098",
@@ -1517,7 +1517,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "500a52d7-627a-485d-ac64-d4af7f106098.png"
+    "image": "500a52d7-627a-485d-ac64-d4af7f106098.jpg"
   },
   {
     "id": "fe0635bd-0bf4-4e37-b4b1-06fc0ffc41e7",
@@ -1535,7 +1535,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "fe0635bd-0bf4-4e37-b4b1-06fc0ffc41e7.png"
+    "image": "fe0635bd-0bf4-4e37-b4b1-06fc0ffc41e7.jpg"
   },
   {
     "id": "ddfb8518-e9c9-4a90-8647-70437dcd2a14",
@@ -1553,7 +1553,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ddfb8518-e9c9-4a90-8647-70437dcd2a14.png"
+    "image": "ddfb8518-e9c9-4a90-8647-70437dcd2a14.jpg"
   },
   {
     "id": "a23fe8e8-6cca-451a-bfe3-1e77eacf4897",
@@ -1571,7 +1571,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a23fe8e8-6cca-451a-bfe3-1e77eacf4897.png"
+    "image": "a23fe8e8-6cca-451a-bfe3-1e77eacf4897.jpg"
   },
   {
     "id": "0c7e153a-62e1-437c-8496-3d1b82521c4f",
@@ -1589,7 +1589,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0c7e153a-62e1-437c-8496-3d1b82521c4f.png"
+    "image": "0c7e153a-62e1-437c-8496-3d1b82521c4f.jpg"
   },
   {
     "id": "9507c4ca-37ca-4cd6-84b7-039ca7312937",
@@ -1607,7 +1607,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "9507c4ca-37ca-4cd6-84b7-039ca7312937.png"
+    "image": "9507c4ca-37ca-4cd6-84b7-039ca7312937.jpg"
   },
   {
     "id": "a923e130-4f0e-4067-8673-b43f9ea42dfa",
@@ -1625,7 +1625,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a923e130-4f0e-4067-8673-b43f9ea42dfa.png"
+    "image": "a923e130-4f0e-4067-8673-b43f9ea42dfa.jpg"
   },
   {
     "id": "14805b13-0327-4ed2-b132-31df5ad28cc2",
@@ -1643,7 +1643,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "14805b13-0327-4ed2-b132-31df5ad28cc2.png"
+    "image": "14805b13-0327-4ed2-b132-31df5ad28cc2.jpg"
   },
   {
     "id": "ea65f708-f029-49cb-b892-678100e63aa9",
@@ -1661,7 +1661,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ea65f708-f029-49cb-b892-678100e63aa9.png"
+    "image": "ea65f708-f029-49cb-b892-678100e63aa9.jpg"
   },
   {
     "id": "0ebf4eb6-e65d-4a88-b52e-e0561ab2cda8",
@@ -1679,7 +1679,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0ebf4eb6-e65d-4a88-b52e-e0561ab2cda8.png"
+    "image": "0ebf4eb6-e65d-4a88-b52e-e0561ab2cda8.jpg"
   },
   {
     "id": "2eac6846-34f2-4edc-9217-18013be5376a",
@@ -1699,12 +1699,12 @@
       {
         "name": "Ryu's Shin Shoryuken",
         "type": "alt",
-        "image": "2eac6846-34f2-4edc-9217-18013be5376a.alt.png"
+        "image": "2eac6846-34f2-4edc-9217-18013be5376a.alt.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "2eac6846-34f2-4edc-9217-18013be5376a.png"
+    "image": "2eac6846-34f2-4edc-9217-18013be5376a.jpg"
   },
   {
     "id": "8681d798-5241-49da-b169-809b07a5af43",
@@ -1722,7 +1722,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "8681d798-5241-49da-b169-809b07a5af43.png"
+    "image": "8681d798-5241-49da-b169-809b07a5af43.jpg"
   },
   {
     "id": "6db443a4-6a8e-4619-a913-c8f92540b9ea",
@@ -1740,7 +1740,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "6db443a4-6a8e-4619-a913-c8f92540b9ea.png"
+    "image": "6db443a4-6a8e-4619-a913-c8f92540b9ea.jpg"
   },
   {
     "id": "71e0b66c-872a-4c97-a18f-1f9176b8a076",
@@ -1758,7 +1758,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "71e0b66c-872a-4c97-a18f-1f9176b8a076.png"
+    "image": "71e0b66c-872a-4c97-a18f-1f9176b8a076.jpg"
   },
   {
     "id": "5a881f6c-e78f-4779-b719-7c3a2cb76f82",
@@ -1776,7 +1776,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "5a881f6c-e78f-4779-b719-7c3a2cb76f82.png"
+    "image": "5a881f6c-e78f-4779-b719-7c3a2cb76f82.jpg"
   },
   {
     "id": "ca544568-954d-4e12-8221-a45ccfb1b539",
@@ -1794,7 +1794,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ca544568-954d-4e12-8221-a45ccfb1b539.png"
+    "image": "ca544568-954d-4e12-8221-a45ccfb1b539.jpg"
   },
   {
     "id": "4aa7b975-dfce-46a6-a64e-dfb5e16c5e55",
@@ -1812,7 +1812,7 @@
     "Link type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4aa7b975-dfce-46a6-a64e-dfb5e16c5e55.png"
+    "image": "4aa7b975-dfce-46a6-a64e-dfb5e16c5e55.jpg"
   },
   {
     "id": "08dd9509-c11b-4e5f-b56f-3efce3af2b0e",
@@ -1830,7 +1830,7 @@
     "Link type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "08dd9509-c11b-4e5f-b56f-3efce3af2b0e.png"
+    "image": "08dd9509-c11b-4e5f-b56f-3efce3af2b0e.jpg"
   },
   {
     "id": "ff49507c-c287-4a5e-9b99-31375232efe2",
@@ -1848,7 +1848,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ff49507c-c287-4a5e-9b99-31375232efe2.png"
+    "image": "ff49507c-c287-4a5e-9b99-31375232efe2.jpg"
   },
   {
     "id": "0d3e48fd-2739-40f1-a127-64168b77bfe7",
@@ -1866,7 +1866,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "0d3e48fd-2739-40f1-a127-64168b77bfe7.png"
+    "image": "0d3e48fd-2739-40f1-a127-64168b77bfe7.jpg"
   },
   {
     "id": "1b5a328d-9f5e-4e39-a72e-ae6ea143ef68",
@@ -1884,7 +1884,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "1b5a328d-9f5e-4e39-a72e-ae6ea143ef68.png"
+    "image": "1b5a328d-9f5e-4e39-a72e-ae6ea143ef68.jpg"
   },
   {
     "id": "9e3d0332-b398-46e3-b4a2-f63e51110f9f",
@@ -1902,7 +1902,7 @@
     "Link type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "9e3d0332-b398-46e3-b4a2-f63e51110f9f.png"
+    "image": "9e3d0332-b398-46e3-b4a2-f63e51110f9f.jpg"
   },
   {
     "id": "7521a350-14e9-403b-9edb-97f330e206d7",
@@ -1917,7 +1917,7 @@
     "Attack Height": "Low",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7521a350-14e9-403b-9edb-97f330e206d7.png"
+    "image": "7521a350-14e9-403b-9edb-97f330e206d7.jpg"
   },
   {
     "id": "4de288de-4abb-42c1-840d-360390c5222f",
@@ -1932,7 +1932,7 @@
     "Attack Height": "Low",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "4de288de-4abb-42c1-840d-360390c5222f.png"
+    "image": "4de288de-4abb-42c1-840d-360390c5222f.jpg"
   },
   {
     "id": "d2fa3261-560a-41aa-8d08-b6a5f6cf03ac",
@@ -1946,7 +1946,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d2fa3261-560a-41aa-8d08-b6a5f6cf03ac.png"
+    "image": "d2fa3261-560a-41aa-8d08-b6a5f6cf03ac.jpg"
   },
   {
     "id": "fcaefaba-b5bb-4733-8b55-99f802654bdd",
@@ -1960,7 +1960,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "fcaefaba-b5bb-4733-8b55-99f802654bdd.png"
+    "image": "fcaefaba-b5bb-4733-8b55-99f802654bdd.jpg"
   },
   {
     "id": "7ba12552-baf5-4e53-bef8-14fce060c21e",
@@ -1978,7 +1978,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "7ba12552-baf5-4e53-bef8-14fce060c21e.png"
+    "image": "7ba12552-baf5-4e53-bef8-14fce060c21e.jpg"
   },
   {
     "id": "e24bad14-235f-4ae1-b7cb-9c97e32b0adb",
@@ -1996,7 +1996,7 @@
     "Link type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "e24bad14-235f-4ae1-b7cb-9c97e32b0adb.png"
+    "image": "e24bad14-235f-4ae1-b7cb-9c97e32b0adb.jpg"
   },
   {
     "id": "f5ad814e-46fb-47d6-9bc5-5bd2ee983195",
@@ -2011,12 +2011,12 @@
       {
         "name": "Evil Ryu",
         "type": "alt",
-        "image": "f5ad814e-46fb-47d6-9bc5-5bd2ee983195.alt.png"
+        "image": "f5ad814e-46fb-47d6-9bc5-5bd2ee983195.alt.jpg"
       }
     ],
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "f5ad814e-46fb-47d6-9bc5-5bd2ee983195.png"
+    "image": "f5ad814e-46fb-47d6-9bc5-5bd2ee983195.jpg"
   },
   {
     "id": "31ad9f06-e5d2-45ba-b36a-367ca635f8a5",
@@ -2029,7 +2029,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "31ad9f06-e5d2-45ba-b36a-367ca635f8a5.png"
+    "image": "31ad9f06-e5d2-45ba-b36a-367ca635f8a5.jpg"
   },
   {
     "id": "c5f758d6-b05e-4126-b053-6aae7fcc05b4",
@@ -2043,7 +2043,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "c5f758d6-b05e-4126-b053-6aae7fcc05b4.png"
+    "image": "c5f758d6-b05e-4126-b053-6aae7fcc05b4.jpg"
   },
   {
     "id": "ca00c508-b683-41ee-a7b8-a42b12bc9913",
@@ -2057,7 +2057,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ca00c508-b683-41ee-a7b8-a42b12bc9913.png"
+    "image": "ca00c508-b683-41ee-a7b8-a42b12bc9913.jpg"
   },
   {
     "id": "a8b36e9b-610e-42bf-98cb-029343f76472",
@@ -2071,7 +2071,7 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a8b36e9b-610e-42bf-98cb-029343f76472.png"
+    "image": "a8b36e9b-610e-42bf-98cb-029343f76472.jpg"
   },
   {
     "id": "d5706e87-30a2-44f1-8476-701a40eb6ce1",
@@ -2085,7 +2085,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "d5706e87-30a2-44f1-8476-701a40eb6ce1.png"
+    "image": "d5706e87-30a2-44f1-8476-701a40eb6ce1.jpg"
   },
   {
     "id": "31b9bd7b-6530-4330-b273-6f77314d5eb0",
@@ -2098,7 +2098,7 @@
     "Limit per Deck": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "31b9bd7b-6530-4330-b273-6f77314d5eb0.png"
+    "image": "31b9bd7b-6530-4330-b273-6f77314d5eb0.jpg"
   },
   {
     "id": "75c23057-5ede-464b-bfd0-ca6a7ae7622c",
@@ -2112,7 +2112,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "75c23057-5ede-464b-bfd0-ca6a7ae7622c.png"
+    "image": "75c23057-5ede-464b-bfd0-ca6a7ae7622c.jpg"
   },
   {
     "id": "ea80555e-3aad-4989-b787-b1754e6e165b",
@@ -2126,7 +2126,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "ea80555e-3aad-4989-b787-b1754e6e165b.png"
+    "image": "ea80555e-3aad-4989-b787-b1754e6e165b.jpg"
   },
   {
     "id": "a4d57cd8-d38a-4b9d-87d9-0f04dfd69ac9",
@@ -2140,7 +2140,7 @@
     "Energy Cost": "0",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "a4d57cd8-d38a-4b9d-87d9-0f04dfd69ac9.png"
+    "image": "a4d57cd8-d38a-4b9d-87d9-0f04dfd69ac9.jpg"
   },
   {
     "id": "03cb8f4f-35dc-4b6b-8892-33f606b84d17",
@@ -2154,6 +2154,6 @@
     "Energy Cost": "1",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
-    "image": "03cb8f4f-35dc-4b6b-8892-33f606b84d17.png"
+    "image": "03cb8f4f-35dc-4b6b-8892-33f606b84d17.jpg"
   }
 ]

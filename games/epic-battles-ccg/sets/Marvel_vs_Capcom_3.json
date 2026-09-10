@@ -10,7 +10,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "dd62e745-308d-4b93-a86c-6e6f3a052d60.png"
+    "image": "dd62e745-308d-4b93-a86c-6e6f3a052d60.jpg"
   },
   {
     "id": "99b22764-57b0-44c5-aa9f-5cc2968b13ab",
@@ -23,7 +23,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "99b22764-57b0-44c5-aa9f-5cc2968b13ab.png"
+    "image": "99b22764-57b0-44c5-aa9f-5cc2968b13ab.jpg"
   },
   {
     "id": "0e184c4a-2017-47d3-a0e6-8337a55b69fb",
@@ -36,7 +36,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "0e184c4a-2017-47d3-a0e6-8337a55b69fb.png"
+    "image": "0e184c4a-2017-47d3-a0e6-8337a55b69fb.jpg"
   },
   {
     "id": "219137a6-92bb-41f6-8265-b97041a88875",
@@ -49,7 +49,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "219137a6-92bb-41f6-8265-b97041a88875.png"
+    "image": "219137a6-92bb-41f6-8265-b97041a88875.jpg"
   },
   {
     "id": "e276025e-262b-49e3-8473-f8f828d02a70",
@@ -62,7 +62,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "e276025e-262b-49e3-8473-f8f828d02a70.png"
+    "image": "e276025e-262b-49e3-8473-f8f828d02a70.jpg"
   },
   {
     "id": "0707e5fc-df87-4986-ac08-ff62556c1af0",
@@ -75,7 +75,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "0707e5fc-df87-4986-ac08-ff62556c1af0.png"
+    "image": "0707e5fc-df87-4986-ac08-ff62556c1af0.jpg"
   },
   {
     "id": "16e7a29f-3329-4314-8573-d2b3fc34561f",
@@ -88,7 +88,7 @@
     "Limit per Deck": "1",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "16e7a29f-3329-4314-8573-d2b3fc34561f.png"
+    "image": "16e7a29f-3329-4314-8573-d2b3fc34561f.jpg"
   },
   {
     "id": "3ee9742d-4507-4677-a0dd-566f0c86ce9b",
@@ -106,7 +106,7 @@
     "Link type": "Kick",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "3ee9742d-4507-4677-a0dd-566f0c86ce9b.png"
+    "image": "3ee9742d-4507-4677-a0dd-566f0c86ce9b.jpg"
   },
   {
     "id": "ca44c28c-c175-4354-9a5e-97371ee995e8",
@@ -124,7 +124,7 @@
     "Link type": "",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "ca44c28c-c175-4354-9a5e-97371ee995e8.png"
+    "image": "ca44c28c-c175-4354-9a5e-97371ee995e8.jpg"
   },
   {
     "id": "3923e350-049f-4729-a427-d8c19a200f91",
@@ -142,6 +142,6 @@
     "Link type": "",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
-    "image": "3923e350-049f-4729-a427-d8c19a200f91.png"
+    "image": "3923e350-049f-4729-a427-d8c19a200f91.jpg"
   }
 ]
