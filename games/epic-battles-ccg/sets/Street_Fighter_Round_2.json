@@ -15,7 +15,7 @@
         "image": "78c89a03-b0d1-4b25-b7fa-ad52b342b508.alt.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "78c89a03-b0d1-4b25-b7fa-ad52b342b508.jpg"
   },
@@ -40,7 +40,7 @@
         "image": "b1694e1b-0d34-4c9f-ba0d-42584d9deb2e.alt1.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "b1694e1b-0d34-4c9f-ba0d-42584d9deb2e.jpg"
   },
@@ -60,7 +60,7 @@
         "image": "1acc9215-4800-4fb4-982e-d3f6efb2b9d3.alt.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "1acc9215-4800-4fb4-982e-d3f6efb2b9d3.jpg"
   },
@@ -80,7 +80,7 @@
         "image": "1be87a07-6873-4413-ba0d-0d1ad59dc1ef.alt.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "1be87a07-6873-4413-ba0d-0d1ad59dc1ef.jpg"
   },
@@ -100,7 +100,7 @@
         "image": "6fbdc0ea-ee3f-4750-a843-306173b391a6.alt.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "6fbdc0ea-ee3f-4750-a843-306173b391a6.jpg"
   },
@@ -120,7 +120,7 @@
         "image": "547d7f01-7176-4429-8119-65e84ba055af.alt.jpg"
       }
     ],
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "547d7f01-7176-4429-8119-65e84ba055af.jpg"
   },
@@ -134,13 +134,13 @@
     "Text": "Flip when you attack.  Your 0 and 1 cost attacks are unblockable this action.",
     "Limit per Deck": "4",
     "Energy Cost": "2",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "93957c72-d37c-4f85-9254-4affc736f1a7.jpg"
   },
   {
     "id": "93275906-044c-4dcf-8974-5357dbd9597c",
-    "name": "Good Reads",
+    "name": "Good Read",
     "Franchise": "Street Fighter",
     "Card Number": "C8",
     "Rarity": "Common",
@@ -148,7 +148,7 @@
     "Text": "Flip when your rival attacks before you play a block.  Look at the top 3 cards of your deck.  Put 1 of those cards in your hand and the other 2 on the bottom of your deck.  (*) Limit 1 per deck.",
     "Limit per Deck": "1",
     "Energy Cost": "2",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "93275906-044c-4dcf-8974-5357dbd9597c.jpg"
   },
@@ -162,7 +162,7 @@
     "Text": "STREET FIGHTER ONLY - Flip at the start of Battle.  Draw 3 cards, then place 2 cards from your hand on top of your deck.  (*) Remove this card.  (*) Limit 1 per deck.",
     "Limit per Deck": "1",
     "Energy Cost": "3",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "81d9d946-0f4f-48c7-84fa-33536e7ec3d4.jpg"
   },
@@ -180,7 +180,7 @@
     "Attack Type": "Slam",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a7b7add0-95f2-43ee-8191-f077829df601.jpg"
   },
@@ -198,7 +198,7 @@
     "Attack Type": "Kick",
     "Attack Height": "High",
     "Link type": "Kick",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "e38169b1-7503-412a-9942-bccf0dbddb37.jpg"
   },
@@ -216,7 +216,7 @@
     "Attack Type": "Kick",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "bd6d5ebd-90c6-4c35-8d70-ec4b5b76bf5d.jpg"
   },
@@ -234,7 +234,7 @@
     "Attack Type": "Kick",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "200f6f84-0641-4415-9022-4b72651a398d.jpg"
   },
@@ -252,7 +252,7 @@
     "Attack Type": "Projectile",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "51099012-decf-4340-9521-c436325f280b.jpg"
   },
@@ -270,7 +270,7 @@
     "Attack Type": "Projectile",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a6d08596-806d-41fb-ae3a-211f78ef31d7.jpg"
   },
@@ -288,7 +288,7 @@
     "Attack Type": "Punch",
     "Attack Height": "High",
     "Link type": "Punch",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "b86c66bb-db3b-4bf0-b6eb-14a5372b50fa.jpg"
   },
@@ -306,7 +306,7 @@
     "Attack Type": "Slam",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "48255004-c8b4-4879-bae1-efed5f8be7f1.jpg"
   },
@@ -324,7 +324,7 @@
     "Attack Type": "Slam",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "7cb6a083-e73c-4f8e-aa7c-37c3557839f1.jpg"
   },
@@ -342,7 +342,7 @@
     "Attack Type": "Kick",
     "Attack Height": "High",
     "Link type": "Projectile",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "cee2f7a8-6c94-48cd-b64f-373ea39021bf.jpg"
   },
@@ -360,7 +360,7 @@
     "Attack Type": "Projectile",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "2269fa04-1709-4c4c-8aa3-b61243ab27bb.jpg"
   },
@@ -378,7 +378,7 @@
     "Attack Type": "Projectile",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "f9aab230-375b-4fd7-8082-70ca1ebae164.jpg"
   },
@@ -396,7 +396,7 @@
     "Attack Type": "Punch",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "785abbb5-912f-425e-8572-cebf51d11814.jpg"
   },
@@ -414,7 +414,7 @@
     "Attack Type": "Throw",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "795d0229-4575-44f6-ac17-40b2c3e0e81a.jpg"
   },
@@ -432,7 +432,7 @@
     "Attack Type": "Throw",
     "Attack Height": "High",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "7f3deab8-fdfe-4da0-acdd-f0dcdb0802a9.jpg"
   },
@@ -450,7 +450,7 @@
     "Attack Type": "Electric",
     "Attack Height": "Low",
     "Link type": "Electric",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "0bb9054b-399e-4c9f-9202-6d61b490da2b.jpg"
   },
@@ -468,7 +468,7 @@
     "Attack Type": "Electric",
     "Attack Height": "Low",
     "Link type": "",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a6d55d22-ad75-4012-80a9-f364f87808de.jpg"
   },
@@ -483,7 +483,7 @@
     "Limit per Deck": "4",
     "Energy Cost": "2",
     "Attack Height": "High",
-    "Set": "Street Fighter: Round 2",
+    "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "65de8e8c-b552-4f6e-9fb3-5e510293fce0.jpg"
   }
