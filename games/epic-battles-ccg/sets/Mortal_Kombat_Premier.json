@@ -131,7 +131,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "8230cb9a-d724-4e7b-8700-ff6ad93cde21.jpg"
@@ -149,7 +149,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "12893815-a70e-45b5-9a54-122643bb79f3.jpg"
@@ -167,7 +167,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "f806d47f-c080-4c3d-be75-8827e9ce6473.jpg"
@@ -185,7 +185,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "77b17a71-f80c-499e-a428-89bf7ace7c3d.jpg"
@@ -203,7 +203,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "3f4a7867-8ba9-4266-affc-5fc723c942ec.jpg"
@@ -221,7 +221,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "cbb8e900-0a32-4363-82c0-3d88588bf605.jpg"
@@ -239,7 +239,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "79711613-05da-4086-a167-2fc2a6e7c798.jpg"
@@ -257,7 +257,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "7a776105-5940-4179-9d6c-f22f432f135e.jpg"
@@ -275,7 +275,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "7f90a9cf-2d03-41a7-91eb-dd4a31f59428.jpg"
@@ -293,7 +293,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "eab1939c-4392-4b24-9e31-914c2c8ebb68.jpg"
@@ -311,7 +311,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "874c0f16-3b62-42ce-9113-b605d3bf6c11.jpg"
@@ -329,7 +329,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "16929130-f451-4539-8271-ce9abde35c7b.jpg"
@@ -347,7 +347,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "29a19041-bd5f-4cc0-97a4-2346d96a9c77.jpg"
@@ -365,7 +365,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "67c55af2-f49f-4b82-b0f5-8fdad12f8936.jpg"
@@ -383,7 +383,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "01025e47-dcb4-46e5-a778-acf93c3b262f.jpg"
@@ -401,7 +401,7 @@
     "Damage": "12",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "1e65bd12-4ae1-4d3d-86d8-6903e5b85be5.jpg"
@@ -419,7 +419,7 @@
     "Damage": "10",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "1f527d80-628d-4445-9858-708360885fdf.jpg"
@@ -437,7 +437,7 @@
     "Damage": "0",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "8fed9a6e-4922-4491-9e7c-4af601677c95.jpg"
@@ -455,7 +455,7 @@
     "Damage": "20",
     "Attack Type": "Bite",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "f4bb1783-8e24-4363-a1ad-d735415c691e.jpg"
@@ -473,7 +473,7 @@
     "Damage": "8",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "92dff1fc-4a98-4079-a9c1-b6a2eba12caa.jpg"
@@ -491,7 +491,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "305534e3-5954-4121-8c98-3c2a790f34a1.jpg"
@@ -509,7 +509,7 @@
     "Damage": "12",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "b0ca2515-02ca-43f0-9ec9-3a39def5ca71.jpg"
@@ -527,7 +527,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "1663b6cd-a66a-47a0-8c6f-e328747a82c6.jpg"
@@ -545,7 +545,7 @@
     "Damage": "1",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "0b3bf0d5-e3df-4cd3-b93b-2af7bd9fbaf2.jpg"
@@ -563,7 +563,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "4d84f874-720e-499b-b4e2-adbf59d3cb38.jpg"
@@ -581,7 +581,7 @@
     "Damage": "7",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "2420d290-4612-4037-a465-568714481ee8.jpg"
@@ -599,7 +599,7 @@
     "Damage": "1",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "0cc9a1f6-160f-4030-b280-80c290b14596.jpg"
@@ -617,7 +617,7 @@
     "Damage": "0",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "8ecc0b24-7aa9-40f7-b9f1-837074aad537.jpg"
@@ -635,7 +635,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "49e87359-0b1f-42f4-9fcb-1026fd09a8bb.jpg"
@@ -653,7 +653,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "0ab72ca6-3b86-4ea5-b7c5-5e47a73f9d28.jpg"
@@ -671,7 +671,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "214f909d-38d0-46ad-9897-55b99d377c3a.jpg"
@@ -689,7 +689,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "9994052e-627a-43a3-91bc-808aa85aa094.jpg"
@@ -707,7 +707,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "81880ad4-62b1-415c-ad2a-615025855ad4.jpg"
@@ -725,7 +725,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "11f7459d-5923-47a3-961d-8153a7267f7d.jpg"
@@ -743,7 +743,7 @@
     "Damage": "2",
     "Attack Type": "Electric",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "1fc21a28-bc86-4d14-939e-e79545cc1463.jpg"
@@ -761,7 +761,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "c5a612dd-3e5b-43ac-9d20-7c4fdd5726c1.jpg"
@@ -779,7 +779,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "59e8c2a7-9436-4f4b-b176-c740026676a6.jpg"
@@ -797,7 +797,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "8b6f934f-56d2-4b6d-ad7b-c484c4269b69.jpg"
@@ -1030,7 +1030,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "b690cb86-54e4-4a76-899a-e8d935b28c47.jpg"
@@ -1048,7 +1048,7 @@
     "Damage": "10",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "b2b990eb-1ad6-4f8b-ba97-a1b7515eb13f.jpg"
@@ -1066,7 +1066,7 @@
     "Damage": "7",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "3560e2fb-92f1-439e-aba7-b5a33edb6d90.jpg"
@@ -1084,7 +1084,7 @@
     "Damage": "12",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "2fe8580c-3476-4fd8-af82-f1affb60328e.jpg"
@@ -1102,7 +1102,7 @@
     "Damage": "20",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "ecde1405-34c9-46e5-8da5-ef042eaa7fd1.jpg"
@@ -1120,7 +1120,7 @@
     "Damage": "10",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "ef282b58-29b5-48e9-8245-813184d9c971.jpg"
@@ -1138,7 +1138,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "750a5003-a3bc-43b6-a11e-d354e4c6667a.jpg"
@@ -1156,7 +1156,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "de6b8dab-7360-4f74-b803-a56e0a3766c0.jpg"
@@ -1174,7 +1174,7 @@
     "Damage": "15",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "4919ef9d-adff-4504-9d49-955c52a558d1.jpg"
@@ -1192,7 +1192,7 @@
     "Damage": "20",
     "Attack Type": "Electric",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "538848fe-263d-4661-a9af-b614b7501a40.jpg"
@@ -1210,7 +1210,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "7bbd7d3a-0f0b-431c-87d9-fb82722f9a07.jpg"
@@ -1228,7 +1228,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "da4a87e6-e29f-44cc-935d-faa301f56bed.jpg"
@@ -1246,7 +1246,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "05185540-6832-4738-8fbb-43ad786cdd91.jpg"
@@ -1264,7 +1264,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "8d5430fe-3d6e-4418-981a-a649e21379d9.jpg"
@@ -1282,7 +1282,7 @@
     "Damage": "7",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "d1d373ef-7118-4ab5-a055-f1d7198bb55d.jpg"
@@ -1300,7 +1300,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "a8b36426-9fea-4fc5-aa0b-a3aa20324791.jpg"
@@ -1318,7 +1318,7 @@
     "Damage": "7",
     "Attack Type": "Slam",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "928698e8-279b-4381-8e33-ebdc88565084.jpg"
@@ -1432,7 +1432,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Premier",
     "set_id": "2b26c925-c400-42db-abb2-3d32854b0f66",
     "image": "ba3387b7-c4d7-44d4-ad9a-82d5cfbe5ec0.jpg"

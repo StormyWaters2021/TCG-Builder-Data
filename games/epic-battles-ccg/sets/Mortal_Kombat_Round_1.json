@@ -243,7 +243,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "76667eda-6b9c-405b-b95c-a8b00a02e356.jpg"
@@ -261,7 +261,7 @@
     "Damage": "3",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "07630974-10c6-45f8-87b5-24812f1bd016.jpg"
@@ -279,7 +279,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "8ed2c259-ad51-4813-acb1-ed50c2622e08.jpg"
@@ -297,7 +297,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "51995b75-8813-4a17-93be-37dcdcc2082a.jpg"
@@ -315,7 +315,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "2bb1fef7-a9b8-4f44-bf54-0e096f773569.jpg"
@@ -333,7 +333,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "024ac951-3f73-4da9-8af2-9484b7e3908c.jpg"
@@ -351,7 +351,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "b2776f33-fb49-4299-b5a1-2510c08e4a9b.jpg"
@@ -369,7 +369,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "94db7e7c-385b-44ec-a3b1-2acaa8d65eb4.jpg"
@@ -387,7 +387,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "a188b9eb-0126-4d17-8e35-a6833990355a.jpg"
@@ -405,7 +405,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "0f0db6c4-dfa1-4831-a1d1-e3e4ba5f62c2.jpg"
@@ -423,7 +423,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "8210a086-9b22-4596-83bc-ce8fd3c6176f.jpg"
@@ -441,7 +441,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "1f40d426-db3a-4c2a-be06-886be04517db.jpg"
@@ -459,7 +459,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "61717ff3-1838-4ffb-9fc6-f515d6bc6f0e.jpg"
@@ -477,7 +477,7 @@
     "Damage": "1",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "60031c44-1790-41bc-8d24-ffcb5ae4a620.jpg"
@@ -495,7 +495,7 @@
     "Damage": "3",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "af2ff46b-84ce-40c7-b8d5-7a3dcd675689.jpg"
@@ -513,7 +513,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "afab11d5-abb4-487b-a68b-1f8461e4c8ee.jpg"
@@ -531,7 +531,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "0622b96f-ce22-4247-b417-b97de7259eb0.jpg"
@@ -549,7 +549,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "d1798a1d-46e2-4c26-894d-73f39dd925be.jpg"
@@ -567,7 +567,7 @@
     "Damage": "1",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "5d9783e5-4d5a-4368-a19f-9f5104adfa0c.jpg"
@@ -585,7 +585,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "da46268b-e5fd-4f8b-b3ff-63b993f19ad6.jpg"
@@ -603,7 +603,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "a6c1c0dd-ce31-417e-a06a-0401876d1be4.jpg"
@@ -621,7 +621,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "71f6d7ce-2ec1-4c99-a163-dba8a4bcded2.jpg"
@@ -639,7 +639,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "5d5f3250-0678-4726-8ff6-d1f9eb241978.jpg"
@@ -657,7 +657,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "df5edcfe-48da-4b53-919f-27ae7ecfc768.jpg"
@@ -675,7 +675,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "766b8af4-cf01-4cbc-9c98-cc8fd853f7ba.jpg"
@@ -693,7 +693,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "36d1f962-320b-4f36-b601-faffcb64e6eb.jpg"
@@ -711,7 +711,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "9b8b022a-de78-40b2-acf8-7766c37ab57a.jpg"
@@ -729,7 +729,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "2f8d8eee-ea78-4bc7-b17d-98c130cb1728.jpg"
@@ -747,7 +747,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "3c96d276-9ee8-430b-b58d-6b4be57ad154.jpg"
@@ -765,7 +765,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "598d186d-5f47-498d-9cfc-68cbbca8695f.jpg"
@@ -783,7 +783,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "2c02879b-b65f-4868-949e-9cc54559846e.jpg"
@@ -801,7 +801,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "ba8bb703-9d51-42fc-9000-2d95976819e6.jpg"
@@ -819,7 +819,7 @@
     "Damage": "4",
     "Attack Type": "Electric",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "f8384f24-6ac0-4b92-bf52-80889b831ac7.jpg"
@@ -837,7 +837,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "003f5af2-9b82-4fea-bcda-52d48ca47754.jpg"
@@ -855,7 +855,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "ebbe22d1-5e10-4ae5-820f-52192f403fba.jpg"
@@ -873,7 +873,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "4712fd5d-f5b1-4245-8f7b-eeafc4084e7f.jpg"
@@ -891,7 +891,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "a4ca358a-8469-4634-b63d-670281703cf1.jpg"
@@ -909,7 +909,7 @@
     "Damage": "2",
     "Attack Type": "Bite",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "02a3ea28-7bc9-4484-9565-0f37e2f543f3.jpg"
@@ -927,7 +927,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "8875a521-e765-4d04-be03-6e141113374d.jpg"
@@ -945,7 +945,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "d0a99763-87bd-4bcb-8416-6b003b4019b4.jpg"
@@ -963,7 +963,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "a0b66e91-b4f3-4e56-87ad-39476f4887f3.jpg"
@@ -981,7 +981,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "1030ac4b-b69b-4552-8274-a40880059554.jpg"
@@ -999,7 +999,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "472e6888-e427-4c68-9396-136af1915baf.jpg"
@@ -1017,7 +1017,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "4da6f1b5-874f-46d8-9f94-30325960b66b.jpg"
@@ -1035,7 +1035,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "78c894d6-d2c7-449d-a3ed-6af0f39b90c4.jpg"
@@ -1053,7 +1053,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "25f89d1a-605e-4e9f-8dad-8275bd5039c3.jpg"
@@ -1071,7 +1071,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "f6bcb910-9447-45be-8d10-79a4532c78ad.jpg"
@@ -1089,7 +1089,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "64fad345-d61e-4ced-9c61-0c8cd704f02c.jpg"
@@ -1107,7 +1107,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "97796976-4add-4019-a651-fa2fb0433147.jpg"
@@ -1125,7 +1125,7 @@
     "Damage": "1",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "55e4f387-e396-4bf0-b361-c02aeb7ea3e9.jpg"
@@ -1143,7 +1143,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "91d6f9cd-8817-40d4-b19a-cedcd9f05fcb.jpg"
@@ -1161,7 +1161,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "294683f0-9216-4910-8b58-64471ac7f03c.jpg"
@@ -1179,7 +1179,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "b49308e8-6a84-416b-a14f-b48c1d9d9c7a.jpg"
@@ -1197,7 +1197,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "656d7659-75e3-471f-b680-1b50bb0c1083.jpg"
@@ -1215,7 +1215,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "25ddc273-0169-489c-a647-d0a62358df63.jpg"
@@ -1448,7 +1448,7 @@
     "Damage": "12",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "c072ffda-0488-4bb0-abad-9003f807fe9e.jpg"
@@ -1466,7 +1466,7 @@
     "Damage": "10",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "997107a1-71d2-4618-b519-9ef9f59b7e13.jpg"
@@ -1484,7 +1484,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "87bcd5c0-9763-4b35-aafe-42442af1746a.jpg"
@@ -1502,7 +1502,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "dcc812c5-88e6-4e91-bcd3-70351d33c87d.jpg"
@@ -1520,7 +1520,7 @@
     "Damage": "20",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "f060c8f4-1421-4f18-b1d6-8c7447905400.jpg"
@@ -1538,7 +1538,7 @@
     "Damage": "3",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "3ac24b71-d13b-4365-8ca3-886cd6874caa.jpg"
@@ -1556,7 +1556,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "9d4354df-d147-4b40-85c7-40601d76964a.jpg"
@@ -1574,7 +1574,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "d90c9781-ae19-4a6b-b9ae-ead541f5e07d.jpg"
@@ -1592,7 +1592,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "509bbb58-a249-4b17-b826-bbd6f5974b78.jpg"
@@ -1610,7 +1610,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "3f316ab5-ffd5-4396-9b32-0041a1ed44a2.jpg"
@@ -1628,7 +1628,7 @@
     "Damage": "10",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "e35c4e5b-01d9-4b93-aa2c-e21867b033b2.jpg"
@@ -1646,7 +1646,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "c11a5da8-aaf4-466f-b9f6-58483140b1a2.jpg"
@@ -1664,7 +1664,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "c887a45c-609c-413d-81e5-b89bf0d7328e.jpg"
@@ -1682,7 +1682,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "3885b8e2-3de0-4c0c-86f4-687de13edd1b.jpg"
@@ -1700,7 +1700,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "47129c50-4dcc-400b-b5b9-228b91981c8f.jpg"
@@ -1718,7 +1718,7 @@
     "Damage": "20",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "67093bcb-b00f-4c34-a30a-65b9a07bb2fa.jpg"
@@ -1736,7 +1736,7 @@
     "Damage": "20",
     "Attack Type": "Special",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "d672a50c-3e1d-468c-b2fb-2b0d7043d3f4.jpg"
@@ -1754,7 +1754,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "e76b5f5a-9f1b-483e-bbea-37443aa7569e.jpg"
@@ -1772,7 +1772,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "f3d445af-d55a-4a3e-adbf-813a651f015b.jpg"
@@ -1790,7 +1790,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "97972f01-f148-4abf-90e7-8d472b64c9d2.jpg"
@@ -1808,7 +1808,7 @@
     "Damage": "3",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "e83f9f6b-8be7-4dc6-b33f-3935260860ba.jpg"
@@ -1826,7 +1826,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "8f7315b8-55a7-431f-a62c-d7ef5ab8af20.jpg"
@@ -1844,7 +1844,7 @@
     "Damage": "20",
     "Attack Type": "Special",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "793ac71d-b89c-4a93-9550-b35531c0a96d.jpg"
@@ -1862,7 +1862,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "b6bfd35f-f4c8-4310-824a-deef3eeb312d.jpg"
@@ -1938,7 +1938,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "c4eea997-7eac-47ab-890e-62e8e3879a53.jpg"
@@ -1956,7 +1956,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "86947559-2da6-4ee8-89f0-e733db9c3c9e.jpg"
@@ -2099,7 +2099,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Mortal Kombat: Round 1",
     "set_id": "dfd63ae7-9759-4365-a6fd-1dadc9fbb670",
     "image": "3d090920-95fe-477f-a587-39ec1206b3d1.jpg"

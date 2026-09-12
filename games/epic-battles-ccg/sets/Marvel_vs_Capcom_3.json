@@ -103,7 +103,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
     "image": "3ee9742d-4507-4677-a0dd-566f0c86ce9b.jpg"
@@ -121,7 +121,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
     "image": "ca44c28c-c175-4354-9a5e-97371ee995e8.jpg"
@@ -139,7 +139,7 @@
     "Damage": "24",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Marvel vs Capcom 3",
     "set_id": "0e76d511-c57d-46bb-9785-9f4f0dd3c279",
     "image": "3923e350-049f-4729-a427-d8c19a200f91.jpg"

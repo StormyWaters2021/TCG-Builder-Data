@@ -179,7 +179,7 @@
     "Damage": "10",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a7b7add0-95f2-43ee-8191-f077829df601.jpg"
@@ -197,7 +197,7 @@
     "Damage": "7",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "e38169b1-7503-412a-9942-bccf0dbddb37.jpg"
@@ -215,7 +215,7 @@
     "Damage": "18",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "bd6d5ebd-90c6-4c35-8d70-ec4b5b76bf5d.jpg"
@@ -233,7 +233,7 @@
     "Damage": "12",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "200f6f84-0641-4415-9022-4b72651a398d.jpg"
@@ -251,7 +251,7 @@
     "Damage": "8",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "51099012-decf-4340-9521-c436325f280b.jpg"
@@ -269,7 +269,7 @@
     "Damage": "18",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a6d08596-806d-41fb-ae3a-211f78ef31d7.jpg"
@@ -287,7 +287,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "b86c66bb-db3b-4bf0-b6eb-14a5372b50fa.jpg"
@@ -305,7 +305,7 @@
     "Damage": "8",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "48255004-c8b4-4879-bae1-efed5f8be7f1.jpg"
@@ -323,7 +323,7 @@
     "Damage": "18",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "7cb6a083-e73c-4f8e-aa7c-37c3557839f1.jpg"
@@ -341,7 +341,7 @@
     "Damage": "12",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "cee2f7a8-6c94-48cd-b64f-373ea39021bf.jpg"
@@ -359,7 +359,7 @@
     "Damage": "8",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "2269fa04-1709-4c4c-8aa3-b61243ab27bb.jpg"
@@ -377,7 +377,7 @@
     "Damage": "21",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "f9aab230-375b-4fd7-8082-70ca1ebae164.jpg"
@@ -395,7 +395,7 @@
     "Damage": "6",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "785abbb5-912f-425e-8572-cebf51d11814.jpg"
@@ -413,7 +413,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "795d0229-4575-44f6-ac17-40b2c3e0e81a.jpg"
@@ -431,7 +431,7 @@
     "Damage": "14",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "7f3deab8-fdfe-4da0-acdd-f0dcdb0802a9.jpg"
@@ -449,7 +449,7 @@
     "Damage": "5",
     "Attack Type": "Electric",
     "Attack Height": "Low",
-    "Link type": "Electric",
+    "Link Type": "Electric",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "0bb9054b-399e-4c9f-9202-6d61b490da2b.jpg"
@@ -467,7 +467,7 @@
     "Damage": "18",
     "Attack Type": "Electric",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 2 Fan Set",
     "set_id": "53f47012-e0a8-41cc-8d71-e9806ff518d2",
     "image": "a6d55d22-ad75-4012-80a9-f364f87808de.jpg"

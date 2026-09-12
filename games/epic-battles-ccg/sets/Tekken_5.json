@@ -12,7 +12,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "7cdb7e71-8533-4fc9-881c-d907c86b3288.jpg"
@@ -30,7 +30,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "51748ec2-dcd4-473e-bbfa-ad4f9c539790.jpg"
@@ -48,7 +48,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "9ce8ed0c-3be0-4835-b2f0-0cb91fcc590d.jpg"
@@ -66,7 +66,7 @@
     "Damage": "3",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "43c209e4-2a2c-4a99-aa52-e603321e17ca.jpg"
@@ -84,7 +84,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3de79919-46c6-40c4-947c-9da257cd7c3c.jpg"
@@ -102,7 +102,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "49fb65b8-571f-4c8a-b133-c550fe6119e7.jpg"
@@ -120,7 +120,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "7f1fad9e-4429-4977-a110-582444f784ab.jpg"
@@ -138,7 +138,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "e132df33-44ed-4758-92c6-a4485231f7d9.jpg"
@@ -156,7 +156,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "45d0a193-4a1a-4558-9494-4b94021d4e9a.jpg"
@@ -174,7 +174,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "d1514eec-1975-465b-847c-0fc94a4d53b7.jpg"
@@ -222,7 +222,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2b56c324-3769-41ae-807f-7702174abf94.jpg"
@@ -240,7 +240,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "fae1ebd6-34a3-4851-a2df-907b0e201441.jpg"
@@ -258,7 +258,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "5dd002d1-71fd-4d9e-a01e-c3443d3d82fd.jpg"
@@ -276,7 +276,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ab32cec6-827a-435c-873f-9b12f41936b1.jpg"
@@ -294,7 +294,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "4d64b0ba-d18a-4be5-bd2b-4910c4e21f34.jpg"
@@ -312,7 +312,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "8dac846d-bdbb-47c5-8204-f42ed6c02693.jpg"
@@ -330,7 +330,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "07d3630b-2c25-431f-8165-113dd14836aa.jpg"
@@ -348,7 +348,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "dc2dc434-860f-4cca-b3a8-68e9606a434c.jpg"
@@ -366,7 +366,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "479d1cec-ef77-4122-91c9-28dc883ef905.jpg"
@@ -384,7 +384,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "27640ace-667f-4fae-85df-fa97885c29cd.jpg"
@@ -402,7 +402,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "018c282e-2fc8-408f-8152-fcc89f27610a.jpg"
@@ -450,7 +450,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "919b5a88-77e1-4a58-a242-688e82f06591.jpg"
@@ -807,7 +807,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "979f9a0b-6999-4e0c-b543-260d30b7ee76.jpg"
@@ -825,7 +825,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "f198a07f-7772-4e94-bf59-da2435343426.jpg"
@@ -843,7 +843,7 @@
     "Damage": "6",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "56c711aa-c692-46a4-9d27-9a00b0db583b.jpg"
@@ -861,7 +861,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "595b34fb-3e1f-47e0-8078-e7b06bf3a0e6.jpg"
@@ -879,7 +879,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b6cf3545-e7b3-444c-a4f3-b526d3b3ea99.jpg"
@@ -897,7 +897,7 @@
     "Damage": "8",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "4a4804d8-66cb-4a04-97da-9e181ede6815.jpg"
@@ -915,7 +915,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2a71e49d-1b2e-4fd2-8db4-49f02c0a7206.jpg"
@@ -933,7 +933,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "d82a31f3-3fed-429f-bed3-89505ad46aa2.jpg"
@@ -951,7 +951,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2feb3222-a41e-474e-a6f5-317a0824402f.jpg"
@@ -969,7 +969,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "62e40c3f-1831-47c2-9ae9-b83c550127e4.jpg"
@@ -987,7 +987,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "37ecb24b-fd18-47f8-b490-a677678429c7.jpg"
@@ -1005,7 +1005,7 @@
     "Damage": "2",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ab538f34-8234-49c2-9b76-5d54baa567ea.jpg"
@@ -1023,7 +1023,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2937dfd0-4e28-4b23-8d96-087a311df459.jpg"
@@ -1041,7 +1041,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "158a0e07-bdb8-4837-b981-5244c9ca444b.jpg"
@@ -1059,7 +1059,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "4f8658d1-1700-4a76-8afd-5d4c669d469b.jpg"
@@ -1077,7 +1077,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "0c9716f8-61d6-42c7-ab38-2053ec862049.jpg"
@@ -1095,7 +1095,7 @@
     "Damage": "2",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2be5dc99-8a6d-4975-a4ca-417ebf0edaa7.jpg"
@@ -1113,7 +1113,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "cbf26662-d37d-4cde-bb58-4b3586953c07.jpg"
@@ -1131,7 +1131,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "814c390f-2e2c-464c-9c2d-110633273c68.jpg"
@@ -1149,7 +1149,7 @@
     "Damage": "0",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3285def7-1961-49ce-8ee1-6d78b2d0bd8e.jpg"
@@ -1167,7 +1167,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b7e94602-2065-4d25-a5ea-da27221bc555.jpg"
@@ -1185,7 +1185,7 @@
     "Damage": "5",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "01016a37-56c0-4b76-8b29-d4c673844a56.jpg"
@@ -1203,7 +1203,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "4ab0906a-d74f-4b7c-aabc-be4dee0c1fa9.jpg"
@@ -1221,7 +1221,7 @@
     "Damage": "8",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "f33a112a-3025-479d-b295-eaff9eda2dd7.jpg"
@@ -1239,7 +1239,7 @@
     "Damage": "3",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "55d01b51-13d4-4871-8960-ff833d08d344.jpg"
@@ -1257,7 +1257,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b5ccb68f-e7b2-4643-ab9c-543684f11b3a.jpg"
@@ -1275,7 +1275,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "8fbea732-078a-4e4d-bd3c-5e23ddb996eb.jpg"
@@ -1293,7 +1293,7 @@
     "Damage": "15",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ed73b8f8-6ed7-43ea-a22d-22967543f4ac.jpg"
@@ -1311,7 +1311,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "d1559e91-4ee0-462a-8b92-faf979b84715.jpg"
@@ -1329,7 +1329,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "491ce5da-755b-4784-96e5-86d41eab6306.jpg"
@@ -1347,7 +1347,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "cc5dc88b-b1c3-42c2-aba6-db9c9b00931d.jpg"
@@ -1365,7 +1365,7 @@
     "Damage": "15",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "9eb8ed99-9af7-4de3-a1bd-43432866aa68.jpg"
@@ -1383,7 +1383,7 @@
     "Damage": "3",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "aa2efae6-6f98-4cf9-9a4c-d120f0c60658.jpg"
@@ -1401,7 +1401,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "52135774-d62b-4fec-af7f-e26e678a645a.jpg"
@@ -1419,7 +1419,7 @@
     "Damage": "15",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c47d6f76-34b4-4f94-a571-e4fcee6ab0a7.jpg"
@@ -1437,7 +1437,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "8d1eecba-dafa-4f34-b1fc-c97ecd6a1d09.jpg"
@@ -1455,7 +1455,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b6ed244e-b7ff-495a-8495-1e417769d311.jpg"
@@ -1473,7 +1473,7 @@
     "Damage": "8",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c8e44729-9958-47a2-b06e-da26c327300a.jpg"
@@ -1491,7 +1491,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "52357982-efdd-496f-9d85-0fbf68a80381.jpg"
@@ -1509,7 +1509,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "a9ee91a8-b364-438b-a39d-5e779299d96d.jpg"
@@ -1527,7 +1527,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "195b102a-3900-402c-9258-a907a34dec67.jpg"
@@ -1545,7 +1545,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "f2591d74-8f86-42e8-8bec-e930a1359343.jpg"
@@ -1563,7 +1563,7 @@
     "Damage": "1",
     "Attack Type": "Slam",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "643d6c00-7a76-4c05-ae4d-c0f3e7d74001.jpg"
@@ -1581,7 +1581,7 @@
     "Damage": "2",
     "Attack Type": "Slam",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "555280c0-2290-4f45-b186-2dd72723b536.jpg"
@@ -1761,7 +1761,7 @@
     "Damage": "16",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "dece916d-a327-4a8c-8171-5c105712604e.jpg"
@@ -1806,7 +1806,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "128fe98d-9583-4a86-8f07-7dca1e7556ac.jpg"
@@ -1930,7 +1930,7 @@
     "Damage": "10",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b4d3c5bd-64e8-4968-84d4-eaf2a3552101.jpg"
@@ -1948,7 +1948,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ffed3058-1989-43cf-978a-7dec49dccab0.jpg"
@@ -1966,7 +1966,7 @@
     "Damage": "8",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "77d72c40-8c8d-4dc4-946d-ce68a08978aa.jpg"
@@ -1984,7 +1984,7 @@
     "Damage": "8",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "7a75d99a-f336-4640-b2b1-281ebe5641ae.jpg"
@@ -2002,7 +2002,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "72f0fe5f-c11b-41d5-9eea-a75350d01412.jpg"
@@ -2020,7 +2020,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "06137a17-f4eb-4293-b54f-e45ac5a49b5a.jpg"
@@ -2038,7 +2038,7 @@
     "Damage": "5",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "64c576d2-06a8-497d-bb9d-4ec0dc6bbb14.jpg"
@@ -2056,7 +2056,7 @@
     "Damage": "22",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "40209a88-6042-42ab-bfa9-5cfc946d06b2.jpg"
@@ -2074,7 +2074,7 @@
     "Damage": "6",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "f68c9312-c4ec-407d-b089-4688c0bc0723.jpg"
@@ -2092,7 +2092,7 @@
     "Damage": "5",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ede62cda-a919-4619-a914-c7430b3fff3e.jpg"
@@ -2110,7 +2110,7 @@
     "Damage": "8",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "edea8920-b828-4816-a31e-bdb570663fa3.jpg"
@@ -2128,7 +2128,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b65f4326-e6b7-4409-b472-9bddf5cb1600.jpg"
@@ -2146,7 +2146,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "05115d85-f747-4e27-b55c-632cf0379456.jpg"
@@ -2164,7 +2164,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "12076f16-4a17-4dfb-b1e9-805e2839aa3e.jpg"
@@ -2182,7 +2182,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b47ef059-61a4-4357-b4f2-ea9c1b3c54c1.jpg"
@@ -2200,7 +2200,7 @@
     "Damage": "8",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c74aaa36-6f48-4d74-959c-7b1c607d9b5b.jpg"
@@ -2218,7 +2218,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "0a8dd436-1916-43b4-927e-c926aad74211.jpg"
@@ -2236,7 +2236,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "50a0f24c-27f3-418a-a24a-1b35e9ccc45b.jpg"
@@ -2254,7 +2254,7 @@
     "Damage": "9",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "57706990-71ea-4ac7-ac55-537d4842f40e.jpg"
@@ -2272,7 +2272,7 @@
     "Damage": "8",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c77a89b0-ede1-4e1a-badc-fff7bf11b7b9.jpg"
@@ -2290,7 +2290,7 @@
     "Damage": "20",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "b4498a63-ee82-4d93-8d1f-33c0a909125b.jpg"
@@ -2308,7 +2308,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3a50f630-e7e2-4747-8957-d6ba1afe2eca.jpg"
@@ -2326,7 +2326,7 @@
     "Damage": "8",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "169e9b0a-5899-4208-99bc-186ed60bb15a.jpg"
@@ -2344,7 +2344,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "85ced359-8545-4b4a-b419-585f591ecfce.jpg"
@@ -2362,7 +2362,7 @@
     "Damage": "8",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c613e158-f984-4789-9502-fc8fa49026a0.jpg"
@@ -2380,7 +2380,7 @@
     "Damage": "20",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "2076f502-eb76-4809-88ff-725bf30cddff.jpg"
@@ -2398,7 +2398,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "70d35fa3-729b-4059-9259-e5c1ec6ac293.jpg"
@@ -2416,7 +2416,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "d17f57ef-e822-47ae-84b8-3745219fb659.jpg"
@@ -2434,7 +2434,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "8f57c15e-cc03-4bdf-8481-ce9941c274c0.jpg"
@@ -2452,7 +2452,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "9f57c7d7-6275-4e8a-a718-704b047a8544.jpg"
@@ -2470,7 +2470,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "57334b42-5e5e-41ba-bcff-1e7e5e922b41.jpg"
@@ -2488,7 +2488,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "94534bee-c326-4bb0-b486-dd85a4e56dbc.jpg"
@@ -2506,7 +2506,7 @@
     "Damage": "5",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "97d71717-6a92-4f91-830b-368db3146bce.jpg"
@@ -2524,7 +2524,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3b8bfb76-64aa-4aad-8fa9-32955921818d.jpg"
@@ -2542,7 +2542,7 @@
     "Damage": "10",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ab588488-8433-41b1-bd61-894d4be54434.jpg"
@@ -2560,7 +2560,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "1023defd-7c2b-4007-bb35-2f18a28d5931.jpg"
@@ -2578,7 +2578,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "984f3b0f-6817-43e8-9a32-94c42f53f935.jpg"
@@ -2596,7 +2596,7 @@
     "Damage": "8",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "6d537553-1f03-4e3b-ae3f-2feebda2cb18.jpg"
@@ -2614,7 +2614,7 @@
     "Damage": "30",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "f884b5ab-830c-43d8-a058-4d83d21f1a16.jpg"
@@ -2632,7 +2632,7 @@
     "Damage": "8",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "727c2984-5b26-417c-9290-bb2f4f9af06c.jpg"
@@ -2650,7 +2650,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "a54497bd-58bc-4c8e-9e14-3967a28e0437.jpg"
@@ -2668,7 +2668,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3fce3087-6a7e-4c93-be7f-eb17339809bf.jpg"
@@ -2686,7 +2686,7 @@
     "Damage": "10",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Slam",
+    "Link Type": "Slam",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "d383eb0d-b702-440f-8975-171320b2892d.jpg"
@@ -2704,7 +2704,7 @@
     "Damage": "6",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "843ecb55-0dfb-4f53-9929-691720584ef5.jpg"
@@ -2722,7 +2722,7 @@
     "Damage": "9",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "dd867836-be67-4194-b85b-b65abc5f3387.jpg"
@@ -2740,7 +2740,7 @@
     "Damage": "28",
     "Attack Type": "Electric",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3f0327c7-a7a4-418d-a094-98e888dbd17b.jpg"
@@ -2758,7 +2758,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "3556ff5e-498b-4065-9590-67523e7ce452.jpg"
@@ -2776,7 +2776,7 @@
     "Damage": "8",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "High Attack",
+    "Link Type": "High Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "c6ba4bd3-afe3-4f7d-9bd4-3adab156ce22.jpg"
@@ -2876,7 +2876,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Low Attack",
+    "Link Type": "Low Attack",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "7ea26de1-84fa-44f0-857a-e00ca6206a86.jpg"
@@ -2894,7 +2894,7 @@
     "Damage": "18",
     "Attack Type": "Electric",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "825281c6-71b0-4af0-813b-05e8ab5e899d.jpg"
@@ -2910,7 +2910,7 @@
     "Limit per Deck": "4",
     "Energy Cost": "",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "e43ce7af-b8bd-4e42-b79e-fb9c8e9e0bc0.jpg"
@@ -2941,7 +2941,7 @@
     "Damage": "15",
     "Attack Type": "Slam",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "86439a33-1f0e-45c1-ba18-7ceed31e82cc.jpg"
@@ -3001,7 +3001,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "ca67d304-5b68-40da-ba37-d56f4a06fbde.jpg"
@@ -3032,7 +3032,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "0ddfbeed-83b6-42c3-9d60-cc6028ad0080.jpg"
@@ -3064,7 +3064,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Tekken 5",
     "set_id": "d2379820-f5a8-4c0b-90ef-9c0d9dc61ba3",
     "image": "a0433814-0f04-4022-b1a7-03f3c8944b57.jpg"

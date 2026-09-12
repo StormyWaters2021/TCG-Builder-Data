@@ -288,7 +288,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "d93595b7-63d5-40f9-a502-e23697fec795.jpg"
@@ -306,7 +306,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "6cff6906-6583-4dad-9846-2b5ba1f684fd.jpg"
@@ -324,7 +324,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "10fb5f87-82eb-4adb-a83f-e04c9131bb1d.jpg"
@@ -342,7 +342,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "3ccaac17-442b-433a-81de-8abc56030a4e.jpg"
@@ -360,7 +360,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "1640722b-9601-47c4-81f1-62410451a756.jpg"
@@ -378,7 +378,7 @@
     "Damage": "2",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "2fc0682e-605d-4258-b541-dae42ef90b23.jpg"
@@ -396,7 +396,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "f5551412-0358-4171-9b37-4ff4939cf34d.jpg"
@@ -414,7 +414,7 @@
     "Damage": "3",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "d85d047c-069b-4fdc-83ab-06b2e23560bd.jpg"
@@ -432,7 +432,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0898a758-a321-487a-b275-baedccff213a.jpg"
@@ -450,7 +450,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "7cd76ece-aabc-4c63-8350-9b276179b3f8.jpg"
@@ -468,7 +468,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "c9526c36-d614-47e6-8be3-fab121dd30d0.jpg"
@@ -486,7 +486,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "19f864db-92a9-4208-aaa5-f55ee6e999e1.jpg"
@@ -504,7 +504,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "cc346e13-d341-4b85-a319-cf466152e32b.jpg"
@@ -522,7 +522,7 @@
     "Damage": "5",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "98fdb400-f217-4c0c-901b-ead706049380.jpg"
@@ -540,7 +540,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "18148bb2-3af1-46de-99fb-0407b9c31496.jpg"
@@ -558,7 +558,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0a8639a4-152b-4997-bb9b-19dae755fed7.jpg"
@@ -576,7 +576,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ef3f47be-32ce-43ce-a569-43ae4f614d17.jpg"
@@ -594,7 +594,7 @@
     "Damage": "3",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "407bcd71-e47f-4534-ad5a-0cad398e726b.jpg"
@@ -612,7 +612,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "83107cbf-50a0-48f7-9cc7-aacccea3f365.jpg"
@@ -630,7 +630,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "a44ecaab-297a-444f-b4a5-54b697b10033.jpg"
@@ -648,7 +648,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ed84ee68-406e-4563-be45-4fbee895c5b6.jpg"
@@ -666,7 +666,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "e53c38d3-a306-4fb8-b647-f0c42d36cef1.jpg"
@@ -684,7 +684,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "df3b0b82-9d29-4f25-93cb-189bd946b8e9.jpg"
@@ -702,7 +702,7 @@
     "Damage": "5",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "79bc7ee1-3f9c-4dec-8aa0-a6772b77313d.jpg"
@@ -720,7 +720,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "49732a91-bfd6-4c7a-b638-750e0af39c39.jpg"
@@ -738,7 +738,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ba9f2f8e-be83-42b6-9c05-d0e9182eae58.jpg"
@@ -756,7 +756,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "51d1a9b6-8d3e-4e13-9f8d-451d762e6030.jpg"
@@ -774,7 +774,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "621dc398-59f6-4d36-841b-0175f79bb0f3.jpg"
@@ -792,7 +792,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "b16eaa52-04d7-4232-a56a-4111094728c7.jpg"
@@ -810,7 +810,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "51ed69af-02ce-4dc5-8978-6ed630d881ba.jpg"
@@ -828,7 +828,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "883321c3-c6b1-4b12-8dd4-f5b781220dc3.jpg"
@@ -846,7 +846,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0614eb31-ada9-4e80-8354-87a8c64d768e.jpg"
@@ -864,7 +864,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "4b26f2ba-09a9-460f-a9d7-7ca4b281b6f4.jpg"
@@ -882,7 +882,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "7c2736bd-143f-4640-ad8a-fb1aadb2b0a9.jpg"
@@ -900,7 +900,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "d59e0375-7e26-414e-915b-7dc2e3e50d4c.jpg"
@@ -918,7 +918,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "5f82a375-f1b7-4906-bd4b-de4d2011d5dd.jpg"
@@ -936,7 +936,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "365a3cb8-8966-43a6-b0af-257830776b25.jpg"
@@ -954,7 +954,7 @@
     "Damage": "2",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "eab2f997-a6cd-4444-91a3-b4f02ef27bc8.jpg"
@@ -972,7 +972,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "bd1be819-25eb-4260-a5bf-d4e8fe729ba1.jpg"
@@ -990,7 +990,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "bda62401-9c43-4839-80ed-b0ef964ee51d.jpg"
@@ -1008,7 +1008,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "1662cbec-2634-4c4e-a260-d40546331cce.jpg"
@@ -1026,7 +1026,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "f6ed8d27-3e56-4886-be95-514be6702fc7.jpg"
@@ -1044,7 +1044,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "4a8c2651-efc7-4d29-ace7-d44b7ac9a6f0.jpg"
@@ -1062,7 +1062,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "9019401d-f4f8-4c69-ab09-8bc44d34ee5b.jpg"
@@ -1080,7 +1080,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "b478334c-1892-486e-8608-e3cfe9f26282.jpg"
@@ -1098,7 +1098,7 @@
     "Damage": "3",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "dc51bad3-ae50-4d0d-9472-b14715cd5795.jpg"
@@ -1116,7 +1116,7 @@
     "Damage": "4",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "3baed01e-4b6c-49e7-adf4-429ed2e8b942.jpg"
@@ -1134,7 +1134,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "e91e2110-bc7b-4624-aa30-e90f381cf330.jpg"
@@ -1152,7 +1152,7 @@
     "Damage": "4",
     "Attack Type": "Weapon",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "91ff363c-57e8-440d-8cc2-274fbcb04a71.jpg"
@@ -1170,7 +1170,7 @@
     "Damage": "4",
     "Attack Type": "Electric",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "7c4493dc-5ab5-42f3-bf44-742733755cc0.jpg"
@@ -1188,7 +1188,7 @@
     "Damage": "3",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "6618be6a-3705-4473-b93e-e76017001bae.jpg"
@@ -1206,7 +1206,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "edfd4893-20d8-4684-a330-fd4c8bfc2eea.jpg"
@@ -1224,7 +1224,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0a0231a2-45e5-4bd3-a36a-bb26b17e4ef4.jpg"
@@ -1242,7 +1242,7 @@
     "Damage": "4",
     "Attack Type": "Throw",
     "Attack Height": "Low",
-    "Link type": "Projectile",
+    "Link Type": "Projectile",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "6f90122c-1fca-4c8f-a43f-889674698b3f.jpg"
@@ -1496,7 +1496,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Throw",
+    "Link Type": "Throw",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "22b3ff06-aca0-4a8b-8885-b00e0cb5723a.jpg"
@@ -1514,7 +1514,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "500a52d7-627a-485d-ac64-d4af7f106098.jpg"
@@ -1532,7 +1532,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "fe0635bd-0bf4-4e37-b4b1-06fc0ffc41e7.jpg"
@@ -1550,7 +1550,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ddfb8518-e9c9-4a90-8647-70437dcd2a14.jpg"
@@ -1568,7 +1568,7 @@
     "Damage": "15",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "a23fe8e8-6cca-451a-bfe3-1e77eacf4897.jpg"
@@ -1586,7 +1586,7 @@
     "Damage": "15",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0c7e153a-62e1-437c-8496-3d1b82521c4f.jpg"
@@ -1604,7 +1604,7 @@
     "Damage": "25",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "9507c4ca-37ca-4cd6-84b7-039ca7312937.jpg"
@@ -1622,7 +1622,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "a923e130-4f0e-4067-8673-b43f9ea42dfa.jpg"
@@ -1640,7 +1640,7 @@
     "Damage": "20",
     "Attack Type": "Throw",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "14805b13-0327-4ed2-b132-31df5ad28cc2.jpg"
@@ -1658,7 +1658,7 @@
     "Damage": "13",
     "Attack Type": "Kick",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ea65f708-f029-49cb-b892-678100e63aa9.jpg"
@@ -1676,7 +1676,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0ebf4eb6-e65d-4a88-b52e-e0561ab2cda8.jpg"
@@ -1694,7 +1694,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "alternates": [
       {
         "name": "Ryu's Shin Shoryuken",
@@ -1719,7 +1719,7 @@
     "Damage": "20",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "8681d798-5241-49da-b169-809b07a5af43.jpg"
@@ -1737,7 +1737,7 @@
     "Damage": "4",
     "Attack Type": "Projectile",
     "Attack Height": "High",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "6db443a4-6a8e-4619-a913-c8f92540b9ea.jpg"
@@ -1755,7 +1755,7 @@
     "Damage": "0",
     "Attack Type": "Weapon",
     "Attack Height": "High",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "71e0b66c-872a-4c97-a18f-1f9176b8a076.jpg"
@@ -1773,7 +1773,7 @@
     "Damage": "4",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "5a881f6c-e78f-4779-b719-7c3a2cb76f82.jpg"
@@ -1791,7 +1791,7 @@
     "Damage": "10",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ca544568-954d-4e12-8221-a45ccfb1b539.jpg"
@@ -1809,7 +1809,7 @@
     "Damage": "0",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "Weapon",
+    "Link Type": "Weapon",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "4aa7b975-dfce-46a6-a64e-dfb5e16c5e55.jpg"
@@ -1827,7 +1827,7 @@
     "Damage": "2",
     "Attack Type": "Kick",
     "Attack Height": "Low",
-    "Link type": "Punch",
+    "Link Type": "Punch",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "08dd9509-c11b-4e5f-b56f-3efce3af2b0e.jpg"
@@ -1845,7 +1845,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "ff49507c-c287-4a5e-9b99-31375232efe2.jpg"
@@ -1863,7 +1863,7 @@
     "Damage": "10",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "0d3e48fd-2739-40f1-a127-64168b77bfe7.jpg"
@@ -1881,7 +1881,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "1b5a328d-9f5e-4e39-a72e-ae6ea143ef68.jpg"
@@ -1899,7 +1899,7 @@
     "Damage": "10",
     "Attack Type": "Projectile",
     "Attack Height": "Low",
-    "Link type": "",
+    "Link Type": "",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "9e3d0332-b398-46e3-b4a2-f63e51110f9f.jpg"
@@ -1975,7 +1975,7 @@
     "Damage": "2",
     "Attack Type": "Punch",
     "Attack Height": "High",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "7ba12552-baf5-4e53-bef8-14fce060c21e.jpg"
@@ -1993,7 +1993,7 @@
     "Damage": "2",
     "Attack Type": "Slam",
     "Attack Height": "Low",
-    "Link type": "Kick",
+    "Link Type": "Kick",
     "Set": "Street Fighter: Round 1",
     "set_id": "d2b98545-cd40-4b5d-aa2b-527d1631b7dd",
     "image": "e24bad14-235f-4ae1-b7cb-9c97e32b0adb.jpg"
