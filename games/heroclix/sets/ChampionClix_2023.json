@@ -31,9 +31,8 @@
       }
     ],
     "Set": "ChampionClix 2023",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "ChampionClix 2023",
+    "set_id": "ca07120b-8bcc-4c07-998e-ffb6002664ad",
     "image": "8761f7f4-f7c4-4490-91ea-6e34da5c79d9.png"
   },
   {
@@ -44,9 +43,8 @@
     "Collector Number": "M001",
     "Unit Type": "Map",
     "Set": "ChampionClix 2023",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "ChampionClix 2023",
+    "set_id": "ca07120b-8bcc-4c07-998e-ffb6002664ad",
     "image": "3463505d-8eea-445a-b6b7-37b08b48c065.png"
   }
 ]

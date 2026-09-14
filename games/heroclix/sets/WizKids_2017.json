@@ -7,9 +7,8 @@
     "Collector Number": "M001",
     "Unit Type": "Map",
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "9bbebe4e-4f49-4db5-812f-e82b11679a8d.png"
   },
   {
@@ -20,9 +19,8 @@
     "Collector Number": "M002",
     "Unit Type": "Map",
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "da343d40-9bac-4fb9-9691-151f1e9bbdf9.png"
   },
   {
@@ -172,9 +170,8 @@
       }
     ],
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "1daf8f2b-5c76-4487-81f7-58107562f819.png"
   },
   {
@@ -291,9 +288,8 @@
       }
     ],
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "181696b6-3a61-4ce1-935a-75272e37b36e.png"
   },
   {
@@ -326,9 +322,8 @@
       }
     ],
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "5e691547-992e-4fcf-999f-a175559200b5.png"
   },
   {
@@ -483,9 +478,8 @@
       }
     ],
     "Set": "WizKids 2017",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "WizKids 2017",
+    "set_id": "240ea27b-0b45-4c97-acf6-aba44d90ffee",
     "image": "068bd06e-5d51-48fb-89c6-4addd013cab5.png"
   }
 ]

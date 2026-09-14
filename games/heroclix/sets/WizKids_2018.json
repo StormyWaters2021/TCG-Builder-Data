@@ -7,9 +7,8 @@
     "Collector Number": "M001",
     "Unit Type": "Map",
     "Set": "WizKids 2018",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2018",
+    "set_id": "6c95f9f2-1c50-49bc-8045-686d9b00d89a",
     "image": "20ee193d-ff3f-46a4-b299-890f4ab0b643.png"
   },
   {
@@ -20,9 +19,8 @@
     "Collector Number": "M002",
     "Unit Type": "Map",
     "Set": "WizKids 2018",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2018",
+    "set_id": "6c95f9f2-1c50-49bc-8045-686d9b00d89a",
     "image": "227d2154-4afa-4c49-bd37-dade356ec61b.png"
   },
   {
@@ -33,9 +31,8 @@
     "Collector Number": "M003",
     "Unit Type": "Map",
     "Set": "WizKids 2018",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2018",
+    "set_id": "6c95f9f2-1c50-49bc-8045-686d9b00d89a",
     "image": "48884d88-a06e-468c-8754-e5f7edd7d7e0.png"
   },
   {
@@ -46,9 +43,8 @@
     "Collector Number": "M004",
     "Unit Type": "Map",
     "Set": "WizKids 2018",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "WizKids 2018",
+    "set_id": "6c95f9f2-1c50-49bc-8045-686d9b00d89a",
     "image": "36bcfc24-1bad-48b1-a4ee-f3971b4fae30.png"
   },
   {
@@ -167,9 +163,8 @@
       }
     ],
     "Set": "WizKids 2018",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "WizKids 2018",
+    "set_id": "6c95f9f2-1c50-49bc-8045-686d9b00d89a",
     "image": "2026e056-920c-46e5-8917-dafb90e5464c.png"
   }
 ]

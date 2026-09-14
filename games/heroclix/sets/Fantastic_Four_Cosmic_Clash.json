@@ -135,9 +135,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "b0307ba0-02d6-4fa9-9652-ae1468aa7c0e.png"
   },
   {
@@ -276,9 +275,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "f7bcb534-bd31-45d9-b2ca-63d22a2af881.png"
   },
   {
@@ -412,9 +410,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "da7f889e-c30c-41d7-ace1-e24715d540b3.png"
   },
   {
@@ -551,9 +548,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "47f03baa-9316-4463-a403-437459db7f64.png"
   },
   {
@@ -752,9 +748,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "e1d5de78-d327-42d6-93db-4d69eaff3b7c.png"
   },
   {
@@ -943,9 +938,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Character",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "69374016-c3b4-44a5-acd8-b7a7fe723789.png"
   },
   {
@@ -980,9 +974,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "bd4d22cd-023c-4b38-b2e9-a8c04bd956ad.png"
   },
   {
@@ -1015,9 +1008,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "a439bf85-bdd9-4896-a2d0-94ae8c5852a8.png"
   },
   {
@@ -1053,9 +1045,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "a78848d2-4c41-4ca5-b393-b9fd1b3c7c4d.png"
   },
   {
@@ -1091,9 +1082,8 @@
       }
     ],
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "946608de-ff64-4d24-bac4-25e8d66769b2.png"
   },
   {
@@ -1105,9 +1095,8 @@
     "Unit Type": "Map",
     "Traits and Special Powers": "[Location] Reign of Terror(Or 0 POINTS if every character on your starting force has the Latveria keyword.)At the beginning of the game, choose a friendly character. Once per turn, when that character rolls for Leadership you may reroll the result. If that character is named Dr. Doom, they increase their roll for Leadership by +1.[Consolation] ConsolationOnce per game, when a friendly character would roll for Leadership, you may choose that they automatically succeed.",
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "4e72a285-d9f5-48f4-8aae-6ab2cb5ea85b.png"
   },
   {
@@ -1118,9 +1107,8 @@
     "Collector Number": "M002",
     "Unit Type": "Map",
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "8001009a-e82f-4a17-b335-268b3ff8b7c2.png"
   },
   {
@@ -1132,9 +1120,8 @@
     "Unit Type": "Map",
     "Traits and Special Powers": "[Location] Unstable Molecules(Or 0 POINTS if every character on your starting force (minimum 4) has the Fantastic Four keyword)[This map has orange zones labeled 1-4.] When a friendly character in a numbered orange zone attacks or is attacked, modify their corresponding combat value +1.1=Attack2=Range3=Defense4=DamageIf that character is named Mr. Fantastic, you can choose which combat value (except Speed) to modify.[Consolation] ConsolationAt the beginning of the game, generate 4 Past Experiment markers anywhere on the map not within 4 squares of a starting area. Friendly characters occupying those markers modify attack +1.",
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "9e0ffe63-9329-48aa-affe-40959adb37ac.png"
   },
   {
@@ -1145,9 +1132,8 @@
     "Collector Number": "M004",
     "Unit Type": "Map",
     "Set": "Fantastic Four: Cosmic Clash",
-    "Designer": "Official",
     "Type": "Map",
-    "set_id": "Fantastic Four Cosmic Clash",
+    "set_id": "db3ace1a-36f9-4cfe-a16a-c4038ebe7978",
     "image": "46f0627f-b39b-4ff7-acd6-834c090ff1cd.png"
   }
 ]
