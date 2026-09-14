@@ -115,8 +115,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "fca9f40d-ffcf-4677-934f-541688841640.png"
   },
   {
@@ -215,8 +216,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "5e477422-fa28-4026-9b1a-ef401c1c0710.png"
   },
   {
@@ -286,8 +288,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "a2239c1b-2bce-4477-b393-49ba83db7ae7.png"
   },
   {
@@ -322,8 +325,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "c0956a0c-d71f-40a6-a832-04abe6a8e967.png"
   },
   {
@@ -424,8 +428,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "7b9e4419-4750-4602-8875-0ee84480fd29.png"
   },
   {
@@ -527,8 +532,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "1fe34071-04cf-4ccf-b35e-2f38b5261e7e.png"
   },
   {
@@ -628,8 +634,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "a432aaa7-b929-4412-9b50-1c4161027963.png"
   },
   {
@@ -732,8 +739,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "003034c2-e4c8-406c-b932-10dbdf04de07.png"
   },
   {
@@ -834,8 +842,9 @@
       }
     ],
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "4d24e79b-29be-4dc7-b8db-6cb317d80dfe.png"
   },
   {
@@ -847,8 +856,9 @@
     "Unit Type": "Map",
     "Traits and Special Powers": "Special RulesOrange squares are blocking terrain that can't be destroyed, moved through, or have markers placed on them.",
     "Set": "The Orville Starter",
+    "Designer": "Official",
     "Type": "Map",
-    "set_id": "4e1091aa-74f3-49e2-9773-6e62e5880550",
+    "set_id": "The Orville Starter",
     "image": "845a7cb9-1389-4288-b4da-0ee343059c64.png"
   }
 ]

@@ -5,8 +5,9 @@
     "size": "PAC",
     "Unit Type": "PAC",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "PAC",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "7db159f2-1eb2-425f-aaac-5492e36d755b.png"
   },
   {
@@ -47,8 +48,9 @@
       }
     ],
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Dice",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "fdbd1ec7-702f-4c29-bd6f-3f628af80a39.png"
   },
   {
@@ -57,8 +59,9 @@
     "size": "1x1",
     "Unit Type": "Terrain Marker",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "c9f48353-e39f-4066-9063-7807df3cb154.png"
   },
   {
@@ -67,8 +70,9 @@
     "size": "1x1",
     "Unit Type": "Terrain Marker",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "ff83db33-9871-446c-9013-28f1f36d9326.png"
   },
   {
@@ -77,8 +81,9 @@
     "size": "1x1",
     "Unit Type": "Terrain Marker",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "a43d1c01-68f6-4492-b928-8e5149333c5b.png"
   },
   {
@@ -87,8 +92,9 @@
     "size": "1x1",
     "Unit Type": "Terrain Marker",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "ad0e3ad3-101e-4674-93f5-5b82b9ffa2e4.png"
   },
   {
@@ -97,8 +103,9 @@
     "size": "1x1",
     "Unit Type": "Terrain Marker",
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Terrain Marker",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "1bf5e637-bd54-4011-9655-8e0ab7e2327a.png"
   },
   {
@@ -493,8 +500,9 @@
       }
     ],
     "Set": "Standard Game Pieces",
+    "Designer": "Official",
     "Type": "Line of Sight",
-    "set_id": "fa942363-479c-4cc0-97ff-fdff9fbf3e96",
+    "set_id": ".Standard Pieces",
     "image": "0eccc91f-84e5-4426-9860-a5a0f7bf3517.png"
   }
 ]

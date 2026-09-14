@@ -103,8 +103,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "c44eadb8-224d-410d-9e50-43498ebb605e.png"
   },
   {
@@ -406,6 +407,166 @@
       },
       {
         "name": "Galactus",
+        "type": "Click20",
+        "size": "3x6",
+        "Click Number": "20",
+        "Starting Line": "Yellow",
+        "Speed": "0",
+        "Attack": "12",
+        "Attack Ability": "Penetrating Psychic Blast",
+        "Defense": "19",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Probability Control",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click20.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click21",
+        "size": "3x6",
+        "Click Number": "21",
+        "Speed": "0",
+        "Attack": "11",
+        "Attack Ability": "Penetrating Psychic Blast",
+        "Defense": "18",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Probability Control",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click21.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click22",
+        "size": "3x6",
+        "Click Number": "22",
+        "Speed": "0",
+        "Speed Ability": "Force Blast",
+        "Attack": "11",
+        "Attack Ability": "Energy Explosion",
+        "Defense": "18",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Perplex",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click22.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click23",
+        "size": "3x6",
+        "Click Number": "23",
+        "Speed": "0",
+        "Speed Ability": "Force Blast",
+        "Attack": "11",
+        "Attack Ability": "Energy Explosion",
+        "Defense": "18",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Perplex",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click23.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click24",
+        "size": "3x6",
+        "Click Number": "24",
+        "Speed": "0",
+        "Attack": "11",
+        "Attack Ability": "Pulse Wave",
+        "Defense": "18",
+        "Defense Ability": "Impervious",
+        "Damage": "4",
+        "Damage Ability": "Outwit",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click24.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click25",
+        "size": "3x6",
+        "Click Number": "25",
+        "Starting Line": "Purple",
+        "Speed": "0",
+        "Attack": "11",
+        "Attack Ability": "Pulse Wave",
+        "Defense": "18",
+        "Defense Ability": "Impervious",
+        "Damage": "4",
+        "Damage Ability": "Outwit",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click25.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click26",
+        "size": "3x6",
+        "Click Number": "26",
+        "Speed": "0",
+        "Attack": "11",
+        "Attack Ability": "Penetrating Psychic Blast",
+        "Defense": "18",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Probability Control",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click26.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click27",
+        "size": "3x6",
+        "Click Number": "27",
+        "Speed": "0",
+        "Attack": "10",
+        "Attack Ability": "Penetrating Psychic Blast",
+        "Defense": "18",
+        "Defense Ability": "Invincible",
+        "Damage": "4",
+        "Damage Ability": "Probability Control",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click27.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click28",
+        "size": "3x6",
+        "Click Number": "28",
+        "Speed": "0",
+        "Speed Ability": "Force Blast",
+        "Attack": "10",
+        "Attack Ability": "Pulse Wave",
+        "Defense": "17",
+        "Defense Ability": "Impervious",
+        "Damage": "3",
+        "Damage Ability": "Outwit",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click28.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click29",
+        "size": "3x6",
+        "Click Number": "29",
+        "Speed": "0",
+        "Speed Ability": "Force Blast",
+        "Attack": "10",
+        "Attack Ability": "Pulse Wave",
+        "Defense": "17",
+        "Defense Ability": "Impervious",
+        "Damage": "3",
+        "Damage Ability": "Outwit",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click29.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "Click30",
+        "size": "3x6",
+        "Click Number": "30",
+        "Speed": "0",
+        "Attack": "10",
+        "Attack Ability": "Quake",
+        "Defense": "19",
+        "Defense Ability": "Special - BECAUSE I AM GALACTUS!!!",
+        "Damage": "4",
+        "Damage Ability": "Probability Control",
+        "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.Click30.png"
+      },
+      {
+        "name": "Galactus",
         "type": "KO",
         "size": "3x6",
         "Speed": "KO",
@@ -416,8 +577,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "5573fd58-62a2-4a99-a93e-b38fe35df648.png"
   },
   {
@@ -597,21 +759,12 @@
         "Damage": "4",
         "Damage Ability": "Probability Control",
         "image": "e071c165-53ae-48e8-b667-54a8023b28f4.Click11.png"
-      },
-      {
-        "name": "Galactus",
-        "type": "KO",
-        "size": "3x6",
-        "Speed": "KO",
-        "Attack": "KO",
-        "Defense": "KO",
-        "Damage": "KO",
-        "image": "e071c165-53ae-48e8-b667-54a8023b28f4.KO.png"
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "e071c165-53ae-48e8-b667-54a8023b28f4.png"
   },
   {
@@ -767,8 +920,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Special Dial",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "036c50ef-a3f4-4b69-9914-d1f70ce4a42f.png"
   },
   {
@@ -883,8 +1037,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Attachment",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "0bc4e06c-22ab-4a82-af5a-2468015ee105.png"
   },
   {
@@ -1159,8 +1314,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "b1ed37cc-0c22-4806-8007-2b766d792544.png"
   },
   {
@@ -1348,8 +1504,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Special Dial",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "8f0333e7-9e61-47ae-a946-39842186219f.png"
   },
   {
@@ -1495,8 +1652,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "7382e2b5-112f-4440-a7c8-4f08199a2ebf.png"
   },
   {
@@ -1649,8 +1807,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "7870b2cf-6a98-4a25-8214-31acad3c8d29.png"
   },
   {
@@ -1785,8 +1944,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "095f0649-ccfb-4089-a428-f34dcf27c1f0.png"
   },
   {
@@ -1821,8 +1981,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "b6006f42-865d-42ee-b249-aaf808a6c41a.png"
   },
   {
@@ -1940,8 +2101,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "3958f551-4201-47fb-8d6c-2e8ad1db2e98.png"
   },
   {
@@ -2092,8 +2254,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "e75b2f2f-5415-4705-b0c2-0256d2c1d230.png"
   },
   {
@@ -2227,8 +2390,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "6625e7c5-3ffe-41b9-8291-5980be1a914a.png"
   },
   {
@@ -2351,8 +2515,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "c21d356b-464e-4cf4-9d56-b91a04e9362b.png"
   },
   {
@@ -2468,8 +2633,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "0b9afb0a-1306-488b-be99-13d76f3cbe5d.png"
   },
   {
@@ -2591,8 +2757,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "abcc9a1c-373f-440a-b8ee-e4142d27cd44.png"
   },
   {
@@ -2699,8 +2866,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "0ac703ea-0c04-4632-a2f0-71f9bcc71a42.png"
   },
   {
@@ -2808,8 +2976,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "075cd939-8b3b-4eed-a2e7-13c8e621adcf.png"
   },
   {
@@ -2953,8 +3122,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "69426dba-0b4a-4b43-bf82-ade11fd5d1bd.png"
   },
   {
@@ -2988,8 +3158,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "672d0177-4694-4c6d-842e-e4e45bf3d27c.png"
   },
   {
@@ -3023,8 +3194,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "c31b91aa-1bcc-4bdb-998e-a1ff0411315e.png"
   },
   {
@@ -3123,8 +3295,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Character",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "8ad513da-ad2c-4828-b977-d1516dca2058.png"
   },
   {
@@ -3158,8 +3331,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "ec0e0463-66e2-43b1-b4d9-5f48fd8def28.png"
   },
   {
@@ -3193,8 +3367,9 @@
       }
     ],
     "Set": "WizKids Marvel 2020",
+    "Designer": "Official",
     "Type": "Bystander",
-    "set_id": "af981fa2-c00d-499e-ae47-07e22ba4d658",
+    "set_id": "WizKids Marvel 2020",
     "image": "3b014f81-5a3e-47b7-b740-fd7acd7536cd.png"
   }
 ]
