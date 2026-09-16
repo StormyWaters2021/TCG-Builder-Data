@@ -1678,6 +1678,16 @@
         "Damage": "2",
         "Damage Ability": "Special - LEADING A NEW TEAM OF AVENGERS",
         "image": "420c1dd1-7a59-4072-a549-97167788e655.Click7.png"
+      },
+      {
+        "name": "Captain America",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "420c1dd1-7a59-4072-a549-97167788e655.KO.png"
       }
     ],
     "Set": "Marvel HeroClix 400",

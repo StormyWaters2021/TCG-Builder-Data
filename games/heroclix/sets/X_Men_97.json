@@ -9,14 +9,14 @@
     "Rarity": "Common",
     "Point Values": "70",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Brotherhood Of Mutants | Past | Politician | Ruler | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] XAVIER'S MEMORYFor all characters with this trait, when an opposing character KOs a friendly character with the X-Men keyword, after resolutions you may replace Magneto with a character named Magneto of 100 points or less on the same click number.[Attack] WE HAVE A RIGHT TO LIVE IN THIS WORLDPowers: TelekinesisTelekinesis. // Magneto may take RANGE Terrain Actions as FREE.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Magneto",
@@ -161,13 +161,13 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Hellfire Club | Phoenix Force | X Men",
-    "Keywords Search": "| Hellfire Club | Phoenix Force | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE DON'T KNOW WHEN SINISTER SWITCHED US...When Jean Grey starts the game you may replace her with a [set:xm97] #016 Madelyne Pryor on the same click number. If you don't generate a Cyclops bystander.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Hellfire Club | Phoenix Force | X Men |",
     "alternates": [
       {
         "name": "Jean Grey",
@@ -306,14 +306,14 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle",
-    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] SEE YOU ON THE GROUND!At the beginning of your second turn, you may place Cyclops up to 4 squares away from your starting area. If you do, place up to 7 friendly characters with the X-Men keyword adjacent to him. Give each other character placed this way an action token.[Attack] MODULATED BLASTSKNOCKBACK.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "alternates": [
       {
         "name": "Cyclops",
@@ -432,11 +432,11 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Keywords": "Morlocks | X Men",
-    "Keywords Search": "| Morlocks | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] LEECH CAN HELPPowers: OutwitOutwit. // Characters within 4 squares can't use team abilities.",
+    "Keywords Search": "| Morlocks | X Men |",
     "alternates": [
       {
         "name": "Leech",
@@ -507,13 +507,13 @@
     "Rarity": "Common",
     "Point Values": "70/45",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Assassin | Horsemen | Spy | X Men",
-    "Keywords Search": "| Assassin | Horsemen | Spy | X Men |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE NAME IS GAMBIT, MON AMI...When Gambit is KO'd by an opposing character, after resolutions you may deal damage to that character equal to the number of standard characters in your KO area. If that character has [cs:colossal] or the Robot or Sentinel keyword, the damage dealt is penetrating. Protected: Pulse Wave.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Assassin | Horsemen | Spy | X Men |",
     "alternates": [
       {
         "name": "Gambit",
@@ -631,14 +631,14 @@
     "Rarity": "Common",
     "Point Values": "40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Mojoverse | X Men",
-    "Keywords Search": "| Mojoverse | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Attack] I'M TOTALLY DONE WITH MALLS!Powers: Energy ExplosionEnergy Explosion. // Jubilee deals penetrating damage to opposing characters with the Robot keyword.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Mojoverse | X Men |",
     "alternates": [
       {
         "name": "Jubilee",
@@ -740,13 +740,13 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Mojoverse | X Men",
-    "Keywords Search": "| Mojoverse | X Men |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BLINDED BY THE LIGHT!Powers: StealthStealth. // Opposing characters within range can't use [it:hindering].",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Mojoverse | X Men |",
     "alternates": [
       {
         "name": "Jubilee",
@@ -860,14 +860,14 @@
     "Rarity": "Common",
     "Point Values": "60/30",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Animal | Scientist | X Men",
-    "Keywords Search": "| Animal | Scientist | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] MNEMONIC SCRAMBLERWhen Beast attacks, targeted characters with [cs:colossal] or the Robot or Sentinel keyword can't positively modify their combat values until your next turn.[Damage] SALUTATIONS AND WELCOMEPowers: Outwit, SupportOutwit, Support.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Animal | Scientist | X Men |",
     "alternates": [
       {
         "name": "Beast",
@@ -986,13 +986,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Robot | Sentinel",
-    "Keywords Search": "| Robot | Sentinel |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: WHY RESIST THE INEVITABLE?When Prime Sentinel is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Give the character who KO'd them an action token.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Robot | Sentinel |",
     "alternates": [
       {
         "name": "Prime Sentinel",
@@ -1098,13 +1098,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Scientist | Sentinel",
-    "Keywords Search": "| Scientist | Sentinel |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: OPERATION ZERO TOLERANCEWhen Sentinel Technician is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate a character named Prime Sentinel of 15 points or less on its starting line adjacent to a friendly character.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Scientist | Sentinel |",
     "alternates": [
       {
         "name": "Sentinel Technician",
@@ -1210,13 +1210,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Brute | Sentinel",
-    "Keywords Search": "| Brute | Sentinel |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: TOLERANCE IS EXTINCTIONWhen Friend of Humanity is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Deal the character who KO'd them 1 damage. If that character has [ta:x_men], the damage dealt is unavoidable.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Brute | Sentinel |",
     "alternates": [
       {
         "name": "Friend of Humanity",
@@ -1321,13 +1321,13 @@
     "Rarity": "Common",
     "Point Values": "60/35",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Alpha Flight | Brute | Soldier | X Men | Weapon X",
-    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] RAPID HEALINGWhen Wolverine uses [ta:x_men], after resolutions heal him 1 click.[Defense] TAKING HITS FOR THE TEAMPowers: InvulnerabilityInvulnerability. // Friendly characters with the X-Men keyword can use Mastermind, but only to choose Wolverine.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "alternates": [
       {
         "name": "Wolverine",
@@ -1484,13 +1484,13 @@
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Alpha Flight | Brute | Soldier | X Men | Weapon X",
-    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] EXPLOSIVE SPRINTPowers: ChargeCharge, but don't halve speed if a friendly character is named Gambit. // [cs:passenger]: 1.[Attack] KINETICALLY CHARGED CLAWSPowers: Blades Claws FangsBlades/Claws/Fangs. When Wolverine uses it, after resolutions deal damage equal to half the result to all opposing characters other than the target within 3 squares, then knock back all opposing characters within 3 squares.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "alternates": [
       {
         "name": "Wolverine",
@@ -1654,13 +1654,13 @@
     "Rarity": "Common",
     "Point Values": "65/50",
     "Team Abilities": "Brotherhood Of Mutants | X Men",
-    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
     "Keywords": "Brotherhood Of Mutants | Politician | Savage Land | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Politician | Savage Land | X Men |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEMME BORROW THIS, SUGAHFREE: Give an adjacent friendly character up to 2 action tokens. For each action token given, choose a standard power that character can use. Rogue can use the chosen powers until she chooses again.",
+    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Politician | Savage Land | X Men |",
     "alternates": [
       {
         "name": "Rogue",
@@ -1792,14 +1792,14 @@
     "Rarity": "Common",
     "Point Values": "55",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Spy | X Men",
-    "Keywords Search": "| Spy | X Men |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Attack] HALF-COURT SHOTPowers: Precision StrikePrecision Strike. // FREE: Once per game, make a range attack with an 8 range and [it:characters]. Increase the damage dealt by 1 to each hit target.[Damage] BEIGNETS AND BASKETBALLWhen a friendly character uses [ta:x_men], after resolutions remove an action token from that character and the character they chose for [ta:x_men].",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Spy | X Men |",
     "alternates": [
       {
         "name": "Gambit",
@@ -1903,13 +1903,13 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Politician | Scientist | Sentinel | X Factor",
-    "Keywords Search": "| Politician | Scientist | Sentinel | X Factor |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MAGNETO WAS RIGHTWhen a friendly character is hit, after resolutions you may KO Dr. Valerie Cooper. If you do, heal that character 2 clicks and they modify their combat values +1 until the end of your next turn, even if this effect is lost. Protected: Pulse Wave.[Damage] COMMISSION ON SUPERHUMAN ACTIVITIESPowers: Leadership, Shape ChangeLeadership, Shape Change. When Dr. Valerie Cooper uses Leadership and succeeds, you may instead generate a CSA Officer bystander.",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Politician | Scientist | Sentinel | X Factor |",
     "alternates": [
       {
         "name": "Dr. Valerie Cooper",
@@ -2011,10 +2011,10 @@
     "Rarity": "Common",
     "Point Values": "0",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Police |",
     "alternates": [
       {
         "name": "CSA Officer",
@@ -2047,14 +2047,14 @@
     "Rarity": "Uncommon",
     "Point Values": "100",
     "Team Abilities": "Brotherhood Of Mutants",
-    "Team Abilities Search": "| Brotherhood Of Mutants |",
     "Keywords": "Brotherhood Of Mutants | Past | Politician | Ruler | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] I AM TRYING TO BE BETTER...Powers: BarrierBarrier. Barrier as FREE, but only if Magneto replaced a character this game.[Attack] ...PLEASE DO NOT MAKE ME LET YOU DOWN.Once per turn, when Magneto destroys one or more pieces of terrain, after resolutions you may deal 1 penetrating damage to each opposing character that occupied or was adjacent to one or more destroyed pieces of terrain.",
+    "Team Abilities Search": "| Brotherhood Of Mutants |",
+    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Magneto",
@@ -2228,13 +2228,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Hellfire Club | Politician | Phoenix Force | X Men",
-    "Keywords Search": "| Hellfire Club | Politician | Phoenix Force | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE DON'T KNOW WHEN SINISTER SWITCHED US...When Madelyne Pryor starts the game you may replace her with a [set:xm97] #002 Jean Grey on the same click number. If you don't, generate a Cable bystander.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Hellfire Club | Politician | Phoenix Force | X Men |",
     "alternates": [
       {
         "name": "Madelyne Pryor",
@@ -2373,13 +2373,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Alpha Flight | Brute | Soldier | X Men | Weapon X",
-    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] ADAMANTIUM CLAWSPowers: Blades Claws FangsBlades/Claws/Fangs. // When Wolverine hits, hit characters can't heal until your next turn.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Alpha Flight | Brute | Soldier | X Men | Weapon X |",
     "alternates": [
       {
         "name": "Wolverine",
@@ -2496,11 +2496,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Animal | Mojoverse | Past | Savage Land | Soldier",
-    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: DINO MAN ORANGEWhen Dino Man is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Place a friendly character with the Animal or Mojoverse keyword up to 3 squares away from their current square.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "alternates": [
       {
         "name": "Dino Man",
@@ -2606,11 +2606,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Animal | Mojoverse | Past | Savage Land | Soldier",
-    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: DINO MAN PURPLEWhen Dino Man is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Heal a friendly character with the Animal or Mojoverse keyword 3 clicks.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "alternates": [
       {
         "name": "Dino Man",
@@ -2716,11 +2716,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Animal | Mojoverse | Past | Savage Land | Soldier",
-    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: DINO MAN BLUEWhen Dino Man is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Remove an action token from up to three friendly characters with the Animal or Mojoverse keyword.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Animal | Mojoverse | Past | Savage Land | Soldier |",
     "alternates": [
       {
         "name": "Dino Man",
@@ -2825,13 +2825,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Team Player | X Men",
-    "Team Abilities Search": "| Team Player | X Men |",
     "Keywords": "Assassin | Marauders | Spy | X Men",
-    "Keywords Search": "| Assassin | Marauders | Spy | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] JUST LIKE OLD TIMES!Powers: Charge, Super Strength, Blades Claws Fangs, Phasing Teleport, Flurry, SidestepAt the beginning of your turn, choose Hulk, Magik, or Quicksilver. Morph can use the corresponding effects until they choose again. *Hulk: Charge, Super Strength, modify defense +2. *Magik: Blades/Claws/Fangs, Phasing/Teleport, [cs:passenger]: 2. *Quicksilver: Flurry, Sidestep, modify speed +3.",
+    "Team Abilities Search": "| Team Player | X Men |",
+    "Keywords Search": "| Assassin | Marauders | Spy | X Men |",
     "alternates": [
       {
         "name": "Morph",
@@ -2968,13 +2968,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50/35",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Morlocks | X Men | Deity",
-    "Keywords Search": "| Morlocks | X Men | Deity |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] ANCIENT SANDS, HEED MY COMMAND...Powers: Force Blast, Hypersonic SpeedForce Blast, Hypersonic Speed. When Storm uses Hypersonic Speed, she has [it:destroy_blocking] and doesn't halve range.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Morlocks | X Men | Deity |",
     "alternates": [
       {
         "name": "Storm",
@@ -3095,14 +3095,14 @@
     "Properties": "Generic",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Robot | Sentinel",
-    "Keywords Search": "| Robot | Sentinel |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] NEW RECRUIT: SENTINELFor all characters with this trait, when Prime Sentinel or an adjacent friendly character with the Sentinel keyword KOs an opposing character, after resolutions generate a character with the Sentinel keyword of 15 points or less on its starting line adjacent to a friendly character with the Sentinel keyword.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Robot | Sentinel |",
     "alternates": [
       {
         "name": "Prime Sentinel",
@@ -3207,13 +3207,13 @@
     "Rarity": "Uncommon",
     "Point Values": "20",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Scientist | Sentinel",
-    "Keywords Search": "| Scientist | Sentinel |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEFT BEHIND BY THE FUTUREWhen Bolivar Trask would be KO'd by an opposing effect, you may instead replace him with a [set:xm97] #022b Bolivar Trask on click #4. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Scientist | Sentinel |",
     "alternates": [
       {
         "name": "Bolivar Trask",
@@ -3284,12 +3284,12 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Robot | Scientist | Sentinel",
-    "Keywords Search": "| Robot | Scientist | Sentinel |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Robot | Scientist | Sentinel |",
     "alternates": [
       {
         "name": "Bolivar Trask",
@@ -3424,13 +3424,13 @@
     "Properties": "Generic",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Marksman | Sentinel",
-    "Keywords Search": "| Marksman | Sentinel |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEW RECRUIT: SENTINELFor all characters with this trait, when Friend of Humanity or an adjacent friendly character with the Sentinel keyword KOs an opposing character, after resolutions generate a character with the Sentinel keyword of 15 points or less on its starting line adjacent to a friendly character with the Sentinel keyword.[Trait] RETROFITTED SENTINEL TECHNOLOGYWhen Friend of Humanity hits, hit characters can't use attack powers until your next turn.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Marksman | Sentinel |",
     "alternates": [
       {
         "name": "Friend of Humanity",
@@ -3535,14 +3535,14 @@
     "Rarity": "Rare",
     "Point Values": "55",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Martial Artist | Politician | X Men",
-    "Keywords Search": "| Martial Artist | Politician | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking | Characters",
     "Traits and Special Powers": "[Trait] BAMFWhen Nightcrawler moves, after resolutions you may generate a BAMF marker in a square he moved through, then remove any of his other BAMF markers from the map. // When Nightcrawler is missed by an opposing attack, you may immediately place him in a square with a BAMF marker.[Speed] OVER HERE!Powers: Hypersonic Speed, StealthHypersonic Speed, Stealth.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Martial Artist | Politician | X Men |",
     "alternates": [
       {
         "name": "Nightcrawler",
@@ -3655,13 +3655,13 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Robot | Ruler | Sentinel",
-    "Keywords Search": "| Robot | Ruler | Sentinel |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE FINAL DREAMPowers: LeadershipLeadership. // At the beginning of your turn, if four or more characters in your KO area have the Sentinel keyword, you may replace Bastion with another character named Bastion on its last non-KO click, then heal it 2 clicks. That character can't otherwise heal this game.[Attack] RESTRAINING WIRESGiant Reach: 3. // When Bastion hits, until your next turn hit characters gain \"This character must break away to move.\"",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Robot | Ruler | Sentinel |",
     "alternates": [
       {
         "name": "Bastion",
@@ -3780,13 +3780,13 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Brotherhood Of Mutants | Celebrity | New Mutants | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Celebrity | New Mutants | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ACCEPTING MY POWERSFREE: Once per game, turn Sunspot to click #5.[Speed] PRIVATE JETPowers: Sidestep[cs:passenger]: 2, Sidestep.[Damage] THE DA COSTA FORTUNEPowers: PerplexPerplex. When Sunspot uses it, he has a minimum range of 8.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Celebrity | New Mutants | X Men |",
     "alternates": [
       {
         "name": "Sunspot",
@@ -3932,13 +3932,13 @@
     "Rarity": "Rare",
     "Point Values": "45",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Politician | Ruler | Spy | Morlocks | Warrior",
-    "Keywords Search": "| Politician | Ruler | Spy | Morlocks | Warrior |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEADER OF THE MORLOCKSPowers: Leadership, StealthLeadership, Stealth. When Callisto uses Leadership and succeeds, after resolutions generate a Morlock bystander. // UNIQUE MODIFIER - At the beginning of your turn, you may choose a combat value. Friendly characters that have the Morlocks keyword modify the chosen combat value +1 until your next turn.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Politician | Ruler | Spy | Morlocks | Warrior |",
     "alternates": [
       {
         "name": "Callisto",
@@ -4057,12 +4057,12 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Morlocks",
-    "Keywords Search": "| Morlocks |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Morlocks |",
     "alternates": [
       {
         "name": "Morlock",
@@ -4095,13 +4095,13 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "60",
     "Team Abilities": "Cosmic Energy | X Men",
-    "Team Abilities Search": "| Cosmic Energy | X Men |",
     "Keywords": "Cosmic | Phoenix Force | X Men",
-    "Keywords Search": "| Cosmic | Phoenix Force | X Men |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I AM PHOENIX!SIDELINE ACTIVE - When a friendly character named Jean Grey, Marvel Girl, Madelyne Pryor, or Phoenix is KO'd, after resolutions you may roll a d6.[d:1]-[d:4]: Heal a friendly character with the X-Men keyword 1 click.[d:5]-[d:6]: Generate Phoenix from your Sideline on click #1 in the square that character last occupied.[Trait] SINISTER, ALL I DO IS THINKOnce per game when Phoenix hits, after resolutions you may give a hit character a Burned Away token. If you do, this game that character can't use the EFFECT of equipment or positively modify their combat values.[Defense] EMBERS OF THE PHOENIX FORCEPowers: Stop, RegenerationSTOP. Regeneration.",
+    "Team Abilities Search": "| Cosmic Energy | X Men |",
+    "Keywords Search": "| Cosmic | Phoenix Force | X Men |",
     "alternates": [
       {
         "name": "Phoenix",
@@ -4191,13 +4191,13 @@
     "Properties": "Unique",
     "Point Values": "30",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Soldier | Mystical | X Factor | X Men",
-    "Keywords Search": "| Soldier | Mystical | X Factor | X Men |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FIXING MY MISTAKEWhen a friendly character with the X-Men keyword heals, until your next turn they have SAFEGUARD: Outwit.[Trait] DESERT MAGICAt the beginning of the game, you may have an opponent generate a The Adversary bystander friendly to their force in their starting area. If you do, this game Forge has [ta:mystics] and has \"Friendly characters have SAFEGUARD: Opposing Probability Control.\"",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Soldier | Mystical | X Factor | X Men |",
     "alternates": [
       {
         "name": "Forge",
@@ -4321,14 +4321,14 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Avengers | Past | Politician | Soldier",
-    "Keywords Search": "| Avengers | Past | Politician | Soldier |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] THIS UNIFORM SENDS A MESSAGEPowers: Energy Shield Deflection, LeadershipEnergy Shield/Deflection, Leadership. // UNIQUE MODIFIER - Friendly characters that are adjacent or have the Soldier keyword modify defense +1. If a friendly character with the Soldier keyword is in your KO area, modify defense +2 instead.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Avengers | Past | Politician | Soldier |",
     "alternates": [
       {
         "name": "Captain America",
@@ -4447,13 +4447,13 @@
     "Rarity": "Rare",
     "Point Values": "70/50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Future | Police | X Force | X Men | Detective",
-    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FUTURE KNOWLEDGEPowers: Probability ControlProbability Control. When Bishop uses it and an opposing character misses all targets, after resolutions remove an action token from a friendly character with the Future or Past keywords.[Trait] CHARGING UPPowers: Energy Shield DeflectionEnergy Shield/Deflection. // When Bishop is damaged by an attack, after resolutions you may roll a d6 and increase the result by +1 for each click of damage Bishop took from that attack. If the result is 5 or more, you may replace Bishop with a [set:xm97] #031b Bishop on the same click number, then heal Bishop or the character who replaced him 2 clicks.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "alternates": [
       {
         "name": "Bishop",
@@ -4574,13 +4574,13 @@
     "Properties": "Prime",
     "Point Values": "70",
     "Team Abilities": "Police | X Men",
-    "Team Abilities Search": "| Police | X Men |",
     "Keywords": "Future | Police | X Force | X Men | Detective",
-    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SUPER CHARGED MUTANT BATTERYPowers: Energy Shield DeflectionEnergy Shield/Deflection. // When Bishop or an adjacent friendly character is missed by a range attack, after resolutions heal Bishop 1 click. // Bishop reduces damage from range attacks to 0. Protected: Pulse Wave.[Attack] CONSTANT FIGHT TO STAY ALIVEPowers: Energy Explosion, Penetrating Psychic BlastEnergy Explosion, Penetrating/Psychic Blast. KNOCKBACK, but only for range attacks.[Damage] FORGE'S HAND-ME-DOWN HANDPowers: Outwit, Probability ControlOutwit, Probability Control.",
+    "Team Abilities Search": "| Police | X Men |",
+    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "alternates": [
       {
         "name": "Bishop",
@@ -4714,14 +4714,14 @@
     "Rarity": "Rare",
     "Point Values": "65",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Armor | Assassin | Marksman | Sentinel | Soldier",
-    "Keywords Search": "| Armor | Assassin | Marksman | Sentinel | Soldier |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Attack] ABSORB THIS!When X-Cutioner hits a single character with a range attack, that character can't use powers until your next turn.[Damage] HUMANITY ANSWERS TO NO ONE!Powers: Close Combat Expert, LeadershipClose Combat Expert, Leadership. When X-Cutioner uses Leadership and succeeds, after resolutions generate a friendly character with an Expendable Goon trait on their 15 point starting line.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Armor | Assassin | Marksman | Sentinel | Soldier |",
     "alternates": [
       {
         "name": "X-Cutioner",
@@ -4840,13 +4840,13 @@
     "Rarity": "Rare",
     "Point Values": "75/40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X",
-    "Keywords Search": "| Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THIS ONE'S FOR YOU, MORPH!Powers: Super SensesSuper Senses. // When Wolverine rolls a single d6, if a friendly character that shares a keyword with him is in your KO area, increase the result of that roll by +1.[Speed] FANCY A TRIP TO THE JUNKYARD?Powers: Charge, FlurryCharge, Flurry. When Wolverine uses Flurry he may instead make three attacks, as long as one of them targets a character with [cs:colossal] or the Brotherhood of Mutants, Robot, or Sentinel keyword.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X |",
     "alternates": [
       {
         "name": "Wolverine",
@@ -4982,13 +4982,13 @@
     "Properties": "Unique",
     "Point Values": "55",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Brotherhood Of Mutants | Past | Politician | Ruler | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TO ME, MY X-MEN: MAGNETOPowers: LeadershipLeadership. // POWER: Once per game, friendly characters with the X-Men keyword modify their combat values +1 this turn for each character with the X-Men keyword of 25 points or more in your KO area.[Attack] GIVE US THE BOY, YOU BRIMSTONE CLONE!RANGE: Make a range attack targeting up to X opposing characters, where X is the number of adjacent non-debris terrain markers and printed pieces of blocking terrain. After resolutions destroy all adjacent terrain markers and printed pieces of blocking terrain.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Past | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Magneto",
@@ -5093,14 +5093,14 @@
     "Properties": "Unique",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Ruler | Scientist | Shi'Ar | X Men",
-    "Keywords Search": "| Ruler | Scientist | Shi'Ar | X Men |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering | Blocking | Characters",
     "Traits and Special Powers": "[Trait] TO ME, MY X-MEN: PROF XPowers: LeadershipLeadership. // POWER: Once per game, roll a d6 and heal all friendly characters with the X-Men keyword a number of clicks equal to half the result (rounded up).[Trait] WELCOME TO YOUR MINDWhen an opposing character within range and line of fire makes a range attack, roll 2d6. If the result is greater than the finalized attack roll, that attack misses all targets.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Ruler | Scientist | Shi'Ar | X Men |",
     "alternates": [
       {
         "name": "Professor X",
@@ -5190,15 +5190,15 @@
     "Properties": "Unique",
     "Point Values": "75",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle",
-    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Improved Targeting": "Destroy Blocking | Adjacent",
     "Traits and Special Powers": "[Trait] TO ME, MY X-MEN: CYCLOPSPowers: LeadershipLeadership. // POWER: Once per game, if a friendly character with the X-Men keyword is in your KO area, you may place any number of friendly characters with the X-Men keyword adjacent to Cyclops, then Cyclops may make a range attack.[Trait] STRATEGIC BRILLIANCEPowers: Energy Shield Deflection, Force BlastEnergy Shield/Deflection, Force Blast. // Adjacent friendly characters with the X-Men keyword can use Enhancement.[Defense] IT WILL BE DONEPowers: Toughness, WillpowerToughness, Willpower.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "alternates": [
       {
         "name": "Cyclops",
@@ -5334,14 +5334,14 @@
     "Rarity": "Super Rare",
     "Point Values": "65",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Armor | Future | Soldier | X Men",
-    "Keywords Search": "| Armor | Future | Soldier | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] TWO HUNDRED TIMES...Powers: Probability ControlProbability Control. Cable can use it an additional time each turn for each character with the X-Men keyword in your KO area.[Attack] ELECTROMAGNETIC CLUSTER GRENADEPowers: Pulse WavePulse Wave, but characters with the Robot or Sentinel keywords are dealt 2 damage instead of 1.[Defense] TECHNO-ORGANIC VIRUSPowers: InvincibleInvincible. // Once per turn when Cable takes damage, after resolutions heal him 1 click.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Armor | Future | Soldier | X Men |",
     "alternates": [
       {
         "name": "Cable",
@@ -5461,12 +5461,12 @@
     "Properties": "Prime",
     "Point Values": "60",
     "Keywords": "Future | Marauders | Sentinel | Soldier | X Men",
-    "Keywords Search": "| Future | Marauders | Sentinel | Soldier | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] MY WRITHING THING OF CHANCEPowers: Running ShotRunning Shot as FREE, but only if a friendly character is named Mister Sinister or an opposing character has the X-Men keyword.[Speed] HIS MOTHER'S SONPowers: Force BlastForce Blast. When Cable uses it, he also knocks back all opposing characters adjacent to the original target. // When a character knocked back by Cable would take knockback damage, they take 3 knockback damage instead.[Damage] FORCED BETRAYALWhen Cable attacks, opposing characters can't use Mastermind, Shape Change, or Super Senses.",
+    "Keywords Search": "| Future | Marauders | Sentinel | Soldier | X Men |",
     "alternates": [
       {
         "name": "Cable",
@@ -5600,13 +5600,13 @@
     "Rarity": "Super Rare",
     "Point Values": "60",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Cosmic | Ruler | Phoenix Force | X Men",
-    "Keywords Search": "| Cosmic | Ruler | Phoenix Force | X Men |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MADELYNE FIGHTS WITH ME TODAY!Powers: Mind ControlMind Control. // FREE: Place a standard terrain marker within range and line of fire into another square within range and line of fire.[Attack] (WORLD CLASS) TELEKINETICPowers: Telekinesis, QuakeTelekinesis. // RANGE: Choose a terrain marker within range and line of fire. Marvel Girl uses Quake as FREE as if she occupied its square(s).[Defense] MENTAL MANIPULATIONSPowers: Barrier, Super SensesBarrier, Super Senses. // Opposing characters adjacent to terrain generated or placed by Marvel Girl since the beginning of your last turn must roll for breakaway as if they were adjacent to her.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Cosmic | Ruler | Phoenix Force | X Men |",
     "alternates": [
       {
         "name": "Marvel Girl",
@@ -5726,14 +5726,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Future | Mojoverse | Robot",
-    "Keywords Search": "| Future | Mojoverse | Robot |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] EXTRA LIFESIDELINE ACTIVE - At the beginning of the game, add an Extra Life token to your Sideline.[Trait] MOJO NEEDED BETA TESTERSSIDELINE ACTIVE - When a friendly character with the X-Men keyword would be KO'd, you may remove any one Extra Life token from your Sideline. If you do, instead turn that character to its last non-KO click, and after resolutions generate Abscissa on click #5 from your Sideline (if able) adjacent to that character.[Attack] ROLLING CUTTERPowers: Blades Claws FangsGiant Reach: 3. Blades/Claws/Fangs, but may use it when targeting multiple characters and rolls a separate d6 for each hit character.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Future | Mojoverse | Robot |",
     "alternates": [
       {
         "name": "Abscissa",
@@ -5835,13 +5835,13 @@
     "Rarity": "Super Rare",
     "Point Values": "65",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Ruler | Morlocks | Mystical | X Men | Deity",
-    "Keywords Search": "| Ruler | Morlocks | Mystical | X Men | Deity |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MISTRESS OF THE ELEMENTSPowers: Force Blast, Sidestep, QuakeForce Blast, Sidestep. // If Storm occupies outdoor terrain, modify her combat values +1 and she can use Giant Reach: 3 and Quake.[Defense] BUFFETING WINDSPowers: Energy Shield Deflection, WillpowerEnergy Shield/Deflection, Willpower. // Opposing characters within 6 squares halve range.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Ruler | Morlocks | Mystical | X Men | Deity |",
     "alternates": [
       {
         "name": "Storm",
@@ -6000,14 +6000,14 @@
     "Rarity": "Super Rare",
     "Point Values": "125/75",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brotherhood Of Mutants | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] HEADS UP!Once per turn when Rogue knocks back an opposing character, after resolutions she may make a close attack targeting all opposing characters adjacent to a character she knocked back, regardless of adjacency (to her).[Trait] SUGAR, I CAN'T FEEL YOUPowers: Battle Fury, Hypersonic SpeedIf a friendly character with the X-Men keyword is in your KO area, Rogue can use Battle Fury and Hypersonic Speed. If any of those characters are named Gambit or Magneto, also modify Rogue's combat values +1.[Attack] HOW ABOUT WE SPICE UP THEM RULES?Powers: Super StrengthSuper Strength. // Rogue can knock back larger characters.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brotherhood Of Mutants | X Men |",
     "alternates": [
       {
         "name": "Rogue",
@@ -6173,14 +6173,14 @@
     "Properties": "Prime",
     "Point Values": "100",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brotherhood Of Mutants | Brute | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Brute | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking | Characters",
     "Traits and Special Powers": "[Trait] YOU WON'T BE NEEDING THISPowers: Energy Shield DeflectionEnergy Shield/Deflection. // When Rogue hits an equipped character, you may immediately unequip their equipment, then if Rogue is not equipped she may equip that equipment.[Trait] SKIP THE HOGWASHOpposing characters can't choose or target Rogue except for attacks. // If Rogue moved this turn, she has \"FREE: Make a close attack or CLOSE Terrain Action as FREE.\"[Damage] HONEY, THIS AIN'T THAT SORT OF PROBEPowers: OutwitOutwit. When Rogue uses it to target an adjacent character, she can use the chosen power until she chooses again, even if this power is lost.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brotherhood Of Mutants | Brute | X Men |",
     "alternates": [
       {
         "name": "Rogue",
@@ -6314,14 +6314,14 @@
     "Rarity": "Super Rare",
     "Point Values": "60",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Hellfire Club | Politician | Ruler | X Men",
-    "Keywords Search": "| Hellfire Club | Politician | Ruler | X Men |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] SURVIVING GENOSHAOnce per game, when Emma Frost would be KO'd, you may instead choose one: *Replace her with [set:xm97] #042b Emma Frost on click #4. *Turn Emma Frost to click #6, then heal all friendly characters 1 click.Protected: Pulse Wave.[Trait] BEHIND THE SCENESPowers: LeadershipLeadership. When Emma Frost uses it or her displayed damage power, she considers friendly characters that share a keyword with her as adjacent to herself.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Hellfire Club | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Emma Frost",
@@ -6441,14 +6441,14 @@
     "Properties": "Prime",
     "Point Values": "60",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Hellfire Club | Politician | Ruler | X Men",
-    "Keywords Search": "| Hellfire Club | Politician | Ruler | X Men |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] SECONDARY MUTATIONEmma Frost starts the game with three Diamond tokens. // When Emma Frost would take damage, if she has any Diamond tokens, she may remove one instead of taking damage.[Trait] PRESSURE MAKES DIAMONDSWhen an opposing character targets a friendly character with Outwit or Perplex, after resolutions you may give Emma Frost a Diamond token.[Defense] PROTECTING GENOSHAPowers: Defend, InvincibleDefend, Invincible.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Hellfire Club | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Emma Frost",
@@ -6567,15 +6567,15 @@
     "Rarity": "Chase",
     "Point Values": "250",
     "Team Abilities": "Brotherhood Of Mutants | X Men",
-    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
     "Keywords": "Brotherhood Of Mutants | Celebrity | Politician | Ruler | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Celebrity | Politician | Ruler | X Men |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Improved Targeting": "Destroy Blocking | Characters",
     "Traits and Special Powers": "[Trait] GLOBAL EMPPowers: Force BlastForce Blast. // Characters not named Magneto with one or more action tokens can't be given costed actions.[Trait] THE METTLE TO DO WHAT IS NECESSARYPowers: Incapacitate, WillpowerIncapacitate, Willpower. // FREE: If Magneto has no action tokens, make an attack with an additional [cs:bolt] for each Debris marker within range.[Defense] THIS FEUD IS OVERPowers: Stop, Energy Shield Deflection, InvincibleSTOP. Energy Shield/Deflection, Invincible. // When this click is revealed, after resolutions give an opposing character an action token, then deal that character 1 penetrating damage for each action token on them.",
+    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Celebrity | Politician | Ruler | X Men |",
     "alternates": [
       {
         "name": "Magneto",
@@ -6755,14 +6755,14 @@
     "Properties": "Unique",
     "Point Values": "75/40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Martial Artist | X Men",
-    "Keywords Search": "| Martial Artist | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Blocking | Characters",
     "Traits and Special Powers": "[Trait] *BAMF*When Nightcrawler moves, after resolutions you may generate a BAMF marker in a square he moved through, then remove any of his other BAMF markers from the map. // When Nightcrawler is missed by an opposing attack, you may immediately place him in a square with a BAMF marker.[Trait] EVERYWHERE AT ONCEPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Attack] NO MEIN FREUND... NINE!Powers: Blades Claws Fangs, Precision StrikeBlades/Claws/Fangs, Precision Strike. When Nightcrawler uses Blades/Claws/Fangs, after resolutions you may place him up to 3 squares away from his current square and make an attack. This power may be triggered up to twice per turn.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Martial Artist | X Men |",
     "alternates": [
       {
         "name": "Nightcrawler",
@@ -6894,14 +6894,14 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle",
-    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] SMOOTH OPERATORPowers: Force BlastForce Blast. // When Cyclops makes an attack, after resolutions he may knock himself back 2 squares in any direction. // When Cyclops hits and there is a [d:5] in the result of the finalized attack roll, after resolutions he may make a range attack, but only to target a character he hasn't attacked this turn (This may be repeated).[Trait] DEFINITELY THE GOOD GUYPowers: Leadership, WillpowerLeadership, Willpower. When Cyclops uses either and succeeds, after resolutions you may move a friendly character with the X-Men keyword up to 2 squares.[Defense] I SURRENDER... NOT!Powers: Stop, ToughnessSTOP. Toughness. // Once per game, when this click is revealed, after resolutions knock back all opposing characters within range.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "alternates": [
       {
         "name": "Cyclops",
@@ -7036,14 +7036,14 @@
     "Properties": "Unique",
     "Point Values": "45",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "X Men",
-    "Keywords Search": "| X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Attack] SLAYING 'EM WITH THE 4TH OF JULYPowers: Pulse WaveKNOCKBACK. // Pulse Wave. When Jubilee uses it, you may instead target a single opposing character within range along a direct line of fire. If you do, she deals her printed damage value instead.[Defense] FLASHBANGPowers: StopSTOP. // When this click is first revealed, after resolutions give all opposing characters within range and line of fire an action token.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| X Men |",
     "alternates": [
       {
         "name": "Jubilee",
@@ -7146,13 +7146,13 @@
     "Properties": "Unique",
     "Point Values": "100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Marauders | Ruler | Monster | Mystical | X Men",
-    "Keywords Search": "| Marauders | Ruler | Monster | Mystical | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME TO MY INFERNO!At the beginning of the game, generate 4 Phantasm bystanders into your starting area. // Friendly bystanders within range can use Madelyne Pryor's displayed damage power.[Trait] A NOTHING PERSON FROM A NOWHERE PLACEPowers: Energy Shield Deflection, Shape Change, Mind ControlEnergy Shield/Deflection, Shape Change. // Mind Control as FREE, but only if a friendly character used Shape Change and succeeded since your last turn.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Marauders | Ruler | Monster | Mystical | X Men |",
     "alternates": [
       {
         "name": "Madelyne Pryor",
@@ -7321,12 +7321,12 @@
     "Properties": "Unique",
     "Point Values": "100/50",
     "Keywords": "Marauders | Past | Savage Land | Scientist | Sentinel",
-    "Keywords Search": "| Marauders | Past | Savage Land | Scientist | Sentinel |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] TWISTED EXPERIMENTSAt the beginning of the game choose an opposing character and generate a Clone bystander. This game, the Clone bystander is considered to have the same name as the chosen character, can use the standard powers the chosen character can use, and may replace its combat values with the displayed values of the chosen character. // When the Clone bystander would be KO'd, roll a d6. [d:5]-[d:6]: Instead, the Clone isn't KO'd. Protected: Pulse Wave.[Damage] I KNOW YOUR GENES, JEANPowers: Outwit, Perplex, Probability ControlOutwit, Perplex, Probability Control. When Mister Sinister uses them, he may choose that he has a range of 8 and lines of fire he draws can't be blocked. If he does, he may only target characters that share a name with another character on the map.",
+    "Keywords Search": "| Marauders | Past | Savage Land | Scientist | Sentinel |",
     "alternates": [
       {
         "name": "Mister Sinister",
@@ -7507,14 +7507,14 @@
     "Rarity": "Chase",
     "Point Values": "295/175",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Future | Robot | Sentinel",
-    "Keywords Search": "| Future | Robot | Sentinel |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] TECHNO-ORGANIC INTEGRATIONFREE: Choose an adjacent non-debris terrain marker, or a terrain marker held by or equipped to an adjacent character. Remove that terrain marker from the game and heal Bastion equal to its [cs:damage] value.[Attack] FUTURE TIDEPowers: Pulse WavePulse Wave. When Bastion uses it, before replacing his range, you may place all characters within range and line of fire within 4 squares and line of fire of Bastion.[Defense] HOW MANY TIMES DID YOU FAIL TO STOP ME?Powers: Stop, ImperviousSTOP. Impervious. // When this click is first revealed, after resolutions you may generate a blocking terrain marker in a square within range.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Future | Robot | Sentinel |",
     "alternates": [
       {
         "name": "Bastion",
@@ -7709,14 +7709,14 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Animal | Scientist | X Men",
-    "Keywords Search": "| Animal | Scientist | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] REPAIRING TECHFREE: Generate an equipment from any KO area. You may equip it to Beast or an adjacent friendly character.[Speed] WHAT IS THE SOUND OF ONE HAND CLAPPING?Powers: Charge, FlurryCharge, Flurry. When Beast uses Flurry and hits with the first attack, he may note the target's printed damage value (before he deals damage). If he does, he replaces his damage value with the noted value when he makes the second attack.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Animal | Scientist | X Men |",
     "alternates": [
       {
         "name": "Beast",
@@ -7835,14 +7835,14 @@
     "Rarity": "Chase",
     "Point Values": "85",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Brotherhood Of Mutants | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] ROGUE CLEARS A PATH...Powers: QuakeQuake. When Rogue uses it, after resolutions you may move an adjacent friendly character up to 3 squares.[Damage] DON'T YOU DARE, ERIK!Powers: Battle FuryBattle Fury. // When a friendly character takes damage from an opposing effect, after resolutions modify Rogue's combat values +1 until the end of your next turn.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | X Men |",
     "alternates": [
       {
         "name": "Rogue",
@@ -7969,13 +7969,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Assassin | Spy | X Men | Vehicle",
-    "Keywords Search": "| Assassin | Spy | X Men | Vehicle |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEVER MUCH CARED FOR ROULETTEAt the beginning of your turn, Gambit may roll a d6 and place the result on his card, removing any other dice on his card. // When Gambit attacks, is attacked, or uses Super Senses, he may remove a die from his card and replace a die in the attack roll or Super Senses roll with it.[Speed] MOTORCYCLE ACROBATICSPowers: Leap Climb, Running ShotLeap/Climb, Running Shot. // When Gambit attacks or is attacked, after resolutions you may place him up to 2 squares away from his current square.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Assassin | Spy | X Men | Vehicle |",
     "alternates": [
       {
         "name": "Gambit",
@@ -8088,13 +8088,13 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Hellfire Club | Phoenix Force | X Men",
-    "Keywords Search": "| Hellfire Club | Phoenix Force | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TELEPATHIC NETWORKFriendly characters with the X-Men keyword have SAFEGUARD: Mind Control. // When a friendly character with the X-Men keyword is given a costed action, if Jean Grey has no action tokens, you may instead give the action token for that action to Jean Grey.[Trait] WEATHER YOUR MINDPowers: Mind ControlMind Control as FREE, but only if Jean Grey has 2 action tokens. // When Jean Grey uses Mind Control, if a friendly character is named Storm, after resolutions deal each hit character 1 penetrating damage.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Hellfire Club | Phoenix Force | X Men |",
     "alternates": [
       {
         "name": "Jean Grey",
@@ -8171,6 +8171,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "ab70a371-ebbf-4601-9a37-a3c4eb810929.Click5.png"
+      },
+      {
+        "name": "Jean Grey",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ab70a371-ebbf-4601-9a37-a3c4eb810929.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8188,14 +8198,14 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle",
-    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] WHAT'D YOU EXPECT? BLACK LEATHER?When establishing themed teams, you may choose a friendly character to gain the X-Men keyword. This game, that character has [ta:x_men].[Attack] LET'S SHOW THESE TOASTERS!Powers: Penetrating Psychic BlastPenetrating/Psychic Blast. // When Cyclops or an adjacent friendly character with the X-Men keyword attacks, characters with [cs:colossal] or the Robot or Sentinel keywords can't use STOP.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Marksman | Martial Artist | Pilot | Starjammers | X Men | Vehicle |",
     "alternates": [
       {
         "name": "Cyclops",
@@ -8287,6 +8297,16 @@
         "Damage": "4",
         "Damage Ability": "Leadership",
         "image": "fab12c1a-cb68-4b75-bf6b-07ace4a357f9.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "fab12c1a-cb68-4b75-bf6b-07ace4a357f9.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8304,14 +8324,14 @@
     "Rarity": "Common",
     "Point Values": "40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Mojoverse | X Men",
-    "Keywords Search": "| Mojoverse | X Men |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] EXTRA LIFEWhen Jubilee starts the game, add an Extra Life token to your Sideline. // When Jubilee would be KO'd, you may remove any Extra Life token from your Sideline. If you do, instead turn her to click #2.[Attack] GAMER GIRL IN A GAMER WORLDPowers: Energy Explosion, Penetrating Psychic BlastEnergy Explosion, Penetrating/Psychic Blast. // When Jubilee hits with a range attack, hit characters have a range of 0 until your next turn.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Mojoverse | X Men |",
     "alternates": [
       {
         "name": "Jubilee",
@@ -8386,6 +8406,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "4a9bc573-a56a-46aa-88f1-8e1ec40e6f9a.Click5.png"
+      },
+      {
+        "name": "Jubilee",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4a9bc573-a56a-46aa-88f1-8e1ec40e6f9a.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8403,14 +8433,14 @@
     "Rarity": "Common",
     "Point Values": "60/30",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Animal | Scientist | X Men",
-    "Keywords Search": "| Animal | Scientist | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] A BEAUTIFUL INVOLUNTARY FRIENDSHIPPowers: Mind ControlWhen Beast hits a character with the Robot or Sentinel keyword with a close attack, after resolutions he may use Mind Control as FREE, but only to target that character.[Trait] LOOK FOR THE HELPERSFriendly characters have [ta:x_men]. When they use it, if they have [ta:x_men] printed on their base, instead of rolling a d6 the result is [d:6].[Damage] OH, MY STARS AND GARTERSPowers: Outwit, PerplexOutwit, Perplex.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Animal | Scientist | X Men |",
     "alternates": [
       {
         "name": "Beast",
@@ -8501,6 +8531,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "c2b7d8e7-58b7-45b0-9bdf-78c93b80be9a.Click6.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c2b7d8e7-58b7-45b0-9bdf-78c93b80be9a.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8518,13 +8558,13 @@
     "Rarity": "Uncommon",
     "Point Values": "65/50",
     "Team Abilities": "Brotherhood Of Mutants | X Men",
-    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
     "Keywords": "Brotherhood Of Mutants | Politician | Savage Land | X Men",
-    "Keywords Search": "| Brotherhood Of Mutants | Politician | Savage Land | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I WILL NOT SEE ANY MORE MUTANTS DIEUNIQUE MODIFIER - Friendly characters that share a keyword with Rogue modify defense +1 for each character in your KO area that shares a keyword with Rogue.[Trait] LEADING OUR KIND TO A NEW AGEPowers: LeadershipLeadership. // When Rogue hits, Action Total +1 this turn.",
+    "Team Abilities Search": "| Brotherhood Of Mutants | X Men |",
+    "Keywords Search": "| Brotherhood Of Mutants | Politician | Savage Land | X Men |",
     "alternates": [
       {
         "name": "Rogue",
@@ -8629,6 +8669,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "b6a3fe41-692e-44e3-878d-ff924d157556.Click7.png"
+      },
+      {
+        "name": "Rogue",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b6a3fe41-692e-44e3-878d-ff924d157556.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8646,14 +8696,14 @@
     "Rarity": "Uncommon",
     "Point Values": "55",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Spy | X Men",
-    "Keywords Search": "| Spy | X Men |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] HOW 'BOUT A GAME?For all characters with this trait, when a character (friendly or opposing) misses all targets, after resolutions the player friendly to that character adds a PIG token to their Sideline. Then, if that player has three PIG tokens on their Sideline their opponents score 25 points, their turn immediately ends, and no characters can use this trait for the rest of the game.[Attack] 52 PICKUPPowers: Energy ExplosionEnergy Explosion. // When Gambit makes an attack and the finalized attack roll has a [d:5] and a [d:2], all targets become hit and the damage dealt is penetrating.[Damage] ALWAYS KNOW THE ODDSPowers: Outwit, Probability ControlOutwit, Probability Control. // Friendly characters with the X-Men keyword have SAFEGUARD: Energy Explosion.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Spy | X Men |",
     "alternates": [
       {
         "name": "Gambit",
@@ -8730,6 +8780,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "5d4c528c-a82b-4cb7-8eee-a4489fea93c5.Click5.png"
+      },
+      {
+        "name": "Gambit",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5d4c528c-a82b-4cb7-8eee-a4489fea93c5.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8747,13 +8807,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Team Player | X Men",
-    "Team Abilities Search": "| Team Player | X Men |",
     "Keywords": "Assassin | Marauders | Spy | X Men",
-    "Keywords Search": "| Assassin | Marauders | Spy | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SHE CAN'T SAY IT, BUT I CAN...Once per game for all friendly characters with this trait, when another friendly character with the X-Men keyword would be KO'd, instead turn them to their last non-KO click and place them adjacent to Morph. If that character has Logan or Wolverine in their name, they have IMMUNE until your next turn.[Trait] SHIFTING BETWEEN FORMSFREE: Choose a friendly character within 4 squares. Until your next turn, Morph can use any standard powers that character can use and replaces their range with the chosen character's printed range.",
+    "Team Abilities Search": "| Team Player | X Men |",
+    "Keywords Search": "| Assassin | Marauders | Spy | X Men |",
     "alternates": [
       {
         "name": "Morph",
@@ -8863,6 +8923,16 @@
         "Damage": "3",
         "Damage Ability": "Shape Change",
         "image": "e4bf0c35-60b5-4ffa-9f91-24de5744e723.Click8.png"
+      },
+      {
+        "name": "Morph",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e4bf0c35-60b5-4ffa-9f91-24de5744e723.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8880,13 +8950,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50/35",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Morlocks | X Men | Deity",
-    "Keywords Search": "| Morlocks | X Men | Deity |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MIND YOUR WEATHERWhen a friendly character with the X-Men keyword hits, after resolutions Storm may knock back the hit characters. // If a friendly character is named Jean Grey, opposing characters can't reduce knockback damage.[Speed] GIVING THEM THE FORECASTPowers: SidestepSidestep. // [cs:passenger]: 2, but only to carry characters with the X-Men keyword.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Morlocks | X Men | Deity |",
     "alternates": [
       {
         "name": "Storm",
@@ -8979,6 +9049,16 @@
         "Damage": "3",
         "Damage Ability": "Leadership",
         "image": "4d18238e-c45a-430d-870a-39f9fef3de64.Click6.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4d18238e-c45a-430d-870a-39f9fef3de64.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -8996,14 +9076,14 @@
     "Rarity": "Rare",
     "Point Values": "55",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Martial Artist | Politician | X Men",
-    "Keywords Search": "| Martial Artist | Politician | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking | Characters",
     "Traits and Special Powers": "[Trait] PROTECTOR OF THE X-MENWhen Nightcrawler places one or more friendly characters, after resolutions you may heal one of them 1 click.[Trait] FAMILY... IS A CHOICEWhen a friendly character within 2 squares is missed by an attack, after resolutions you may place that character up to 2 squares away from their current square.[Speed] WE SHALL PLAY TOURIST![cs:passenger]: 3, but only to carry characters with the X-Men keyword. // When Nightcrawler is given a MOVE action, after resolutions he may make an attack.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Martial Artist | Politician | X Men |",
     "alternates": [
       {
         "name": "Nightcrawler",
@@ -9089,6 +9169,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "d178cafb-7e69-4ec8-94a9-e17bb13bc194.Click6.png"
+      },
+      {
+        "name": "Nightcrawler",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d178cafb-7e69-4ec8-94a9-e17bb13bc194.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -9106,13 +9196,13 @@
     "Rarity": "Rare",
     "Point Values": "70/50",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Future | Police | X Force | X Men | Detective",
-    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AIN'T OUR FIRST TIME AT THE \"THE X-MEN ARE DEAD RODEO\"When another friendly character with the X-Men keyword is KO'd by an opposing effect, after resolutions you may place Bishop anywhere on the map and he has IMMUNE until your next turn.[Trait] WE GOTTA RESCUE THE X-MEN!Powers: Probability ControlProbability Control. // When an opposing character uses Probability Control to reroll an opposing character's attack roll, modify the attacker's damage -1 for that attack.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Future | Police | X Force | X Men | Detective |",
     "alternates": [
       {
         "name": "Bishop",
@@ -9205,6 +9295,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "8736ec45-4ca7-4f12-be10-66f24aa875f2.Click6.png"
+      },
+      {
+        "name": "Bishop",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8736ec45-4ca7-4f12-be10-66f24aa875f2.KO.png"
       }
     ],
     "Set": "X-Men '97",
@@ -9222,13 +9322,13 @@
     "Rarity": "Rare",
     "Point Values": "75/40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X",
-    "Keywords Search": "| Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE BRAVE ALWAYS DIE FIRSTPowers: Super Senses, Toughness, ImperviousSuper Senses, Toughness. // If Wolverine is adjacent to exactly one opposing character and neither is adjacent to any other characters, other characters can't be moved or placed adjacent to either of them, and Wolverine can use Impervious.[Speed] I'VE BEEN IN A LOT OF WARS, BUB...Powers: Charge, Flurry, StealthCharge, Flurry, Stealth.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Alpha Flight | Animal | Brute | Soldier | X Men | Weapon X |",
     "alternates": [
       {
         "name": "Wolverine",
@@ -9336,6 +9436,16 @@
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
         "image": "85c060ab-6033-40e4-9780-20ca874ba4de.Click7.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "85c060ab-6033-40e4-9780-20ca874ba4de.KO.png"
       }
     ],
     "Set": "X-Men '97",

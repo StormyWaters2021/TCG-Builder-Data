@@ -9174,6 +9174,16 @@
         "Defense Ability": "Super Senses",
         "Damage": "2",
         "image": "501204ad-e68c-4c9a-b77d-0a1326d87ccb.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "501204ad-e68c-4c9a-b77d-0a1326d87ccb.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9267,6 +9277,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "1",
         "image": "13f833a5-8a4a-4b2c-ab77-4c54461f5fcd.Click5.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "13f833a5-8a4a-4b2c-ab77-4c54461f5fcd.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9338,6 +9358,16 @@
         "Defense": "11",
         "Damage": "0",
         "image": "675dcc10-45e8-488e-b238-fd0f3c18cc66.Click4.png"
+      },
+      {
+        "name": "Destiny",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "675dcc10-45e8-488e-b238-fd0f3c18cc66.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9461,6 +9491,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "fd68baeb-dadd-4fac-ba06-5b4c039ae400.Click7.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "fd68baeb-dadd-4fac-ba06-5b4c039ae400.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9609,6 +9649,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "07f8a94e-92c4-4e49-8219-3c659bbfdbbc.Click9.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "07f8a94e-92c4-4e49-8219-3c659bbfdbbc.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9779,6 +9829,16 @@
         "Damage": "4",
         "Damage Ability": "Outwit",
         "image": "e49486b7-0b62-4832-b8ad-971b24d8616b.Click10.png"
+      },
+      {
+        "name": "Apocalypse",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e49486b7-0b62-4832-b8ad-971b24d8616b.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -9908,6 +9968,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "b123f879-c18e-4cef-9c2c-07eb0a7b9fcb.Click8.png"
+      },
+      {
+        "name": "Deadpool",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b123f879-c18e-4cef-9c2c-07eb0a7b9fcb.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",
@@ -10104,6 +10174,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "42bb6246-ef68-4b30-9d85-32036404bf85.Click17.png"
+      },
+      {
+        "name": "Sentinel",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "42bb6246-ef68-4b30-9d85-32036404bf85.KO.png"
       }
     ],
     "Set": "X-Men: Rise and Fall",

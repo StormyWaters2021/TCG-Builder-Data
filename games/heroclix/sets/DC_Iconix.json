@@ -3716,6 +3716,16 @@
         "Damage": "1",
         "Damage Ability": "Leadership",
         "image": "c16dbf93-bdd7-4570-a127-ed9d3b99d64c.Click1.png"
+      },
+      {
+        "name": "Butterfly",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c16dbf93-bdd7-4570-a127-ed9d3b99d64c.KO.png"
       }
     ],
     "Set": "DC Iconix",
@@ -5282,6 +5292,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "c57999d5-0674-433a-bdf9-1206f805b1bf.Click8.png"
+      },
+      {
+        "name": "Barry Allen",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c57999d5-0674-433a-bdf9-1206f805b1bf.KO.png"
       }
     ],
     "Set": "DC Iconix",

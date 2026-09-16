@@ -8808,6 +8808,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "76bd56e2-a8ba-4b1d-807a-8274861cd2cb.Click7.png"
+      },
+      {
+        "name": "Ghost Rider",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "76bd56e2-a8ba-4b1d-807a-8274861cd2cb.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -8903,6 +8913,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "fdbe1e0c-0d9d-4395-b79d-6351b86b2446.Click5.png"
+      },
+      {
+        "name": "Jack O'Lantern",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "fdbe1e0c-0d9d-4395-b79d-6351b86b2446.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9030,6 +9050,16 @@
         "Damage": "1",
         "Damage Ability": "Probability Control",
         "image": "13eafdaf-888d-4060-87b8-f9470251efb9.Click7.png"
+      },
+      {
+        "name": "Satana Hellstrom",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "13eafdaf-888d-4060-87b8-f9470251efb9.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9111,6 +9141,16 @@
         "Damage": "1",
         "Damage Ability": "Support",
         "image": "b418c390-d123-410a-80db-0f9e7687511f.Click4.png"
+      },
+      {
+        "name": "Jennifer Kale",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b418c390-d123-410a-80db-0f9e7687511f.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9205,6 +9245,16 @@
         "Damage": "1",
         "Damage Ability": "Special - POWER OVER THE DEAD",
         "image": "96923b08-325b-431c-9723-a3ffc51f4f18.Click5.png"
+      },
+      {
+        "name": "Black Talon",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "96923b08-325b-431c-9723-a3ffc51f4f18.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9330,6 +9380,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "2dab7fba-e617-4c3c-a059-faf327523e3e.Click7.png"
+      },
+      {
+        "name": "Ghost Rider",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2dab7fba-e617-4c3c-a059-faf327523e3e.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9471,6 +9531,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "6d9ed55b-43b4-4cb7-aa0f-c300e5a23f50.Click8.png"
+      },
+      {
+        "name": "Man-Thing and Howard The Duck",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6d9ed55b-43b4-4cb7-aa0f-c300e5a23f50.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9580,6 +9650,16 @@
         "Damage": "1",
         "Damage Ability": "Ranged Combat Expert",
         "image": "3368958e-3714-4354-987d-72ace8a4a00e.Click6.png"
+      },
+      {
+        "name": "Two-Gun Kid",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3368958e-3714-4354-987d-72ace8a4a00e.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9720,6 +9800,16 @@
         "Damage": "3",
         "Damage Ability": "Special - TOUCH OF DEATH",
         "image": "c47b1b0e-688c-417a-be24-d80335cbb92a.Click8.png"
+      },
+      {
+        "name": "Hela",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c47b1b0e-688c-417a-be24-d80335cbb92a.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9856,6 +9946,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "b3fd4897-fa64-44e4-8862-2deefaa3eb22.Click11.png"
+      },
+      {
+        "name": "Daredevil",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b3fd4897-fa64-44e4-8862-2deefaa3eb22.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -9981,6 +10081,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "e2756e7e-3fb6-440c-baea-fd7f9e0bfab7.Click7.png"
+      },
+      {
+        "name": "Witch Queen Le Fay",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e2756e7e-3fb6-440c-baea-fd7f9e0bfab7.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -10112,6 +10222,16 @@
         "Damage": "2",
         "Damage Ability": "Special - SUPER-GENIUS",
         "image": "8712dd46-7d5b-40c8-890c-78c7d0926b8a.Click5.png"
+      },
+      {
+        "name": "Hammer",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8712dd46-7d5b-40c8-890c-78c7d0926b8a.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",
@@ -10255,6 +10375,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "bf0759d9-f75a-48b0-8a4c-3d30fb836782.Click8.png"
+      },
+      {
+        "name": "Iron Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "bf0759d9-f75a-48b0-8a4c-3d30fb836782.KO.png"
       }
     ],
     "Set": "Wheels of Vengeance",

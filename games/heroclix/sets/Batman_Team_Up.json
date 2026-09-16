@@ -1057,6 +1057,16 @@
         "Damage": "1",
         "Damage Ability": "Exploit Weakness",
         "image": "f2210b91-e0c3-4b46-985d-0ff533860d6b.Click6.png"
+      },
+      {
+        "name": "Harley Quinn",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f2210b91-e0c3-4b46-985d-0ff533860d6b.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -1936,6 +1946,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "c7309718-70f2-401c-93d1-d673e19f5c32.Click7.png"
+      },
+      {
+        "name": "Batman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c7309718-70f2-401c-93d1-d673e19f5c32.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -2238,6 +2258,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "0aa0307e-2c26-4e57-9fea-3a5003c0d7af.Click8.png"
+      },
+      {
+        "name": "Superman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0aa0307e-2c26-4e57-9fea-3a5003c0d7af.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -2499,6 +2529,16 @@
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
         "image": "2a623839-75f0-43d9-a887-c94eaeff6a8d.Click7.png"
+      },
+      {
+        "name": "Wonder Woman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2a623839-75f0-43d9-a887-c94eaeff6a8d.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -2910,6 +2950,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "dc4e757c-d25a-4db4-b4a7-0cfc90bb68e3.Click9.png"
+      },
+      {
+        "name": "Robotman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "dc4e757c-d25a-4db4-b4a7-0cfc90bb68e3.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -4325,6 +4375,16 @@
         "Damage": "3",
         "Damage Ability": "Empower",
         "image": "29d65518-7954-456a-ba19-27ba7ce97a3b.Click6.png"
+      },
+      {
+        "name": "The Penguin",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "29d65518-7954-456a-ba19-27ba7ce97a3b.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -4553,6 +4613,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "1",
         "image": "5a3da71c-9158-4127-9cc8-7b883c9db22e.Click6.png"
+      },
+      {
+        "name": "Catwoman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5a3da71c-9158-4127-9cc8-7b883c9db22e.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -4789,6 +4859,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "1d214fad-1cb1-4f5d-8629-2fdca702c6a7.Click6.png"
+      },
+      {
+        "name": "The Joker",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1d214fad-1cb1-4f5d-8629-2fdca702c6a7.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -5963,6 +6043,16 @@
         "Damage": "4",
         "Damage Ability": "Shape Change",
         "image": "84c40887-de62-4d65-a124-c4ba66668792.Click8.png"
+      },
+      {
+        "name": "Martian Manhunter",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "84c40887-de62-4d65-a124-c4ba66668792.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -6987,6 +7077,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "1d2183e1-be84-4d04-aa9f-d76d0955e214.Click7.png"
+      },
+      {
+        "name": "Bane",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1d2183e1-be84-4d04-aa9f-d76d0955e214.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -7285,6 +7385,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "9b8f0481-088d-42fc-aac2-465ccda631a2.Click8.png"
+      },
+      {
+        "name": "Aquaman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9b8f0481-088d-42fc-aac2-465ccda631a2.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -7741,6 +7851,16 @@
         "Damage": "3",
         "Damage Ability": "Exploit Weakness",
         "image": "d6e70250-230d-4533-9318-5e3b312c204a.Click11.png"
+      },
+      {
+        "name": "Wonder Woman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d6e70250-230d-4533-9318-5e3b312c204a.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13261,6 +13381,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "5fec510b-cefb-4b0a-9389-78aaf23e547c.Click10.png"
+      },
+      {
+        "name": "Batman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5fec510b-cefb-4b0a-9389-78aaf23e547c.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13327,6 +13457,16 @@
         "Defense Ability": "Willpower",
         "Damage": "1",
         "image": "b0e1f9b6-a6c3-42e6-b52d-7954ad14d5aa.Click3.png"
+      },
+      {
+        "name": "Commissioner Gordon",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b0e1f9b6-a6c3-42e6-b52d-7954ad14d5aa.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13440,6 +13580,16 @@
         "Damage": "2",
         "Damage Ability": "Probability Control",
         "image": "da567111-13a5-4735-ae15-aa7ab48dddb9.Click6.png"
+      },
+      {
+        "name": "Crazy Jane",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "da567111-13a5-4735-ae15-aa7ab48dddb9.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13568,6 +13718,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "3e70535b-e706-4a24-9ab8-183a946cffaf.Click7.png"
+      },
+      {
+        "name": "Nightwing",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3e70535b-e706-4a24-9ab8-183a946cffaf.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13649,6 +13809,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "763fb5f4-e7db-4cc2-bedc-38a3f1cbdcf6.Click4.png"
+      },
+      {
+        "name": "The Question",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "763fb5f4-e7db-4cc2-bedc-38a3f1cbdcf6.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13744,6 +13914,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "01e550f3-eb45-446f-868c-044729fdd747.Click5.png"
+      },
+      {
+        "name": "The Riddler",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "01e550f3-eb45-446f-868c-044729fdd747.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -13866,6 +14046,16 @@
         "Damage": "1",
         "Damage Ability": "Perplex",
         "image": "a60a1e0f-2de9-4ef6-9adb-a97ba110634e.Click7.png"
+      },
+      {
+        "name": "The Joker",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a60a1e0f-2de9-4ef6-9adb-a97ba110634e.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14024,6 +14214,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "6b12f0cf-47b1-4af9-8472-d8c0f83b8e04.Click9.png"
+      },
+      {
+        "name": "Atrocitus",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6b12f0cf-47b1-4af9-8472-d8c0f83b8e04.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14104,6 +14304,16 @@
         "Damage": "0",
         "Damage Ability": "Support",
         "image": "873105c6-5bca-4713-b6d7-851374972f5f.Click4.png"
+      },
+      {
+        "name": "The Chief",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "873105c6-5bca-4713-b6d7-851374972f5f.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14234,6 +14444,16 @@
         "Damage": "2",
         "Damage Ability": "Special - ANY SUGGESTIONS, BOSS?",
         "image": "da2f387c-99fe-4625-8b01-d1680ac80701.Click7.png"
+      },
+      {
+        "name": "Batman Beyond",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "da2f387c-99fe-4625-8b01-d1680ac80701.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14414,6 +14634,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "d9f9705f-cd27-44be-9f7a-0815516cee4c.Click11.png"
+      },
+      {
+        "name": "Hal Jordan and Sinestro",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d9f9705f-cd27-44be-9f7a-0815516cee4c.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14525,6 +14755,16 @@
         "Damage": "2",
         "Damage Ability": "Special - I USED TO USE GUNS...ONCE",
         "image": "00f6ab5b-4d8f-40c9-b286-b3f0c7c7181c.Click6.png"
+      },
+      {
+        "name": "Batman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "00f6ab5b-4d8f-40c9-b286-b3f0c7c7181c.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14668,6 +14908,16 @@
         "Damage": "4",
         "Damage Ability": "Outwit",
         "image": "a185fb61-a53c-4933-84f5-dec506966e6f.Click8.png"
+      },
+      {
+        "name": "Harley and Ivy",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a185fb61-a53c-4933-84f5-dec506966e6f.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14798,6 +15048,16 @@
         "Damage": "4",
         "Damage Ability": "Special - INSANE BRILLIANCE",
         "image": "54e4d3a3-0f0a-40d6-a7eb-1e02779b94f1.Click7.png"
+      },
+      {
+        "name": "Lex Luthor & the Joker",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "54e4d3a3-0f0a-40d6-a7eb-1e02779b94f1.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -14965,6 +15225,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "7d5e7139-8dcb-416d-95a8-cbf2316a4f25.Click10.png"
+      },
+      {
+        "name": "World's Finest",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7d5e7139-8dcb-416d-95a8-cbf2316a4f25.KO.png"
       }
     ],
     "Set": "Batman Team-Up",
@@ -15124,6 +15394,16 @@
         "Defense Ability": "Defend",
         "Damage": "2",
         "image": "23b2201f-34c1-4b7d-8a9e-41efbc0a431c.Click10.png"
+      },
+      {
+        "name": "Green Lantern",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "23b2201f-34c1-4b7d-8a9e-41efbc0a431c.KO.png"
       }
     ],
     "Set": "Batman Team-Up",

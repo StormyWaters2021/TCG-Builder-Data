@@ -12245,6 +12245,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "image": "08045517-90b9-494a-af06-041e210ef72a.Click6.png"
+      },
+      {
+        "name": "Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "08045517-90b9-494a-af06-041e210ef72a.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -12328,6 +12338,16 @@
         "Damage": "3",
         "Damage Ability": "Special - HYDRAULIC LEG SMASH",
         "image": "28bd6121-5b5d-4e36-aa83-9c3612d3036a.Click4.png"
+      },
+      {
+        "name": "Stilt-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "28bd6121-5b5d-4e36-aa83-9c3612d3036a.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -12464,6 +12484,16 @@
         "Defense Ability": "Willpower",
         "Damage": "2",
         "image": "e0adfc55-74c9-436a-8b33-2c60919cee56.Click8.png"
+      },
+      {
+        "name": "Cloak & Dagger",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e0adfc55-74c9-436a-8b33-2c60919cee56.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -12574,6 +12604,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "4645a1e5-ccdd-4b5a-978b-f392fa4ec3cf.Click6.png"
+      },
+      {
+        "name": "Peter the Hunter",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4645a1e5-ccdd-4b5a-978b-f392fa4ec3cf.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -12797,6 +12837,16 @@
         "Defense": "13",
         "Damage": "2",
         "image": "db165075-9bd7-4f90-b7d8-6758e2902894.Click5.png"
+      },
+      {
+        "name": "Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "db165075-9bd7-4f90-b7d8-6758e2902894.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -12885,6 +12935,16 @@
         "Defense Ability": "Super Senses",
         "Damage": "1",
         "image": "1326b178-2376-4ee2-ae68-3fc8c231d457.Click5.png"
+      },
+      {
+        "name": "Frog-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1326b178-2376-4ee2-ae68-3fc8c231d457.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -13049,6 +13109,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "image": "90df1a05-3398-49d1-ba23-6f6a056e6c8c.Click10.png"
+      },
+      {
+        "name": "Morlun",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "90df1a05-3398-49d1-ba23-6f6a056e6c8c.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -13184,6 +13254,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "0e87dfb5-f59e-48ee-9a4a-21a1dfabf369.Click8.png"
+      },
+      {
+        "name": "Carnage",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0e87dfb5-f59e-48ee-9a4a-21a1dfabf369.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -13314,6 +13394,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "0c6ee866-443a-44d0-9cc2-04b913e5484d.Click8.png"
+      },
+      {
+        "name": "Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0c6ee866-443a-44d0-9cc2-04b913e5484d.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -13451,6 +13541,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "3937f31c-e583-4b92-a3f8-fc9885d8d84d.Click8.png"
+      },
+      {
+        "name": "Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3937f31c-e583-4b92-a3f8-fc9885d8d84d.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",
@@ -13763,6 +13863,16 @@
         "Defense Ability": "Special - COLOSSAL INDIFFERENCE",
         "Damage": "3",
         "image": "ffdd9299-b8b5-4434-a73b-25cb0b429f24.Click20.png"
+      },
+      {
+        "name": "Carnage",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ffdd9299-b8b5-4434-a73b-25cb0b429f24.KO.png"
       }
     ],
     "Set": "Spider-Man: Beyond Amazing",

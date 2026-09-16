@@ -6764,6 +6764,16 @@
         "Damage": "4",
         "Damage Ability": "Probability Control",
         "image": "3459a292-0ebd-4a17-bb0f-402a63434900.Click11.png"
+      },
+      {
+        "name": "Galactus",
+        "type": "KO",
+        "size": "3x6",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3459a292-0ebd-4a17-bb0f-402a63434900.KO.png"
       }
     ],
     "Set": "Marvel Iconix",
@@ -7746,6 +7756,16 @@
         "Damage": "0",
         "Damage Ability": "Special - PROTECTING MY STUDENTS",
         "image": "cd2c61e9-ac2d-4002-840f-1efa081d1b82.Click4.png"
+      },
+      {
+        "name": "Professor X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cd2c61e9-ac2d-4002-840f-1efa081d1b82.KO.png"
       }
     ],
     "Set": "Marvel Iconix",

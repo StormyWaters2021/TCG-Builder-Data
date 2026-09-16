@@ -1712,6 +1712,16 @@
         "Defense Ability": "Toughness",
         "Damage": "0",
         "image": "05312671-9963-4b87-aaa9-dba476ee8523.Click1.png"
+      },
+      {
+        "name": "Timebreaker",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "05312671-9963-4b87-aaa9-dba476ee8523.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -3633,6 +3643,16 @@
         "Damage": "1",
         "Damage Ability": "Special - COWARDICE IS THE BETTER PART OF VALOR",
         "image": "c295c83a-8d0d-4cbf-bc49-ad0c3afb8540.Click5.png"
+      },
+      {
+        "name": "Bob, Agent of Hydra",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c295c83a-8d0d-4cbf-bc49-ad0c3afb8540.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -10846,6 +10866,16 @@
         "Damage": "2",
         "Damage Ability": "Special - MRRRRRR?",
         "image": "024a8dd8-127f-43c1-955e-cc86857c1e77.Click6.png"
+      },
+      {
+        "name": "Jeff the Landshark",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "024a8dd8-127f-43c1-955e-cc86857c1e77.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -11186,6 +11216,16 @@
         "Damage": "3",
         "Damage Ability": "Empower",
         "image": "441fe57b-03f0-4956-be2b-eb49eb5e0615.Click8.png"
+      },
+      {
+        "name": "Deadpool & Hit Monkey",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "441fe57b-03f0-4956-be2b-eb49eb5e0615.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -11882,6 +11922,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "2009b829-0000-490a-8003-1ae2a33ac586.Click6.png"
+      },
+      {
+        "name": "Mystique",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2009b829-0000-490a-8003-1ae2a33ac586.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -11961,6 +12011,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "78ab9d21-31c6-417e-835f-a3d93ff6686b.Click4.png"
+      },
+      {
+        "name": "Hit-Monkey",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "78ab9d21-31c6-417e-835f-a3d93ff6686b.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12101,6 +12161,16 @@
         "Damage": "1",
         "Damage Ability": "Probability Control",
         "image": "7feb3bc8-b7b2-4276-990e-2b90273cfa77.Click8.png"
+      },
+      {
+        "name": "Shiklah",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7feb3bc8-b7b2-4276-990e-2b90273cfa77.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12228,6 +12298,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "d3548987-1682-4ed7-9c29-984a8ae540d8.Click7.png"
+      },
+      {
+        "name": "Fantomex",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d3548987-1682-4ed7-9c29-984a8ae540d8.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12418,6 +12498,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "7c653d41-cf8b-4b2c-b9ab-32767c92be11.Click9.png"
+      },
+      {
+        "name": "Deadpool and Bob",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7c653d41-cf8b-4b2c-b9ab-32767c92be11.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12570,6 +12660,16 @@
         "Damage": "1",
         "Damage Ability": "Support",
         "image": "91344c11-2241-484e-a778-0386f9c7909e.Click7.png"
+      },
+      {
+        "name": "Hellcow",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "91344c11-2241-484e-a778-0386f9c7909e.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12698,6 +12798,16 @@
         "Damage": "3",
         "Damage Ability": "Special - BERSERKER RAGE OR FACILITY TRAINING?",
         "image": "23b36486-1f04-459b-bd70-aea30e39a402.Click7.png"
+      },
+      {
+        "name": "Wolverine and X-23",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "23b36486-1f04-459b-bd70-aea30e39a402.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -12842,6 +12952,16 @@
         "Damage": "2",
         "Damage Ability": "Special - KINDRED SPIRITS",
         "image": "260e46a1-79ff-47c0-b36e-54f91232d76d.Click8.png"
+      },
+      {
+        "name": "Professor X and Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "260e46a1-79ff-47c0-b36e-54f91232d76d.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -13000,6 +13120,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "db182050-adec-490d-998e-e22e4d8a5578.Click9.png"
+      },
+      {
+        "name": "Tiamat",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "db182050-adec-490d-998e-e22e4d8a5578.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -13160,6 +13290,16 @@
         "Damage": "1",
         "Damage Ability": "Battle Fury",
         "image": "8b58cc8f-0ce5-40c5-bf3d-003a7ca77f6e.Click11.png"
+      },
+      {
+        "name": "Weapon X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8b58cc8f-0ce5-40c5-bf3d-003a7ca77f6e.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",
@@ -13559,6 +13699,16 @@
         "Damage": "3",
         "Damage Ability": "Special - COLOSSAL RETALIATION: AWAKENED BY ATOMIC TESTING",
         "image": "85d0b027-6d8b-4f49-890b-1e129c98711b.Click25.png"
+      },
+      {
+        "name": "Krakoa",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "85d0b027-6d8b-4f49-890b-1e129c98711b.KO.png"
       }
     ],
     "Set": "Deadpool Weapon X",

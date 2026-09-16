@@ -934,6 +934,16 @@
         "Defense": "3",
         "Damage": "0",
         "image": "cdcc2af0-b3a1-48cd-8061-01d617627844.Click1.png"
+      },
+      {
+        "name": "Tribbles",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cdcc2af0-b3a1-48cd-8061-01d617627844.KO.png"
       }
     ],
     "Set": "Star Trek Away Team: The Original Series",

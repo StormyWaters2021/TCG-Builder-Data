@@ -9542,6 +9542,16 @@
         "Defense Ability": "Toughness",
         "Damage": "1",
         "image": "55a85406-1665-4835-81c0-67a353ac894e.Click6.png"
+      },
+      {
+        "name": "Xavin",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "55a85406-1665-4835-81c0-67a353ac894e.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -9670,6 +9680,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "image": "acc05580-63a7-4058-826c-023265366535.Click7.png"
+      },
+      {
+        "name": "She-Hulk",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "acc05580-63a7-4058-826c-023265366535.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -9808,6 +9828,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "7f0645d9-b7d6-4a97-b65e-6f8854abe3b5.Click8.png"
+      },
+      {
+        "name": "Morg",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7f0645d9-b7d6-4a97-b65e-6f8854abe3b5.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -9934,6 +9964,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "64d0bf31-20cc-44b2-aa5c-493b3686076a.Click7.png"
+      },
+      {
+        "name": "Mr. Fantastic",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "64d0bf31-20cc-44b2-aa5c-493b3686076a.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -10057,6 +10097,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "c4901a97-7251-4ac6-9dfd-47d803482045.Click7.png"
+      },
+      {
+        "name": "Thing",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c4901a97-7251-4ac6-9dfd-47d803482045.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -10199,6 +10249,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "94805d69-1b68-46ed-add1-df92fc1ffdc2.Click8.png"
+      },
+      {
+        "name": "Morgan Le Fay",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "94805d69-1b68-46ed-add1-df92fc1ffdc2.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -10312,6 +10372,16 @@
         "Damage": "1",
         "Damage Ability": "Probability Control",
         "image": "6f4e9e6a-66a3-4449-a25e-eff16f1fc11f.Click6.png"
+      },
+      {
+        "name": "Invisible Woman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6f4e9e6a-66a3-4449-a25e-eff16f1fc11f.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",
@@ -10429,6 +10499,16 @@
         "Defense Ability": "Willpower",
         "Damage": "2",
         "image": "b83e7c98-0e17-472d-84b0-48a2d14543dd.Click7.png"
+      },
+      {
+        "name": "Human Torch",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b83e7c98-0e17-472d-84b0-48a2d14543dd.KO.png"
       }
     ],
     "Set": "Fantastic Four: Future Foundation",

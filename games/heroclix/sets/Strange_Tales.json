@@ -9,14 +9,14 @@
     "Rarity": "Common",
     "Point Values": "75/40",
     "Team Abilities": "Mystics | Avengers",
-    "Team Abilities Search": "| Mystics | Avengers |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] MASTER OF THE MYSTICAL ARTSFriendly characters with the Avengers keyword have [ta:mystics]. // For all characters with this trait, when an opposing character uses Outwit, Perplex, or Probability Control to target a friendly character that has [ta:mystics], after resolutions deal that character 1 penetrating damage.",
+    "Team Abilities Search": "| Mystics | Avengers |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -151,13 +151,13 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ruler | Mystical | Defenders",
-    "Keywords Search": "| Ruler | Mystical | Defenders |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ESCAPE TO THE ASTRALWhen Clea would be KO'd, you may instead replace her with a [set:st] #018 Astral Clea on click #1. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ruler | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Clea",
@@ -261,13 +261,13 @@
     "Rarity": "Common",
     "Point Values": "80/40",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Martial Artist | Ruler | Mystical",
-    "Keywords Search": "| Martial Artist | Ruler | Mystical |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I SCORN YOUR SORCERY!When a friendly character is dealt damage by [ta:mystics] or targeted by an opposing character's Outwit, Perplex, or Probability Control, after resolutions heal Baron Mordo 1 click.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Martial Artist | Ruler | Mystical |",
     "alternates": [
       {
         "name": "Baron Mordo",
@@ -403,14 +403,14 @@
     "Properties": "Generic",
     "Point Values": "20",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Mystical | Detective",
-    "Keywords Search": "| Mystical | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Damage] ON THE CASEPowers: Perplex, OutwitPerplex, but only if Paranormal Investigator is adjacent to a character with the Mystical keyword. // Outwit, but only if Paranormal Investigator is adjacent to a character with the Detective keyword.",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Mystical | Detective |",
     "alternates": [
       {
         "name": "Paranormal Investigator",
@@ -480,11 +480,11 @@
     "Properties": "Generic",
     "Point Values": "15",
     "Keywords": "Monster | Vampire Brood",
-    "Keywords Search": "| Monster | Vampire Brood |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ETERNAL HUNGERPowers: Steal EnergyVampire starts the game on click #5. // Steal Energy. When Vampire uses it he may heal past his starting line.",
+    "Keywords Search": "| Monster | Vampire Brood |",
     "alternates": [
       {
         "name": "Vampire",
@@ -603,11 +603,11 @@
     "Properties": "Generic",
     "Point Values": "20",
     "Keywords": "Midnight Sons | Mystical",
-    "Keywords Search": "| Midnight Sons | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] FIGHTING CHTHON'S INFLUENCEPowers: EnhancementEnhancement. // Adjacent friendly characters have SAFEGUARD: [ta:mystics].",
+    "Keywords Search": "| Midnight Sons | Mystical |",
     "alternates": [
       {
         "name": "Darkhold Redeemer",
@@ -697,13 +697,13 @@
     "Properties": "Generic",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Animal | Mystical",
-    "Keywords Search": "| Animal | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Damage] SPIRITUAL COMPANIONPowers: Probability ControlProbability Control, but only to target adjacent characters. When Cat Familiar uses it to reroll an attack roll, they may choose to reroll only one die. If they do, after resolutions KO Cat Familiar.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Animal | Mystical |",
     "alternates": [
       {
         "name": "Cat Familiar",
@@ -777,13 +777,13 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Asgardian | Masters Of Evil | Mystical",
-    "Keywords Search": "| Asgardian | Masters Of Evil | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] ASGARDIAN ALLUREWhen an opposing character within range and line of fire would move, you may choose the first square that character moves into.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Asgardian | Masters Of Evil | Mystical |",
     "alternates": [
       {
         "name": "Enchantress",
@@ -900,13 +900,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "40/15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Brute | Monster | Mystical | Demon Legion",
-    "Keywords Search": "| Brute | Monster | Mystical | Demon Legion |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: HULKING BRUTEWhen Mindless One is KO'd by an opposing character, after resolutions roll a d6.[d:1]-[d:3]: Heal a friendly character with the Monster or Mystical keyword 2 clicks.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Brute | Monster | Mystical | Demon Legion |",
     "alternates": [
       {
         "name": "Mindless One",
@@ -1024,14 +1024,14 @@
     "Properties": "Generic",
     "Point Values": "40",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Marksman | S.H.I.E.L.D. | Spy",
-    "Keywords Search": "| Marksman | S.H.I.E.L.D. | Spy |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Damage] DISRUPTION SPECIALISTPowers: Outwit, Ranged Combat ExpertOutwit, but only if S.H.I.E.L.D. Spy is part of a themed team. // Ranged Combat Expert, but only if another friendly character can use Leadership.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Marksman | S.H.I.E.L.D. | Spy |",
     "alternates": [
       {
         "name": "S.H.I.E.L.D. Spy",
@@ -1136,13 +1136,13 @@
     "Properties": "Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Robot | S.H.I.E.L.D. | Soldier | Spy",
-    "Keywords Search": "| Robot | S.H.I.E.L.D. | Soldier | Spy |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: LIFE MODEL DECOYWhen Nick Fury LMD is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Friendly characters with the Robot or S.H.I.E.L.D. keyword can use Shape Change until your next turn, even if this is lost.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Robot | S.H.I.E.L.D. | Soldier | Spy |",
     "alternates": [
       {
         "name": "Nick Fury LMD",
@@ -1243,13 +1243,13 @@
     "Properties": "Generic",
     "Point Values": "45/15",
     "Team Abilities": "Mystics | Shield",
-    "Team Abilities Search": "| Mystics | Shield |",
     "Keywords": "S.H.I.E.L.D. | Soldier | Mystical",
-    "Keywords Search": "| S.H.I.E.L.D. | Soldier | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] S.H.I.E.L.D.'S MAGIC DIVISIONAdjacent friendly characters with the Mystical keyword have [ta:shield].",
+    "Team Abilities Search": "| Mystics | Shield |",
+    "Keywords Search": "| S.H.I.E.L.D. | Soldier | Mystical |",
     "alternates": [
       {
         "name": "W.A.N.D. Agent",
@@ -1354,13 +1354,13 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ghost Realm | Mystical",
-    "Keywords Search": "| Ghost Realm | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Attack] HELLISH VISIONSUNIQUE MODIFIER - Adjacent opposing characters modify attack -1.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ghost Realm | Mystical |",
     "alternates": [
       {
         "name": "Astral Dormammu",
@@ -1431,13 +1431,13 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Ghost Realm | Mystical",
-    "Keywords Search": "| Avengers | Ghost Realm | Mystical |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Damage] PROTECTIVE HEXESFriendly characters within range have SAFEGUARD: Opposing Probability Control.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Ghost Realm | Mystical |",
     "alternates": [
       {
         "name": "Astral Scarlet Witch",
@@ -1511,13 +1511,13 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ghost Realm | Midnight Sons | Mystical",
-    "Keywords Search": "| Ghost Realm | Midnight Sons | Mystical |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Damage] REMEMBER THESE RUNES?Powers: OutwitOutwit, but only to target an adjacent character.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ghost Realm | Midnight Sons | Mystical |",
     "alternates": [
       {
         "name": "Astral Agatha",
@@ -1588,14 +1588,14 @@
     "Rarity": "Uncommon",
     "Point Values": "25",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Animal | Mystical",
-    "Keywords Search": "| Animal | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] AGATHA'S FAMILIARUNIQUE MODIFIER - Adjacent friendly characters with the Mystical keyword modify range +1. If they have \"Agatha\" in their name, also modify their attack +1.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Animal | Mystical |",
     "alternates": [
       {
         "name": "Ebony",
@@ -1685,13 +1685,13 @@
     "Properties": "Sideline Active",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Ghost Realm | Illuminati | Midnight Sons | Mystical | Defenders | Detective",
-    "Keywords Search": "| Avengers | Ghost Realm | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Trait] ASTRAL ESCAPESIDELINE ACTIVE - Once per game for all friendly characters with this trait, if Astral Dr. Strange is on your Sideline, when a friendly character named Dr. Strange would be KO'd you may instead replace them with Astral Dr. Strange on click #1.[Attack] MISTS OF MUNNOPORLines of fire drawn to adjacent friendly characters are hindered.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Ghost Realm | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "alternates": [
       {
         "name": "Astral Dr. Strange",
@@ -1762,13 +1762,13 @@
     "Rarity": "Uncommon",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ghost Realm | Mystical",
-    "Keywords Search": "| Ghost Realm | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ghost Realm | Mystical |",
     "alternates": [
       {
         "name": "Astral Clea",
@@ -1842,13 +1842,13 @@
     "Rarity": "Uncommon",
     "Point Values": "15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ghost Realm | Ruler | Mystical",
-    "Keywords Search": "| Ghost Realm | Ruler | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ASTRAL FORMPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6].[Damage] VAPORS OF VALTORRAdjacent opposing characters can't reduce damage below 1.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ghost Realm | Ruler | Mystical |",
     "alternates": [
       {
         "name": "Astral Baron Mordo",
@@ -1919,14 +1919,14 @@
     "Rarity": "Uncommon",
     "Point Values": "100/50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Assassin | Midnight Sons | Monster | Detective | Vampire Brood",
-    "Keywords Search": "| Assassin | Midnight Sons | Monster | Detective | Vampire Brood |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] MIDNIGHT SONSPowers: Blades Claws FangsStealth. // If Hannibal King is on a Midnight Sons themed team, opposing characters can't use [it:hindering].[Trait] FROM THE MISTPowers: Super Senses, Smoke CloudSuper Senses. Smoke Cloud as FREE, but only to generate 4 markers.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Assassin | Midnight Sons | Monster | Detective | Vampire Brood |",
     "alternates": [
       {
         "name": "Hannibal King",
@@ -2091,13 +2091,13 @@
     "Rarity": "Uncommon",
     "Point Values": "70",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Ruler | Monster | Mystical | Deity | Demon Legion",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity | Demon Legion |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SPELLCASTER: UNRELENTINGWhen a friendly Spell One-Shot is turned face-down, after resolutions you may give an opposing character an action token.[Damage] SISTER OF DORMAMMUPowers: Outwit, Shape ChangeOutwit. Shape Change, but succeeds on [d:4]-[d:6].",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity | Demon Legion |",
     "alternates": [
       {
         "name": "Umar the Unrelenting",
@@ -2231,13 +2231,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Mystics | Defenders",
-    "Team Abilities Search": "| Mystics | Defenders |",
     "Keywords": "Avengers | Mystical | Defenders",
-    "Keywords Search": "| Avengers | Mystical | Defenders |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SPELLCASTER: DRUIDIC RITESWhen a friendly Spell One-Shot is turned face-down, after resolutions Dr. Druid may place a friendly character within range and line of fire up to 2 squares away from their current square.[Defense] MAGIC SENSEPowers: Super Senses, ToughnessSuper Senses, Toughness. // Once per turn, Dr. Druid may reroll his Super Senses roll. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Mystics | Defenders |",
+    "Keywords Search": "| Avengers | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Dr. Druid",
@@ -2356,13 +2356,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Martial Artist | Mystical",
-    "Keywords Search": "| Martial Artist | Mystical |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SPELLCASTER: STOLEN SPELLSWhen a friendly Spell One-Shot is turned face-down, after resolutions Kaecilius may deal 1 damage to an opposing character within range.[Speed] MORDO'S DISCIPLEPowers: Running Shot, StealthRunning Shot, Stealth.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Martial Artist | Mystical |",
     "alternates": [
       {
         "name": "Kaecilius",
@@ -2481,14 +2481,14 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Howling Commandos | Marksman | Robot | S.H.I.E.L.D. | Soldier | Monster",
-    "Keywords Search": "| Howling Commandos | Marksman | Robot | S.H.I.E.L.D. | Soldier | Monster |",
     "Range": "3",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Attack] COVER EACH OTHER!Powers: Energy ExplosionKNOCKBACK. // Energy Explosion. When Dum Dum Dugan uses it, he can use [it:destroy_blocking].[Damage] WHY ME, NICKY?Powers: LeadershipLeadership. // Friendly characters with the Monster keyword have [ta:shield].",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Howling Commandos | Marksman | Robot | S.H.I.E.L.D. | Soldier | Monster |",
     "alternates": [
       {
         "name": "Dum Dum Dugan",
@@ -2607,13 +2607,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Marksman | S.H.I.E.L.D. | Soldier | Spy",
-    "Keywords Search": "| Marksman | S.H.I.E.L.D. | Soldier | Spy |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE NAME'S FURY...Powers: LeadershipLeadership. // Once per turn, a friendly character with [ta:shield] may use it as FREE.[Defense] ...NICK FURY.Powers: Toughness, WillpowerToughness, Willpower. // Friendly characters that share a keyword with Nick Fury modify defense +1 if they occupy hindering terrain.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Marksman | S.H.I.E.L.D. | Soldier | Spy |",
     "alternates": [
       {
         "name": "Nick Fury",
@@ -2743,13 +2743,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Mystics | Shield",
-    "Team Abilities Search": "| Mystics | Shield |",
     "Keywords": "Martial Artist | S.H.I.E.L.D. | Spy | Mystical",
-    "Keywords Search": "| Martial Artist | S.H.I.E.L.D. | Spy | Mystical |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE NEW W.A.N.D.Powers: LeadershipLeadership. // When establishing themed teams, friendly characters with the Mystical keyword gain the S.H.I.E.L.D. keyword.[Damage] FANGXIANGSHI TRAININGPowers: Exploit WeaknessExploit Weakness. // Opposing characters within range can't use Probability Control.",
+    "Team Abilities Search": "| Mystics | Shield |",
+    "Keywords Search": "| Martial Artist | S.H.I.E.L.D. | Spy | Mystical |",
     "alternates": [
       {
         "name": "Wong",
@@ -2863,14 +2863,14 @@
     "Rarity": "Uncommon",
     "Point Values": "85/40",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Assassin | Marksman | Midnight Sons | Scientist | Stark Industries | Detective",
-    "Keywords Search": "| Assassin | Marksman | Midnight Sons | Scientist | Stark Industries | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] MIDNIGHT SONSPowers: StealthStealth. // If Frank Drake is on a Midnight Sons themed team, opposing characters can't use [it:hindering].[Attack] LINDAPowers: Precision StrikePrecision Strike. // Frank Drake deals penetrating damage to characters with the Monster or Mystical keywords.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Assassin | Marksman | Midnight Sons | Scientist | Stark Industries | Detective |",
     "alternates": [
       {
         "name": "Frank Drake",
@@ -3020,14 +3020,14 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Brute | Monster | Mystical",
-    "Keywords Search": "| Brute | Monster | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking | Adjacent",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: DARK DIMENSION GATEWhen Mindless One is KO'd by an opposing character, after resolutions roll a d6.[d:1]-[d:3]: Place a friendly character with the Monster keyword up to 3 squares away from their current square.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.[Damage] OCULAR BEAMPowers: EnhancementEnhancement. // Adjacent friendly characters named Baron Mordo, Dormammu, or Mindless One modify range +1.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Brute | Monster | Mystical |",
     "alternates": [
       {
         "name": "Mindless One",
@@ -3147,9 +3147,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTWhen this character is given a MOVE, POWER, or FREE action, after resolutions deal this character 1 penetrating damage.",
     "alternates": [
       {
+        "name": "Shanzar",
         "type": "Tile",
         "size": "1x1",
-        "name": "Shanzar",
         "image": "ea0855b6-b1ca-4263-8720-e7f275d55026.Tile.png"
       }
     ],
@@ -3171,9 +3171,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTWhen this character deals damage, they deal half as much damage to themselves (rounded up).",
     "alternates": [
       {
+        "name": "Nightmare",
         "type": "Tile",
         "size": "1x1",
-        "name": "Nightmare",
         "image": "18587343-4083-4637-a5dd-876295628b0c.Tile.png"
       }
     ],
@@ -3195,9 +3195,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - For all Possessor markers, when an opposing character KOs a friendly character, you may attach a Possessor marker from your Sideline to that opposing character. The attached character can use that Possessor's EFFECT and has \"POWER: Return a Possessor marker attached to this character to its owner's Sideline.\" When the attached character leaves the map, KO this marker.EFFECTThis character can't make range attacks or use Improved Abilities.",
     "alternates": [
       {
+        "name": "Jericho Drumm",
         "type": "Tile",
         "size": "1x1",
-        "name": "Jericho Drumm",
         "image": "f9c05fdd-cd10-4302-9719-6215b1bdc7a0.Tile.png"
       }
     ],
@@ -3216,14 +3216,14 @@
     "Rarity": "Rare",
     "Point Values": "200",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Ruler | Monster | Mystical | Deity",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Giant",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] EATER OF SOULSPowers: Mind ControlMind Control. When Dormammu uses it, you may target characters adjacent to one or more friendly [set:st] #013 Astral Dormammus, regardless of range or line of fire.[Trait] SPELLCASTER: MALEVOLENT WILLWhen a friendly Spell One-Shot is turned face-down, friendly characters with \"Astral\" in their name or the Ghost Realm keyword can use Poison this turn.[Trait] LORD OF CHAOSPowers: Leadership, MastermindLeadership, Mastermind. When Dormammu uses Leadership and fails, after resolutions you may generate a character named Mindless One or Astral Dormammu of 15 points or less on their starting click.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "alternates": [
       {
         "name": "Dormammu",
@@ -3402,13 +3402,13 @@
     "Rarity": "Rare",
     "Point Values": "70",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Brotherhood Of Mutants | Avengers | Midnight Sons | Mystical",
-    "Keywords Search": "| Brotherhood Of Mutants | Avengers | Midnight Sons | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HEX MAGICAt the beginning of the game, you may roll a d6.[d:1]-[d:3]: Generate a standard terrain marker within range.[d:4]-[d:6]: Generate up to two [set:st] #014 Astral Scarlet Witches.[Trait] SPELLCASTER: WARD OF PROTECTIONWhen a friendly Spell One-Shot is turned face-down, modify a friendly character's defense +1 until your next turn.[Damage] HEXCRAFTPowers: Shape Change, Probability ControlShape Change. Probability Control, but may target characters with \"Astral\" in their name or the Ghost Realm keyword regardless of range and line of fire.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Brotherhood Of Mutants | Avengers | Midnight Sons | Mystical |",
     "alternates": [
       {
         "name": "Scarlet Witch",
@@ -3542,14 +3542,14 @@
     "Rarity": "Rare",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Celebrity | Past | Mystical | Fantastic Four",
-    "Keywords Search": "| Celebrity | Past | Mystical | Fantastic Four |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] SPELLCASTER: COVENWhen a Spell One-Shot is turned face-down, after resolutions you may heal Agatha 2 clicks. // When another friendly character with the Mystical keyword is KO'd, after resolutions you may turn a friendly face-down Spell One-Shot face-up.[Trait] A WITCH'S WORK IS NEVER DONEPowers: WillpowerWillpower. // When Agatha rolls a single d6, if the result is a [d:1]-[d:2], after resolutions generate a [set:st] #015 Astral Agatha within range on its starting click.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Celebrity | Past | Mystical | Fantastic Four |",
     "alternates": [
       {
         "name": "Agatha",
@@ -3697,13 +3697,13 @@
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Herald | Hydra | Monster | Vampire Brood",
-    "Keywords Search": "| Herald | Hydra | Monster | Vampire Brood |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BLOODCOVENPowers: Leadership, StealthLeadership, Stealth. // FREE: Generate a bystander on this card Bloodstorm hasn't generated this game.[Trait] ETERNAL HUNGERPowers: Steal EnergyBloodstorm starts the game on click #5. // Steal Energy. When Bloodstorm uses it he may heal past his starting line.[Attack] HYPNOTIC GAZEWhen Bloodstorm hits, after resolutions you may choose a hit character. That character becomes friendly to your force and may make an attack, then reverts forces.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Herald | Hydra | Monster | Vampire Brood |",
     "alternates": [
       {
         "name": "Bloodstorm",
@@ -3868,10 +3868,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Mystics |",
     "alternates": [
       {
         "name": "Cruel",
@@ -3905,10 +3905,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Mystics |",
     "alternates": [
       {
         "name": "Damascene",
@@ -3942,10 +3942,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Mystics |",
     "alternates": [
       {
         "name": "Smoke Eater",
@@ -3979,10 +3979,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Mystics |",
     "alternates": [
       {
         "name": "Unusual",
@@ -4017,13 +4017,13 @@
     "Properties": "Unique",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BY THE VISHANTI!During force construction, you may add one of [set:st] #p001 Agamotto, [set:st] #p002 Oshtur, or [set:st] #p003 Hoggoth to your Sideline without paying its cost. // When Agamotto, Oshtur, or Hoggoth choose a character to be their Avatar, they may choose Dr. Strange even if he is another character's Avatar.[Trait] THE MONTESI FORMULAPOWER: Until your next turn, Dr. Strange has \"Opposing characters within range can't use black standard powers.\" // If Dr. Strange has two action tokens he may activate this trait as FREE instead.[Defense] WELCOME TO ANOTHER REALITY, DRACULA!Powers: Stop, Super SensesSTOP. Super Senses, but succeeds on [d:4]-[d:6]. // Opposing characters within range can't use [it:] or [im:] abilities.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -4142,14 +4142,14 @@
     "Rarity": "Rare",
     "Point Values": "70/45",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Avengers | Midnight Sons | Monster | Mystical | Warrior",
-    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] DUSTING VAMPSPowers: Blades Claws FangsBlades/Claws/Fangs. When Blade uses it, increase the result by +2 if the target is above their starting line.[Trait] GIVING IN TO MY HUNGERPowers: Steal EnergySteal Energy. // When Blade KOs an opposing character you may replace him with [set:st] #037b Blade on click #5. If you do, after resolutions deal each opposing character adjacent to that Blade 1 penetrating damage.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Warrior |",
     "alternates": [
       {
         "name": "Blade",
@@ -4296,14 +4296,14 @@
     "Properties": "Prime",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Midnight Sons | Monster | Mystical | Vampire Brood | Wakanda",
-    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Vampire Brood | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] VAMPIRE HUNGERPowers: Stealth, Steal EnergyBlade starts the game on click #5. // Stealth, Steal Energy. When Blade uses Steal Energy he may heal past his starting line, and heals an additional click if he KO'd a character this turn.[Speed] BLOODLUSTPowers: Charge, FlurryCharge, Flurry. // When Blade hits, after the attack resolves you may move him up to 2 squares (Blade may move between attacks during Flurry).[Attack] ONLY ONE BLADEPowers: Blades Claws FangsBlades/Claws/Fangs. When Blade uses it, after resolutions opposing characters adjacent to the target are dealt 2 damage.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Vampire Brood | Wakanda |",
     "alternates": [
       {
         "name": "Blade",
@@ -4483,13 +4483,13 @@
     "Rarity": "Rare",
     "Point Values": "85/60",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Midnight Sons | Monster | Mystical | Vehicle",
-    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Vehicle |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HELLFIRE PORTALSAt the beginning of your turn, generate a Fire Smoke terrain marker in a square within range and line of fire. At the beginning of your next turn (even if this is lost), deal 1 damage to a character occupying that marker then remove that marker. // When an opposing character is knocked back into any Smoke terrain marker, deal that character 1 penetrating damage and stop their knockback path.[Attack] SEARING CHAINSKNOCKBACK. // When Ghost Rider knocks a character back he may choose the direction of the knockback.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Midnight Sons | Monster | Mystical | Vehicle |",
     "alternates": [
       {
         "name": "Ghost Rider",
@@ -4624,13 +4624,13 @@
     "Rarity": "Rare",
     "Point Values": "90/50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Ruler | Monster | Mystical | Deity",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PARASOMNIAWhen Nightmare hits, after resolutions you may give each hit character an action token. // Once per game when Nightmare hits, you may generate and attach a [set:st] #030 Nightmare marker to a hit character.[Speed] LORD OF THE DREAM DIMENSIONPowers: Mind Control, StealthMind Control, Stealth. // FREE: Place Nightmare in a square up to 4 squares away from his current square.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "alternates": [
       {
         "name": "Nightmare",
@@ -4762,14 +4762,14 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Midnight Sons | Scientist | Spider Man Family | Monster | Vampire Brood",
-    "Keywords Search": "| Midnight Sons | Scientist | Spider Man Family | Monster | Vampire Brood |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] MIDNIGHT SONSPowers: StealthStealth. // If Morbius is on a Midnight Sons themed team, opposing characters can't use [it:hindering].[Trait] ETERNAL HUNGERPowers: Steal EnergyMorbius starts the game on click #5. // Steal Energy. When Morbius uses it he may heal past his starting line.[Damage] I AM A DOCTOR, YOU KNOWPowers: Outwit, SupportOutwit, Support. // When Morbius heals another character, after resolutions heal Morbius 1 click. Morbius may heal past his starting line this way.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Midnight Sons | Scientist | Spider Man Family | Monster | Vampire Brood |",
     "alternates": [
       {
         "name": "Morbius",
@@ -4934,13 +4934,13 @@
     "Rarity": "Rare",
     "Point Values": "85",
     "Team Abilities": "Avengers | Defenders",
-    "Team Abilities Search": "| Avengers | Defenders |",
     "Keywords": "Brute | Avengers | Monster | Defenders",
-    "Keywords Search": "| Brute | Avengers | Monster | Defenders |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] A CHALLENGE?Powers: WillpowerWillpower. // When Hulk is hit, after resolutions generate a Dr. Strange bystander [MAX 1]. // When Hulk misses, after resolutions generate a Namor bystander [MAX 1].",
+    "Team Abilities Search": "| Avengers | Defenders |",
+    "Keywords Search": "| Brute | Avengers | Monster | Defenders |",
     "alternates": [
       {
         "name": "Hulk",
@@ -5177,14 +5177,14 @@
     "Properties": "Prime",
     "Point Values": "80",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Monster | Mystical",
-    "Keywords Search": "| Cosmic | Monster | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEDark Hulk has SAFEGUARD: [ta:mystics]. // When Dark Hulk KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] ...OF THE STRANGE DIMENSIONPowers: ChargeCharge. // When Dark Hulk uses [ta:mystics], he instead deals 2 penetrating damage.[Speed] YOU'RE BOASTFUL LITTLE MANPowers: PlasticityPlasticity. // FREE: Make an attack, but only to target a character that rolled to break away from Dark Hulk since your last turn.[Attack] UNBOUND BY MAGIC'S LAWSPowers: Super StrengthSuper Strength. // When an opposing character targets Dark Hulk with an effect other than an attack, after resolutions you may attach a [set:st] #029 Shanzar marker from your Sideline to that character.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Monster | Mystical |",
     "alternates": [
       {
         "name": "Dark Hulk",
@@ -5347,13 +5347,13 @@
     "Properties": "Unique",
     "Point Values": "50",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Politician | Ruler | Mystical | Deity",
-    "Keywords Search": "| Politician | Ruler | Mystical | Deity |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LET'S MAKE A DEALPowers: Probability ControlProbability Control. // When an opposing character attacks, if they don't have a Contract token, they may reroll their attack roll. If they do, give them a Contract token.[Speed] YOU SERVE ME NOWPowers: Mind Control, Sidestep, StealthMind Control, Sidestep, Stealth. // Mind Control as FREE, but only to target a character with a Contract token, that has a Possessor marker attached to it, or that was chosen to be an Avatar.[Defense] TRADING YOUR LIFE FOR MINEPowers: MastermindMastermind. When Mephisto uses it, he considers friendly characters that share a keyword with him within range and line of fire as adjacent to him. When Mephisto uses Mastermind, after resolutions heal him 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Politician | Ruler | Mystical | Deity |",
     "alternates": [
       {
         "name": "Mephisto",
@@ -5473,14 +5473,14 @@
     "Properties": "Unique",
     "Point Values": "150/75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Characters",
     "Traits and Special Powers": "[Trait] ASTRAL MASTERYMOVE actions given to friendly characters with \"Astral\" in their name or the Ghost Realm keyword don't count against your action total. // When a friendly character with the Ghost Realm keyword is KO'd, instead of removing them from the game you may add that character to your Sideline (they are still scored).[Trait] MULTIPLE PROJECTIONSPowers: Leadership, Shape ChangeLeadership, Shape Change. When Dr. Strange uses either and succeeds, after resolutions he may generate a character of 15 points or less with the Ghost Realm keyword from your Sideline on its starting click.[Defense] EARTH'S DEFENDERPowers: Defend, ImperviousDefend, Impervious. When Dr. Strange uses Defend, he considers friendly characters within range and line of fire as adjacent to him.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -5661,13 +5661,13 @@
     "Properties": "Prime",
     "Point Values": "75",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Ruler | Monster | Mystical | Deity",
-    "Keywords Search": "| Ruler | Monster | Mystical | Deity |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEDormammu has SAFEGUARD: [ta:mystics]. // When Dormammu KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] I WILL HAVE YOUR POWER, STRANGE!When Dormammu starts the game, an opponent generates a Dr. Strange-rat bystander friendly to their force in their starting area. // If an opposing character is named Dr. Strange-rat, modify Dormammu's combat values -1 and Dormammu's combat values can't be positively modified.[Defense] SUBJUGATING EARTH'S REALITYPowers: InvincibleInvincible. // At the beginning of your turn, you may generate a blocking terrain marker anywhere on the map.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Ruler | Monster | Mystical | Deity |",
     "alternates": [
       {
         "name": "Dormammu",
@@ -5836,13 +5836,13 @@
     "Properties": "Unique",
     "Point Values": "80/60",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Howling Commandos | Marksman | S.H.I.E.L.D. | Secret Warriors | Soldier | Spy",
-    "Keywords Search": "| Howling Commandos | Marksman | S.H.I.E.L.D. | Secret Warriors | Soldier | Spy |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] YOU WERE WORKING FOR ME ALL ALONGOnce per game, at the beginning of your turn, you may choose a square occupied by an opposing character. If you do, place the character in that square into their starting area, then you may generate a [set:st] #010 S.H.I.E.L.D. Spy on its starting click in that square.[Defense] JETPACK ESCAPEPowers: Super SensesSuper Senses. // When this click is revealed due to damage taken from an opponent's attack, after resolutions place Nick Fury up to 4 squares away from his current square.[Damage] GLORY DAYSPowers: Leadership, Outwit, PerplexLeadership, Outwit, Perplex. When Nick Fury uses any of them, you may choose another character with the Spy keyword. If you do, Nick Fury uses that power as if he occupied the chosen character's square.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Howling Commandos | Marksman | S.H.I.E.L.D. | Secret Warriors | Soldier | Spy |",
     "alternates": [
       {
         "name": "Nick Fury",
@@ -5991,14 +5991,14 @@
     "Properties": "Unique",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Legion Of Monsters | Past | Ruler | Monster | Mystical | Vampire Brood",
-    "Keywords Search": "| Legion Of Monsters | Past | Ruler | Monster | Mystical | Vampire Brood |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] ENDLESS HUNGERPowers: Stealth, Steal EnergyDracula starts the game on click #6. // Stealth, Steal Energy. // When Dracula heals himself, he may heal past his starting line.[Speed] YOU SHALL LIVE TO DO MY BIDDINGPowers: Sidestep, Mind ControlSidestep, Mind Control. When Dracula uses Mind Control, after resolutions heal him 1 click if any characters were damaged during that action.[Damage] RULER OF VAMPYRSKPowers: Leadership, OutwitLeadership, Outwit. When Dracula uses Leadership and succeeds, after resolutions you may heal him 1 click. // Dracula increases his single d6 results by +1 if he's on clicks #1-#3.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Legion Of Monsters | Past | Ruler | Monster | Mystical | Vampire Brood |",
     "alternates": [
       {
         "name": "Dracula",
@@ -6188,14 +6188,14 @@
     "Rarity": "Super Rare",
     "Point Values": "60/40",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Midnight Sons | Past | Monster | Mystical | Tarot",
-    "Keywords Search": "| Midnight Sons | Past | Monster | Mystical | Tarot |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEKushala has SAFEGUARD: [ta:mystics]. // When Kushala KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] RAGE OF A DEAD WORLDOnce per game when Kushala would be KO'd, instead roll a d6 and turn her to the resulting click number. Protected: Pulse Wave. (This can turn her above her starting line.)[Damage] SPIRIT RIDERWhen Kushala attacks, opposing characters can't use Mastermind or Super Senses. // Characters that can use Battle Fury can't reduce damage dealt by Kushala.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Midnight Sons | Past | Monster | Mystical | Tarot |",
     "alternates": [
       {
         "name": "Kushala",
@@ -6330,13 +6330,13 @@
     "Rarity": "Super Rare",
     "Point Values": "65/40",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "Hydra | Past | Ruler | Spy",
-    "Keywords Search": "| Hydra | Past | Ruler | Spy |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HIGH COUNCIL OF HYDRAWhen establishing themed teams, friendly characters with the Spy keyword gain the Hydra keyword. // Opposing characters modify their range -2 when using Outwit, Perplex, and Probability Control, and those powers have a minimum range of 2 when they do so.[Attack] DEATH VIRUSPowers: PoisonPoison. When Baron von Strucker uses it, he may do so as if he occupied a square within range and line of fire.[Damage] SATAN CLAWPowers: Blades Claws FangsBlades/Claws/Fangs. // When Baron von Strucker attacks, characters that can use Impervious, Invincible, or Invulnerability use Toughness instead.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| Hydra | Past | Ruler | Spy |",
     "alternates": [
       {
         "name": "Baron von Strucker",
@@ -6487,13 +6487,13 @@
     "Properties": "Prime",
     "Point Values": "35",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "Hydra | Past | Ruler | Spy | Mystical",
-    "Keywords Search": "| Hydra | Past | Ruler | Spy | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEARCHING FOR MYSTIC SUPERWEAPONSFriendly characters with the Hydra keyword have [ta:mystics] and [ta:minions_of_doom].[Trait] EVERYONE IS EXPENDABLEOther friendly characters have \"When this character is KO'd by an opposing character, after resolutions roll a d6.[d:1]-[d:3]: Remove an action token from a friendly character.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character. That generated character gains the Hydra keyword.\"[Defense] LMDPowers: Stop, RegenerationSTOP. Regeneration.[Damage] THE WORLD IS OURS!Powers: Leadership, OutwitLeadership, Outwit.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| Hydra | Past | Ruler | Spy | Mystical |",
     "alternates": [
       {
         "name": "Baron von Strucker",
@@ -6595,13 +6595,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70/50",
     "Team Abilities": "Mystics | X Men",
-    "Team Abilities Search": "| Mystics | X Men |",
     "Keywords": "Midnight Sons | Mystical | New Mutants | X Men",
-    "Keywords Search": "| Midnight Sons | Mystical | New Mutants | X Men |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEMagik has SAFEGUARD: [ta:mystics]. // When Magik KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Speed] ...OF LIMBOPowers: Charge, SidestepCharge, Sidestep, [im:elevated,blocking,characters]. [cs:passenger]: 4, but only to carry characters that share a keyword with Magik.[Attack] AIM FOR THE GAPSPowers: Blades Claws FangsBlades/Claws/Fangs, Giant Reach: 2. // When Magik damages an opposing character, after resolutions you may generate a Fire Smoke terrain marker in their square. At the beginning of your next turn (even if this is lost), deal 1 damage to each character occupying those markers then remove those markers.",
+    "Team Abilities Search": "| Mystics | X Men |",
+    "Keywords Search": "| Midnight Sons | Mystical | New Mutants | X Men |",
     "alternates": [
       {
         "name": "Magik",
@@ -6736,13 +6736,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Brute | Avengers | Legion Of Monsters | Soldier | Monster",
-    "Keywords Search": "| Brute | Avengers | Legion Of Monsters | Soldier | Monster |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EARTH 666: UNDEAD AVENGERSWhen Franken Castle attacks, after resolutions generate a bystander printed on this card for each [d:6] in his finalized attack roll. // Bystanders on this card have [MAX 1].[Speed] SHAMBLEPowers: ChargeCharge, but don't halve speed.[Defense] SYNAPTIC GLUE PILLSPowers: Invincible, WillpowerInvincible, Willpower. // When one or more action tokens are removed from Franken Castle, heal him 1 click for each action token removed. Protected: Outwit.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Brute | Avengers | Legion Of Monsters | Soldier | Monster |",
     "alternates": [
       {
         "name": "Franken Castle",
@@ -6876,10 +6876,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Avengers |",
     "alternates": [
       {
         "name": "Daredevil",
@@ -6913,10 +6913,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Avengers |",
     "alternates": [
       {
         "name": "Capwolf",
@@ -6950,10 +6950,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Avengers |",
     "alternates": [
       {
         "name": "Black Widow",
@@ -6988,13 +6988,13 @@
     "Properties": "Unique",
     "Point Values": "100/50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Midnight Sons | Mystical | Runaways",
-    "Keywords Search": "| Avengers | Midnight Sons | Mystical | Runaways |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] STAFF OF ONEPowers: PerplexDuring force construction, you may add up to 3 Spell One-Shots to your Sideline without paying their cost. These One-Shots don't count against your Sideline limit. // When a friendly One-Shot is turned face down, after resolutions remove all action tokens from Nico Minoru and she can use Perplex until the end of your next turn.[Trait] CREATIVE SPELL CASTINGPowers: Flurry, Leap Climb, Phasing Teleport, Earthbound Neutralized, Charge, Mind Control, Plasticity, Force Blast, Sidestep, Hypersonic Speed, Stealth, Running Shot, Blades Claws Fangs, Energy Explosion, Pulse Wave, Quake, Super Strength, Incapacitate, Penetrating Psychic Blast, Smoke Cloud, Precision Strike, Poison, Steal Energy, Telekinesis, Super Senses, Toughness, Defend, Combat Reflexes, Energy Shield Deflection, Barrier, Mastermind, Willpower, Invincible, Impervious, Regeneration, Invulnerability, Ranged Combat Expert, Battle Fury, Support, Exploit Weakness, Enhancement, Probability Control, Shape Change, Close Combat Expert, Empower, Perplex, Outwit, LeadershipLeadership. // FREE: Once per game, choose a standard power. Nico Minoru can use that power this game.[Damage] SHUT UP!Powers: OutwitOutwit. When Nico Minoru uses it, after resolutions you may knock back the target.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Midnight Sons | Mystical | Runaways |",
     "alternates": [
       {
         "name": "Nico Minoru",
@@ -7160,13 +7160,13 @@
     "Properties": "Unique",
     "Point Values": "90",
     "Team Abilities": "Avengers | X Men",
-    "Team Abilities Search": "| Avengers | X Men |",
     "Keywords": "Avengers | Ruler | Monster | X Men | Vampire Brood",
-    "Keywords Search": "| Avengers | Ruler | Monster | X Men | Vampire Brood |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME TO MY KINGDOM, BUBPowers: Steal EnergyWhen establishing themed teams, friendly characters that share a keyword with Wolverine, Lord of the Vampires gain the Vampire Brood keyword. // Friendly characters with the Vampire Brood keyword can use Steal Energy and [ta:x_men]. When they use Steal Energy, that use of Steal Energy also heals any friendly characters with the Vampire Brood keyword adjacent to them.[Trait] MISTFORMPowers: Stealth, Super SensesStealth, Super Senses.[Trait] IT'LL TAKE MORE THAN A STAKE...Wolverine, Lord of the Vampires starts the game on click #5. // When Wolverine, Lord of the Vampires would be healed by Steal Energy or [ta:x_men], he may heal past his starting line.",
+    "Team Abilities Search": "| Avengers | X Men |",
+    "Keywords Search": "| Avengers | Ruler | Monster | X Men | Vampire Brood |",
     "alternates": [
       {
         "name": "Wolverine, Lord of the Vampires",
@@ -7361,13 +7361,13 @@
     "Rarity": "Chase",
     "Point Values": "75/50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Celebrity | Armor | Avengers | Scientist | Stark Industries | Mystical",
-    "Keywords Search": "| Celebrity | Armor | Avengers | Scientist | Stark Industries | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMETony Stark, Sorcerer Supreme has SAFEGUARD: [ta:mystics]. // When Tony Stark, Sorcerer Supreme KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Attack] YOUR MAGIC CAN'T STOP REPULSORSKNOCKBACK. // When Tony Stark, Sorcerer Supreme attacks, if an opposing character within range and line of fire rolls a [d:6] on a single d6 roll, after resolutions deal that character 3 penetrating damage.[Damage] COUNTERSPELL PROGRAM 2.0Powers: OutwitOutwit. // When a friendly Spell One-Shot is turned face-down, you may choose a game element on your opponent's Sideline. Until your next turn, that game element can't use any SIDELINE ACTIVE effects.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Celebrity | Armor | Avengers | Scientist | Stark Industries | Mystical |",
     "alternates": [
       {
         "name": "Tony Stark, Sorcerer Supreme",
@@ -7517,14 +7517,14 @@
     "Rarity": "Chase",
     "Point Values": "100/75",
     "Team Abilities": "Mystics | Minions Of Doom",
-    "Team Abilities Search": "| Mystics | Minions Of Doom |",
     "Keywords": "Armor | Latveria | Ruler | Scientist | Mystical",
-    "Keywords Search": "| Armor | Latveria | Ruler | Scientist | Mystical |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] LATVERIAN SORCERER SUPREMEPowers: LeadershipLeadership. Dr. Doom Supreme has SAFEGUARD: [ta:mystics]. // When Dr. Doom Supreme KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] EMPOWERING CHAMPIONSWhen a friendly Spell One-Shot is turned face-down, friendly characters have [ta:minions_of_doom] this turn. // When a friendly character uses [ta:minions_of_doom], heal the chosen character an additional click.[Trait] DOOM DOES NOTHING HALFWAYOnce per game, when Dr. Doom Supreme would be KO'd, you may KO a friendly character with the Ghost Realm keyword instead. If you do, turn Dr. Doom Supreme to click #9. Protected: Pulse Wave.[Damage] ALL HAIL DOOM!Powers: Outwit, Shape ChangeOutwit, Shape Change. // Opposing effects can't generate terrain markers.",
+    "Team Abilities Search": "| Mystics | Minions Of Doom |",
+    "Keywords Search": "| Armor | Latveria | Ruler | Scientist | Mystical |",
     "alternates": [
       {
         "name": "Dr. Doom Supreme",
@@ -7689,14 +7689,14 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Mystics | Spider Man",
-    "Team Abilities Search": "| Mystics | Spider Man |",
     "Keywords": "Avengers | Spider Man Family | Monster | Mystical | Symbiote",
-    "Keywords Search": "| Avengers | Spider Man Family | Monster | Mystical | Symbiote |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Outdoor Blocking",
     "Traits and Special Powers": "[Trait] NOT QUITE A SORCERER SUPREMESymbiote, Sorcerer Supreme has SAFEGUARD: [ta:mystics]. // Once per turn, when any Spell One-Shot is turned face down, after resolutions heal Symbiote, Sorcerer Supreme 1 click.[Attack] TRAINED TO FIGHT SORCERERSPowers: Blades Claws FangsBlades/Claws/Fangs, but with close or range attacks. // When Symbiote, Sorcerer Supreme attacks, opposing effects can't reroll or replace dice.[Defense] PETER'S CHECKED OUTPowers: Combat Reflexes, ToughnessCombat Reflexes, Toughness. Symbiote, Sorcerer Supreme can't be targeted by non-adjacent characters.",
+    "Team Abilities Search": "| Mystics | Spider Man |",
+    "Keywords Search": "| Avengers | Spider Man Family | Monster | Mystical | Symbiote |",
     "alternates": [
       {
         "name": "Symbiote, Sorcerer Supreme",
@@ -7831,14 +7831,14 @@
     "Properties": "Unique",
     "Point Values": "150/100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective | Tarot",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective | Tarot |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEDr. Strange, Sorcerer Supreme has SAFEGUARD: [ta:mystics]. // When Dr. Strange, Sorcerer Supreme KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] SPELLCASTER: THE MAGICIANWhen a friendly Spell One-Shot is used, you may look at the next face down card of your Tarot deck, then either put it back or add it to the bottom of your face-up Tarot cards without effect. // Before drawing a Tarot card at the start of your turn, you may guess what the card will be. If you guessed correctly, after resolutions heal a friendly character 3 clicks.[Defense] YOU HAVE SADLY UNDERESTIMATED MEPowers: Stop, Energy Shield Deflection, ImperviousSTOP. // Energy Shield/Deflection, Impervious.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective | Tarot |",
     "alternates": [
       {
         "name": "Dr. Strange, Sorcerer Supreme",
@@ -8003,13 +8003,13 @@
     "Properties": "Unique",
     "Point Values": "100/50",
     "Team Abilities": "Mystics | Avengers",
-    "Team Abilities Search": "| Mystics | Avengers |",
     "Keywords": "Avengers | Heroes For Hire | Howling Commandos | Midnight Sons | S.H.I.E.L.D. | Mystical",
-    "Keywords Search": "| Avengers | Heroes For Hire | Howling Commandos | Midnight Sons | S.H.I.E.L.D. | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEJericho Drumm, Sorcerer Supreme has SAFEGUARD: [ta:mystics]. // When Jericho Drumm, Sorcerer Supreme KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] UNTOUCHED BY FLAMEIf Jericho Drumm, Sorcerer Supreme would take damage other than normal damage from an attack, instead he doesn't. Protected: Pulse Wave. (Attacks from characters not using an \"instead of normal damage\" effect deal normal damage, even if that damage is penetrating or unavoidable.)[Attack] THE ARMIES OF LOAPowers: Smoke CloudSmoke Cloud as FREE, but only to generate 2 markers. // CLOSE: Make a close attack targeting all opposing characters within range that occupy Smoke terrain regardless of adjacency. Instead of normal damage, deal each hit character 3 damage and you may attach a [set:st] #031 Jericho Drumm marker from your Sideline to a hit character.",
+    "Team Abilities Search": "| Mystics | Avengers |",
+    "Keywords Search": "| Avengers | Heroes For Hire | Howling Commandos | Midnight Sons | S.H.I.E.L.D. | Mystical |",
     "alternates": [
       {
         "name": "Jericho Drumm, Sorcerer Supreme",
@@ -8144,13 +8144,13 @@
     "Rarity": "Chase",
     "Point Values": "85",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Asgardian | Ruler | Mystical | Deity",
-    "Keywords Search": "| Asgardian | Ruler | Mystical | Deity |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMELoki, Sorcerer Supreme has SAFEGUARD: [ta:mystics]. // When Loki, Sorcerer Supreme KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Speed] GOD OF LIES AND STORIESPowers: Mind Control, StealthMind Control, Stealth. Mind Control as FREE, but only if Loki, Sorcerer Supreme occupies hindering terrain.[Defense] EXILE OF SINGHSOONPowers: Stop, Super SensesSTOP. Super Senses. // Once per game when this click is revealed by damage from an opposing effect, after resolutions choose one: *This game, other characters can't use team abilities or special powers. *This game, friendly characters have [ta:mystics] and once per turn Loki, Sorcerer Supreme may reroll any roll.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Asgardian | Ruler | Mystical | Deity |",
     "alternates": [
       {
         "name": "Loki, Sorcerer Supreme",
@@ -8300,13 +8300,13 @@
     "Properties": "Unique",
     "Point Values": "35",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Midnight Sons | Past | Mystical | Fantastic Four",
-    "Keywords Search": "| Midnight Sons | Past | Mystical | Fantastic Four |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] STRICT LESSONSWhen an opponent turns a One-Shot face down, after resolutions roll a d6. [d:1]-[d:3]: They choose a character friendly to them and deal them 1 unavoidable damage. [d:4]-[d:6]: Deal an opposing character 1 unavoidable damage.[Damage] COVEN MAGICIf Agatha is part of a Mystical themed team, she can use any standard damage power displayed on friendly characters with the Mystical keyword.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Midnight Sons | Past | Mystical | Fantastic Four |",
     "alternates": [
       {
         "name": "Agatha",
@@ -8410,14 +8410,14 @@
     "Rarity": "Chase",
     "Point Values": "200",
     "Team Abilities": "Mystics | Defenders",
-    "Team Abilities Search": "| Mystics | Defenders |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "Range": "7",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] WE MUST COMBINE OUR POWERPowers: Outwit, Perplex, Probability ControlAt the beginning of your turn, choose one: Outwit, Perplex, or Probability Control. Until your next turn, Dr. Strange can use the chosen power(s) and may use them twice a turn. If Dr. Strange is the single highest point character with the Mystical keyword on the map, he may choose two of the listed powers instead.[Trait] SORCERER SUPREMEDr. Strange has SAFEGUARD: [ta:mystics]. // When Dr. Strange KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Defense] I DARE NOT FAILPowers: Stop, Energy Shield Deflection, InvincibleSTOP. // Energy Shield/Deflection, Invincible. // Dr. Strange has SAFEGUARD: Outwit.[Damage] YOU OVERCONFIDENT FOOL!Powers: Shape ChangeShape Change. When Dr. Strange uses it and succeeds, after resolutions you may place him up to 2 squares away from his current square.",
+    "Team Abilities Search": "| Mystics | Defenders |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -8581,14 +8581,14 @@
     "Rarity": "Chase",
     "Point Values": "200",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Martial Artist | Ruler | Mystical | Offenders",
-    "Keywords Search": "| Martial Artist | Ruler | Mystical | Offenders |",
     "Range": "7",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] THIS POWER IS MINE, AND MINE ALONE!Powers: Outwit, Perplex, Probability ControlAt the beginning of your turn, choose one: Outwit, Perplex, or Probability Control. Until your next turn, Baron Mordo can use the chosen power(s) and opposing characters can't. If Baron Mordo is the single highest point character with the Mystical keyword on the map, he may choose two of the listed powers instead.[Trait] MASTER OF THE DARK ARTSBaron Mordo has SAFEGUARD: [ta:mystics]. // When Baron Mordo hits with an attack roll of 10-12, after resolutions you may turn a face-down Spell One-Shot face-up.[Defense] I AM NO LESSER MAGICIAN!Powers: Stop, Invincible, Super SensesSTOP. // Invincible, Super Senses.[Damage] I SHALL STILL TRIUMPH!When Baron Mordo attacks, opposing characters can't use Shape Change.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Martial Artist | Ruler | Mystical | Offenders |",
     "alternates": [
       {
         "name": "Baron Mordo",
@@ -8753,14 +8753,14 @@
     "Properties": "Unique",
     "Point Values": "300/100/60",
     "Team Abilities": "Cosmic Energy | Team Player",
-    "Team Abilities Search": "| Cosmic Energy | Team Player |",
     "Keywords": "A.I.M. | Cosmic | Howling Commandos | S.H.I.E.L.D. | Monster",
-    "Keywords Search": "| A.I.M. | Cosmic | Howling Commandos | S.H.I.E.L.D. | Monster |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Improved Targeting": "Blocking",
     "Traits and Special Powers": "[Speed] ANIMATING FOLIAGEPowers: SidestepSidestep. // POWER: Remove up to three non-debris terrain markers within range from the game. For each terrain marker removed this way, generate a Walking Woods bystander [MAX 4] in a square that marker last occupied.[Defense] ...THE UNCONQUERABLEPowers: Stop, ImperviousSTOP, but only if the attacker can't use Willpower or Battle Fury. // Impervious.[Damage] HYPNOTIZING LESSER MINDSPowers: Mind ControlAt the beginning of your turn, choose an opposing character of a point value less than or equal to half of Orrgo's point value. If you do, Orrgo may immediately use Mind Control as FREE, but only to target that character regardless of range, line of fire, or adjacency.",
+    "Team Abilities Search": "| Cosmic Energy | Team Player |",
+    "Keywords Search": "| A.I.M. | Cosmic | Howling Commandos | S.H.I.E.L.D. | Monster |",
     "alternates": [
       {
         "name": "Orrgo",
@@ -9066,13 +9066,13 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Animal | Avengers | Ghost Realm | Herald | Pet Avengers | Mystical | Defenders",
-    "Keywords Search": "| Animal | Avengers | Ghost Realm | Herald | Pet Avengers | Mystical | Defenders |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] THE DOG GOD'S AVATARPowers: Charge, Blades Claws FangsFREE: Once per game for all characters with this trait, if a friendly character named Dr. Strange took damage since your last turn, until your next turn Bats modifies his combat values +2, has [cs:giant], and can use Charge and Blades/Claws/Fangs.[Trait] DOC! DOC! DOCCCC!Powers: Super SensesSuper Senses. // FREE: Choose an adjacent friendly character with the Mystical keyword. The chosen character can use Super Senses until your next turn.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Animal | Avengers | Ghost Realm | Herald | Pet Avengers | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Bats",
@@ -9119,6 +9119,16 @@
         "Damage": "1",
         "Damage Ability": "Enhancement",
         "image": "86af2407-9af5-46a0-9e36-01a76d7492c5.Click3.png"
+      },
+      {
+        "name": "Bats",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "86af2407-9af5-46a0-9e36-01a76d7492c5.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9136,13 +9146,13 @@
     "Rarity": "Rare",
     "Point Values": "95",
     "Team Abilities": "Mystics | Spider Man",
-    "Team Abilities Search": "| Mystics | Spider Man |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "Range": "10",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AT THE SPEED OF THOUGHTFREE: Once per game, generate a character with the Ghost Realm keyword of 15 points or less on its starting click into any square within range. // Lines of fire Dr. Strange draws to opposing characters adjacent to a friendly character with the Ghost Realm keyword can't be blocked.[Speed] SHINE, MY AMULET!Powers: Force Blast, Running ShotForce Blast, Running Shot.[Damage] MY TIMING MUST BE PERFECTPowers: Probability Control, Ranged Combat ExpertProbability Control, Ranged Combat Expert.",
+    "Team Abilities Search": "| Mystics | Spider Man |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders | Detective |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -9264,6 +9274,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "16a1078a-7133-46e4-9570-b799d8cdcad2.Click8.png"
+      },
+      {
+        "name": "Dr. Strange",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "16a1078a-7133-46e4-9570-b799d8cdcad2.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9281,13 +9301,13 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Team Abilities": "Team Player | Skrulls",
-    "Team Abilities Search": "| Team Player | Skrulls |",
     "Keywords": "Ruler | Skrulls | Spy",
-    "Keywords Search": "| Ruler | Skrulls | Spy |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SECRET INVASIONWhen establishing themed teams, friendly characters with the Spy keyword gain the Skrulls keyword. This game, those characters have [ta:skrulls].[Damage] INFILTRATION MISSIONPowers: OutwitOutwit. // When Princess Veranke uses [ta:team_player], she may copy a team ability an opposing character can use.",
+    "Team Abilities Search": "| Team Player | Skrulls |",
+    "Keywords Search": "| Ruler | Skrulls | Spy |",
     "alternates": [
       {
         "name": "Princess Veranke",
@@ -9364,6 +9384,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "22309dad-ef1b-4c7b-8c84-7f5dbb025387.Click5.png"
+      },
+      {
+        "name": "Princess Veranke",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "22309dad-ef1b-4c7b-8c84-7f5dbb025387.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9382,14 +9412,14 @@
     "Properties": "Unique",
     "Point Values": "35",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Past | Mystical",
-    "Keywords Search": "| Past | Mystical |",
     "Range": "10",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEAncient One has SAFEGUARD: [ta:mystics]. // When Ancient One KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Attack] MENTOR AND PROTECTORPowers: TelekinesisTelekinesis. // POWER: Choose an adjacent friendly character with the Mystical keyword of 50 points or less. That character can use the Sorcerer Supreme trait this turn.[Damage] 15TH CENTURY MAGICSPowers: Probability ControlProbability Control, Shape Change. // When Ancient One hits, hit characters can't use standard powers not displayed on their dial until your next turn.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Past | Mystical |",
     "alternates": [
       {
         "name": "Ancient One",
@@ -9460,6 +9490,16 @@
         "Damage": "1",
         "Damage Ability": "Probability Control",
         "image": "623c1d36-be96-4a09-9d2f-f85d556c0cda.Click5.png"
+      },
+      {
+        "name": "Ancient One",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "623c1d36-be96-4a09-9d2f-f85d556c0cda.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9477,13 +9517,13 @@
     "Rarity": "Super Rare",
     "Point Values": "45/30",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Alpha Flight | Police | Mystical",
-    "Keywords Search": "| Alpha Flight | Police | Mystical |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SARCEE MEDICINE POUCHWhen a friendly Spell One-Shot is turned face down, after resolutions you may heal a friendly character 2 clicks.[Speed] THE GREAT KEYPowers: Phasing TeleportPhasing/Teleport, [cs:passenger]: 4. When Shaman carries one or more characters, those characters modify defense +1 until your next turn.[Defense] JEWEL OF ACTUALIZATIONPowers: Energy Shield Deflection, Super SensesEnergy Shield/Deflection, Super Senses.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Alpha Flight | Police | Mystical |",
     "alternates": [
       {
         "name": "Shaman",
@@ -9572,6 +9612,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "717f0649-dca3-4746-9bf4-41a916ef7636.Click6.png"
+      },
+      {
+        "name": "Shaman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "717f0649-dca3-4746-9bf4-41a916ef7636.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9590,13 +9640,13 @@
     "Properties": "Unique",
     "Point Values": "125",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Ruler",
-    "Keywords Search": "| Cosmic | Ruler |",
     "Range": "8",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MANY-ANGLED INCURSIONAt the beginning of your turn, Lord Mar-Vell may generate a Tentacle bystander within range.[Defense] NECROPSYPowers: Stop, ImperviousSTOP. Impervious. // The first time this click is revealed, after resolutions you may KO any number of friendly characters. Heal Lord Mar-Vell 2 clicks for each character KO'd this way.[Damage] A DEATHLESS WORLDPowers: OutwitOutwit. // When another character is KO'd, after resolutions heal a friendly character 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Ruler |",
     "alternates": [
       {
         "name": "Lord Mar-Vell",
@@ -9745,6 +9795,16 @@
         "Defense Ability": "Special - NECROPSY",
         "Damage": "4",
         "image": "ce995c9e-e74d-49b9-8e4f-1084a5fbf771.Click10.png"
+      },
+      {
+        "name": "Lord Mar-Vell",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ce995c9e-e74d-49b9-8e4f-1084a5fbf771.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9797,14 +9857,14 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Ruler | Mystical | Defenders",
-    "Keywords Search": "| Ruler | Mystical | Defenders |",
     "Range": "8",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] SORCERER SUPREMEClea has SAFEGUARD: [ta:mystics]. // When Clea KOs an opposing character, after resolutions you may turn a face-down Spell One-Shot face-up.[Trait] ...OF THE DARK DIMENSIONPowers: StealthWhen a friendly Spell One-Shot is turned face down, after resolutions generate a Smoke terrain marker within range and friendly characters can use Stealth until your next turn.[Defense] WARDING SPELLSPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6]. Protected: Outwit.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Ruler | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Clea",
@@ -9896,6 +9956,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "27a40175-b9b0-46f5-98f3-f57dbd10bc56.Click6.png"
+      },
+      {
+        "name": "Clea",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "27a40175-b9b0-46f5-98f3-f57dbd10bc56.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -9914,13 +9984,13 @@
     "Properties": "Unique",
     "Point Values": "30",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "Hydra | Ruler | Spy",
-    "Keywords Search": "| Hydra | Ruler | Spy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TWO SHALL GROW BACK!When a friendly standard character that shares a keyword with Imperial Hydra is KO'd, after resolutions generate two Hydra Agent bystanders. // When Imperial Hydra is KO'd, choose a friendly standard character that shares a keyword with Imperial Hydra. This game, that character can use this trait and is considered to have the Hydra Agent bystanders printed on its card (Replace Imperial Hydra's name with the chosen character's name). Protected: Pulse Wave.[Trait] IMMORTAL HYDRA!When one or more friendly characters with [ta:hydra] take damage from an opposing attack, after resolutions deal the attacker 1 penetrating damage and modify the attacker's defense -1 until the end of your next turn.[Damage] ONLY HYDRA IS DESTINED TO RULE!Powers: Leadership, Shape ChangeLeadership, Shape Change. When Imperial Hydra uses Leadership and succeeds, he may instead remove an action token from each Hydra Agent bystander within 3 squares.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| Hydra | Ruler | Spy |",
     "alternates": [
       {
         "name": "Imperial Hydra",
@@ -9990,6 +10060,16 @@
         "Damage": "1",
         "Damage Ability": "Special - ONLY HYDRA IS DESTINED TO RULE!",
         "image": "f64bc703-088d-4593-bae6-ef3893b2cc75.Click5.png"
+      },
+      {
+        "name": "Imperial Hydra",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f64bc703-088d-4593-bae6-ef3893b2cc75.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -10007,10 +10087,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Hydra |",
     "alternates": [
       {
         "name": "Hydra Agent",
@@ -10043,13 +10123,13 @@
     "Rarity": "Super Rare",
     "Point Values": "60",
     "Team Abilities": "Hydra | Shield",
-    "Team Abilities Search": "| Hydra | Shield |",
     "Keywords": "Assassin | Hydra | Leviathan | Marksman | S.H.I.E.L.D. | Spy",
-    "Keywords Search": "| Assassin | Hydra | Leviathan | Marksman | S.H.I.E.L.D. | Spy |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEVIATHANWhen establishing themed teams, friendly characters with the Hydra or S.H.I.E.L.D. keywords gain the Leviathan keyword. // If Madame Hydra is part of a themed team, once per game per keyword when a character with the Hydra or S.H.I.E.L.D. keyword would be KO'd, you may instead turn them to their last non-KO click (Madame Hydra can prevent the KO of one S.H.I.E.L.D. character and one Hydra character).[Attack] TAUNT THE BARON, TEMPT THE FURYPowers: PoisonPoison, but deals damage even if moved or placed this turn.[Damage] TRIPLE AGENTPowers: Outwit, PerplexAt the beginning of your turn choose Outwit or Perplex. Madame Hydra may use the chosen power up to 3 times until your next turn.",
+    "Team Abilities Search": "| Hydra | Shield |",
+    "Keywords Search": "| Assassin | Hydra | Leviathan | Marksman | S.H.I.E.L.D. | Spy |",
     "alternates": [
       {
         "name": "Madame Hydra",
@@ -10141,6 +10221,16 @@
         "Damage": "1",
         "Damage Ability": "Special - TRIPLE AGENT",
         "image": "dab0999d-e4aa-4dca-9354-8eed53984cd6.Click6.png"
+      },
+      {
+        "name": "Madame Hydra",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "dab0999d-e4aa-4dca-9354-8eed53984cd6.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -10159,13 +10249,13 @@
     "Properties": "Unique",
     "Point Values": "300/200/100/25",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Ruler | Monster | Mystical | Deity",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] THE DREAD ONEPowers: Shape ChangeShape Change, but succeeds on a [d:4]-[d:6]. // When Dormammu or an adjacent friendly character uses [ta:mystics], they deal 2 penetrating damage instead.[Trait] FALTINE SORCERYWhen making an attack roll Dormammu may roll 3 dice instead of 2 and then, after any rerolls or die replacements, choose one die to ignore.[Attack] IMBUE WITH CHAOSAt the beginning of your turn, you may choose another friendly character. This turn that character can use the Faltine Sorcery trait and when they attack, after resolutions deal them penetrating damage equal to half the result of the die they chose to ignore.[Defense] IMMORTAL RULERPowers: Stop, MastermindSTOP. Mastermind.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Mystical | Deity |",
     "alternates": [
       {
         "name": "Dormammu",
@@ -10428,6 +10518,16 @@
         "Defense Ability": "Special - IMMORTAL RULER",
         "Damage": "2",
         "image": "f0548949-bf71-4d63-ad4e-fb26e4d03f3a.Click18.png"
+      },
+      {
+        "name": "Dormammu",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f0548949-bf71-4d63-ad4e-fb26e4d03f3a.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -10445,14 +10545,14 @@
     "Rarity": "Chase",
     "Point Values": "300/200/75/15",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Asgardian | Hellfire Club | Robot | Sentinel | Spider Man Family | Mystical",
-    "Keywords Search": "| Asgardian | Hellfire Club | Robot | Sentinel | Spider Man Family | Mystical |",
     "Range": "9",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] JUGGERNAUT ALTERED BY MAGICOnce per turn, when Tri-Sentinel destroys one or more pieces of blocking terrain, after resolutions deal 1 penetrating damage to an opposing character within range and line of fire of Tri-Sentinel.[Speed] ENCHANTED GRAPPLE CABLESPowers: Plasticity, SidestepPlasticity, Sidestep. // Once per turn for all characters with this power, when an opposing character within range is given a FREE action, after resolutions you may deal that character 1 penetrating damage.[Attack] LOKI'S PRIME DIRECTIVEPowers: Pulse WavePulse Wave. When Tri-Sentinel uses it, before targeting characters, destroy all blocking terrain within 4 squares.[Defense] PROTOTYPE SENTINEL ARMORPowers: Stop, Energy Shield Deflection, ImperviousSTOP. Energy Shield/Deflection, Impervious.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Asgardian | Hellfire Club | Robot | Sentinel | Spider Man Family | Mystical |",
     "alternates": [
       {
         "name": "Tri-Sentinel",
@@ -10800,6 +10900,16 @@
         "Defense Ability": "Special - PROTOTYPE SENTINEL ARMOR",
         "Damage": "3",
         "image": "2f772186-a5f9-47d6-8a2d-a704fb96bd60.Click24.png"
+      },
+      {
+        "name": "Tri-Sentinel",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2f772186-a5f9-47d6-8a2d-a704fb96bd60.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -10818,14 +10928,14 @@
     "Properties": "Unique",
     "Point Values": "300/125/50",
     "Team Abilities": "Cosmic Energy | Team Player",
-    "Team Abilities Search": "| Cosmic Energy | Team Player |",
     "Keywords": "Cosmic | Ruler | Deity",
-    "Keywords Search": "| Cosmic | Ruler | Deity |",
     "Range": "12",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Improved Targeting": "Hindering | Blocking",
     "Traits and Special Powers": "[Trait] COSMIC ENTITYEternity can't be the target of an attack with more than one target.[Trait] YOU CAN'T KILL THE ABSTRACT: SUPREME TEMPORAL BEINGWhen Eternity starts the game, this game, each roll can only be rerolled once.[Trait] THE LIVING EMBODIMENT OF THE UNIVERSEWhen establishing themed teams, Eternity gains all keywords. // When Eternity uses [ta:team_player], he may choose any team ability a character on the map can use, even if they are uncopyable. // Eternity can't be healed above his starting line.[Speed] THE MULTIVERSE ITSELF INCARNATEFREE: Choose a target character. Place them 1 square away from their current square.",
+    "Team Abilities Search": "| Cosmic Energy | Team Player |",
+    "Keywords Search": "| Cosmic | Ruler | Deity |",
     "alternates": [
       {
         "name": "Eternity",
@@ -11137,6 +11247,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "f285d1ef-13a3-4b17-89b1-56d521e6e000.Click21.png"
+      },
+      {
+        "name": "Eternity",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f285d1ef-13a3-4b17-89b1-56d521e6e000.KO.png"
       }
     ],
     "Set": "Strange Tales",
@@ -11318,9 +11438,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Agamotto's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Agamotto's Avatar. // When Agamotto's Avatar uses Outwit or Probability Control, they may do so regardless of line of fire. // When Agamotto's Avatar is KO'd, remove Agamotto from the game.",
     "alternates": [
       {
+        "name": "Agamotto",
         "type": "Tile",
         "size": "1x1",
-        "name": "Agamotto",
         "image": "7affc7f5-8770-4111-91e6-456e3a3c386a.Tile.png"
       }
     ],
@@ -11342,9 +11462,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Oshtur's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Oshtur's Avatar. // When Oshtur's Avatar uses Perplex or Probability Control, after resolutions you may heal the target 1 click. // When Oshtur's Avatar is KO'd, remove Oshtur from the game.",
     "alternates": [
       {
+        "name": "Oshtur",
         "type": "Tile",
         "size": "1x1",
-        "name": "Oshtur",
         "image": "ea94e4a1-170a-4c0a-9b9b-5fe6b514a564.Tile.png"
       }
     ],
@@ -11366,9 +11486,9 @@
     "Traits and Special Powers": "Unnamed AbilityDuring force construction, you may add this marker to your Sideline by paying its point cost.Unnamed AbilitySIDELINE ACTIVE - At the beginning of your turn, you may choose a friendly character to be Hoggoth's Avatar until you choose again. That character can't be equipped or chosen to be any other character's Avatar if it's Hoggoth's Avatar. If Hoggoth's Avatar can use Outwit or Perplex, they can use that power twice a turn. // When Hoggoth's Avatar is KO'd, remove Hoggoth from the game.",
     "alternates": [
       {
+        "name": "Hoggoth",
         "type": "Tile",
         "size": "1x1",
-        "name": "Hoggoth",
         "image": "5fee3a24-6a1f-4a55-b272-2d6d7b03c520.Tile.png"
       }
     ],

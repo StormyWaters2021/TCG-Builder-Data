@@ -9,14 +9,14 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote",
-    "Keywords Search": "| Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] FIGHT THE BLOODLUSTPowers: Willpower, Battle FuryWillpower, but succeeds on a [d:4]-[d:6]. When Venom uses Willpower and fails, this turn he modifies his attack +1 and can use Battle Fury.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -128,11 +128,11 @@
     "Rarity": "Common",
     "Point Values": "20",
     "Keywords": "A.I.M. | Animal | Assassin | Avengers | Monster | Deadpool Corps",
-    "Keywords Search": "| A.I.M. | Animal | Assassin | Avengers | Monster | Deadpool Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Defense] TOO CUTEJeff the Land Shark takes a maximum of 1 damage from opposing characters on their starting click.",
+    "Keywords Search": "| A.I.M. | Animal | Assassin | Avengers | Monster | Deadpool Corps |",
     "alternates": [
       {
         "name": "Jeff the Land Shark",
@@ -219,13 +219,13 @@
     "Rarity": "Common",
     "Point Values": "20",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Police | Detective",
-    "Keywords Search": "| Police | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GUMSHOE FOR HIREPowers: PlasticityPlasticity. // When establishing themed teams, choose a friendly character's keyword. Private Detective gains that keyword.",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Police | Detective |",
     "alternates": [
       {
         "name": "Private Detective",
@@ -319,11 +319,11 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Keywords": "Animal | Revengers | Monster",
-    "Keywords Search": "| Animal | Revengers | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEWER TRAVELPowers: StealthStealth. // FREE: If Vermin occupies a square of hindering or water terrain, place him in a square of hindering or water terrain within 4 squares.",
+    "Keywords Search": "| Animal | Revengers | Monster |",
     "alternates": [
       {
         "name": "Vermin",
@@ -468,13 +468,13 @@
     "Rarity": "Common",
     "Point Values": "65",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Reporter | Scientist | Spider Man Family | Symbiote",
-    "Keywords Search": "| Reporter | Scientist | Spider Man Family | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Spider-Man in a square of different elevation within 4 squares and line of fire.[Trait] WHY AM I SO TIRED?!Powers: WillpowerWillpower. When Spider-Man uses it and succeeds, once per game you may turn him to click #7.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Reporter | Scientist | Spider Man Family | Symbiote |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -618,11 +618,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Past | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Past | Soldier | Monster | Symbiote |",
     "Range": "3",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: MERCURY TEAMWhen Symbiote Soldier is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate a Slime water terrain marker in the square this character last occupied. This game that marker has \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Past | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Symbiote Soldier",
@@ -727,12 +727,12 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Keywords": "Maximum Carnage | Monster | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] MAXIMUM CARNAGEOnce per turn when Carnage hits, after resolutions deal 1 penetrating damage to up to 2 opposing characters that weren't hit but are adjacent to a hit character.",
+    "Keywords Search": "| Maximum Carnage | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Carnage",
@@ -863,11 +863,11 @@
     "Properties": "Generic",
     "Point Values": "20",
     "Keywords": "Monster | Symbiote",
-    "Keywords Search": "| Monster | Symbiote |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THEY'RE SPREADING!When Zombiote KOs an opposing character, after resolutions you may generate a [set:ve] #008 Zombiote on click #1 in the square that character last occupied.",
+    "Keywords Search": "| Monster | Symbiote |",
     "alternates": [
       {
         "name": "Zombiote",
@@ -957,11 +957,11 @@
     "Properties": "Generic",
     "Point Values": "15",
     "Keywords": "Cosmic | Monster",
-    "Keywords Search": "| Cosmic | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] ONE OF US...Hive has SAFEGUARD: Poison. // When Hive KOs an opposing character, after resolutions you may turn Hive to click #5.[Damage] STOLEN BODYPowers: Exploit Weakness[cs:starburst]. Exploit Weakness.",
+    "Keywords Search": "| Cosmic | Monster |",
     "alternates": [
       {
         "name": "Hive",
@@ -1077,13 +1077,13 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Champions | Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Thunderbolts",
-    "Keywords Search": "| Champions | Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Thunderbolts |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ALCHEMAX INTEL[it:hindering], but only to target characters that have the team ability chosen for [ta:avengers].",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Champions | Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Thunderbolts |",
     "alternates": [
       {
         "name": "Black Widow",
@@ -1224,12 +1224,12 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Keywords": "Robot | Monster | Symbiote",
-    "Keywords Search": "| Robot | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] BONDED SPIDER-BOTWhen Venom-Bot is KO'd by an opposing character, after resolutions deal that character 1 penetrating damage and generate a Slime water terrain marker in that character's square. This game that marker has \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"",
+    "Keywords Search": "| Robot | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom-Bot",
@@ -1298,11 +1298,11 @@
     "Rarity": "Common",
     "Point Values": "50/15",
     "Keywords": "Cosmic | Monster | Symbiote",
-    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TAKING A HOSTPowers: Poison, Shape ChangePoison, Shape Change. // When Klyntar Symbiote is KO'd, you may place it on a friendly character's card. If you do, this game that character can use Poison, Shape Change, and has an additional [cs:bolt].",
+    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Klyntar Symbiote",
@@ -1422,13 +1422,13 @@
     "Rarity": "Common",
     "Point Values": "70",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Scientist | Spider Man Family | New Warriors | Symbiote",
-    "Keywords Search": "| Scientist | Spider Man Family | New Warriors | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Spider-Man in a square of different elevation within 4 squares and line of fire.[Trait] THE SENSATIONAL SPIDER-MANWhen Spider-Man hits, after resolutions give each hit character an action token. // Opposing characters within range can't remove action tokens except by clearing.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Scientist | Spider Man Family | New Warriors | Symbiote |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -1574,12 +1574,12 @@
     "Rarity": "Common",
     "Point Values": "75",
     "Keywords": "Celebrity | Martial Artist | Monster | Symbiote",
-    "Keywords Search": "| Celebrity | Martial Artist | Monster | Symbiote |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom is within 4 squares and line of fire of an opposing character, she can't be targeted by range attacks.[Defense] ALL-NEW VENOMPowers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses.",
+    "Keywords Search": "| Celebrity | Martial Artist | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -1694,12 +1694,12 @@
     "Rarity": "Chase",
     "Point Values": "75",
     "Keywords": "Armor | Future | Monster | Warrior | Symbiote",
-    "Keywords Search": "| Armor | Future | Monster | Warrior | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SOLID PHYSIOLOGYPowers: PlasticityPlasticity, Giant Reach: 2. // Eganrac can reduce penetrating damage. // Adjacent opposing characters and characters attacking Eganrac can't use the EFFECT of equipment.[Trait] I AM THE ANTI-CARNAGEPowers: WillpowerWillpower. // If Eganrac shares a keyword with an opposing character on the map, increase the results of his single d6 rolls by +1. If that keyword is Monster or Symbiote, also modify Eganrac's combat values +1.[Defense] GOLDEN OPPORTUNITYPowers: Impervious, Shape ChangeImpervious, Shape Change. When Eganrac uses Impervious and succeeds, after resolutions deal the attacker damage equal to their printed damage value. Protected: Outwit.",
+    "Keywords Search": "| Armor | Future | Monster | Warrior | Symbiote |",
     "alternates": [
       {
         "name": "Eganrac",
@@ -1840,11 +1840,11 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Keywords": "Animal | Cosmic | Scientist | Monster | Symbiote",
-    "Keywords Search": "| Animal | Cosmic | Scientist | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] CHEMICAL SYNTHESISPOWER: Generate a Slime water terrain marker within 4 squares and line of fire. This game that marker has \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"",
+    "Keywords Search": "| Animal | Cosmic | Scientist | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Sleeper",
@@ -1918,13 +1918,13 @@
     "Rarity": "Uncommon",
     "Point Values": "40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Avengers | Reporter | Spider Man Family | Monster | Symbiote",
-    "Keywords Search": "| Avengers | Reporter | Spider Man Family | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MAN OF A THOUSAND SECOND CHANCESAt the beginning of the game, remove a character with \"Venom\" in its name from your Sideline, turn them to any click, and place them on this card. // Eddie Brock can use the displayed standard powers of the character on his card.[Trait] THE COMEBACK KINGWhen Eddie Brock would be KO'd, you may instead replace him with the character from his card on its last non-KO click, then heal it 2 clicks. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Avengers | Reporter | Spider Man Family | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Eddie Brock",
@@ -2005,11 +2005,11 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Keywords": "Animal | Avengers | Monster | Symbiote",
-    "Keywords Search": "| Animal | Avengers | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] EWW, SHARK SLOBBER!Powers: Plasticity, Shape ChangePlasticity, Shape Change. // When Venomized Jeff the Land Shark is hit by an opposing character, after resolutions you may generate a Slime water terrain marker in that character's square. This game that marker has \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"[Attack] TONGUE LASHPowers: Steal EnergyGiant Reach: 4, Steal Energy.",
+    "Keywords Search": "| Animal | Avengers | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venomized Jeff the Land Shark",
@@ -2136,11 +2136,11 @@
     "Rarity": "Uncommon",
     "Point Values": "40",
     "Keywords": "Masters Of Evil | Sinister Syndicate | Dark Avengers | Detective | Thunderbolts",
-    "Keywords Search": "| Masters Of Evil | Sinister Syndicate | Dark Avengers | Detective | Thunderbolts |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MULTIPLE MASKSAt the beginning of the game, remove a character named Scorpion, Spider-Man, Venom, or Virus from your Sideline, turn them to any click, and place them on this card. // Mac Gargan can use the displayed standard powers of the characters on his card.[Trait] ANIMAL MUTATION EXPERIMENTSWhen Mac Gargan would be KO'd, you may instead replace him with the character from his card on its last non-KO click, then heal it 2 clicks. Protected: Pulse Wave.",
+    "Keywords Search": "| Masters Of Evil | Sinister Syndicate | Dark Avengers | Detective | Thunderbolts |",
     "alternates": [
       {
         "name": "Mac Gargan",
@@ -2221,13 +2221,13 @@
     "Rarity": "Uncommon",
     "Point Values": "75/30",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Animal | Scientist | Sinister Syndicate | Monster",
-    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEWER TRAVELPowers: StealthStealth. // FREE: If Lizard occupies a square of hindering or water terrain, place him in a square of hindering or water terrain within 4 squares.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Monster |",
     "alternates": [
       {
         "name": "Lizard",
@@ -2377,14 +2377,14 @@
     "Rarity": "Uncommon",
     "Point Values": "65",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Reporter | Spider Man Family | Symbiote",
-    "Keywords Search": "| Reporter | Spider Man Family | Symbiote |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Spider-Man 2 is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] CHOOSING PARKER'S LEGACYIf a friendly character with [ta:spider_man] is in your KO area, Spider-Man 2 can use Super Senses and modifies his combat values by +1.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Reporter | Spider Man Family | Symbiote |",
     "alternates": [
       {
         "name": "Spider-Man 2",
@@ -2499,13 +2499,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Police | Underworld",
-    "Team Abilities Search": "| Police | Underworld |",
     "Keywords": "Past | S.H.I.E.L.D. | Soldier | Spy | Monster | Symbiote",
-    "Keywords Search": "| Past | S.H.I.E.L.D. | Soldier | Spy | Monster | Symbiote |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GRENDEL PROGRAMPowers: Flurry, StealthWhen establishing themed teams, friendly characters with the Soldier keyword gain the Symbiote keyword. // Friendly characters with both the Symbiote and Soldier keywords can use Flurry and Stealth.",
+    "Team Abilities Search": "| Police | Underworld |",
+    "Keywords Search": "| Past | S.H.I.E.L.D. | Soldier | Spy | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Rex Strickland",
@@ -2609,12 +2609,12 @@
     "Rarity": "Uncommon",
     "Point Values": "75/50",
     "Keywords": "Maximum Carnage | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] LIFE FOUNDATION SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If at least two other friendly characters have the Scientist or Symbiote keyword, once per turn Phage may reroll a d6 he rolled (including a single d6 in an attack roll).[Attack] SYMBIOTE BLADESPowers: Blades Claws FangsBlades/Claws/Fangs, Giant Reach: 2.",
+    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Phage",
@@ -2749,13 +2749,13 @@
     "Rarity": "Uncommon",
     "Point Values": "45",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Soldier | Maggia | Symbiote",
-    "Keywords Search": "| Soldier | Maggia | Symbiote |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VENOM INC.Powers: Shape ChangeShape Change. // Friendly characters with the Symbiote keyword have [ta:underworld].",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Soldier | Maggia | Symbiote |",
     "alternates": [
       {
         "name": "Maniac",
@@ -2857,14 +2857,14 @@
     "Rarity": "Uncommon",
     "Point Values": "75/35",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Animal | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Animal | Soldier | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] SCENT TRACKINGIf Lasher is on a themed team, friendly characters can use [it:hindering,characters].",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Animal | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Lasher",
@@ -3012,13 +3012,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Monster | Symbiote",
-    "Keywords Search": "| Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Monster | Symbiote |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LETTING HER RUN LOOSEPowers: StealthStealth. // FREE: Once per game turn Sliver to click #7. If you do, this game she can't use Stealth or [ta:avengers].[Attack] ZOMBIOTE CORRUPTIONPowers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy. // When Sliver KOs an opposing character, after resolutions you may generate a [set:ve] #008 Zombiote on click #1 in the square the KO'd character last occupied.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Assassin | Avengers | Martial Artist | S.H.I.E.L.D. | Spy | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Sliver",
@@ -3239,13 +3239,13 @@
     "Rarity": "Uncommon",
     "Point Values": "90",
     "Keywords": "Scientist | Spider Man Family | Monster | Mystical",
-    "Keywords Search": "| Scientist | Spider Man Family | Monster | Mystical |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] ALL THE POWER...When Chasm hits, after resolutions generate a Web smoke terrain marker in the squares of each hit character. This game, those markers have \"Characters occupying this marker must break away to move and can't automatically succeed in their breakaway rolls. Remove this marker from the game when no character occupies it.\"[Defense] ...NONE OF THE RESPONSIBILITYPowers: Super SensesSuper Senses. When Chasm uses it and succeeds, after resolutions deal the attacker damage equal to their printed damage value. Protected: Outwit.",
+    "Keywords Search": "| Scientist | Spider Man Family | Monster | Mystical |",
     "alternates": [
       {
         "name": "Chasm",
@@ -3391,13 +3391,13 @@
     "Rarity": "Rare",
     "Point Values": "90/40",
     "Team Abilities": "Masters Of Evil",
-    "Team Abilities Search": "| Masters Of Evil |",
     "Keywords": "Armor | Masters Of Evil | Sinister Syndicate | Detective | Thunderbolts",
-    "Keywords Search": "| Armor | Masters Of Evil | Sinister Syndicate | Detective | Thunderbolts |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEVER STOP HUNTING YOU!Powers: Energy Shield Deflection, WillpowerEnergy Shield/Deflection, Willpower. // If Virus is adjacent to an opposing character, increase the results of his single d6 rolls by +1.[Defense] RECYCLED WAR MACHINE PARTSPowers: Impervious, Super SensesImpervious, Super Senses.",
+    "Team Abilities Search": "| Masters Of Evil |",
+    "Keywords Search": "| Armor | Masters Of Evil | Sinister Syndicate | Detective | Thunderbolts |",
     "alternates": [
       {
         "name": "Virus",
@@ -3533,13 +3533,13 @@
     "Properties": "Prime",
     "Point Values": "70",
     "Team Abilities": "Team Player | Spider Man",
-    "Team Abilities Search": "| Team Player | Spider Man |",
     "Keywords": "Avengers | Soldier | Spider Man Family | Monster | Thunderbolts | Symbiote",
-    "Keywords Search": "| Avengers | Soldier | Spider Man Family | Monster | Thunderbolts | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ANTI-VENOM BURNSOpposing characters within range and line of fire can't use Shape Change or Super Senses.[Trait] HEAL MY UNITAt the beginning of your turn, you may heal a friendly character 1 click. // When another friendly character would be KO'd, you may instead turn them to their last non-KO click and heal them 2 clicks. If you do, Agent Anti-Venom can't use this trait this game. Protected: Pulse Wave.[Damage] EX-THUNDERBOLTPowers: LeadershipLeadership. // When Agent Anti-Venom uses [ta:team_player], he may choose a team ability an opposing character can use.",
+    "Team Abilities Search": "| Team Player | Spider Man |",
+    "Keywords Search": "| Avengers | Soldier | Spider Man Family | Monster | Thunderbolts | Symbiote |",
     "alternates": [
       {
         "name": "Agent Anti-Venom",
@@ -3673,14 +3673,14 @@
     "Rarity": "Rare",
     "Point Values": "70/40",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Brute | Cosmic | Reporter | Scientist | Spider Man Family | Monster",
-    "Keywords Search": "| Brute | Cosmic | Reporter | Scientist | Spider Man Family | Monster |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Poison Spider-Man in a square of different elevation within 4 squares and line of fire.[Trait] PART OF THE HIVEPoison Spider-Man has SAFEGUARD: Poison.[Damage] WAR WITH THE SYMBIOTESPowers: Exploit WeaknessExploit Weakness. // When Poison Spider-Man attacks, opposing characters decrease the results of their single d6 rolls by -1 (during that attack).",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Brute | Cosmic | Reporter | Scientist | Spider Man Family | Monster |",
     "alternates": [
       {
         "name": "Poison Spider-Man",
@@ -3827,13 +3827,13 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Assassin | Heroes For Hire | Martial Artist | Thunderbolts | The Hand",
-    "Keywords Search": "| Assassin | Heroes For Hire | Martial Artist | Thunderbolts | The Hand |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DISARMWhen Elektra hits, after resolutions give each hit character an action token, then those characters unequip any equipment.[Speed] NINJA MASTERYPowers: Sidestep, StealthSidestep, Stealth.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Assassin | Heroes For Hire | Martial Artist | Thunderbolts | The Hand |",
     "alternates": [
       {
         "name": "Elektra",
@@ -3953,12 +3953,12 @@
     "Properties": "Prime",
     "Point Values": "60",
     "Keywords": "Assassin | Martial Artist | Monster | Symbiote",
-    "Keywords Search": "| Assassin | Martial Artist | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KOs an opposing character with a Target token, score 25 victory points.[Trait] TRACKING HEARTBEATSPowers: PlasticityPlasticity. // When an opposing character heals, after resolutions give them a Target token. Friendly characters with a \"The Target\" trait treat that token as if it were generated by that trait.[Speed] LIKE A TORNADO FILLED WITH KNIVESPowers: Hypersonic SpeedHypersonic Speed. When Carnage Elektra uses it, after resolutions deal 1 damage to each opposing character she moved through during that action.",
+    "Keywords Search": "| Assassin | Martial Artist | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Carnage Elektra",
@@ -4092,14 +4092,14 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Avengers | Future | Horsemen | Spider Man Family | Symbiote",
-    "Keywords Search": "| Avengers | Future | Horsemen | Spider Man Family | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Venomized Miles Morales in a square of different elevation within 4 squares and line of fire.[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venomized Miles Morales is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Attack] WE ARE READY TO HUNTPowers: Blades Claws FangsBlades/Claws/Fangs, Giant Reach: 3.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Avengers | Future | Horsemen | Spider Man Family | Symbiote |",
     "alternates": [
       {
         "name": "Venomized Miles Morales",
@@ -4229,12 +4229,12 @@
     "Rarity": "Rare",
     "Point Values": "75/50",
     "Keywords": "Maximum Carnage | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Destroy Blocking",
     "Traits and Special Powers": "[Trait] LIFE FOUNDATION SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If at least two other friendly characters have the Scientist or Symbiote keyword, once per turn Riot may reroll a d6 he rolled (including a single d6 in an attack roll).[Attack] SYMBIOTE SMASH!Powers: Super StrengthSuper Strength, Giant Reach: 2. // When Riot hits, until your next turn, the next time each hit character would roll a single d6, the result is [d:1] instead.",
+    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Riot",
@@ -4369,14 +4369,14 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Brute | Sinister Syndicate | Monster | Symbiote",
-    "Keywords Search": "| Brute | Sinister Syndicate | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Speed] WALL-SMASHERFREE: Place Pork Grind adjacent to a piece of blocking terrain within 4 squares, then destroy that blocking terrain.[Attack] I'LL SHOW YOU TOON STUFF!POWER: Generate an equipment from your Sideline and equip it.[Defense] TOON PHYSIOLOGYIf Pork Grind would take damage from an attack, unless the attack roll was doubles or part of a Terrain Action, instead the attacker knocks him back a number of squares equal to the damage dealt.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Brute | Sinister Syndicate | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Pork Grind",
@@ -4522,13 +4522,13 @@
     "Rarity": "Rare",
     "Point Values": "120/65",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Assassin | Monster | Deity | Symbiote",
-    "Keywords Search": "| Cosmic | Assassin | Monster | Deity | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ALL-BLACK: GODSLAYERPowers: Blades Claws FangsBlades/Claws/Fangs. When Gorr the God Butcher uses it, they may reroll the result if the targeted character has the Deity or Herald keyword. // When Gorr the God Butcher rolls a single d6, if the displayed result is [d:1]-[d:2], after resolutions generate a Black Berserker bystander.[Trait] PUT OUR FAITH IN ONLY OURSELVES AND ONE ANOTHEROther characters can't generate bystanders. // Modify Gorr the God Butcher's combat values by +1 for each character with the Deity keyword in an opponent's KO area.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Assassin | Monster | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Gorr the God Butcher",
@@ -4711,13 +4711,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Animal | Spider Man Family",
-    "Keywords Search": "| Animal | Spider Man Family |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Spider-Boy in a square of different elevation within 4 squares and line of fire.[Trait] RETURN FROM NONEXISTENCESpider-Boy can't be targeted by opposing characters unless they either began the turn adjacent to him or no other friendly characters are on the map.[Damage] PSYCHOMETRYPowers: Probability ControlProbability Control. Spider-Boy may use it twice a turn, but only if both uses targeted characters with [ta:spider_man].",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Animal | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Boy",
@@ -4804,11 +4804,11 @@
     "Rarity": "Rare",
     "Point Values": "70/30",
     "Keywords": "Cabal | Revengers | Scientist | Fantastic Four | Symbiote",
-    "Keywords Search": "| Cabal | Revengers | Scientist | Fantastic Four | Symbiote |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SYMBIOTIC EXPERIMENTSWhen Maker starts the game, if he's unequipped generate and equip a Symbiote Prototype equipment token to him. // POWER: Generate and equip a Symbiote Prototype equipment token to a friendly character within 4 squares.[Attack] THE BURDEN OF SCIENCEPowers: Precision StrikePrecision Strike, Giant Reach: 4.",
+    "Keywords Search": "| Cabal | Revengers | Scientist | Fantastic Four | Symbiote |",
     "alternates": [
       {
         "name": "Maker",
@@ -4939,9 +4939,9 @@
     "Traits and Special Powers": "EFFECTPowers: Shape ChangeShape Change. When this character uses it and fails, after resolutions heal them 1 click and destroy Symbiote Prototype.",
     "alternates": [
       {
+        "name": "Symbiote Prototype",
         "type": "Tile",
         "size": "1x1",
-        "name": "Symbiote Prototype",
         "image": "18729ce0-1e50-493b-b68b-ce5fd81c9dd9.Tile.png"
       }
     ],
@@ -4960,13 +4960,13 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Spider Man Family | Detective | Symbiote",
-    "Keywords Search": "| Celebrity | Spider Man Family | Detective | Symbiote |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Gwenom in a square of different elevation within 4 squares and line of fire.[Speed] PREDATOR MODEPowers: SidestepSidestep. // Non-adjacent opposing characters can't draw lines of fire to Gwenom.[Damage] SYMBIOTEPowers: Plasticity, SidestepPlasticity, Shape Change.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Spider Man Family | Detective | Symbiote |",
     "alternates": [
       {
         "name": "Gwenom",
@@ -5114,9 +5114,9 @@
     "Traits and Special Powers": "EFFECT:When this character hits, choose one:*Destroy all equipment equipped to a hit character.*Choose an opposing character adjacent to a hit character. That character also becomes a hit target of the attack (Both hit characters are dealt damage).",
     "alternates": [
       {
+        "name": "Venom's Axe",
         "type": "Tile",
         "size": "1x1",
-        "name": "Venom's Axe",
         "image": "19ad9eb3-3197-4699-9ca2-89be0a7415db.Tile.png"
       }
     ],
@@ -5137,9 +5137,9 @@
     "Traits and Special Powers": "EFFECT:Powers: Battle FuryBattle Fury, Giant Reach: 3. // When this character attacks, before rolling you may choose that results of [d:1] in the attack roll are [d:6] instead. If you do and the attack is a critical hit, after resolutions remove this equipment from the game.",
     "alternates": [
       {
+        "name": "All-Blood the Necrospear",
         "type": "Tile",
         "size": "1x1",
-        "name": "All-Blood the Necrospear",
         "image": "f7a3a964-3c6b-4ece-bcc0-33b12d0dcb09.Tile.png"
       }
     ],
@@ -5158,14 +5158,14 @@
     "Rarity": "Super Rare",
     "Point Values": "150/75",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Armor | Latveria | Ruler | Scientist | Monster | Mystical",
-    "Keywords Search": "| Cosmic | Armor | Latveria | Ruler | Scientist | Monster | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Characters",
     "Traits and Special Powers": "[Trait] ORDERS FROM DOOMPowers: MastermindMastermind. When Poison Doom uses it, if the chosen character is KO'd, after resolutions generate a [set:ve] #009 Hive on click #1 adjacent to the attacker.[Attack] WE'LL PEEL THEM APARTPowers: Energy Explosion, PoisonEnergy Explosion, Poison. When Poison Doom uses either, opposing characters with the Cosmic or Symbiote keywords can't use defense powers.[Damage] THEY WILL KNEEL...Powers: OutwitOutwit. // When an opposing character within Poison Doom's range uses Blades/Claws/Fangs or Shape Change, Poison Doom may roll a d6. If he does, he may replace the opposing character's roll with his.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Armor | Latveria | Ruler | Scientist | Monster | Mystical |",
     "alternates": [
       {
         "name": "Poison Doom",
@@ -5330,14 +5330,14 @@
     "Rarity": "Super Rare",
     "Point Values": "125/65",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Armor | Avengers | Scientist | Stark Industries | Symbiote",
-    "Keywords Search": "| Armor | Avengers | Scientist | Stark Industries | Symbiote |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Iron Man is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Attack] EXTREMBIOTE DRAGON BREATHPowers: Precision StrikePrecision Strike. // RANGE: [it:hindering,elevated,characters]. Make a range attack targeting each opposing character within range and line of fire along a direct line.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Armor | Avengers | Scientist | Stark Industries | Symbiote |",
     "alternates": [
       {
         "name": "Iron Man",
@@ -5497,12 +5497,12 @@
     "Rarity": "Super Rare",
     "Point Values": "80/40",
     "Keywords": "Brute | Cosmic | Past | Soldier | Monster",
-    "Keywords Search": "| Brute | Cosmic | Past | Soldier | Monster |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] POISON-ENHANCED SHIELDPoison Captain America can reduce penetrating damage.[Speed] RELENTLESS PURSUITPowers: Running ShotRunning Shot, [it:elevated].[Damage] LEADING THE SWARMPowers: LeadershipLeadership. When Poison Captain America uses it and fails, after resolutions he may generate a [set:ve] #009 Hive on click #1.",
+    "Keywords Search": "| Brute | Cosmic | Past | Soldier | Monster |",
     "alternates": [
       {
         "name": "Poison Captain America",
@@ -5650,13 +5650,13 @@
     "Properties": "Unique",
     "Point Values": "130/75",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Brute | Asgardian | Ruler | Monster | Mystical | Symbiote",
-    "Keywords Search": "| Brute | Asgardian | Ruler | Monster | Mystical | Symbiote |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE WAR OF THE REALMSAt the beginning of the game, choose a keyword. When Malekith hits a character with the chosen keyword, give that character an action token.[Speed] THE BLACK BIFROSTPowers: Sidestep, StealthSidestep, Stealth, [cs:passenger]: 2. // FREE: Place Malekith or an adjacent friendly character that shares a keyword with him up to 2 squares away from their current square.[Attack] ALL-BLACK: ACCURSEDPowers: Blades Claws FangsBlades/Claws/Fangs. When Malekith uses it, he may reroll the result if the targeted character has the Deity or Herald keyword. // When Malekith rolls a single d6, if the displayed result is [d:1]-[d:2], opposing characters with the keyword chosen for \"The War of the Realms\" can't reduce damage this turn.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Brute | Asgardian | Ruler | Monster | Mystical | Symbiote |",
     "alternates": [
       {
         "name": "Malekith",
@@ -5820,13 +5820,13 @@
     "Properties": "Unique",
     "Point Values": "95/50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Future | Past | Ruler | Monster | Symbiote",
-    "Keywords Search": "| Future | Past | Ruler | Monster | Symbiote |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Meridius is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Speed] SYMBIOTE DOMINATIONPowers: SidestepSidestep. // At the beginning of your turn, you may place Meridius and another friendly character with the Symbiote keyword in each other's squares.[Damage] THE GARDEN OF TIMEAt the beginning of your turn, if no d6 is on Meridius's card, you may roll a d6 and place the result on Meridius's card. // When a character within range attacks or uses Shape Change, you may remove the d6 from this card and replace a die in that roll with it.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Future | Past | Ruler | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Meridius",
@@ -5957,12 +5957,12 @@
     "Rarity": "Super Rare",
     "Point Values": "75/50",
     "Keywords": "Maximum Carnage | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] LIFE FOUNDATION SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If at least two other friendly characters have the Scientist or Symbiote keyword, once per turn Lasher may reroll a d6 he rolled (including a single d6 in an attack roll).[Attack] SYMBIOTE TENDRILSPowers: Precision StrikeGiant Reach: 3, Precision Strike. // When Lasher hits, after resolutions you may place each hit target into a square adjacent to Lasher.",
+    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Lasher",
@@ -6097,13 +6097,13 @@
     "Rarity": "Super Rare",
     "Point Values": "75",
     "Keywords": "Maximum Carnage | Sentinel | Soldier | Monster | Thunderbolts | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Sentinel | Soldier | Monster | Thunderbolts | Symbiote |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] LIFE FOUNDATION SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If at least two other friendly characters have the Scientist or Symbiote keyword, once per turn Agony may reroll a d6 she rolled (including a single d6 in an attack roll).[Attack] SYMBIOTE ACIDPowers: PoisonPoison. // When Agony damages an opposing character with an attack or Poison, after resolutions deal that character 1 penetrating damage.[Damage] CORROSIONPowers: Outwit, PerplexOutwit, Perplex. When Agony uses either, she may only target a character that was damaged this turn.",
+    "Keywords Search": "| Maximum Carnage | Sentinel | Soldier | Monster | Thunderbolts | Symbiote |",
     "alternates": [
       {
         "name": "Agony",
@@ -6238,12 +6238,12 @@
     "Properties": "Prime",
     "Point Values": "75/50",
     "Keywords": "Maximum Carnage | Soldier | Monster | Wild Pack | Symbiote",
-    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Wild Pack | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] LIFE FOUNDATION SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If at least two other friendly characters have the Scientist or Symbiote keyword, once per turn Scream may reroll a d6 she rolled (including a single d6 in an attack roll).[Trait] SEPARATION ANXIETYPowers: MastermindMastermind. // When an adjacent friendly standard character is KO'd, after resolutions you may heal Scream 3 clicks.[Attack] SONIC KNIFEPowers: Blades Claws FangsBlades/Claws/Fangs, Giant Reach: 3. // Adjacent opposing characters can't use Plasticity or Shape Change.[Damage] TAKE CONTROL OF YOUR OTHER!Powers: LeadershipLeadership. When Scream uses it and fails, after resolutions you may heal another friendly character with the Symbiote keyword 2 clicks.",
+    "Keywords Search": "| Maximum Carnage | Soldier | Monster | Wild Pack | Symbiote |",
     "alternates": [
       {
         "name": "Scream",
@@ -6409,13 +6409,13 @@
     "Properties": "Unique",
     "Point Values": "80",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Ruler | Monster | Symbiote",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE ARE ONE HIVEPOWER: Choose another character with the Symbiote keyword within 4 squares. If it's opposing to your force, it becomes friendly to your force and immediately after resolutions it reverts forces. Move the chosen character up to 2 squares and then it may make an attack.[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Codex is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Attack] ALL-BLACK: PRINCE IN BLACKPowers: Blades Claws FangsBlades/Claws/Fangs. When Codex uses it, he may reroll the result if the targeted character has the Deity or Herald keyword. // When Codex rolls a single d6, if the displayed result is [d:1]-[d:2], after resolutions deal 1 penetrating damage to an adjacent opposing character.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Codex",
@@ -6549,13 +6549,13 @@
     "Rarity": "Super Rare",
     "Point Values": "95",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Monster | Mystical | Symbiote",
-    "Keywords Search": "| Monster | Mystical | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Host Rider is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] FEED THE HELLCHARGERPowers: ChargeCharge. // When Host Rider KOs an opposing character, after resolutions heal him 1 click and remove all action tokens from him.[Damage] PENANCE KISSPowers: Exploit WeaknessExploit Weakness. // When Host Rider attacks, characters that took damage from [ta:mystics] since your last turn can't use Mastermind, Shape Change, or Super Senses.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Monster | Mystical | Symbiote |",
     "alternates": [
       {
         "name": "Host Rider",
@@ -6696,13 +6696,13 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Masters Of Evil | Sinister Syndicate",
-    "Team Abilities Search": "| Masters Of Evil | Sinister Syndicate |",
     "Keywords": "Animal | Brute | Armor | Masters Of Evil | Sinister Syndicate | Detective",
-    "Keywords Search": "| Animal | Brute | Armor | Masters Of Evil | Sinister Syndicate | Detective |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Scorpion in a square of different elevation within 4 squares and line of fire.[Attack] TAIL STINGPowers: Poison, QuakeGiant Reach: 3, Poison, Quake. When Scorpion uses Poison, he considers characters he hit this turn to be adjacent to him.[Defense] STILLWELL'S ENHANCEMENTSPowers: Super Senses, ToughnessSuper Senses, Toughness.",
+    "Team Abilities Search": "| Masters Of Evil | Sinister Syndicate |",
+    "Keywords Search": "| Animal | Brute | Armor | Masters Of Evil | Sinister Syndicate | Detective |",
     "alternates": [
       {
         "name": "Scorpion",
@@ -6837,14 +6837,14 @@
     "Properties": "Prime",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Brute | Sinister Syndicate | Monster | Dark Avengers | Detective | Thunderbolts | Symbiote",
-    "Keywords Search": "| Brute | Sinister Syndicate | Monster | Dark Avengers | Detective | Thunderbolts | Symbiote |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] THE SINISTER TWELVEWhen a standard friendly character with the Sinister Syndicate keyword is KO'd by damage from an opposing effect (including Venom), after resolutions generate a character with the Sinister Syndicate keyword from your Sideline on its last non-KO click adjacent to an opposing character. This game the generated character isn't scored when KO'd. Protected: Pulse Wave.[Attack] VENOMED TAIL STRIKEPowers: Blades Claws Fangs, PoisonGiant Reach: 3, Blades/Claws/Fangs, Poison. // The first time Venom deals damage each turn, the damage dealt is penetrating.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Brute | Sinister Syndicate | Monster | Dark Avengers | Detective | Thunderbolts | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -6994,14 +6994,14 @@
     "Rarity": "Chase",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Reporter | Sinister Syndicate | Monster | Symbiote",
-    "Keywords Search": "| Reporter | Sinister Syndicate | Monster | Symbiote |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE SIXPowers: Plasticity, Shape ChangeFriendly characters with the Sinister Syndicate keyword can use Plasticity and Shape Change. // If Venom is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] THE ALIENOpposing characters within range decrease the result of their Super Senses rolls by -1. // When Venom attacks, characters with [ta:spider_man] can't use Super Senses.[Attack] COME HERE, LITTLE SPIDER!KNOCKBACK. // CLOSE: Choose an opposing character within 4 squares and line of fire. Place that character in a square adjacent to Venom, then make a close attack targeting that character.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Reporter | Sinister Syndicate | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -7147,14 +7147,14 @@
     "Rarity": "Chase",
     "Point Values": "75",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Future | Martial Artist | Monster | Symbiote | Weapon X",
-    "Keywords Search": "| Animal | Future | Martial Artist | Monster | Symbiote | Weapon X |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] MULTIVERSAL RESISTANCEThe bystanders on this card are Resistance. At the beginning of your turn, Old Man Venom may generate a Resistance bystander that hasn't been generated this game. // When Old Man Venom would be KO'd, if a friendly Resistance bystander is on the map, instead turn Old Man Venom to click #7. If you do, KO a friendly Resistance bystander. Protected: Pulse Wave.[Trait] WE'RE NOT DEAD YET, WADEPowers: LeadershipLeadership. // At the beginning of your turn, heal Old Man Venom 1 click.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Future | Martial Artist | Monster | Symbiote | Weapon X |",
     "alternates": [
       {
         "name": "Old Man Venom",
@@ -7387,13 +7387,13 @@
     "Properties": "Unique",
     "Point Values": "300/75",
     "Team Abilities": "Cosmic Energy | Underworld",
-    "Team Abilities Search": "| Cosmic Energy | Underworld |",
     "Keywords": "Cosmic | Minions Of Thanos | Ruler | Monster | Warrior | Deity",
-    "Keywords Search": "| Cosmic | Minions Of Thanos | Ruler | Monster | Warrior | Deity |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HIVE COMMANDERPowers: Plasticity, Shape ChangePlasticity, Shape Change. // At the beginning of your turn, generate a [set:ve] #009 Hive on click #1.[Trait] WE POISONS WILL CONQUER THEM ALL!Friendly characters with \"Hive\" or \"Poison\" in their name have [ta:underworld], and when they use Poison the damage can't be reduced below 1.[Attack] ONE BY ONE THEY FALLPowers: PoisonPoison. When Poison Thanos uses it, he instead deals 3 damage to characters with the Cosmic or Symbiote keywords.",
+    "Team Abilities Search": "| Cosmic Energy | Underworld |",
+    "Keywords Search": "| Cosmic | Minions Of Thanos | Ruler | Monster | Warrior | Deity |",
     "alternates": [
       {
         "name": "Poison Thanos",
@@ -7588,14 +7588,14 @@
     "Rarity": "Chase",
     "Point Values": "150",
     "Team Abilities": "Cosmic Energy | X Men",
-    "Team Abilities Search": "| Cosmic Energy | X Men |",
     "Keywords": "Cosmic | Ruler | Monster | Phoenix Force | X Men | Deity | Symbiote",
-    "Keywords Search": "| Cosmic | Ruler | Monster | Phoenix Force | X Men | Deity | Symbiote |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering",
     "Traits and Special Powers": "[Trait] OMEGA SYMBIOTEPowers: Plasticity, Shape ChangePlasticity, Shape Change. When Venomized Phoenix Force uses Shape Change, she increases the result by +1 for each other time she's used Shape Change this turn.[Trait] QUEEN IN BLACKPowers: Leadership, Poison, Mind ControlLeadership, Poison. Mind Control as FREE, but only to target characters damaged by a character with the Symbiote keyword this turn.[Attack] MANY HUNGRY MOUTHS TO FEEDPowers: Steal Energy, TelekinesisSteal Energy, Telekinesis. // Telekinesis as FREE but only to target a character with the Symbiote keyword.",
+    "Team Abilities Search": "| Cosmic Energy | X Men |",
+    "Keywords Search": "| Cosmic | Ruler | Monster | Phoenix Force | X Men | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Venomized Phoenix Force",
@@ -7775,12 +7775,12 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "250/125",
     "Keywords": "Police | Soldier | Monster | New Warriors | Symbiote",
-    "Keywords Search": "| Police | Soldier | Monster | New Warriors | Symbiote |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking | Characters",
     "Traits and Special Powers": "[Trait] MUST FIND OTHERSIDELINE ACTIVE - When a friendly character is KO'd and at least two friendly characters named Agony, Lasher, Phage, or Riot are in your KO area, after resolutions you may generate Hybrid from your Sideline on its red starting line in a square that character last occupied. If all four of the listed characters are in your KO area, you may generate Hybrid on its green starting line instead.[Trait] HYBRID SYMBIOTEPowers: Plasticity, Shape ChangeGiant Reach: 3, Plasticity, Shape Change. // Opposing characters within 4 squares can't make range attacks. Protected: Pulse Wave.[Defense] THIS IS OUR HOMEPowers: Invincible, WillpowerInvincible, Willpower. // When Hybrid hits, until your next turn opposing characters can't generate characters or use Carry.",
+    "Keywords Search": "| Police | Soldier | Monster | New Warriors | Symbiote |",
     "alternates": [
       {
         "name": "Hybrid",
@@ -7975,14 +7975,14 @@
     "Rarity": "Chase",
     "Point Values": "250/125",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Brute | Cosmic | Maximum Carnage | Ruler | Monster | Deity | Symbiote",
-    "Keywords Search": "| Brute | Cosmic | Maximum Carnage | Ruler | Monster | Deity | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] SYMBIOTIC HUNGERPowers: Flurry, Shape Change, Steal EnergyFlurry, Shape Change, Steal Energy. // When Carnage, God of Symbiotes rolls a single d6, if the displayed result is [d:1]-[d:2], after resolutions you may generate a Symbiote bystander within 4 squares [MAX 4].[Attack] GOD OF VIOLENCEPowers: Blades Claws FangsBlades/Claws/Fangs. // When a friendly character uses Blades/Claws/Fangs, you may reroll the result.[Defense] NECROTIC ARMORPowers: Stop, Invincible, MastermindSTOP. Invincible, Mastermind.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Brute | Cosmic | Maximum Carnage | Ruler | Monster | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Carnage, God of Symbiotes",
@@ -8211,15 +8211,15 @@
     "Properties": "Unique",
     "Point Values": "225/125/50",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Asgardian | Ruler | Monster | Mystical | Deity | Symbiote",
-    "Keywords Search": "| Cosmic | Asgardian | Ruler | Monster | Mystical | Deity | Symbiote |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Improved Targeting": "Hindering | Characters | Adjacent",
     "Traits and Special Powers": "[Attack] ALL-BLACK: THE ALL-BUTCHERPowers: Blades Claws FangsBlades/Claws/Fangs. When Loki the All-Butcher uses it, he may reroll the result if the targeted character has the Deity or Herald keyword. // When Loki the All-Butcher rolls a single d6, if the displayed result is a [d:1]-[d:2], after resolutions give an opposing character an action token.[Defense] REKINDLE THE SUNPowers: Stop, ImperviousSTOP. Impervious. // The first time this click is revealed, after resolutions deal 1 penetrating damage to each opposing character within range.[Damage] KING LOKIPowers: Probability Control, Shape ChangeProbability Control. Shape Change, but succeeds on a [d:4]-[d:6].",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Asgardian | Ruler | Monster | Mystical | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Loki the All-Butcher",
@@ -8415,13 +8415,13 @@
     "Rarity": "Chase",
     "Point Values": "120/75",
     "Team Abilities": "Cosmic Energy | Spider Man",
-    "Team Abilities Search": "| Cosmic Energy | Spider Man |",
     "Keywords": "Cosmic | Future | Spider Man Family | Monster | Deity",
-    "Keywords Search": "| Cosmic | Future | Spider Man Family | Monster | Deity |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EVERY SYMBIOTE... EXCEPT USPowers: Super SensesAt the beginning of the game, generate an Arachniote bystander. // Spider-Man and Arachniote can use Super Senses, but only if they're within 4 squares of each other.[Trait] ALL-BLACK: VENOM'S FIRST HOSTPowers: Blades Claws FangsBlades/Claws/Fangs. When Spider-Man uses it, he may reroll the result if the targeted character has the Deity or Herald keyword. // When Spider-Man rolls a single d6, if the displayed result is [d:1]-[d:2], after resolutions you may place Spider-Man in a square within range and line of fire.[Damage] EVERY SYMBIOTE, EVERY MOMENTPowers: Probability ControlProbability Control, but can use it to target characters with the Symbiote keyword regardless of range and line of fire.",
+    "Team Abilities Search": "| Cosmic Energy | Spider Man |",
+    "Keywords Search": "| Cosmic | Future | Spider Man Family | Monster | Deity |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -8567,10 +8567,10 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Spider Man |",
     "alternates": [
       {
         "name": "Arachniote",
@@ -8604,14 +8604,14 @@
     "Rarity": "Chase",
     "Point Values": "255",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Past | Ruler | Monster | Deity | Symbiote",
-    "Keywords Search": "| Cosmic | Past | Ruler | Monster | Deity | Symbiote |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] KING IN BLACKPowers: Shape Change, StealthShape Change, Stealth. // At the beginning of the game, generate up to two standard characters each of 40 points or less with the Symbiote keyword on their starting lines.[Trait] DECIMATEWhen Knull KOs an opposing character, after resolutions KO all other opposing characters that share a name with that character.[Attack] ALL-BLACK: SLICER OF WORLDSPowers: Blades Claws FangsBlades/Claws/Fangs. When Knull uses it, he may reroll the result if the targeted character has the Deity or Herald keyword. // When Knull rolls a single d6, if the displayed result is [d:1]-[d:2], after resolutions heal Knull equal to the displayed result.[Defense] LORD OF THE ABYSSPowers: Stop, Impervious, RegenerationSTOP. Impervious. Regeneration as FREE.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Past | Ruler | Monster | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Knull",
@@ -8806,11 +8806,11 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Keywords": "Cosmic | Monster | Symbiote",
-    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] WHAT'S WORSE THAN A SYMBIOTE?When Klyntar starts the game, place them on their card. Klyntar can be given actions and use their powers and abilities while on the card. // At the beginning of your turn, if no friendly characters with the Symbiote keyword are on the map, KO Klyntar.[Trait] A WHOLE PLANET OF THEM.At the beginning of your turn, choose a friendly character with the Symbiote keyword or a square of water terrain. Until your next turn, when Klyntar uses a power or ability, they may do so as if they occupied the chosen character or terrain's square and opposing characters must break away from Klyntar as if it occupied that square. // When Klyntar is given an action, after resolutions roll a d6. [d:1]-[d:3]: Deal Klyntar 1 unavoidable damage.[Trait] IT'S ALL LIKE LIVING QUICKSANDPOWER: Generate a [set:ve] #012 Klyntar Symbiote on its red starting line. // FREE: Generate a [set:ve] #026 Symbiote Surface.",
+    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Klyntar",
@@ -8896,14 +8896,14 @@
     "Rarity": "Chase",
     "Point Values": "80",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "Brute | Battleworld: Other | Hydra | Soldier | Monster | Symbiote",
-    "Keywords Search": "| Brute | Battleworld: Other | Hydra | Soldier | Monster | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] VENOM NEVER WORKS ALONEAt the beginning of the game, generate 3 Viper bystanders. // When Venom KOs an opposing character, after resolutions you may generate a Viper bystander [MAX 4] in a square the KO'd character last occupied.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| Brute | Battleworld: Other | Hydra | Soldier | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -9030,10 +9030,10 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Hydra |",
     "alternates": [
       {
         "name": "Viper",
@@ -9067,13 +9067,13 @@
     "Rarity": "Chase",
     "Point Values": "60",
     "Team Abilities": "Team Player | Spider Man",
-    "Team Abilities Search": "| Team Player | Spider Man |",
     "Keywords": "Celebrity | Avengers | Reporter | Scientist | Spider Man Family | Fantastic Four",
-    "Keywords Search": "| Celebrity | Avengers | Reporter | Scientist | Spider Man Family | Fantastic Four |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place Spider-Man in a square of different elevation within 4 squares and line of fire.[Trait] WEB-SLINGERPowers: IncapacitateOnce per turn when Spider-Man is placed during your turn, after resolutions he may make an attack using Incapacitate.[Defense] SPECTACULAR SPIDEY SENSEPowers: Super SensesSuper Senses. When Spider-Man uses it, after resolutions place him up to 3 squares away from his current square. Protected: Outwit.",
+    "Team Abilities Search": "| Team Player | Spider Man |",
+    "Keywords Search": "| Celebrity | Avengers | Reporter | Scientist | Spider Man Family | Fantastic Four |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -9204,12 +9204,12 @@
     "Rarity": "Chase",
     "Point Values": "60",
     "Keywords": "Brute | Maximum Carnage | Monster | Symbiote",
-    "Keywords Search": "| Brute | Maximum Carnage | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Carnage is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] MY BLOOD WANTS BLOOD!Powers: FlurryFlurry, Giant Reach: 2. // When Carnage KOs an opposing character, after resolutions heal him 2 clicks. If that character was 30 points or less, score 10 Victory Points.",
+    "Keywords Search": "| Brute | Maximum Carnage | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Carnage",
@@ -9339,11 +9339,11 @@
     "Rarity": "Chase",
     "Point Values": "60",
     "Keywords": "Animal | Monster | Symbiote | Vehicle",
-    "Keywords Search": "| Animal | Monster | Symbiote | Vehicle |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PILOT: AREN'T WE ALL... VENOM HORSE?When revealing your force, you may choose a single base character on your Sideline that has the Symbiote keyword and turn it to any click. Venom Horse can use the standard attack and damage powers displayed on that character's dial. // When Venom Horse is KO'd, before removing him from the map generate the chosen character from your Sideline on it's last non-KO click. This game that character can't be healed or replaced and is removed from the game without being scored if it would take damage. Protected: Pulse Wave.[Speed] VENOM HORSE IS IN THE ____!Powers: Quake[im:elevated,destroy_blocking]. // When Venom Horse moves, after resolutions he may use Quake as FREE.[Attack] ALL ART IS QUITE USELESSKNOCKBACK. // Characters within 4 squares can't use Perplex or Probability Control.",
+    "Keywords Search": "| Animal | Monster | Symbiote | Vehicle |",
     "alternates": [
       {
         "name": "Venom Horse",
@@ -9478,12 +9478,12 @@
     "Properties": "Unique",
     "Point Values": "300/200/100/50",
     "Keywords": "Animal | Past | Symbiote",
-    "Keywords Search": "| Animal | Past | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] CHOMPWhen Venom T-Rex KOs an opposing character of less points than himself, after resolutions heal him 1 click and score 10 Victory Points.[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom T-Rex is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Speed] RECKLESS PURSUITPowers: ChargeCharge, but don't halve speed.[Attack] DEVOURPowers: Blades Claws FangsBlades/Claws/Fangs. When Venom T-Rex uses it, you may instead roll 2d6 and choose one to be the result. If you do, after resolutions heal Venom T-Rex a number of clicks equal to half the result not chosen. Protected: Outwit.",
+    "Keywords Search": "| Animal | Past | Symbiote |",
     "alternates": [
       {
         "name": "Venom T-Rex",
@@ -9871,14 +9871,14 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Guardians | Spider Man",
-    "Team Abilities Search": "| Guardians | Spider Man |",
     "Keywords": "Cosmic | Spaceknight | Spider Man Family | Guardians Of The Galaxy | Thunderbolts | Symbiote",
-    "Keywords Search": "| Cosmic | Spaceknight | Spider Man Family | Guardians Of The Galaxy | Thunderbolts | Symbiote |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] VOICE OF THE COSMOSPOWER: If no characters have been placed this turn, choose an opposing character that damaged a friendly character since your last turn, place Venom, Space Knight such that he can make an attack targeting the chosen character, then do so. // UNIQUE MODIFIER - If three or more friendly characters have the Guardians of the Galaxy keyword, they modify their attack +1.[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom, Space Knight is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.",
+    "Team Abilities Search": "| Guardians | Spider Man |",
+    "Keywords Search": "| Cosmic | Spaceknight | Spider Man Family | Guardians Of The Galaxy | Thunderbolts | Symbiote |",
     "alternates": [
       {
         "name": "Venom, Space Knight",
@@ -9970,6 +9970,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "712917e3-fdab-418d-983a-81d4c12b4788.Click6.png"
+      },
+      {
+        "name": "Venom, Space Knight",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "712917e3-fdab-418d-983a-81d4c12b4788.KO.png"
       }
     ],
     "Set": "Venom",
@@ -9988,11 +9998,11 @@
     "Properties": "Unique",
     "Point Values": "50",
     "Keywords": "Reporter | Spider Man Family | Monster | Symbiote",
-    "Keywords Search": "| Reporter | Spider Man Family | Monster | Symbiote |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] FORCED CUREWhen Anti-Venom attacks a single character, that character can't use powers until your next turn.",
+    "Keywords Search": "| Reporter | Spider Man Family | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Anti-Venom",
@@ -10095,6 +10105,16 @@
         "Damage": "2",
         "Damage Ability": "Special - FORCED CURE",
         "image": "2dec620a-eab3-49d3-8056-6c28d9b5afa3.Click7.png"
+      },
+      {
+        "name": "Anti-Venom",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2dec620a-eab3-49d3-8056-6c28d9b5afa3.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10112,13 +10132,13 @@
     "Rarity": "Rare",
     "Point Values": "45",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Maximum Carnage | Sinister Syndicate | Monster | Mystical",
-    "Keywords Search": "| Maximum Carnage | Sinister Syndicate | Monster | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MAXIMUM CARNAGEOnce per turn when Demogoblin hits, after resolutions deal 1 penetrating damage to up to 2 opposing characters that weren't hit but are adjacent to a hit character.[Trait] FLAMING GLIDERPowers: Energy Shield DeflectionEnergy Shield/Deflection.[Damage] RIGHTEOUS WRATHPowers: Ranged Combat ExpertRanged Combat Expert. // When Demogoblin hits, after resolutions give each hit character an action token. If a hit character can't be given an action token, that character can't use defense powers until your next turn.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Maximum Carnage | Sinister Syndicate | Monster | Mystical |",
     "alternates": [
       {
         "name": "Demogoblin",
@@ -10206,6 +10226,16 @@
         "Damage": "1",
         "Damage Ability": "Battle Fury",
         "image": "a359be5a-42ab-4f88-9250-c19231d7bf93.Click6.png"
+      },
+      {
+        "name": "Demogoblin",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a359be5a-42ab-4f88-9250-c19231d7bf93.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10223,12 +10253,12 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Keywords": "Maximum Carnage | Scientist | Monster",
-    "Keywords Search": "| Maximum Carnage | Scientist | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] MAXIMUM CARNAGEOnce per turn when Carrion hits, after resolutions deal 1 penetrating damage to up to 2 opposing characters that weren't hit but are adjacent to a hit character.[Attack] TOUCH OF DECAYPowers: Poison, Steal EnergyPoison, Steal Energy.[Defense] INTANGIBLE CORPSEPowers: Super SensesSuper Senses, but succeeds on a [d:4]-[d:6]. When Carrior uses it, after resolutions you may move him up to the d6 result.[Damage] SPREADING ROTWhen Carrior attacks a single target, modify his attack by +X, where X is half the target's click number (rounded up).",
+    "Keywords Search": "| Maximum Carnage | Scientist | Monster |",
     "alternates": [
       {
         "name": "Carrion",
@@ -10356,6 +10386,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "21354e47-a2e2-4fdc-a318-3e4848b1c7d6.Click9.png"
+      },
+      {
+        "name": "Carrion",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "21354e47-a2e2-4fdc-a318-3e4848b1c7d6.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10373,11 +10413,11 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Keywords": "Maximum Carnage | Monster",
-    "Keywords Search": "| Maximum Carnage | Monster |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MAXIMUM CARNAGEOnce per turn when Shriek hits, after resolutions deal 1 penetrating damage to up to 2 opposing characters that weren't hit but are adjacent to a hit character.[Trait] PSYCHICALLY TRANSMITTED RAGEAt the beginning of your turn, choose one for Shriek to use until your next turn: *Opposing characters within range can use Battle Fury. *Other friendly characters within range can use Battle Fury.[Attack] ESCAPING THE ENDLESS ABYSS[it:hindering]. // When Shriek deals damage to a character that can use Steal Energy, increase the damage dealt by +1.",
+    "Keywords Search": "| Maximum Carnage | Monster |",
     "alternates": [
       {
         "name": "Shriek",
@@ -10449,6 +10489,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "3bfe5ed1-9f2a-4917-b032-83cd29513955.Click5.png"
+      },
+      {
+        "name": "Shriek",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3bfe5ed1-9f2a-4917-b032-83cd29513955.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10466,11 +10516,11 @@
     "Rarity": "Super Rare",
     "Point Values": "60/30",
     "Keywords": "Maximum Carnage | Monster",
-    "Keywords Search": "| Maximum Carnage | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MAXIMUM CARNAGEOnce per turn when Doppleganger hits, after resolutions deal 1 penetrating damage to up to 2 opposing characters that weren't hit but are adjacent to a hit character.[Trait] MOTHER...Once per turn when another friendly character with the Maximum Carnage keyword is damaged, after resolutions move Doppelganger up to his speed value and remove an action token from him.[Speed] RELENTLESS PURSUIT AND RAZOR WEBSPowers: Charge, Flurry, PlasticityCharge, Flurry, Plasticity. // When an opposing character fails to break away from Doppelganger, or is adjacent to Doppelganger at the end of their turn, after resolutions deal them 1 penetrating damage.",
+    "Keywords Search": "| Maximum Carnage | Monster |",
     "alternates": [
       {
         "name": "Doppelganger",
@@ -10563,6 +10613,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "341c7c85-2e1a-4a1b-bb88-893194c7242f.Click6.png"
+      },
+      {
+        "name": "Doppelganger",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "341c7c85-2e1a-4a1b-bb88-893194c7242f.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10580,14 +10640,14 @@
     "Rarity": "Super Rare",
     "Point Values": "65",
     "Team Abilities": "Defenders | X Men",
-    "Team Abilities Search": "| Defenders | X Men |",
     "Keywords": "Champions | Monster | X Factor | X Men | Defenders | Symbiote",
-    "Keywords Search": "| Champions | Monster | X Factor | X Men | Defenders | Symbiote |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] SYMBIOTIC PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom Iceman is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Trait] HIDDEN IN THE ICEPowers: BarrierBarrier. Barrier as FREE but only to generate 2 markers. // When Venom Iceman uses Barrier, any number of the generated markers may instead be Slime water terrain markers. This game those markers have \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"[Attack] ICE TENDRILSPowers: Energy ExplosionEnergy Explosion. // When Venom Iceman hits, give each hit character an action token.",
+    "Team Abilities Search": "| Defenders | X Men |",
+    "Keywords Search": "| Champions | Monster | X Factor | X Men | Defenders | Symbiote |",
     "alternates": [
       {
         "name": "Venom Iceman",
@@ -10676,6 +10736,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "a3c4c47c-11c5-4904-87ec-154aa612faa9.Click6.png"
+      },
+      {
+        "name": "Venom Iceman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a3c4c47c-11c5-4904-87ec-154aa612faa9.KO.png"
       }
     ],
     "Set": "Venom",
@@ -10693,14 +10763,14 @@
     "Rarity": "Super Rare",
     "Point Values": "95",
     "Team Abilities": "Guardians",
-    "Team Abilities Search": "| Guardians |",
     "Keywords": "Cosmic | Avengers | Kree | Monster | Guardians Of The Galaxy | Symbiote",
-    "Keywords Search": "| Cosmic | Avengers | Kree | Monster | Guardians Of The Galaxy | Symbiote |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Venom Captain Marvel is within 4 squares and line of fire of an opposing character, she can't be targeted by range attacks.[Trait] HIGHER, FASTER, HUNGRIERPowers: Steal EnergySteal Energy, but for close and range attacks.[Attack] SYMBIOTE AGRESSIONPowers: Energy Explosion, PoisonEnergy Explosion, Poison. // Venom Captain Marvel deals penetrating damage.",
+    "Team Abilities Search": "| Guardians |",
+    "Keywords Search": "| Cosmic | Avengers | Kree | Monster | Guardians Of The Galaxy | Symbiote |",
     "alternates": [
       {
         "name": "Venom Captain Marvel",
@@ -10805,6 +10875,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "90bbba9f-d6fd-4f04-900e-8ae0a0c3a38d.Click7.png"
+      },
+      {
+        "name": "Venom Captain Marvel",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "90bbba9f-d6fd-4f04-900e-8ae0a0c3a38d.KO.png"
       }
     ],
     "Set": "Venom",

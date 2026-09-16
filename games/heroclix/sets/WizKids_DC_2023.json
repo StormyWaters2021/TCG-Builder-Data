@@ -9,13 +9,13 @@
     "Rarity": "Chase",
     "Point Values": "75",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Atlantis | Batman Family | Gotham City | Martial Artist | Detective",
-    "Keywords Search": "| Atlantis | Batman Family | Gotham City | Martial Artist | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WAS IT ALL JUST A DREAM?When Batman would be KO'd, you may instead replace him with a character named Batman. Turn that character to its last non-KO click then roll a d6 and heal it equal to half the result. That character can't be otherwise healed this game.[Trait] LEARN TO ADAPT TO MY NEW LIFEFriendly characters that share a keyword with Batman have [cs:dolphin]. // FREE: Generate a water terrain marker in a square within range and line of fire.[Attack] KEEPING THE TREASURE SAFEPOWER: Once per game, unequip an equipment from a character within range and line of fire, then equip it to Batman.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Atlantis | Batman Family | Gotham City | Martial Artist | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -149,13 +149,13 @@
     "Rarity": "Chase",
     "Point Values": "80/60/30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Celebrity | Cosmic | Police",
-    "Keywords Search": "| Celebrity | Cosmic | Police |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] INVISIBILITY AND INTANGIBILITYPowers: Stealth, Super Senses, Super StrengthStealth, Super Senses, Super Strength.[Trait] JAN, JACE, AND BLIPPowers: PerplexPerplex. If Space Ghost has no action tokens, he can use it twice a turn. When Space Ghost uses Perplex and targets a friendly character, that character has SAFEGUARD: Opposing Probability Control until your next turn.[Attack] POWER BANDSPowers: Energy Explosion, Penetrating Psychic Blast, Energy Shield Deflection, Invulnerability, Force Blast, TelekinesisFREE: Choose one for Space Ghost to use until he chooses again: *Energy Explosion, Penetrating/Psychic Blast *Energy Shield/Deflection, Invulnerability *Force Blast as FREE, Telekinesis",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Celebrity | Cosmic | Police |",
     "alternates": [
       {
         "name": "Space Ghost",
@@ -291,13 +291,13 @@
     "Rarity": "Chase",
     "Point Values": "100",
     "Team Abilities": "Cosmic Energy | Superman Ally",
-    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
     "Keywords": "Cosmic | Justice League | Kryptonian | Metropolis | Past | Reporter",
-    "Keywords Search": "| Cosmic | Justice League | Kryptonian | Metropolis | Past | Reporter |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] CARRYING A CAR WON'T SLOW MEPowers: Hypersonic SpeedHypersonic Speed. When Superman uses it, instead of making an attack he may be given a CLOSE/RANGE Terrain Action as FREE.[Attack] THE SECRET OF SUPERMAN'S NEW POWER!At the beginning of the game and whenever this click is revealed, generate a Superman Proxy bystander [MAX 1]. // Superman can't be targeted while Superman Proxy is on the map. // When the Superman Proxy bystander is KO'd, deal Superman 1 unavoidable damage. Protected: Pulse Wave.[Defense] POWERED BY YOUR YELLOW SUNPowers: Impervious, RegenerationImpervious, Regeneration as FREE.",
+    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
+    "Keywords Search": "| Cosmic | Justice League | Kryptonian | Metropolis | Past | Reporter |",
     "alternates": [
       {
         "name": "Superman",
@@ -466,13 +466,13 @@
     "Rarity": "Chase",
     "Point Values": "150/90",
     "Team Abilities": "Wonder Woman Ally",
-    "Team Abilities Search": "| Wonder Woman Ally |",
     "Keywords": "Justice League | Past | Amazon | Warrior | Deity",
-    "Keywords Search": "| Justice League | Past | Amazon | Warrior | Deity |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE'RE ALL AMAZONS. THAT MEANS WE FIGHT TOGETHERWhen another friendly character with the Amazon keyword takes damage from an attack, after resolutions, you may place Wonder Woman adjacent to that character.[Trait] HEPHAESTUS'S ARMORYDuring force construction, up to three friendly characters with the Amazon keyword may be assigned equipment without paying the equipment's cost.[Speed] INTO THE FRAYPowers: Charge, SidestepCharge, Sidestep.[Damage] LASSO OF TRUTHPowers: EmpowerEmpower. // FREE: Choose an opposing character within 4 squares and line of fire. That character can't use damage powers until your next turn.",
+    "Team Abilities Search": "| Wonder Woman Ally |",
+    "Keywords Search": "| Justice League | Past | Amazon | Warrior | Deity |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -649,13 +649,13 @@
     "Rarity": "Chase",
     "Point Values": "75/50",
     "Team Abilities": "Wonder Woman Ally",
-    "Team Abilities Search": "| Wonder Woman Ally |",
     "Keywords": "Justice League | Ruler | Amazon | Warrior | Deity",
-    "Keywords Search": "| Justice League | Ruler | Amazon | Warrior | Deity |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE'RE ALL AMAZONS. THAT MEANS WE FIGHT TOGETHERWhen another friendly character with the Amazon keyword takes damage from an attack, after resolutions, you may place Wonder Woman adjacent to that character.[Speed] THE MIGHT OF A WARRIORPowers: Charge, FlurryCharge, Flurry. When Wonder Woman uses Flurry, she may instead make 3 attacks, but can't attack the same character more than twice (that action).[Attack] GAIA, GRANT ME YOUR STRENGTHPowers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy.[Damage] QUEEN OF THE AMAZONSPowers: LeadershipLeadership. When Wonder Woman uses it and succeeds, after resolutions you may remove an action token from all friendly characters with the Amazon keyword.",
+    "Team Abilities Search": "| Wonder Woman Ally |",
+    "Keywords Search": "| Justice League | Ruler | Amazon | Warrior | Deity |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -805,13 +805,13 @@
     "Rarity": "Chase",
     "Point Values": "75/50",
     "Team Abilities": "Wonder Woman Ally",
-    "Team Abilities Search": "| Wonder Woman Ally |",
     "Keywords": "Future | Justice League | Amazon | Warrior | Deity",
-    "Keywords Search": "| Future | Justice League | Amazon | Warrior | Deity |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE'RE ALL AMAZONS. THAT MEANS WE FIGHT TOGETHERWhen another friendly character with the Amazon keyword takes damage from an attack, after resolutions, you may place Wonder Woman adjacent to that character.[Speed] JERRY!POWER: Move. After resolutions, make a close attack targeting all opposing characters she moved through, regardless of adjacency. Instead of normal damage, deal each hit character 3 damage.[Attack] GOLDEN BOLASPowers: IncapacitateGiant Reach: 4. Incapacitate, but still deal normal damage. // Once per turn when Wonder Woman hits, after resolutions you may place her adjacent to a hit character and make a close attack.",
+    "Team Abilities Search": "| Wonder Woman Ally |",
+    "Keywords Search": "| Future | Justice League | Amazon | Warrior | Deity |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -960,13 +960,13 @@
     "Properties": "Unique",
     "Point Values": "75",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Monster",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] COUNTERFEIT BILLSPowers: Outwit, Perplex, Probability ControlOutwit, Perplex, Probability Control. When The Joker uses any of them, roll a d6. 1-2: The use of that power has no effect and The Joker can't use this trait until your next turn.[Trait] HAUNTED HOUSE TRAPSFREE: Choose a non-debris terrain marker. Place it up to 1 square away from its current square. // The Joker may take this FREE action up to three times a turn.[Damage] SPOOKY SOUNDS ON RECORDPowers: Shape ChangeShape Change. // When The Joker uses Force Blast, Outwit, Perplex, Poison, or Probability Control, he may do so as if he occupied any square with a terrain marker within 6 squares.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Monster |",
     "alternates": [
       {
         "name": "The Joker",
@@ -1071,13 +1071,13 @@
     "Properties": "Generic",
     "Point Values": "35",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Cosmic | Secret Society Of Super Villains",
-    "Keywords Search": "| Animal | Cosmic | Secret Society Of Super Villains |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] ALIEN PARASITEPowers: Mind ControlMind Control. When Starrophyte uses it and hits, until your next turn hit characters can't target Starrophyte.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Cosmic | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "Starrophyte",
@@ -1166,13 +1166,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Brute | Future | Gotham City Underworld | Robot | Royal Flush Gang",
-    "Keywords Search": "| Brute | Future | Gotham City Underworld | Robot | Royal Flush Gang |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] ROYAL FLUSHWhen Ace is KO'd, before placing it in your KO area, turn its dial to any KO click.[Trait] THE ARISTOCRATS OF CRIME: ACEPowers: ImperviousImpervious. When Ace uses it, increase the result by +1 for each [icon:spade] displayed on characters in your KO area. Protected: Outwit.[Defense] ROBOTIC STRONGMANPowers: RegenerationRegeneration. If Ace has no action tokens, he may use it as FREE.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Brute | Future | Gotham City Underworld | Robot | Royal Flush Gang |",
     "alternates": [
       {
         "name": "Ace",
@@ -1334,13 +1334,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Keywords": "Batman Family | Future | Gotham City Underworld | Royal Flush Gang",
-    "Keywords Search": "| Batman Family | Future | Gotham City Underworld | Royal Flush Gang |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ROYAL FLUSHWhen Ten is KO'd, before placing her in your KO area, turn her dial to any KO click.[Trait] THE ARISTOCRATS OF CRIME: TENFREE: Choose an Improved Targeting Ability, plus an additional Improved Targeting ability for each [icon:club] displayed on characters in your KO area. Ten case use the chosen abilities until your next turn.[Damage] SECURITY SPECIALISTPowers: Outwit, Probability ControlOutwit, Probability Control. When Ten uses either she has a minimum range of 6.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
+    "Keywords Search": "| Batman Family | Future | Gotham City Underworld | Royal Flush Gang |",
     "alternates": [
       {
         "name": "Ten",
@@ -1467,13 +1467,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Future | Gotham City Underworld | Martial Artist | Royal Flush Gang",
-    "Keywords Search": "| Future | Gotham City Underworld | Martial Artist | Royal Flush Gang |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ROYAL FLUSHWhen Jack is KO'd, before placing him in your KO area, turn his dial to any KO click.[Trait] THE ARISTOCRATS OF CRIME: JACKWhen an opposing character attacks Jack and misses him, after resolutions deal them 1 penetrating damage for each [icon:diamond] displayed on characters in your KO area.[Attack] THROWING KNIVESPowers: Blades Claws FangsBlades/Claws/Fangs, but can be used during close or range attacks.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Future | Gotham City Underworld | Martial Artist | Royal Flush Gang |",
     "alternates": [
       {
         "name": "Jack",
@@ -1605,13 +1605,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Future | Gotham City Underworld | Royal Flush Gang | Ruler",
-    "Keywords Search": "| Future | Gotham City Underworld | Royal Flush Gang | Ruler |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ROYAL FLUSHWhen Queen is KO'd, before placing her in your KO area, turn her dial to any KO click.[Trait] THE ARISTOCRATS OF CRIME: QUEENFREE: Roll a d6, increasing the result by +1 for each [icon:heart] displayed on characters in your KO area. [d:6]: Give an action token to an opposing character within range and line of fire.[Attack] ELECTRIC SCEPTERPowers: IncapacitateIncapacitate. // Once per turn for all characters with this power, when a friendly character with the Royal Flush Gang keyword within range hits, after resolutions you may deal each hit character damage equal to its action tokens.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Future | Gotham City Underworld | Royal Flush Gang | Ruler |",
     "alternates": [
       {
         "name": "Queen",
@@ -1758,13 +1758,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Future | Gotham City Underworld | Royal Flush Gang | Ruler",
-    "Keywords Search": "| Future | Gotham City Underworld | Royal Flush Gang | Ruler |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ROYAL FLUSHWhen King is KO'd, before placing him in your KO area, turn his dial to any KO click.[Trait] THE ARISTOCRATS OF CRIME: KINGFREE: Turn any number of characters in your KO area to any other KO click.[Damage] REGAL BEARINGPowers: Leadership, Shape ChangeLeadership, Shape Change. // At the beginning of your turn you may choose a card suit ([icon:spade][icon:heart][icon:club][icon:diamond]). Until you choose again, friendly effects that count the characters displaying the chosen symbol in your KO area also count King (even if he's not in the KO area).",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Future | Gotham City Underworld | Royal Flush Gang | Ruler |",
     "alternates": [
       {
         "name": "King",
@@ -1946,11 +1946,11 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] [icon:club]This counts as a displayed [icon:club] for all effects, even when in your KO area.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "alternates": [
       {
         "name": "Ten",
@@ -2091,13 +2091,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Keywords": "Batman Family | Future | Gotham City Underworld | Royal Flush Gang",
-    "Keywords Search": "| Batman Family | Future | Gotham City Underworld | Royal Flush Gang |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: BATMAN FAMILYIf Ten is part of a listed themed team, at the beginning of the game other friendly characters with [ta:batman_ally] have [ta:batman_enemy] this game.[Trait] TEN OF HEARTSWhen Ten carries one or more characters with the Batman Family keyword, after resolutions heal her and the carried characters 1 click.[Damage] SECURITY SPECIALISTPowers: Outwit, Probability ControlOutwit, Probability Control. When Ten uses either she has a minimum range of 6.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
+    "Keywords Search": "| Batman Family | Future | Gotham City Underworld | Royal Flush Gang |",
     "alternates": [
       {
         "name": "Ten",
@@ -2197,6 +2197,16 @@
         "size": "1x1",
         "Click Number": "9",
         "image": "5022028e-aad7-4fb1-8b51-1decbae56cb4.Click9.png"
+      },
+      {
+        "name": "Ten",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5022028e-aad7-4fb1-8b51-1decbae56cb4.KO.png"
       }
     ],
     "Set": "WizKids DC 2023",
@@ -2214,11 +2224,11 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Keywords": "Gotham City Underworld | Project Cadmus | Royal Flush Gang",
-    "Keywords Search": "| Gotham City Underworld | Project Cadmus | Royal Flush Gang |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WARP REALITYPowers: Shape Change, OutwitShape Change, Outwit. // Other characters (friendly and opposing) can't use Outwit, SAFEGUARD: Outwit, or Protected: Outwit.[Trait] EMPOWERING HER OWN GANGWhen establishing themed teams, friendly characters with the Arkham Asylum, Gotham City Underworld, or Suicide Squad keywords gain the Royal Flush Gang keyword.[Speed] INDUCE INSANITYPowers: Mind ControlMind Control. When Ace uses it modify her attack +2 and, after resolutions, hit characters modify attack -2 until your next turn.",
+    "Keywords Search": "| Gotham City Underworld | Project Cadmus | Royal Flush Gang |",
     "alternates": [
       {
         "name": "Ace",
@@ -2293,6 +2303,16 @@
         "Defense Ability": "Super Senses",
         "Damage": "1",
         "image": "da94d676-6c1e-4358-abfa-9b81e10c071a.Click5.png"
+      },
+      {
+        "name": "Ace",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "da94d676-6c1e-4358-abfa-9b81e10c071a.KO.png"
       }
     ],
     "Set": "WizKids DC 2023",

@@ -9468,6 +9468,16 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "image": "49e31909-7e2d-4386-9209-bb22de576ca6.Click5.png"
+      },
+      {
+        "name": "Piledriver",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "49e31909-7e2d-4386-9209-bb22de576ca6.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -9595,6 +9605,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "04da5855-b311-446a-8671-11ab9a20f526.Click8.png"
+      },
+      {
+        "name": "Fandral",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "04da5855-b311-446a-8671-11ab9a20f526.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -9757,6 +9777,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "3f58d853-b532-455d-9a4b-7ba6e83ecf6e.Click10.png"
+      },
+      {
+        "name": "Beta Ray Bill",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3f58d853-b532-455d-9a4b-7ba6e83ecf6e.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -9846,6 +9876,16 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "image": "a181f3e8-821d-41d4-9f5b-fda2604fd14d.Click5.png"
+      },
+      {
+        "name": "Bulldozer",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a181f3e8-821d-41d4-9f5b-fda2604fd14d.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -9972,6 +10012,16 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "image": "8d271663-f60e-4533-ae8f-f5d577766180.Click8.png"
+      },
+      {
+        "name": "Hogun",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8d271663-f60e-4533-ae8f-f5d577766180.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -10130,6 +10180,16 @@
         "Damage": "5",
         "Damage Ability": "Special - NO MORE RUNNING, BROTHER",
         "image": "5b46019d-d441-41c5-8fa5-e708dc81dfc8.Click10.png"
+      },
+      {
+        "name": "Thor and Loki",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5b46019d-d441-41c5-8fa5-e708dc81dfc8.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -10339,6 +10399,16 @@
         "Defense Ability": "Toughness",
         "Damage": "4",
         "image": "05f5c903-b6be-49b7-b0cb-efbd0c9aae5a.Click9.png"
+      },
+      {
+        "name": "Volstagg",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "05f5c903-b6be-49b7-b0cb-efbd0c9aae5a.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -10451,6 +10521,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "f37624fd-3703-41d0-aa83-8b525c730c38.Click6.png"
+      },
+      {
+        "name": "Thunderball",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f37624fd-3703-41d0-aa83-8b525c730c38.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -10725,6 +10805,16 @@
         "Damage": "4",
         "Damage Ability": "Enhancement",
         "image": "f2549b04-e392-4fea-b204-3bcd2d0474c8.Click17.png"
+      },
+      {
+        "name": "Thor's Mighty Chariot",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f2549b04-e392-4fea-b204-3bcd2d0474c8.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -10830,6 +10920,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "1bdc7da4-5a31-4fd7-aade-f09e9f082c0a.Click6.png"
+      },
+      {
+        "name": "Valkyrie",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1bdc7da4-5a31-4fd7-aade-f09e9f082c0a.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -11153,6 +11253,16 @@
         "Damage": "3",
         "Damage Ability": "Special - THE SWORD TWILIGHT",
         "image": "7e45bd8f-c46b-48a7-9c31-b1aa9f2083d0.Click20.png"
+      },
+      {
+        "name": "Surtur",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7e45bd8f-c46b-48a7-9c31-b1aa9f2083d0.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",
@@ -11477,6 +11587,16 @@
         "Defense Ability": "Special - KING OF THE ICE GIANTS",
         "Damage": "4",
         "image": "7f6f0f15-2c39-44d3-a3a0-6ae5846c12e0.Click21.png"
+      },
+      {
+        "name": "Ymir",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7f6f0f15-2c39-44d3-a3a0-6ae5846c12e0.KO.png"
       }
     ],
     "Set": "Avengers: War of the Realms",

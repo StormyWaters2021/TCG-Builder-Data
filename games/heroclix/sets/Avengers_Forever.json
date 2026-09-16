@@ -302,6 +302,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "c1a00c53-a334-42c1-a689-6e913223710d.Click9.png"
+      },
+      {
+        "name": "Captain America",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c1a00c53-a334-42c1-a689-6e913223710d.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -924,6 +934,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "7953597f-e703-4d15-b625-cd28d8c9d60a.Click6.png"
+      },
+      {
+        "name": "Falcon",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7953597f-e703-4d15-b625-cd28d8c9d60a.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -1324,6 +1344,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "09d5a364-e301-4cb1-98b0-97dfe974b49f.Click5.png"
+      },
+      {
+        "name": "Patriot",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "09d5a364-e301-4cb1-98b0-97dfe974b49f.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -1783,6 +1813,16 @@
         "Defense Ability": "Super Senses",
         "Damage": "2",
         "image": "ac6311d0-8702-497d-beeb-9d7cb092fd5c.Click8.png"
+      },
+      {
+        "name": "Black Panther",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ac6311d0-8702-497d-beeb-9d7cb092fd5c.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -1951,6 +1991,16 @@
         "Damage": "2",
         "Damage Ability": "Support",
         "image": "3a7b9637-b4a4-4ad8-815c-4626cc4fbde1.Click4.png"
+      },
+      {
+        "name": "Wong",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3a7b9637-b4a4-4ad8-815c-4626cc4fbde1.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -2409,6 +2459,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "7a8693ee-7629-4123-a3cf-b8b2f32fffd4.Click7.png"
+      },
+      {
+        "name": "Wonder Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7a8693ee-7629-4123-a3cf-b8b2f32fffd4.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -2631,6 +2691,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "5eebbc48-d89b-4452-99e0-23ee709a5842.Click6.png"
+      },
+      {
+        "name": "Red Guardian",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5eebbc48-d89b-4452-99e0-23ee709a5842.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -2803,6 +2873,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "c2daf9bf-567b-4a21-8a00-ab3827e4640a.Click4.png"
+      },
+      {
+        "name": "Maria Hill",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c2daf9bf-567b-4a21-8a00-ab3827e4640a.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -3163,6 +3243,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "bbd12aa0-ac43-4b0c-8a40-51b8b92cadc6.Click7.png"
+      },
+      {
+        "name": "Bucky",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "bbd12aa0-ac43-4b0c-8a40-51b8b92cadc6.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -3988,6 +4078,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "d85cdacc-8df7-43fe-b7c8-ca55fd8d6922.Click6.png"
+      },
+      {
+        "name": "Nick Fury",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d85cdacc-8df7-43fe-b7c8-ca55fd8d6922.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -5628,6 +5728,16 @@
         "Damage": "1",
         "Damage Ability": "Close Combat Expert",
         "image": "c14b065a-87a7-4c8a-bd54-6a2989b37885.Click6.png"
+      },
+      {
+        "name": "Mockingbird",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c14b065a-87a7-4c8a-bd54-6a2989b37885.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -6095,6 +6205,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "09038265-f90a-4e7a-8921-fe2b68974aa6.Click9.png"
+      },
+      {
+        "name": "Star-Lord",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "09038265-f90a-4e7a-8921-fe2b68974aa6.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -10872,6 +10992,16 @@
         "Damage": "1",
         "Damage Ability": "Battle Fury",
         "image": "768f744e-b125-4347-b81e-b9537d7a940e.Click8.png"
+      },
+      {
+        "name": "Black Knight",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "768f744e-b125-4347-b81e-b9537d7a940e.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -10972,6 +11102,16 @@
         "Defense": "13",
         "Damage": "2",
         "image": "3016c6ac-e1f4-4ae1-a55d-e2d00a6405b8.Click6.png"
+      },
+      {
+        "name": "Hawkeye",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3016c6ac-e1f4-4ae1-a55d-e2d00a6405b8.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11095,6 +11235,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "3162c46a-3e55-4808-ade3-e24b232f7c9a.Click7.png"
+      },
+      {
+        "name": "Black Panther",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3162c46a-3e55-4808-ade3-e24b232f7c9a.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11213,6 +11363,16 @@
         "Damage": "1",
         "Damage Ability": "Exploit Weakness",
         "image": "f9a45b95-22f5-4cd2-a55b-e3c94079346f.Click7.png"
+      },
+      {
+        "name": "Tigra",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f9a45b95-22f5-4cd2-a55b-e3c94079346f.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11291,6 +11451,16 @@
         "Damage": "1",
         "Damage Ability": "Enhancement",
         "image": "28ac5a5a-49cd-44af-b9a6-1e1c7ad1362a.Click4.png"
+      },
+      {
+        "name": "Jarvis",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "28ac5a5a-49cd-44af-b9a6-1e1c7ad1362a.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11390,6 +11560,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "2296ba1a-a106-4db7-9cb7-fe9f6645a016.Click5.png"
+      },
+      {
+        "name": "Agent Coulson",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2296ba1a-a106-4db7-9cb7-fe9f6645a016.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11489,6 +11669,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "7da7a07c-59e6-4039-b4f6-32ea06162fae.Click5.png"
+      },
+      {
+        "name": "Cosmo",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7da7a07c-59e6-4039-b4f6-32ea06162fae.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11594,6 +11784,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "0fe46fd2-5703-4dd4-9fc2-4336d94a4f0a.Click6.png"
+      },
+      {
+        "name": "Captain America",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0fe46fd2-5703-4dd4-9fc2-4336d94a4f0a.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11709,6 +11909,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "5e5a2197-d544-47dc-88b1-76e694188de1.Click7.png"
+      },
+      {
+        "name": "Darkstar",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5e5a2197-d544-47dc-88b1-76e694188de1.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11847,6 +12057,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "3df0e25b-57d3-4c34-835e-8d6c3780822f.Click8.png"
+      },
+      {
+        "name": "Ursa Major",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3df0e25b-57d3-4c34-835e-8d6c3780822f.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -11999,6 +12219,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "5a36ef10-2d2a-4ad2-b67d-c0afe888c754.Click9.png"
+      },
+      {
+        "name": "Kang the Conqueror",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5a36ef10-2d2a-4ad2-b67d-c0afe888c754.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -12136,6 +12366,16 @@
         "Damage": "2",
         "Damage Ability": "Probability Control",
         "image": "e29814a1-f7da-4011-8e24-289ec4aaffb4.Click8.png"
+      },
+      {
+        "name": "M.O.D.O.K.",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e29814a1-f7da-4011-8e24-289ec4aaffb4.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -12298,6 +12538,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "770515ac-b558-4616-a6f0-e30551c18774.Click5.png"
+      },
+      {
+        "name": "Rick Jones",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "770515ac-b558-4616-a6f0-e30551c18774.KO.png"
       }
     ],
     "Set": "Avengers Forever",
@@ -12567,6 +12817,16 @@
         "Defense Ability": "Toughness",
         "Damage": "4",
         "image": "11046679-8841-420a-83ff-20b70638e8fd.Click10.png"
+      },
+      {
+        "name": "Thor",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "11046679-8841-420a-83ff-20b70638e8fd.KO.png"
       }
     ],
     "Set": "Avengers Forever",

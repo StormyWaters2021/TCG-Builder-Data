@@ -9929,6 +9929,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "3d90cb11-ddfd-4e4a-b093-e6f28b463600.Click7.png"
+      },
+      {
+        "name": "Deadpool",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3d90cb11-ddfd-4e4a-b093-e6f28b463600.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10020,6 +10030,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "1",
         "image": "89eb9777-93ad-4257-a516-d90e40e17392.Click5.png"
+      },
+      {
+        "name": "Egghead",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "89eb9777-93ad-4257-a516-d90e40e17392.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10111,6 +10131,16 @@
         "Defense Ability": "Invulnerability",
         "Damage": "4",
         "image": "29e15ed9-483c-4836-9a8f-e12985f0afef.Click5.png"
+      },
+      {
+        "name": "Radioactive Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "29e15ed9-483c-4836-9a8f-e12985f0afef.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10245,6 +10275,16 @@
         "Defense Ability": "Toughness",
         "Damage": "3",
         "image": "c589bea4-bb98-43c5-b171-3236ba4c3cdb.Click8.png"
+      },
+      {
+        "name": "Rhino",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c589bea4-bb98-43c5-b171-3236ba4c3cdb.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10309,6 +10349,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "222393bb-bf1b-47ed-b878-c6434ce5a23f.Click3.png"
+      },
+      {
+        "name": "Jolt",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "222393bb-bf1b-47ed-b878-c6434ce5a23f.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10420,6 +10470,16 @@
         "Damage": "2",
         "Damage Ability": "Support",
         "image": "9aea3904-945c-4360-a312-10f8fd1261e1.Click6.png"
+      },
+      {
+        "name": "Crimson Cowl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9aea3904-945c-4360-a312-10f8fd1261e1.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10518,6 +10578,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "590c542d-42b9-4109-88a2-a328f94dc9c1.Click5.png"
+      },
+      {
+        "name": "Beetle",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "590c542d-42b9-4109-88a2-a328f94dc9c1.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10682,6 +10752,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "6ceccd05-2fc4-4f09-b203-572db64a6d0d.Click11.png"
+      },
+      {
+        "name": "Iron Patriot",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6ceccd05-2fc4-4f09-b203-572db64a6d0d.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10780,6 +10860,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "6897874d-dfd9-4dd4-b0b2-ba95273cbe6d.Click5.png"
+      },
+      {
+        "name": "Troll",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6897874d-dfd9-4dd4-b0b2-ba95273cbe6d.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -10958,6 +11048,16 @@
         "Defense Ability": "Special - IONIC MANIPULATION",
         "Damage": "3",
         "image": "fce7a6b3-062c-480c-928a-5a8bbcb7bda1.Click11.png"
+      },
+      {
+        "name": "Count Nefaria",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "fce7a6b3-062c-480c-928a-5a8bbcb7bda1.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -11067,6 +11167,16 @@
         "Defense": "16",
         "Damage": "2",
         "image": "de626bf1-6533-40fe-af9e-c06e49f739a5.Click6.png"
+      },
+      {
+        "name": "Doctor Octopus",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "de626bf1-6533-40fe-af9e-c06e49f739a5.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -11878,6 +11988,16 @@
         "Defense Ability": "Toughness",
         "Damage": "1",
         "image": "c19a39e9-de48-4947-9da2-b7762ee810b5.Click6.png"
+      },
+      {
+        "name": "Crossbones",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c19a39e9-de48-4947-9da2-b7762ee810b5.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -11991,6 +12111,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "8988db40-353d-4b1b-8d8b-14bbb22f64e9.Click6.png"
+      },
+      {
+        "name": "Black Ant",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8988db40-353d-4b1b-8d8b-14bbb22f64e9.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -12116,6 +12246,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "f67e6333-4a8e-41e9-87ba-0df830139ccb.Click7.png"
+      },
+      {
+        "name": "Superia",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f67e6333-4a8e-41e9-87ba-0df830139ccb.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -12213,6 +12353,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "01c31c5f-6e77-43f6-a707-8394995770fa.Click5.png"
+      },
+      {
+        "name": "Citizen V",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "01c31c5f-6e77-43f6-a707-8394995770fa.KO.png"
       }
     ],
     "Set": "Thunderbolts",
@@ -12338,6 +12488,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "ad5acc42-32e1-48fd-a63c-31e972a61bb2.Click7.png"
+      },
+      {
+        "name": "Taskmaster",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ad5acc42-32e1-48fd-a63c-31e972a61bb2.KO.png"
       }
     ],
     "Set": "Thunderbolts",

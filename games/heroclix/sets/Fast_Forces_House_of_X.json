@@ -295,6 +295,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "04d75d76-c90e-4e04-9b3c-68fa42adf4cb.Click4.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "04d75d76-c90e-4e04-9b3c-68fa42adf4cb.KO.png"
       }
     ],
     "Set": "Fast Forces: House of X",
@@ -375,6 +385,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "59de8fa3-ba28-41c0-b29b-26597f43deaf.Click4.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "59de8fa3-ba28-41c0-b29b-26597f43deaf.KO.png"
       }
     ],
     "Set": "Fast Forces: House of X",

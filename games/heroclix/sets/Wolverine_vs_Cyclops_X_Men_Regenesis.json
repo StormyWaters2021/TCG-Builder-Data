@@ -280,6 +280,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "162f62a9-a9d1-4921-b457-ed0eb4de8abb.Click8.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "162f62a9-a9d1-4921-b457-ed0eb4de8abb.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -564,6 +574,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "8f1a5c74-1d0f-49fe-8723-b606dba2c5f3.Click8.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8f1a5c74-1d0f-49fe-8723-b606dba2c5f3.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -798,6 +818,16 @@
         "Damage": "2",
         "Damage Ability": "Enhancement",
         "image": "8fe0bae4-2d94-41e4-ac41-e52cebb8608c.Click6.png"
+      },
+      {
+        "name": "Kitty Pryde",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8fe0bae4-2d94-41e4-ac41-e52cebb8608c.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -1058,6 +1088,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "6bba5427-d49b-4321-b0f4-85926f0e6e71.Click6.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6bba5427-d49b-4321-b0f4-85926f0e6e71.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -1314,6 +1354,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "24e749fb-d731-4e72-b38d-cde4bb3bb3f6.Click7.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "24e749fb-d731-4e72-b38d-cde4bb3bb3f6.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -1596,6 +1646,16 @@
         "Damage": "1",
         "Damage Ability": "Close Combat Expert",
         "image": "1573b03c-8b0a-4ba4-b483-5a95fe452284.Click8.png"
+      },
+      {
+        "name": "Emma Frost",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1573b03c-8b0a-4ba4-b483-5a95fe452284.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -1830,6 +1890,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "08d8632c-70be-4f2c-a907-6e3dc20bc58f.Click6.png"
+      },
+      {
+        "name": "Gambit",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "08d8632c-70be-4f2c-a907-6e3dc20bc58f.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -2088,6 +2158,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "a911bf65-ef84-4a2d-b7ac-2afbdaa04047.Click7.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a911bf65-ef84-4a2d-b7ac-2afbdaa04047.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -2328,6 +2408,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "cb3a0e10-d6e6-4222-a144-cc8d746f00ce.Click7.png"
+      },
+      {
+        "name": "Rachel Summers",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cb3a0e10-d6e6-4222-a144-cc8d746f00ce.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -2574,6 +2664,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "d7385be0-9e84-4530-8878-39b68be0f3a7.Click7.png"
+      },
+      {
+        "name": "Namor",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d7385be0-9e84-4530-8878-39b68be0f3a7.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -2822,6 +2922,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "f5c42a2e-635c-410b-afbe-74ced4c60b9e.Click7.png"
+      },
+      {
+        "name": "Rogue",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f5c42a2e-635c-410b-afbe-74ced4c60b9e.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -3073,6 +3183,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "d99d840c-ef9e-415e-9acc-c6fe21f28c4e.Click7.png"
+      },
+      {
+        "name": "Colossus",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d99d840c-ef9e-415e-9acc-c6fe21f28c4e.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -3291,6 +3411,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "d21a6672-2907-4656-916b-da2997823842.Click6.png"
+      },
+      {
+        "name": "Iceman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d21a6672-2907-4656-916b-da2997823842.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -3517,6 +3647,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "9d26304e-db3a-464a-922b-658c575aea64.Click6.png"
+      },
+      {
+        "name": "Hope Summers",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9d26304e-db3a-464a-922b-658c575aea64.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -3735,6 +3875,16 @@
         "Damage": "2",
         "Damage Ability": "Support",
         "image": "67c8e809-c3a1-4f96-8f04-71b29b3c71b0.Click6.png"
+      },
+      {
+        "name": "Angel",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "67c8e809-c3a1-4f96-8f04-71b29b3c71b0.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -3967,6 +4117,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "bbbd7df1-daa5-4724-8698-aa3330279b19.Click6.png"
+      },
+      {
+        "name": "Danger",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "bbbd7df1-daa5-4724-8698-aa3330279b19.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -4187,6 +4347,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "701b2e0e-c29f-451b-ad61-6da0053bdb77.Click6.png"
+      },
+      {
+        "name": "Cannonball",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "701b2e0e-c29f-451b-ad61-6da0053bdb77.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -4417,6 +4587,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "6cae5cb4-0666-4d09-92de-b05536a39081.Click6.png"
+      },
+      {
+        "name": "Magik",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6cae5cb4-0666-4d09-92de-b05536a39081.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -4669,6 +4849,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "c983264f-b3a0-4d67-bea2-015fbd3f280c.Click7.png"
+      },
+      {
+        "name": "Warbird",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c983264f-b3a0-4d67-bea2-015fbd3f280c.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",
@@ -4929,6 +5119,16 @@
         "Damage": "2",
         "Damage Ability": "Empower",
         "image": "c136c00f-db9f-4ac0-bd3d-89d5605e0885.Click7.png"
+      },
+      {
+        "name": "Psylocke",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c136c00f-db9f-4ac0-bd3d-89d5605e0885.KO.png"
       }
     ],
     "Set": "Wolverine vs Cyclops: X-Men Regenesis",

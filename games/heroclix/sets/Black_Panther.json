@@ -9,14 +9,14 @@
     "Rarity": "Common",
     "Point Values": "75/45",
     "Team Abilities": "Team Player | Wakanda",
-    "Team Abilities Search": "| Team Player | Wakanda |",
     "Keywords": "Avengers | Herald | Ruler | Scientist | Warrior | Wakanda",
-    "Keywords Search": "| Avengers | Herald | Ruler | Scientist | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] STORED ENERGYPowers: Super SensesSuper Senses. When Black Panther uses it and succeeds, after resolutions knock back the attacker.",
+    "Team Abilities Search": "| Team Player | Wakanda |",
+    "Keywords Search": "| Avengers | Herald | Ruler | Scientist | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -147,14 +147,14 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Herald | Ruler | Scientist | Warrior | Wakanda",
-    "Keywords Search": "| Herald | Ruler | Scientist | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] KIMOYO BEADSPowers: LeadershipLeadership. When Black Panther uses it and succeeds, friendly characters modify defense +1 until your next turn.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Herald | Ruler | Scientist | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -257,14 +257,14 @@
     "Rarity": "Common",
     "Point Values": "85",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Avengers | Heroes For Hire | Marvel Knights | Politician | Warrior | Defenders | Thunderbolts",
-    "Keywords Search": "| Avengers | Heroes For Hire | Marvel Knights | Politician | Warrior | Defenders | Thunderbolts |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerLuke Cage can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify Luke Cage's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Avengers | Heroes For Hire | Marvel Knights | Politician | Warrior | Defenders | Thunderbolts |",
     "alternates": [
       {
         "name": "Luke Cage",
@@ -394,13 +394,13 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Team Abilities": "Wakanda | X Men",
-    "Team Abilities Search": "| Wakanda | X Men |",
     "Keywords": "Arakko | Ruler | Morlocks | Warrior | X Men | Wakanda",
-    "Keywords Search": "| Arakko | Ruler | Morlocks | Warrior | X Men | Wakanda |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerStorm can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify Storm's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.",
+    "Team Abilities Search": "| Wakanda | X Men |",
+    "Keywords Search": "| Arakko | Ruler | Morlocks | Warrior | X Men | Wakanda |",
     "alternates": [
       {
         "name": "Storm",
@@ -515,13 +515,13 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Champions | Avengers | S.H.I.E.L.D. | Spider Man Family",
-    "Keywords Search": "| Champions | Avengers | S.H.I.E.L.D. | Spider Man Family |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I'M JUST A KID... TRYING TO DO HIS BESTAdjacent friendly characters have [ta:spider_man].[Trait] SECRET IDENTITY: SPIDER-MANWhen Miles Morales would be KO'd, you may instead replace him with a Secret Identity character with a listed name on click #9. This game, when that replacement is KO'd, it instead scores this character's points and an additional 25 points.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Champions | Avengers | S.H.I.E.L.D. | Spider Man Family |",
     "alternates": [
       {
         "name": "Miles Morales",
@@ -606,13 +606,13 @@
     "Rarity": "Common",
     "Point Values": "35",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Celebrity | Champions | Avengers | Illuminati | God Squad | S.H.I.E.L.D. | Scientist",
-    "Keywords Search": "| Animal | Celebrity | Champions | Avengers | Illuminati | God Squad | S.H.I.E.L.D. | Scientist |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GOD SQUADSAFEGUARD: Outwit. // FREE: Choose an opposing character with the Deity keyword within 4 squares and line of fire. That character can't use SAFEGUARD: Outwit until your next turn.[Damage] KIRBY'S A GREAT DISTRACTIONPowers: Outwit, Shape ChangeOutwit, Shape Change. // When Amadeus Cho and Kirby starts the game, generate a Kirby bystander.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Celebrity | Champions | Avengers | Illuminati | God Squad | S.H.I.E.L.D. | Scientist |",
     "alternates": [
       {
         "name": "Amadeus Cho and Kirby",
@@ -729,13 +729,13 @@
     "Properties": "Generic",
     "Point Values": "20",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "A.I.M. | Scientist | Soldier | Spy",
-    "Keywords Search": "| A.I.M. | Scientist | Soldier | Spy |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] GET THEM!Powers: EnhancementEnhancement. // UNIQUE MODIFIER - Adjacent friendly characters modify attack +1 when attacking one or more characters that are equipped or holding terrain markers.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| A.I.M. | Scientist | Soldier | Spy |",
     "alternates": [
       {
         "name": "A.I.M. Agent",
@@ -820,13 +820,13 @@
     "Rarity": "Common",
     "Point Values": "40",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Animal | Ruler | Soldier | Spy | Monster | Wakanda",
-    "Keywords Search": "| Animal | Ruler | Soldier | Spy | Monster | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] DEFENDING WAKANDA FROM EXILEPowers: Stop, Battle FurySTOP. Battle Fury.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Animal | Ruler | Soldier | Spy | Monster | Wakanda |",
     "alternates": [
       {
         "name": "White Wolf",
@@ -957,14 +957,14 @@
     "Rarity": "Common",
     "Point Values": "75/40",
     "Team Abilities": "Masters Of Evil",
-    "Team Abilities Search": "| Masters Of Evil |",
     "Keywords": "A.I.M. | Masters Of Evil | Frightful Four | Scientist",
-    "Keywords Search": "| A.I.M. | Masters Of Evil | Frightful Four | Scientist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] STOLEN RESOURCESPowers: Force BlastForce Blast. // When Klaw hits, after resolutions choose one: *Give a hit character an action token. *Remove any one Vibranium Token from your opponent's Sideline.",
+    "Team Abilities Search": "| Masters Of Evil |",
+    "Keywords Search": "| A.I.M. | Masters Of Evil | Frightful Four | Scientist |",
     "alternates": [
       {
         "name": "Klaw",
@@ -1110,13 +1110,13 @@
     "Rarity": "Common",
     "Point Values": "25",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Politician | S.H.I.E.L.D. | Wakanda",
-    "Keywords Search": "| Politician | S.H.I.E.L.D. | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] S.H.I.E.L.D. LIAISON TO WAKANDAWhen establishing themed teams, friendly characters with the Wakanda keyword gain the S.H.I.E.L.D. keyword. // Friendly characters with the Wakanda keyword have [ta:shield].[Damage] NOPE, I DON'T GET FIREDPowers: PerplexPerplex. // UNIQUE MODIFIER - When Everett K. Ross uses Perplex, if the target has both the Wakanda and Ruler keywords, you may choose to modify damage.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Politician | S.H.I.E.L.D. | Wakanda |",
     "alternates": [
       {
         "name": "Everett K. Ross",
@@ -1198,12 +1198,12 @@
     "Properties": "Generic",
     "Point Values": "30/15",
     "Team Abilities": "Police | Wakanda",
-    "Team Abilities Search": "| Police | Wakanda |",
     "Keywords": "Assassin | Police | Soldier | Wakanda",
-    "Keywords Search": "| Assassin | Police | Soldier | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Police | Wakanda |",
+    "Keywords Search": "| Assassin | Police | Soldier | Wakanda |",
     "alternates": [
       {
         "name": "Hatut Zeraze",
@@ -1288,12 +1288,12 @@
     "Properties": "Generic",
     "Point Values": "30/15",
     "Team Abilities": "Team Player | Wakanda",
-    "Team Abilities Search": "| Team Player | Wakanda |",
     "Keywords": "Warrior | Wakanda",
-    "Keywords Search": "| Warrior | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Team Player | Wakanda |",
+    "Keywords Search": "| Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Dora Milaje",
@@ -1381,14 +1381,14 @@
     "Rarity": "Common",
     "Point Values": "60/30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Armor | Warrior | Wakanda",
-    "Keywords Search": "| Armor | Warrior | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] VIBRANIUM STOCKPILEAt the beginning of the game, add 2 Vibranium tokens to your Sideline.[Defense] INSPIRING THE DORA MILAJEPowers: Defend, WillpowerDefend, Willpower. // FREE: Remove any one Vibranium token from your Sideline. If you do, remove an action token from all friendly characters named Dora Milaje within range.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Armor | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Ayo",
@@ -1492,13 +1492,13 @@
     "Properties": "Generic",
     "Point Values": "15",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Scientist | Wakanda",
-    "Keywords Search": "| Scientist | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VIBRANIUM RESEARCHOnce per turn, when Wakandan Scientist or an adjacent friendly character with the Wakanda keyword hits, after resolutions add a Vibranium token to your Sideline. // FREE: Remove any one Vibranium token from your Sideline. If you do, choose an adjacent unequipped friendly character. Generate a Vibranium Armor equipment token and equip it to that character.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Scientist | Wakanda |",
     "alternates": [
       {
         "name": "Wakandan Scientist",
@@ -1588,14 +1588,14 @@
     "Rarity": "Common",
     "Point Values": "50/25",
     "Team Abilities": "Avengers | Defenders",
-    "Team Abilities Search": "| Avengers | Defenders |",
     "Keywords": "Avengers | Heroes For Hire | Martial Artist | Marvel Knights | Spy | Defenders | Detective",
-    "Keywords Search": "| Avengers | Heroes For Hire | Martial Artist | Marvel Knights | Spy | Defenders | Detective |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] WE ARE AT LEAST GETTING PAID, RIGHT?When Colleen Wing or another friendly character with the Heroes for Hire keyword KOs an opposing character, after resolutions heal a friendly character 1 click.",
+    "Team Abilities Search": "| Avengers | Defenders |",
+    "Keywords Search": "| Avengers | Heroes For Hire | Martial Artist | Marvel Knights | Spy | Defenders | Detective |",
     "alternates": [
       {
         "name": "Colleen Wing",
@@ -1711,13 +1711,13 @@
     "Rarity": "Common",
     "Point Values": "60/30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Assassin | Ruler | Soldier | Warrior | Wakanda",
-    "Keywords Search": "| Assassin | Ruler | Soldier | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEAD BY FORCEPowers: FlurryFlurry. // When Killmonger KOs an opposing character, after resolutions remove an action token from him and another friendly character.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Assassin | Ruler | Soldier | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Killmonger",
@@ -1834,13 +1834,13 @@
     "Rarity": "Uncommon",
     "Point Values": "45",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Avengers | Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DEFENDER OF WAKANDAPOWER: If a friendly character was KO'd since your last turn, generate a character of 25 points or less with the Wakanda keyword on its starting click.[Damage] WAKANDA FOREVER!Powers: LeadershipLeadership, but succeeds on a [d:4]-[d:6]. When Black Panther uses it and rolls a [d:6], you may also remove an action token from each friendly character with the Wakanda keyword within 4 squares.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -1943,13 +1943,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50/30",
     "Team Abilities": "Police | Defenders",
-    "Team Abilities Search": "| Police | Defenders |",
     "Keywords": "Heroes For Hire | Martial Artist | Marvel Knights | Police | Warrior | Defenders | Detective",
-    "Keywords Search": "| Heroes For Hire | Martial Artist | Marvel Knights | Police | Warrior | Defenders | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerMisty Knight can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify Misty Knight's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.[Trait] HELLO, HERO. THIS IS CONTROL.Powers: Support, WillpowerSupport, Willpower.",
+    "Team Abilities Search": "| Police | Defenders |",
+    "Keywords Search": "| Heroes For Hire | Martial Artist | Marvel Knights | Police | Warrior | Defenders | Detective |",
     "alternates": [
       {
         "name": "Misty Knight",
@@ -2061,12 +2061,12 @@
     "Rarity": "Uncommon",
     "Point Values": "50/20",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "A.I.M. | Champions | Avengers | Heroes For Hire | Martial Artist | Warrior | Thunderbolts",
-    "Keywords Search": "| A.I.M. | Champions | Avengers | Heroes For Hire | Martial Artist | Warrior | Thunderbolts |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| A.I.M. | Champions | Avengers | Heroes For Hire | Martial Artist | Warrior | Thunderbolts |",
     "alternates": [
       {
         "name": "Power Man",
@@ -2208,13 +2208,13 @@
     "Rarity": "Uncommon",
     "Point Values": "125/60",
     "Team Abilities": "Spider Man | Wakanda",
-    "Team Abilities Search": "| Spider Man | Wakanda |",
     "Keywords": "Armor | Ruler | Scientist | Warrior | Wakanda",
-    "Keywords Search": "| Armor | Ruler | Scientist | Warrior | Wakanda |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ARMOR FROM THE SCRAPS OF MY SHIPAt the beginning of the game, add 2 Vibranium tokens to your Sideline. // FREE: Remove any one Vibranium token from your Sideline. If you do, heal Vibranium Man 2 clicks.[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.",
+    "Team Abilities Search": "| Spider Man | Wakanda |",
+    "Keywords Search": "| Armor | Ruler | Scientist | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Vibranium Man",
@@ -2358,14 +2358,14 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Animal | Avengers | Past | Politician | S.H.I.E.L.D. | Soldier | Spy",
-    "Keywords Search": "| Animal | Avengers | Past | Politician | S.H.I.E.L.D. | Soldier | Spy |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] HE'S THE SPYPowers: Mastermind, StealthMastermind, Stealth. // When Nick Fury and Goose starts the game, generate a Goose bystander.[Damage] I'M PICKING YOU UP NOWFREE: Choose an opposing character within range and line of fire. That character's combat values can't be positively modified until your next turn. // Once per turn when Nick Fury and Goose carries a friendly character named Goose, after resolutions that Goose may make an attack.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Animal | Avengers | Past | Politician | S.H.I.E.L.D. | Soldier | Spy |",
     "alternates": [
       {
         "name": "Nick Fury and Goose",
@@ -2501,14 +2501,14 @@
     "Properties": "Generic",
     "Point Values": "50",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "A.I.M. | Ruler | Scientist",
-    "Keywords Search": "| A.I.M. | Ruler | Scientist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Attack] SEIZE THAT WEAPON!Powers: Penetrating Psychic BlastPenetrating/Psychic Blast. // When Scientist Supreme or an adjacent friendly character hits, after resolutions you may unequip a hit character, then equip that unequipped equipment to Scientist Supreme.[Damage] I'LL CALL FOR BACKUP!Powers: Leadership, OutwitLeadership, Outwit. When Scientist Supreme uses Leadership and succeeds, after resolutions you may generate a [set:bp] #007 A.I.M. Agent on click #1.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| A.I.M. | Ruler | Scientist |",
     "alternates": [
       {
         "name": "Scientist Supreme",
@@ -2612,14 +2612,14 @@
     "Rarity": "Uncommon",
     "Point Values": "100/60",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Brute | Champions | Avengers | God Squad | Warrior | Deity",
-    "Keywords Search": "| Brute | Champions | Avengers | God Squad | Warrior | Deity |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] FIGHTING THE SKRULL PANTHEONWhen Hercules attacks, opposing characters can't use Shape Change, and opposing characters with the Deity keyword can't evade attacks.[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Hercules attacks, targeted characters without the Deity keyword modify defense -1.[Speed] RAGE OF THE ABANDONEDPowers: Charge, Flurry, PlasticityCharge, Flurry, Plasticity.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Brute | Champions | Avengers | God Squad | Warrior | Deity |",
     "alternates": [
       {
         "name": "Hercules",
@@ -2765,11 +2765,11 @@
     "Rarity": "Uncommon",
     "Point Values": "45",
     "Keywords": "Pirate | Ruler | Savage Land | Wakanda",
-    "Keywords Search": "| Pirate | Ruler | Savage Land | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I'LL BE TAKING THAT!When Plunderer hits, remove any one Vibranium token from an opponent's Sideline and add a Vibranium token to your Sideline.[Trait] BLACK MARKETFREE: Remove any one Vibranium token from your Sideline. If you do, choose an equipment equipped to an opposing character or in any KO area. Plunderer can use the EFFECT of that equipment until your next turn.",
+    "Keywords Search": "| Pirate | Ruler | Savage Land | Wakanda |",
     "alternates": [
       {
         "name": "Plunderer",
@@ -2882,13 +2882,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60/40",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Avengers | Politician | S.H.I.E.L.D. | Spy | Squadron Supreme",
-    "Keywords Search": "| Avengers | Politician | S.H.I.E.L.D. | Spy | Squadron Supreme |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] ON LOAN FROM FURY'S ARMORYWhen Phil Coulson attacks, choose one: *This attack deals penetrating damage. *Targeted characters can't replace or positively modify their defense.[Damage] GUESS I'M IN CHARGEPowers: Leadership, PerplexLeadership, Perplex. // When Phil Coulson uses Leadership or Mastermind, other friendly characters within range and line of fire are considered adjacent to him.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Avengers | Politician | S.H.I.E.L.D. | Spy | Squadron Supreme |",
     "alternates": [
       {
         "name": "Phil Coulson",
@@ -3006,13 +3006,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60/30",
     "Team Abilities": "Police | Wakanda",
-    "Team Abilities Search": "| Police | Wakanda |",
     "Keywords": "Police | Soldier | Warrior | Wakanda",
-    "Keywords Search": "| Police | Soldier | Warrior | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] VIBRANIUM ARSENALPowers: Penetrating Psychic BlastFREE: Remove any number of any Vibranium tokens on your Sideline from the game. If you do, choose a friendly character within range for each Vibranium token removed. The chosen characters can use Penetrating/Psychic Blast this turn.[Damage] THE RANKS MUST BE REPLENISHEDPowers: LeadershipLeadership. When Akili uses it and succeeds, you may instead generate a [set:bp] #011 Hatut Zeraze on its red starting line. If a [d:6] was rolled, you may also add 2 Vibranium tokens to your Sideline.",
+    "Team Abilities Search": "| Police | Wakanda |",
+    "Keywords Search": "| Police | Soldier | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Akili",
@@ -3129,14 +3129,14 @@
     "Rarity": "Uncommon",
     "Point Values": "60/30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Martial Artist | Spy | Warrior | Wakanda",
-    "Keywords Search": "| Martial Artist | Spy | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] DIRECTOR OF THE AGENTS OF WAKANDAWhen establishing themed teams, characters with the Spy keyword gain the Wakanda keyword.[Attack] VIBRANIUM SPEARPowers: Blades Claws Fangs, Precision StrikeBlades/Claws/Fangs, Precision Strike. // FREE: Remove up to any three Vibranium tokens on your Sideline from the game. If you do, Okoye can use Giant Reach: X this turn, where X is twice the number of Vibranium tokens removed.[Damage] SHOW ME YOU ARE READY!Powers: LeadershipLeadership. When Okoye uses Leadership and succeeds, you may instead generate a [set:bp] #012 Dora Milaje on its red starting line. If a [d:6] was rolled, you may also add 2 Vibranium tokens to your Sideline.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Martial Artist | Spy | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Okoye",
@@ -3256,13 +3256,13 @@
     "Rarity": "Uncommon",
     "Point Values": "30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Politician | Ruler | Wakanda",
-    "Keywords Search": "| Politician | Ruler | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VIBRANIUM STOCKPILEAt the beginning of the game, add 2 Vibranium tokens to your Sideline.[Trait] WE ARE STRONGER IN WAKANDAUNIQUE MODIFIER - Friendly characters with the Wakanda keyword modify defense +1 if they are within 7 squares of your starting area.[Damage] QUEEN MOTHERPowers: SupportSupport. // Support as FREE, but only if there are two or more Vibranium tokens on your Sideline.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Politician | Ruler | Wakanda |",
     "alternates": [
       {
         "name": "Ramonda",
@@ -3333,13 +3333,13 @@
     "Rarity": "Uncommon",
     "Point Values": "30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Ruler | Scientist | Warrior | Wakanda",
-    "Keywords Search": "| Ruler | Scientist | Warrior | Wakanda |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VIBRANIUM ISOTOPESPOWER: Add a Vibranium token to your Sideline.[Attack] WAKANDAN ENGINEERINGPowers: TelekinesisTelekinesis. // FREE: Remove any one Vibranium token from your Sideline. If you do, choose an adjacent unequipped friendly character. Generate a Vibranium Armor or Vibranium Weapon equipment token and equip it to that character.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Ruler | Scientist | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Shuri",
@@ -3470,13 +3470,13 @@
     "Rarity": "Rare",
     "Point Values": "100/60",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Asgardian | Avengers | God Squad | Ruler | Warrior | Deity",
-    "Keywords Search": "| Asgardian | Avengers | God Squad | Ruler | Warrior | Deity |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Thor attacks, targeted characters without the Deity keyword modify defense -1.[Trait] FIGHT ALONGSIDE THE GODSWhen establishing themed teams, choose a friendly character with the Avengers keyword to gain the Deity keyword. That character can use the Divine Favor trait this game. // Friendly characters with the Deity keyword have [ta:avengers].",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Asgardian | Avengers | God Squad | Ruler | Warrior | Deity |",
     "alternates": [
       {
         "name": "Thor",
@@ -3656,13 +3656,13 @@
     "Rarity": "Rare",
     "Point Values": "125/30",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Armor | Avengers | Initiative | S.H.I.E.L.D. | Soldier | Stark Industries | Warrior",
-    "Keywords Search": "| Armor | Avengers | Initiative | S.H.I.E.L.D. | Soldier | Stark Industries | Warrior |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerWar Machine can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify War Machine's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.[Trait] OVERWHELMING FIREPOWERPowers: Energy ExplosionEnergy Explosion. // At the beginning of your turn roll a d6 and modify the resulting combat value(s) +1 this turn:[d:1]-[d:2]: Attack[d:3]-[d:4]: Damage[d:5]-[d:6]: Attack and damage[Damage] RHODEY ON THE RADIOPowers: Perplex, Probability ControlPerplex, Probability Control. When War Machine uses either he can only target friendly characters that share a keyword with him, and if he's part of a themed team, may use them regardless of range and line of fire.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Armor | Avengers | Initiative | S.H.I.E.L.D. | Soldier | Stark Industries | Warrior |",
     "alternates": [
       {
         "name": "War Machine",
@@ -3812,14 +3812,14 @@
     "Properties": "Prime",
     "Point Values": "80",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries",
-    "Keywords Search": "| Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering",
     "Traits and Special Powers": "[Trait] REMOTE DRONE PILOTINGPowers: LeadershipDuring force construction, you may add 5 points to Col. James Rhode's cost up to 6 times. For each time you choose to do so, add a War Machine Drone bystander to your starting force. These bystanders gain Col. James Rhodes keywords. // Leadership. When Col. James Rhodes uses it and succeeds, after resolutions generate a War Machine Drone bystander [MAX 6].[Attack] HELICARRIER BOMBARDMENTPowers: Penetrating Psychic BlastPenetrating/Psychic Blast. // POWER: For each War Machine Drone bystander, choose an opposing character within range and line of fire of that bystander. Make a range attack that targets the chosen characters regardless of range and line of fire. Hit characters are dealt 2 damage instead of normal damage.[Defense] DODGING SHELLSPowers: Energy Shield Deflection, Invincible, Super SensesEnergy Shield/Deflection, Invincible, Super Senses. Protected: Outwit.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries |",
     "alternates": [
       {
         "name": "Col. James Rhodes",
@@ -3949,10 +3949,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Shield |",
     "alternates": [
       {
         "name": "War Machine Drone",
@@ -3985,8 +3985,8 @@
     "Rarity": "Rare",
     "Point Values": "5",
     "Keywords": "Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries",
-    "Keywords Search": "| Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries |",
     "Traits and Special Powers": "[Trait] REMOTE DRONE PILOTINGDuring force construction, you may add 5 points to Col. James Rhode's cost up to 6 times. For each time you choose to do so, add a War Machine Drone bystander to your starting force. // Leadership. When Col. James Rhodes uses it and succeeds, after resolutions generate a War Machine Drone bystander [MAX 6].",
+    "Keywords Search": "| Armor | Politician | S.H.I.E.L.D. | Soldier | Stark Industries |",
     "alternates": [
       {
         "name": "Col. James Rhodes (War Machine Drone)",
@@ -4010,14 +4010,14 @@
     "Rarity": "Rare",
     "Point Values": "75/50",
     "Team Abilities": "Wakanda | X Men",
-    "Team Abilities Search": "| Wakanda | X Men |",
     "Keywords": "Ruler | X Men | Deity | Wakanda",
-    "Keywords Search": "| Ruler | X Men | Deity | Wakanda |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] QUEEN OF WAKANDAPowers: Empower, LeadershipEmpower, Leadership. When Queen Storm uses either, if a friendly [set:bp] #033 Black Panther is on the map, other friendly characters with the Wakanda keyword are considered adjacent to her.[Trait] THE WEDDING OF THE CENTURYAt the beginning of the game, choose another friendly character that shares a keyword with Queen Storm. // At the beginning of your turn, if the chosen character is on the map, heal Queen Storm 1 click.",
+    "Team Abilities Search": "| Wakanda | X Men |",
+    "Keywords Search": "| Ruler | X Men | Deity | Wakanda |",
     "alternates": [
       {
         "name": "Queen Storm",
@@ -4182,14 +4182,14 @@
     "Rarity": "Rare",
     "Point Values": "75/50",
     "Team Abilities": "Avengers | Wakanda",
-    "Team Abilities Search": "| Avengers | Wakanda |",
     "Keywords": "Avengers | Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] KING OF WAKANDAPowers: Enhancement, LeadershipEnhancement, Leadership. When Black Panther uses either, if a friendly [set:bp] #032 Queen Storm is on the map, other friendly characters with the Wakanda keyword are considered adjacent to him.[Trait] THE WEDDING OF THE CENTURYAt the beginning of the game, choose another friendly character that shares a keyword with Black Panther. // At the beginning of your turn, if the chosen character is on the map, heal Black Panther 1 click.",
+    "Team Abilities Search": "| Avengers | Wakanda |",
+    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -4354,14 +4354,14 @@
     "Rarity": "Rare",
     "Point Values": "75/40",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Champions | Avengers | S.H.I.E.L.D. | Spider Man Family",
-    "Keywords Search": "| Celebrity | Champions | Avengers | S.H.I.E.L.D. | Spider Man Family |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] CAMOUFLAGE INVISIBILITYPowers: StealthStealth. // Opposing lines of fire can't be drawn to Spider-Man if he is occupying or adjacent to a non-debris terrain marker.[Attack] BIO-ELECTRIC VENOM BLASTPowers: Precision StrikePrecision Strike. // When Spider-Man hits, after resolutions give each hit character an action token.[Defense] SPIDEY-SENSES TINGLING!Powers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Champions | Avengers | S.H.I.E.L.D. | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -4538,13 +4538,13 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Animal | Assassin | Hydra | Scientist | Mystical | Wakanda",
-    "Keywords Search": "| Animal | Assassin | Hydra | Scientist | Mystical | Wakanda |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] POISON EXPERTPowers: PoisonPoison, SAFEGUARD: Poison. When Venomm uses Poison, he deals penetrating damage.[Trait] SNAKE CHARMERPowers: Mind ControlMind Control, but only to target bystanders and characters with the Animal keyword. // POWER: Generate a Viper bystander [MAX 3]. // If Venomm damaged an opposing character this turn, this trait's POWER is activated as FREE instead.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Animal | Assassin | Hydra | Scientist | Mystical | Wakanda |",
     "alternates": [
       {
         "name": "Venomm",
@@ -4683,11 +4683,11 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "55",
     "Keywords": "Armor | Avengers | Past | Soldier | Warrior | Dark Avengers | Deity",
-    "Keywords Search": "| Armor | Avengers | Past | Soldier | Warrior | Dark Avengers | Deity |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Ares attacks, targeted characters without the Deity keyword modify defense -1.[Trait] FROM OLYMPUS: ARES'S ARMORYSIDELINE ACTIVE - Once per game, when a friendly character uses Blades/Claws/Fangs, before rolling they may choose that, after resolutions, they deal each adjacent opposing character other than the target damage equal to half the result for that Blades/Claws/Fangs. When they do, if Ares is on the map, the minimum result is instead the character's printed damage value +1.",
+    "Keywords Search": "| Armor | Avengers | Past | Soldier | Warrior | Dark Avengers | Deity |",
     "alternates": [
       {
         "name": "Ares",
@@ -4822,13 +4822,13 @@
     "Properties": "Sideline Active | Generic",
     "Point Values": "50",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Armor | Assassin | Spy | Warrior | Wakanda",
-    "Keywords Search": "| Armor | Assassin | Spy | Warrior | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CUTTING EDGE ARMORSIDELINE ACTIVE - Friendly characters with the Wakanda keyword have \"FREE: Remove any 4 Vibranium tokens from your Sideline. If you do, replace this character with [set:bp] #037a Midnight Angel on click #1.\"[Defense] VIBRANIUM DESIGNPowers: Combat Reflexes, InvulnerabilityCombat Reflexes, Invulnerability.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Armor | Assassin | Spy | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Midnight Angel",
@@ -4948,14 +4948,14 @@
     "Properties": "Prime",
     "Point Values": "75/50",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Armor | Assassin | Spy | Warrior | Wakanda",
-    "Keywords Search": "| Armor | Assassin | Spy | Warrior | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Outdoor Blocking | Characters",
     "Traits and Special Powers": "[Trait] SPECIALIZED FORCEWhen a friendly character uses Sidestep, they instead may move up to 3 squares.[Trait] ASSASSINATING DOOMFREE: Choose an opposing character that healed since your last turn. Place Teela such that she may make a close attack targeting that character, then do so.[Damage] WE WILL NOT FAILPowers: LeadershipLeadership. // Other friendly characters with the Wakanda or Assassin keywords within range modify attack and defense +1.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Armor | Assassin | Spy | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Teela",
@@ -5087,14 +5087,14 @@
     "Rarity": "Rare",
     "Point Values": "70/50",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Brute | Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Brute | Ruler | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] OUT OF THE MOUNTAINSPowers: LeadershipLeadership. // POWER: If no characters have been placed this turn, choose an opposing character that damaged a friendly character with the Wakanda keyword since your last turn. Place M'Baku such that he can make an attack targeting the chosen character, then do so.[Attack] M'BAKU'S MIGHTPowers: Precision Strike, QuakePrecision Strike, Quake.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Brute | Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "M'Baku",
@@ -5244,13 +5244,13 @@
     "Rarity": "Rare",
     "Point Values": "25",
     "Team Abilities": "Brotherhood Of Mutants",
-    "Team Abilities Search": "| Brotherhood Of Mutants |",
     "Keywords": "Brotherhood Of Mutants | Hellfire Club | Marauders | S.W.O.R.D. | X Factor | X Force",
-    "Keywords Search": "| Brotherhood Of Mutants | Hellfire Club | Marauders | S.W.O.R.D. | X Factor | X Force |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] INTO THIN AIRPowers: Phasing TeleportPhasing/Teleport, [cs:passenger]: 2. // When Vanisher is given a MOVE action, until your next turn opposing characters can't target him unless they're adjacent to him.[Defense] DISRUPTED BY VIBRANIUMPowers: Super Senses, Combat ReflexesSuper Senses. // If no opponents have Vibranium tokens on their Sideline, Vanisher can use Combat Reflexes.",
+    "Team Abilities Search": "| Brotherhood Of Mutants |",
+    "Keywords Search": "| Brotherhood Of Mutants | Hellfire Club | Marauders | S.W.O.R.D. | X Factor | X Force |",
     "alternates": [
       {
         "name": "Vanisher",
@@ -5335,13 +5335,13 @@
     "Rarity": "Rare",
     "Point Values": "115/30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Champions | Armor | Latveria | Scientist | Stark Industries | Wakanda",
-    "Keywords Search": "| Champions | Armor | Latveria | Scientist | Stark Industries | Wakanda |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SCAN FOR TARGETSPowers: PerplexPerplex. When Ironheart uses it to target a friendly character, that character can use [it:hindering] until your next turn.[Trait] N.A.T.A.L.I.E.FREE: If Ironheart has two action tokens, make an attack.[Attack] MICRO IMPACT PRECISION MISSILESPowers: Penetrating Psychic Blast, Precision StrikePenetrating/Psychic Blast, Precision Strike. // RANGE: [cs:bolt][cs:bolt][cs:bolt][cs:bolt]. Make a range attack. Instead of normal damage, hit targets are dealt 1 damage and are given an action token.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Champions | Armor | Latveria | Scientist | Stark Industries | Wakanda |",
     "alternates": [
       {
         "name": "Ironheart",
@@ -5474,14 +5474,14 @@
     "Rarity": "Rare",
     "Point Values": "70/35",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Assassin | Ruler | Soldier | Spy | Warrior | Wakanda",
-    "Keywords Search": "| Assassin | Ruler | Soldier | Spy | Warrior | Wakanda |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] PREYYWhen Killmonger starts the game, generate a Preyy bystander. // [cs:passenger]: 1, but only to carry Preyy.[Trait] EACH ONE IS FOR A KILLPowers: Precision StrikePrecision Strike. // When Killmonger or Preyy KOs an opposing character, give Killmonger a Scar token. // FREE: Remove a Scar token to choose one: *The next time Killmonger attacks this turn, increase damage dealt to each hit target by +1. *Make an attack, but only to target characters that are 20 or less points.[Damage] ...AND ALL THIS DEATH, JUST SO I CAN KILL YOUPowers: OutwitOutwit. When Killmonger uses it, if he gained or removed a Scar token this turn, he can choose two powers instead of one (on the same character).",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Assassin | Ruler | Soldier | Spy | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Killmonger",
@@ -5635,14 +5635,14 @@
     "Rarity": "Super Rare",
     "Point Values": "100/55",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Avengers | Heroes For Hire | S.H.I.E.L.D. | Soldier",
-    "Keywords Search": "| Avengers | Heroes For Hire | S.H.I.E.L.D. | Soldier |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] SYMBOL OF TRUTHPowers: LeadershipLeadership. // When Captain America uses Leadership and succeeds, this turn when friendly characters use [ta:avengers] they also modify their damage +1.[Trait] BIRD'S EYE VIEWPowers: PerplexWhen Captain America starts the game, generate a Redwing bystander. // Perplex. Redwing can use Perplex.[Attack] STILL GETTING THE HANG OF ITPowers: Energy Shield DeflectionEnergy Shield/Deflection. // When Captain America hits and the attack roll was doubles, once per turn after resolutions he may make a range attack, but only to target an opposing character within 5 squares of the original target regardless of range and line of fire.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Avengers | Heroes For Hire | S.H.I.E.L.D. | Soldier |",
     "alternates": [
       {
         "name": "Captain America",
@@ -5822,13 +5822,13 @@
     "Rarity": "Super Rare",
     "Point Values": "75/40",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Cosmic | Avengers | Herald | Ruler | Scientist | Ultimates | Wakanda",
-    "Keywords Search": "| Cosmic | Avengers | Herald | Ruler | Scientist | Ultimates | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VIBRANIUM DAGGERSAt the beginning of the game, add 2 Vibranium tokens to your Sideline. // FREE: Remove any one Vibranium token from your Sideline. If you do, choose Black Panther or an adjacent unequipped friendly character. Generate a Vibranium Weapon equipment token and equip it to the chosen character.[Trait] FORMULATING A RESPONSEPowers: Super SensesAdjacent friendly characters that share a keyword with Black Panther have [ta:wakanda]. // Super Senses. When Black Panther uses it, increase the d6 roll by +1 for each time he targeted the attacker since the beginning of your last turn.[Attack] THE PANTHER IS ALWAYS PREPAREDPowers: Blades Claws Fangs, FlurryBlades/Claws/Fangs. When Black Panther uses it and the d6 result is [d:1]-[d:3], after resolutions add a Vibranium token to your Sideline. // FREE: Remove any one Vibranium token from your Sideline to choose one: *Make a range attack. *Black Panther can use Flurry until your next turn.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Cosmic | Avengers | Herald | Ruler | Scientist | Ultimates | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -6001,14 +6001,14 @@
     "Properties": "Prime",
     "Point Values": "85",
     "Team Abilities": "Team Player | Wakanda",
-    "Team Abilities Search": "| Team Player | Wakanda |",
     "Keywords": "Avengers | Illuminati | Ruler | Scientist | Warrior | Defenders | Wakanda",
-    "Keywords Search": "| Avengers | Illuminati | Ruler | Scientist | Warrior | Defenders | Wakanda |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Outdoor Blocking | Characters",
     "Traits and Special Powers": "[Trait] EMPOWERED BY THE HEART-SHAPED HERBPowers: Super Senses, LeadershipSuper Senses. // Leadership, but succeeds on a [d:4]-[d:6]. When Black Panther uses it and succeeds add a Vibranium token to your Sideline. // FREE: Remove any one Vibranium token from your Sideline. If you do, Black Panther reduces damage taken by 1 in addition to other effects until your next turn.[Trait] REVIVED BY THE HEART-SHAPED HERBOnce per turn when a friendly character with the Wakanda keyword or an adjacent friendly character would be KO'd, you may remove any one Vibranium token from your Sideline. If you do, you may instead turn that character to their last non-KO click, then heal them 1 click. Protected: Pulse Wave.[Speed] ENHANCED REFLEXESPowers: Charge, FlurryCharge, Flurry. // When Black Panther hits, after the attack resolves you may move him up to 2 squares (Black Panther may move between attacks during Flurry).",
+    "Team Abilities Search": "| Team Player | Wakanda |",
+    "Keywords Search": "| Avengers | Illuminati | Ruler | Scientist | Warrior | Defenders | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -6143,13 +6143,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Avengers | Martial Artist",
-    "Keywords Search": "| Animal | Avengers | Martial Artist |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NOTHING WE CAN'T DO TOGETHER!When Falcon and Redwing starts the game, generate a Redwing bystander. // If Falcon and Redwing is part of a themed team, when a friendly bystander would be KO'd, you may roll a d6.[d:4]-[d:6]: Place that bystander adjacent to Falcon and Redwing instead.[Trait] TRAINED BY THE BESTPowers: ToughnessToughness. // When establishing themed teams, you may choose a friendly character named Captain America. Falcon and Redwing gains all the keywords of the chosen character.[Attack] REDWING, GO GET 'IM!Powers: TelekinesisTelekinesis as FREE, but only to target bystanders. // FREE: Make a close attack, but only to target a character that a character named Redwing hit this turn, regardless of adjacency.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Avengers | Martial Artist |",
     "alternates": [
       {
         "name": "Falcon and Redwing",
@@ -6274,13 +6274,13 @@
     "Properties": "Unique",
     "Point Values": "125/75",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Keywords": "Hydra | Robot | Ruler | Scientist",
-    "Keywords Search": "| Hydra | Robot | Ruler | Scientist |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MASTER OF BIOLOGICAL MANIPULATIONWhen establishing themed teams, friendly characters on your starting force with the Monster keyword gain Arnim Zola's keywords and can use [ta:hydra] this game. // If two or more opposing characters share a name with each other, they modify their attack -2.[Trait] RECREATING THE SUPER SOLDIER SERUMPowers: LeadershipLeadership, but succeeds on a [d:4]-[d:6]. When Arnim Zola uses it and fails, after resolutions generate a Mutate bystander.[Defense] YOU HAVE FAILED ZOLAPowers: Stop, MastermindSTOP. [cs:colossal]. // Mastermind. When Arnim Zola uses it and the chosen character is KO'd, if that character wasn't a Mutate bystander, generate a Mutate bystander in the square that character last occupied.",
+    "Team Abilities Search": "| Hydra |",
+    "Keywords Search": "| Hydra | Robot | Ruler | Scientist |",
     "alternates": [
       {
         "name": "Arnim Zola",
@@ -6430,10 +6430,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Hydra",
-    "Team Abilities Search": "| Hydra |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Hydra |",
     "alternates": [
       {
         "name": "Mutate",
@@ -6467,13 +6467,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70",
     "Team Abilities": "Mystics | Police",
-    "Team Abilities Search": "| Mystics | Police |",
     "Keywords": "Alpha Flight | Animal | God Squad | Police | Mystical | Deity",
-    "Keywords Search": "| Alpha Flight | Animal | God Squad | Police | Mystical | Deity |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FIGHTING THE SKRULL PANTHEONWhen Snowbird attacks, opposing characters can't use Shape Change, and opposing characters with the Deity keyword can't evade attacks.[Trait] ANIMAL SHAPESHIFTINGPowers: Shape Change, Blades Claws Fangs, Charge, InvulnerabilityShape Change. // At the beginning of your turn, you may roll a d6 and halve the result. Choose up to that number of the following powers and abilities. Snowbird can use the chosen powers and abilities until your next turn: *[cs:giant] *Blades/Claws/Fangs *Charge *Invulnerability *FREE: Heal Snowbird 1 click.[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Snowbird attacks, targeted characters without the Deity keyword modify defense -1.",
+    "Team Abilities Search": "| Mystics | Police |",
+    "Keywords Search": "| Alpha Flight | Animal | God Squad | Police | Mystical | Deity |",
     "alternates": [
       {
         "name": "Snowbird",
@@ -6586,14 +6586,14 @@
     "Rarity": "Super Rare",
     "Point Values": "80",
     "Team Abilities": "Mystics | Avengers",
-    "Team Abilities Search": "| Mystics | Avengers |",
     "Keywords": "A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity",
-    "Keywords Search": "| A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] THE MONSTER WHO EVEN MONSTERS FEAROpposing characters that have the team ability chosen for [ta:avengers] modify their attack and damage -1 when attacking White Tiger.[Attack] SWIPES AND STRIKESPowers: Blades Claws FangsBlades/Claws/Fangs. When White Tiger uses it and rolls a [d:1] or [d:2], after resolutions she may make a close attack (this can repeat).",
+    "Team Abilities Search": "| Mystics | Avengers |",
+    "Keywords Search": "| A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity |",
     "alternates": [
       {
         "name": "White Tiger",
@@ -6728,14 +6728,14 @@
     "Properties": "Prime",
     "Point Values": "40",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity",
-    "Keywords Search": "| A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] MANIFEST THE CHI TIGERAt the beginning of your turn, you may either generate a Chi Tiger bystander [MAX 1], or remove a friendly Chi Tiger bystander from the game.[Trait] GIVING THE TIGER GOD CONTROLIf the Chi Tiger bystander is not on your force, White Tiger takes a maximum of 2 damage from attacks and modifies her attack +1.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| A.I.M. | Animal | Avengers | Herald | Heroes For Hire | Martial Artist | Mystical | Deity |",
     "alternates": [
       {
         "name": "White Tiger",
@@ -6895,14 +6895,14 @@
     "Rarity": "Super Rare",
     "Point Values": "90/50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Celebrity | Armor | Martial Artist | New Warriors | Warrior | Vehicle | Wakanda",
-    "Keywords Search": "| Celebrity | Armor | Martial Artist | New Warriors | Warrior | Vehicle | Wakanda |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] VIBRANIUM SKATEBOARDAt the beginning of the game, add a Vibranium Token to your Sideline. // FREE: [cs:passenger]: 1. Remove any one Vibranium token from your Sideline. If you do, move up to 4 squares.[Speed] CUSTOMIZED TRANSPORTPowers: Charge, Plasticity, StealthCharge, Plasticity, Stealth.[Attack] ESCRIMA STICKS AND FLARESPowers: Energy Explosion, QuakeEnergy Explosion, Quake.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Celebrity | Armor | Martial Artist | New Warriors | Warrior | Vehicle | Wakanda |",
     "alternates": [
       {
         "name": "Night Thrasher",
@@ -7052,13 +7052,13 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Animal | Ruler | Scientist | Mystical | Wakanda",
-    "Keywords Search": "| Animal | Ruler | Scientist | Mystical | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THIS WILL HELP YOUPowers: EnhancementEnhancement. // Adjacent friendly characters that share a keyword with Shuri modify their range +1. // When Shuri starts the game, add a Vibranium token to your Sideline.[Defense] BIRD FORMPowers: Energy Shield Deflection, Super SensesEnergy Shield/Deflection, Super Senses. When Shuri uses Super Senses, after resolutions place her up to a number of squares away from her current square equal to the result.[Damage] AJA-ADANNAPowers: Outwit, PerplexOutwit, Perplex. When Shuri uses either, you may remove any one Vibranium token from your Sideline. If you do, after resolutions, she may immediately use that power again.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Animal | Ruler | Scientist | Mystical | Wakanda |",
     "alternates": [
       {
         "name": "Shuri",
@@ -7159,14 +7159,14 @@
     "Rarity": "Super Rare",
     "Point Values": "65/40",
     "Team Abilities": "Avengers | Defenders",
-    "Team Abilities Search": "| Avengers | Defenders |",
     "Keywords": "Cabal | Atlantis | Avengers | Illuminati | Invaders | Ruler | Defenders",
-    "Keywords Search": "| Cabal | Atlantis | Avengers | Illuminati | Invaders | Ruler | Defenders |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Outdoor Blocking | Move Through",
     "Traits and Special Powers": "[Trait] ATLANTIS ATTACKSWhen Namor starts the game, generate a water terrain marker in any square. // When an adjacent friendly character with [cs:dolphin] makes a close attack, modify their attack +1 if the target is adjacent to Namor.[Defense] AQUATIC HEALINGPowers: Willpower, RegenerationWillpower. Regeneration as FREE, but only if Namor occupies water terrain.[Damage] KING OF ATLANTISPowers: LeadershipLeadership. When Namor uses it and succeeds, he may instead remove an action token from a friendly character with [cs:dolphin].",
+    "Team Abilities Search": "| Avengers | Defenders |",
+    "Keywords Search": "| Cabal | Atlantis | Avengers | Illuminati | Invaders | Ruler | Defenders |",
     "alternates": [
       {
         "name": "Namor",
@@ -7313,13 +7313,13 @@
     "Rarity": "Chase",
     "Point Values": "175/100",
     "Team Abilities": "Cosmic Energy | Wakanda",
-    "Team Abilities Search": "| Cosmic Energy | Wakanda |",
     "Keywords": "Cosmic | Avengers | Ruler | Phoenix Force | Deity | Wakanda",
-    "Keywords Search": "| Cosmic | Avengers | Ruler | Phoenix Force | Deity | Wakanda |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TOUCHED BY MAN-THING AND KNOWS NO FEARSAFEGUARD: Opposing Perplex. // Phoenix Force Black Panther can reduce penetrating damage.[Attack] FLAMING CLAWS OF THE PHOENIX PANTHERPowers: Blades Claws FangsBlades/Claws/Fangs, Poison. When Phoenix Force Black Panther uses Blades/Claws/Fangs, after resolutions choose an opposing character adjacent to the hit target. Deal that character damage equal to the d6 roll.[Defense] THE DIFFERENCE BETWEEN ARROGANCE AND FORTITUDEPowers: InvulnerabilityInvulnerability. // When Phoenix Force Black Panther rolls a single d6, increase the result by +1. // When Phoenix Force Black Panther rolls a single d6 and the result is a 6 or higher, after resolutions heal him 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Wakanda |",
+    "Keywords Search": "| Cosmic | Avengers | Ruler | Phoenix Force | Deity | Wakanda |",
     "alternates": [
       {
         "name": "Phoenix Force Black Panther",
@@ -7493,14 +7493,14 @@
     "Rarity": "Chase",
     "Point Values": "100/60",
     "Team Abilities": "Cosmic Energy | Wakanda",
-    "Team Abilities Search": "| Cosmic Energy | Wakanda |",
     "Keywords": "Ruler | Mystical | X Men | Deity | Wakanda",
-    "Keywords Search": "| Ruler | Mystical | X Men | Deity | Wakanda |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] CAN'T FAIL MY FOLLOWERSPowers: LeadershipLeadership. // As long as there are 4 or more friendly characters without the Deity keyword on your force, Hadari Yao takes a maximum of 2 damage from attacks.[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Hadari Yao attacks, targeted characters without the Deity keyword modify defense -1.[Damage] I COMMAND THE LIGHTNING[it:characters,elevated,hindering]. When Hadari Yao hits multiple characters with a range attack that deals damage, hit characters dealt less than 3 damage are dealt 3 damage instead.",
+    "Team Abilities Search": "| Cosmic Energy | Wakanda |",
+    "Keywords Search": "| Ruler | Mystical | X Men | Deity | Wakanda |",
     "alternates": [
       {
         "name": "Hadari Yao",
@@ -7636,14 +7636,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "125",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Animal | Cosmic | Mystical | Deity | Wakanda",
-    "Keywords Search": "| Animal | Cosmic | Mystical | Deity | Wakanda |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] AVATAR OF BASTSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Bast's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Bast's Avatar can use Outwit and Willpower and also scores the points paid with this trait when they are KO'd.[Trait] MY PANTHERSPowers: StealthStealth. // When Bast is KO'd, choose a friendly character and remove all action tokens from them. If that character is Bast's Avatar, this game that character has \"This character has the printed team abilities of characters in your KO area.\" Protected: Pulse Wave.[Defense] RA'S DAUGHTERPowers: Stop, InvincibleSTOP. Invincible. // When this power is revealed, after resolutions heal all other friendly characters 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Animal | Cosmic | Mystical | Deity | Wakanda |",
     "alternates": [
       {
         "name": "Bast",
@@ -7763,9 +7763,9 @@
     "Traits and Special Powers": "[Trait] AVATAR OF BASTPowers: Outwit, WillpowerSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Bast's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Bast's Avatar can use Outwit and Willpower and also scores the points paid with this trait when they are KO'd.",
     "alternates": [
       {
+        "name": "Avatar of Bast",
         "type": "Tile",
         "size": "1x1",
-        "name": "Avatar of Bast",
         "image": "21892283-f77c-4206-8dc9-e2df2c96bdfb.Tile.png"
       }
     ],
@@ -7785,15 +7785,15 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "300",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Animal | Cosmic | Asgardian | Mystical | Deity",
-    "Keywords Search": "| Animal | Cosmic | Asgardian | Mystical | Deity |",
     "Range": "7",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking | Characters",
     "Improved Targeting": "Elevated | Hindering | Characters",
     "Traits and Special Powers": "[Trait] MOTHER NATURESIDELINE ACTIVE - During force construction, you may choose a character with the Animal or Asgardian keyword to be Gaea's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game lines of fire drawn to that character are hindered, and that character has \"At the beginning of your turn, heal this character 1 click. // When this character clears action tokens, if they're not named Gaea, deal them 2 unavoidable damage.\"[Trait] ELDER GOD: FONT OF CREATIONSIDELINE ACTIVE - When the character chosen for Mother Nature is KO'd, you may immediately generate Gaea from your Sideline or KO area on click #1 in the square that character last occupied. If you do, this game at the end of each of your turns deal all friendly characters 3 unavoidable damage.[Trait] SPIRIT OF GROWTHAt the beginning of the game, generate up to 3 hindering terrain markers in any squares.[Damage] NATURE'S FURYPowers: Shape ChangeShape Change. // When Gaea attacks, before choosing targets you may remove any number of non-debris terrain markers within range from the game. If you do, deal 1 penetrating damage to each opposing character that was adjacent to one or more of the removed terrain markers.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Animal | Cosmic | Asgardian | Mystical | Deity |",
     "alternates": [
       {
         "name": "Gaea",
@@ -7989,9 +7989,9 @@
     "Traits and Special Powers": "[Trait] MOTHER NATURESIDELINE ACTIVE - During force construction, you may choose a character with the Animal or Asgardian keyword to be Gaea's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game lines of fire drawn to that character are hindered, and that character has \"At the beginning of your turn, heal this character 1 click. // When this character clears action tokens, if they're not named Gaea, deal them 2 unavoidable damage.\"[Trait] ELDER GOD: FONT OF CREATIONSIDELINE ACTIVE - When the character chosen for Mother Nature is KO'd, you may immediately generate Gaea from your Sideline or KO area on click #1 in the square that character last occupied. If you do, this game at the end of each of your turns deal all friendly characters 3 unavoidable damage.",
     "alternates": [
       {
+        "name": "Avatar of Gaea",
         "type": "Tile",
         "size": "1x1",
-        "name": "Avatar of Gaea",
         "image": "0750d3d6-b69c-40b1-bfdf-b0c28d4042ca.Tile.png"
       }
     ],
@@ -8011,14 +8011,14 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "300",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Cosmic | Martial Artist | God Squad | Warrior | Deity",
-    "Keywords Search": "| Cosmic | Martial Artist | God Squad | Warrior | Deity |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] EMPOWERING THE SUN KINGSIDELINE ACTIVE - During force construction, you may choose a character with the Martial Artist or Warrior keyword to be Atum's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game the chosen character deals penetrating damage and has a minimum range of 6. When that character attacks, if they're not named Atum, after resolutions deal them 1 unavoidable damage.[Trait] ELDER GOD: THE DEMOGORGESIDELINE ACTIVE - When the character chosen for Empowering the Sun King is KO'd, you may immediately generate Atum from your Sideline or KO area on click #1 in the square that character last occupied. If you do, at the end of your next turn remove Atum from the game without scoring him, then KO a friendly character of your opponent's choice.[Defense] METABOLIZING DEITIESPowers: Stop, ImperviousSTOP. Impervious. When Atum uses it and succeeds, after resolutions heal him 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Cosmic | Martial Artist | God Squad | Warrior | Deity |",
     "alternates": [
       {
         "name": "Atum",
@@ -8214,9 +8214,9 @@
     "Traits and Special Powers": "[Trait] EMPOWERING THE SUN KINGSIDELINE ACTIVE - During force construction, you may choose a character with the Martial Artist or Warrior keyword to be Atum's Avatar. That character can't be equipped or be chosen to be another character's Avatar. This game the chosen character deals penetrating damage and has a minimum range of 6. When that character attacks, if they're not named Atum, after resolutions deal them 1 unavoidable damage.[Trait] ELDER GOD: THE DEMOGORGESIDELINE ACTIVE - When the character chosen for Empowering the Sun King is KO'd, you may immediately generate Atum from your Sideline or KO area on click #1 in the square that character last occupied. If you do, at the end of your next turn remove Atum from the game without scoring him, then KO a friendly character of your opponent's choice.",
     "alternates": [
       {
+        "name": "Avatar of Atum",
         "type": "Tile",
         "size": "1x1",
-        "name": "Avatar of Atum",
         "image": "59af8a08-7668-4acf-b9af-b17fd4592a92.Tile.png"
       }
     ],
@@ -8236,14 +8236,14 @@
     "Properties": "Unique",
     "Point Values": "200/100",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Cosmic | Asgardian | Ruler | Mystical | Warrior | Deity",
-    "Keywords Search": "| Animal | Cosmic | Asgardian | Ruler | Mystical | Warrior | Deity |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] THE ODINFORCEOdin and Ravens starts the game with an Odinforce token. If Odin and Ravens is 200 points, he starts with two instead. // When Odin and Ravens starts the game, this game friendly characters have \"This character modifies their combat values +1 for each Odinforce token they have.\"[Trait] HUGIN AND MUNINFREE: Once per game, generate a Hugin bystander and a Munin bystander.[Defense] ... UNTIL I AM GONEPowers: Stop, ImperviousSTOP. Impervious. The first time this click is revealed, remove an Odinforce token from Odin and Ravens, then give an Odinforce token to another friendly character with the Asgardian keyword.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Cosmic | Asgardian | Ruler | Mystical | Warrior | Deity |",
     "alternates": [
       {
         "name": "Odin and Ravens",
@@ -8423,11 +8423,11 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] THOUGHTOpposing characters with 4 squares and line of fire modify attack -1.",
+    "Team Abilities Search": "| Cosmic Energy |",
     "alternates": [
       {
         "name": "Hugin",
@@ -8459,11 +8459,11 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] MEMORYOpposing characters with 4 squares and line of fire modify defense -1.",
+    "Team Abilities Search": "| Cosmic Energy |",
     "alternates": [
       {
         "name": "Munin",
@@ -8495,14 +8495,14 @@
     "Rarity": "Chase",
     "Point Values": "250/75",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | God Squad | Ruler | Deity",
-    "Keywords Search": "| Cosmic | God Squad | Ruler | Deity |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] CHAOS INCARNATEFREE: Roll a d6 and perform the resulting effect. If Chaos King is 250 points, you may instead roll a d6 up to three times and perform the resulting effects in any order:[d:1]: Choose a character and deal it 1 unavoidable damage.[d:2]: Heal every character within 2 squares 2 clicks.[d:3]: Give each other character within range an action token.[d:4]: You and an opponent each choose a character. Chosen characters modify their combat values +1 until your next turn.[d:5]: Make an attack.[d:6]: Place Chaos King in a square within range.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | God Squad | Ruler | Deity |",
     "alternates": [
       {
         "name": "Chaos King",
@@ -8682,14 +8682,14 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Team Abilities": "Mystics | Minions Of Doom",
-    "Team Abilities Search": "| Mystics | Minions Of Doom |",
     "Keywords": "Cabal | Asgardian | Illuminati | Mystical | Warrior | Deity",
-    "Keywords Search": "| Cabal | Asgardian | Illuminati | Mystical | Warrior | Deity |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Speed] THE POWER BEHIND THE THRONEPowers: Mind Control, Sidestep, StealthMind Control, Sidestep, Stealth. When Loki uses Mind Control, after resolutions hit characters are given an action token.[Defense] ONLY AN ILLUSIONPowers: Energy Shield Deflection, Super SensesEnergy Shield/Deflection, Super Senses.[Damage] I'M ME. FIRST, LAST, AND ALWAYSPowers: Probability Control, Shape ChangeProbability Control, Shape Change. When Loki uses Shape Change and succeeds, the attacker can't select a new target and you may have them become the only target of the attack. Protected: Outwit.",
+    "Team Abilities Search": "| Mystics | Minions Of Doom |",
+    "Keywords Search": "| Cabal | Asgardian | Illuminati | Mystical | Warrior | Deity |",
     "alternates": [
       {
         "name": "Loki",
@@ -8824,13 +8824,13 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "100/55",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Ruler | Deity",
-    "Keywords Search": "| Cosmic | Ruler | Deity |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DIVINE FAVORSAFEGUARD: Opposing Perplex and Opposing Probability Control. // When Zeus attacks, targeted characters without the Deity keyword modify defense -1.[Trait] FROM OLYMPUS: ZEUS'S WRATHSIDELINE ACTIVE - Once per game, when a friendly character uses Energy Explosion while occupying the highest elevation level on the map, they may choose to have [cs:bolt][cs:bolt][cs:bolt]. If they do, if Zeus is on the map, all opposing characters within 3 squares of the original target become targets as well.[Attack] THEY WILL LEARN TO FEAR US AGAINPowers: Energy Explosion, Pulse WaveEnergy Explosion, Pulse Wave. When Zeus uses either, increase damage dealt to all hit targets by +1.[Defense] THE GOD OF LIGHTNINGPowers: Stop, Impervious, RegenerationSTOP. Impervious, Regeneration.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Ruler | Deity |",
     "alternates": [
       {
         "name": "Zeus",
@@ -8965,14 +8965,14 @@
     "Rarity": "Chase",
     "Point Values": "125/60",
     "Team Abilities": "Team Player | Wakanda",
-    "Team Abilities Search": "| Team Player | Wakanda |",
     "Keywords": "Cosmic | Ruler | Soldier | Monster | Deity | Symbiote | Wakanda",
-    "Keywords Search": "| Cosmic | Ruler | Soldier | Monster | Deity | Symbiote | Wakanda |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] SYMBIOTIC RESURRECTIONPowers: Shape Change, Steal EnergyShape Change, Steal Energy. // If N'Jadaka is 125 points, once per game when he would be KO'd, instead turn him to click #6. If he's equipped, you may remove his equipment from the game to instead turn him to click #2 and remove all of his action tokens. Protected: Pulse Wave.[Trait] EMPEROR OF THE INTERGALACTIC EMPIRE OF WAKANDAPowers: Leadership, MastermindLeadership, Mastermind. // When a friendly character KOs an opposing character with the Cosmic, Deity, or Herald keywords, choose a standard power that was on their card for N'Jadaka to use this game.[Speed] THE TIME OF MY ASCENSION IS AT HANDPowers: Charge, Flurry, SidestepCharge, Flurry, Sidestep.",
+    "Team Abilities Search": "| Team Player | Wakanda |",
+    "Keywords Search": "| Cosmic | Ruler | Soldier | Monster | Deity | Symbiote | Wakanda |",
     "alternates": [
       {
         "name": "N'Jadaka",
@@ -9122,13 +9122,13 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Herald | Ruler | Scientist | Warrior | Wakanda",
-    "Keywords Search": "| Herald | Ruler | Scientist | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ADAPTIVE STRATEGIESWhen Black Panther hits, choose a standard power that a hit character can use. Opposing characters can't use the chosen power until Black Panther chooses again.[Speed] EXPERT HUNTERPowers: Charge, SidestepCharge, Sidestep.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Herald | Ruler | Scientist | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -9247,14 +9247,14 @@
     "Rarity": "Chase",
     "Point Values": "65",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Avengers | Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] TODAY WE FIGHT AS ONE!Powers: LeadershipLeadership. // If Black Panther is part of a themed team, friendly characters occupying hindering terrain have [ta:wakanda].[Speed] THE SPEED OF A PANTHERPowers: Charge, FlurryCharge, Flurry.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Avengers | Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -9370,14 +9370,14 @@
     "Rarity": "Chase",
     "Point Values": "45",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Ruler | Warrior | Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] BRUTAL RULEFriendly characters with the Wakanda keyword have \"POWER: KO an adjacent opposing bystander.\"[Damage] I'M THE ONLY KINGPowers: LeadershipLeadership. // If an opposing character can use Leadership, modify Killmonger's combat values +1.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Killmonger",
@@ -9496,14 +9496,14 @@
     "Rarity": "Chase",
     "Point Values": "65",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Martial Artist | Ruler | Scientist | Mystical | Warrior | Wakanda",
-    "Keywords Search": "| Martial Artist | Ruler | Scientist | Mystical | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] THE MANTLE OF THE BLACK PANTHERPowers: Super Senses, WillpowerSuper Senses, Willpower. // Once per turn, Black Panther may reroll one of her single d6 rolls.[Defense] HEART-SHAPED HERBPowers: Stop, RegenerationSTOP. Regeneration.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Martial Artist | Ruler | Scientist | Mystical | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -9621,13 +9621,13 @@
     "Properties": "Sideline Active",
     "Point Values": "40",
     "Team Abilities": "Masters Of Evil",
-    "Team Abilities Search": "| Masters Of Evil |",
     "Keywords": "A.I.M. | Masters Of Evil | Frightful Four | Scientist",
-    "Keywords Search": "| A.I.M. | Masters Of Evil | Frightful Four | Scientist |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ABSORBED INTO ROCKWhen Klaw is KO'd, instead of removing him from the game you may add him to your Sideline as a Vibranium token (he's still scored). Protected: Pulse Wave.[Trait] RELEASED FROM MY VIBRANIUM PRISONSIDELINE ACTIVE - If Klaw is a Vibranium token, when a friendly character's effect would remove him from the game, instead after resolutions you may generate him as a character adjacent to that character on click #4.",
+    "Team Abilities Search": "| Masters Of Evil |",
+    "Keywords Search": "| A.I.M. | Masters Of Evil | Frightful Four | Scientist |",
     "alternates": [
       {
         "name": "Klaw",
@@ -9731,12 +9731,12 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Wakanda",
-    "Keywords Search": "| Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Wakanda |",
     "alternates": [
       {
         "name": "Dora Milaje",
@@ -9770,12 +9770,12 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Wakanda",
-    "Keywords Search": "| Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Wakanda |",
     "alternates": [
       {
         "name": "Midnight Angel",
@@ -9809,11 +9809,11 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Keywords": "Symbiote",
-    "Keywords Search": "| Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SYMBIOTIC FUSIONPowers: Plasticity, Super SensesPlasticity, Super Senses. // If The Joined is within 4 squares of an opposing character, he can't be targeted by range attacks.",
+    "Keywords Search": "| Symbiote |",
     "alternates": [
       {
         "name": "The Joined",
@@ -9847,10 +9847,10 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Keywords": "Animal | Avengers",
-    "Keywords Search": "| Animal | Avengers |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
+    "Keywords Search": "| Animal | Avengers |",
     "alternates": [
       {
         "name": "Redwing",
@@ -9884,11 +9884,11 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Keywords": "Animal | Cosmic",
-    "Keywords Search": "| Animal | Cosmic |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Speed] AREN'T YOU THE CUTEST LITTLE THING?Powers: Flurry, PlasticityFlurry, Plasticity, Giant Reach: 2.",
+    "Keywords Search": "| Animal | Cosmic |",
     "alternates": [
       {
         "name": "Goose",
@@ -9922,10 +9922,10 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Keywords": "Animal",
-    "Keywords Search": "| Animal |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Keywords Search": "| Animal |",
     "alternates": [
       {
         "name": "Preyy",
@@ -9958,10 +9958,10 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Keywords": "Animal",
-    "Keywords Search": "| Animal |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
+    "Keywords Search": "| Animal |",
     "alternates": [
       {
         "name": "Kirby",
@@ -9995,13 +9995,13 @@
     "Rarity": "Chase",
     "Point Values": "5",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Animal",
-    "Keywords Search": "| Animal |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Damage] OMEN OF DOOMWhen an opposing character within 4 squares and line of fire attacks, attack rolls of 4 or less are critical misses.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Animal |",
     "alternates": [
       {
         "name": "Raven",
@@ -10033,13 +10033,13 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Team Abilities": "Shield",
-    "Team Abilities Search": "| Shield |",
     "Keywords": "S.H.I.E.L.D.",
-    "Keywords Search": "| S.H.I.E.L.D. |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM LOGISTICSWhen an adjacent friendly character uses Outwit, Perplex, or Probability Control, increase their minimum range by 1.",
+    "Team Abilities Search": "| Shield |",
+    "Keywords Search": "| S.H.I.E.L.D. |",
     "alternates": [
       {
         "name": "S.H.I.E.L.D. Operative",
@@ -10073,13 +10073,13 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Heroes For Hire",
-    "Keywords Search": "| Heroes For Hire |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE IRON FISTKNOCKBACK. When Iron Fist knocks back a character, knockback damage that character takes is unavoidable.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Heroes For Hire |",
     "alternates": [
       {
         "name": "Iron Fist",
@@ -10113,10 +10113,10 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Keywords": "Animal",
-    "Keywords Search": "| Animal |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
+    "Keywords Search": "| Animal |",
     "alternates": [
       {
         "name": "Viper",
@@ -10149,13 +10149,13 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Wakanda",
-    "Keywords Search": "| Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] NATURE MANIPULATIONPOWER: Remove up to 3 non-debris terrain markers within range and line of fire from the game, or generate a hindering terrain marker within range and line of fire.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Wakanda |",
     "alternates": [
       {
         "name": "Tetu",
@@ -10189,13 +10189,13 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Wakanda",
-    "Keywords Search": "| Wakanda |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EMOTIVE EMPOWERMENTFREE: Choose a character within range. That character can use Battle Fury until your next turn.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Wakanda |",
     "alternates": [
       {
         "name": "Zenzi",
@@ -10228,12 +10228,12 @@
     "Rarity": "Chase",
     "Point Values": "25",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Wakanda",
-    "Keywords Search": "| Wakanda |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Wakanda |",
     "alternates": [
       {
         "name": "Manifold",
@@ -10267,11 +10267,11 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Keywords": "Spy | Warrior",
-    "Keywords Search": "| Spy | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] GRAVITY WELLPowers: Pulse WavePulse Wave. When Junta uses it, after resolutions place any hit opposing characters next to Junta.",
+    "Keywords Search": "| Spy | Warrior |",
     "alternates": [
       {
         "name": "Junta",
@@ -10305,10 +10305,10 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Keywords": "Soldier",
-    "Keywords Search": "| Soldier |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Keywords Search": "| Soldier |",
     "alternates": [
       {
         "name": "Josiah X",
@@ -10343,11 +10343,11 @@
     "Properties": "Prime",
     "Point Values": "40",
     "Keywords": "Past | Politician | Scientist | Soldier | Warrior",
-    "Keywords Search": "| Past | Politician | Scientist | Soldier | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerJosiah X can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify Josiah X's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.[Trait] ISAIAH BRADLEY'S SHIELDPowers: Super StrengthSuper Strength. // If Josiah X is holding a terrain marker, modify his defense and the defense of adjacent friendly characters +1.[Trait] BIG TROUBLE IN LITTLE MOGADISHUJosiah X and other friendly characters with a \"The Crew\" trait can reduce penetrating damage.[Damage] EMBRACING THE TRUTHPowers: Empower, Enhancement, LeadershipEmpower, Enhancement, Leadership.",
+    "Keywords Search": "| Past | Politician | Scientist | Soldier | Warrior |",
     "alternates": [
       {
         "name": "Josiah X",
@@ -10436,6 +10436,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "0f171f9f-00c9-4509-95c2-b91cbb05c948.Click6.png"
+      },
+      {
+        "name": "Josiah X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0f171f9f-00c9-4509-95c2-b91cbb05c948.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -10453,13 +10463,13 @@
     "Rarity": "Common",
     "Point Values": "40",
     "Team Abilities": "X Men",
-    "Team Abilities Search": "| X Men |",
     "Keywords": "Ruler | X Men | Deity | Wakanda",
-    "Keywords Search": "| Ruler | X Men | Deity | Wakanda |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] QUEEN OF WAKANDAFriendly characters with [ta:wakanda] have [ta:x_men].[Attack] WIND TUNNELPowers: Smoke CloudSmoke Cloud, but only to generate 4 markers. When Storm uses it, after placing each marker she may knock back an opposing character in that marker's square 1 square in any direction.",
+    "Team Abilities Search": "| X Men |",
+    "Keywords Search": "| Ruler | X Men | Deity | Wakanda |",
     "alternates": [
       {
         "name": "Storm",
@@ -10531,6 +10541,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "1",
         "image": "98aff9cb-5e8f-4e27-a726-1b70c7eabb16.Click5.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "98aff9cb-5e8f-4e27-a726-1b70c7eabb16.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -10549,13 +10569,13 @@
     "Properties": "Unique",
     "Point Values": "30",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Avengers | Marvel Knights | New Warriors | Runaways | X Men",
-    "Keywords Search": "| Avengers | Marvel Knights | New Warriors | Runaways | X Men |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ...AND DAGGER!Powers: Phasing TeleportPhasing/Teleport. When Cloak uses it, after resolutions you may generate a Dagger bystander if no friendly Dagger bystanders have been KO'd this game. Remove that bystander from the game at the beginning of your next turn.[Damage] HUNGRY SHADOWSPowers: Shape ChangeShape Change. When Cloak uses it and succeeds, after resolutions deal the attacking character damage equal to their printed damage value.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Avengers | Marvel Knights | New Warriors | Runaways | X Men |",
     "alternates": [
       {
         "name": "Cloak",
@@ -10613,6 +10633,16 @@
         "Damage": "0",
         "Damage Ability": "Special - HUNGRY SHADOWS",
         "image": "606c0e11-79a0-4a8f-adb1-b174ad470505.Click4.png"
+      },
+      {
+        "name": "Cloak",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "606c0e11-79a0-4a8f-adb1-b174ad470505.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -10630,11 +10660,11 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] LIGHT DAGGERSWhen Dagger attacks, hit characters are dealt 1 penetrating damage instead of normal damage. // When Dagger damages 1 or more opposing characters, after resolutions heal an adjacent friendly character 1 click.",
+    "Team Abilities Search": "| Spider Man |",
     "alternates": [
       {
         "name": "Dagger",
@@ -10667,13 +10697,13 @@
     "Rarity": "Rare",
     "Point Values": "35",
     "Team Abilities": "Avengers | X Men",
-    "Team Abilities Search": "| Avengers | X Men |",
     "Keywords": "Cosmic | Avengers | S.W.O.R.D. | Secret Warriors | Warrior | X Men | Wakanda",
-    "Keywords Search": "| Cosmic | Avengers | S.W.O.R.D. | Secret Warriors | Warrior | X Men | Wakanda |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CREWPowers: WillpowerManifold can use the following effects based on the number of friendly characters with this trait on the map:2+: Willpower.3+: Modify Manifold's defense +1.4+: FREE: Heal an adjacent friendly character with this trait 1 click.[Trait] SPACE FOLDING[cs:passenger]: 4 // POWER: Modify attack +2. Make an attack. Instead of normal damage, until your next turn, hit characters gain Immobile, can't be damaged, can't be given actions, and can't use powers and abilities.",
+    "Team Abilities Search": "| Avengers | X Men |",
+    "Keywords Search": "| Cosmic | Avengers | S.W.O.R.D. | Secret Warriors | Warrior | X Men | Wakanda |",
     "alternates": [
       {
         "name": "Manifold",
@@ -10746,6 +10776,16 @@
         "Damage": "2",
         "Damage Ability": "Probability Control",
         "image": "372f8baf-07e8-4a9d-b909-d6d33adaa485.Click5.png"
+      },
+      {
+        "name": "Manifold",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "372f8baf-07e8-4a9d-b909-d6d33adaa485.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -10763,13 +10803,13 @@
     "Rarity": "Rare",
     "Point Values": "125/75",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Ruler | Mystical | Deity",
-    "Keywords Search": "| Ruler | Mystical | Deity |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DIVINE FAVORWhen Pluto attacks, targeted characters without the Deity keyword modify defense -1. // SAFEGUARD: Opposing Perplex and Opposing Probability Control.[Trait] GATES OF TARTARUSWhen Pluto starts the game, generate up to 4 Grave hindering terrain markers into squares within range. // If a friendly Grave marker is within range, Pluto can reduce penetrating damage.[Defense] ADDING SUBJECTS TO MY REALMPowers: Stop, ImperviousSTOP. Impervious. // When another character is KO'd, after resolutions you may heal Pluto 1 click.[Damage] ADAMANTINE AXEPowers: Close Combat Expert, Probability ControlClose Combat Expert, Probability Control. // When Pluto attacks, opposing characters can't use STOP.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Ruler | Mystical | Deity |",
     "alternates": [
       {
         "name": "Pluto",
@@ -10896,6 +10936,16 @@
         "Defense Ability": "Special - ADDING SUBJECTS TO MY REALM",
         "Damage": "5",
         "image": "1adae953-e2fb-4ffd-b018-87956b61f1fc.Click9.png"
+      },
+      {
+        "name": "Pluto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1adae953-e2fb-4ffd-b018-87956b61f1fc.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -10913,13 +10963,13 @@
     "Rarity": "Rare",
     "Point Values": "80/50",
     "Team Abilities": "Cosmic Energy | Avengers",
-    "Team Abilities Search": "| Cosmic Energy | Avengers |",
     "Keywords": "Celebrity | Cosmic | Avengers | God Squad | Deity | Eternal",
-    "Keywords Search": "| Celebrity | Cosmic | Avengers | God Squad | Deity | Eternal |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FIGHTING THE SKRULL PANTHEONWhen Sersi attacks, opposing characters can't use Shape Change, and opposing characters with the Deity keyword can't evade attacks.[Attack] TRAINING SINCE THE DAWN OF TIMEPowers: Blades Claws Fangs, Close Combat Expert, Ranged Combat ExpertBlades/Claws/Fangs, Close Combat Expert, Ranged Combat Expert.[Damage] MOLECULAR REARRANGEMENT AND TRANSMUTATIONPowers: Probability Control, Shape ChangeProbability Control, Shape Change. // FREE: Replace up to 3 non-debris terrain markers within range and line of fire with any combination of Blocking, Smoke, or Water terrain markers.",
+    "Team Abilities Search": "| Cosmic Energy | Avengers |",
+    "Keywords Search": "| Celebrity | Cosmic | Avengers | God Squad | Deity | Eternal |",
     "alternates": [
       {
         "name": "Sersi",
@@ -11042,6 +11092,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "2ea9f132-fbef-4dd0-a4e0-c6ba94b11d48.Click8.png"
+      },
+      {
+        "name": "Sersi",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2ea9f132-fbef-4dd0-a4e0-c6ba94b11d48.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11059,13 +11119,13 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | God Squad | Scientist | Warrior | Deity | Eternal",
-    "Keywords Search": "| Cosmic | God Squad | Scientist | Warrior | Deity | Eternal |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FIGHTING THE SKRULL PANTHEONWhen Ajak attacks, opposing characters can't use Shape Change, and opposing characters with the Deity keyword can't evade attacks.[Defense] MOLECULAR MANIPULATIONPowers: Stop, Impervious, Super SensesSTOP. Impervious, Super Senses.[Damage] HE WHO SPEAKS TO CELESTIALSPowers: Close Combat Expert, Perplex, Probability ControlClose Combat Expert, Perplex, Probability Control. Ajak may use Perplex and Probability Control twice each turn if both times they target a character with the Deity keyword.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | God Squad | Scientist | Warrior | Deity | Eternal |",
     "alternates": [
       {
         "name": "Ajak",
@@ -11153,6 +11213,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "8a3a8a28-8c0b-456b-8d29-dcccfaa7061f.Click6.png"
+      },
+      {
+        "name": "Ajak",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8a3a8a28-8c0b-456b-8d29-dcccfaa7061f.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11170,14 +11240,14 @@
     "Rarity": "Super Rare",
     "Point Values": "80/40",
     "Team Abilities": "Avengers",
-    "Team Abilities Search": "| Avengers |",
     "Keywords": "Heroes For Hire | Marksman | Martial Artist | Detective | The Hand",
-    "Keywords Search": "| Heroes For Hire | Marksman | Martial Artist | Detective | The Hand |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] DAUGHTERS OF THE DRAGONColleen Wing and Misty Knight starts the game on either click #1 or click #6. If they are 40 points, they are KO'd when they cross a red KO line. Otherwise, they are KO'd when the click they chose to start the game on is revealed when taking damage. // If Colleen Wing and Misty Knight are 80 points, once per turn when they attack, after resolutions they make make an attack. Protected: Pulse Wave.[Attack] SONIC CANNONKNOCKBACK. Range 5. // When Colleen Wing and Misty Knight makes a range attack, opposing characters can't use Shape Change.[Damage] HEROES FOR HIREPOWER: Choose an opposing character. If that character is KO'd this turn, score 5 Victory Points. // If Colleen Wing and Misty Knight are 80 points, they instead activate this power as FREE.",
+    "Team Abilities Search": "| Avengers |",
+    "Keywords Search": "| Heroes For Hire | Marksman | Martial Artist | Detective | The Hand |",
     "alternates": [
       {
         "name": "Colleen Wing and Misty Knight",
@@ -11359,6 +11429,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "2c344864-424f-4797-abe1-960b00606961.Click12.png"
+      },
+      {
+        "name": "Colleen Wing and Misty Knight",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2c344864-424f-4797-abe1-960b00606961.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11376,13 +11456,13 @@
     "Rarity": "Super Rare",
     "Point Values": "150",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Asgardian | Ruler | Warrior | Deity",
-    "Keywords Search": "| Asgardian | Ruler | Warrior | Deity |",
     "Range": "8",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ODIN'S RAVENSFREE: Once per game, generate a Hugin bystander and a Munin bystander. // Odin may replace his attack and defense values with the printed attack and defense values of friendly characters named either Hugin or Munin.[Trait] ALL-FATHERPowers: SidestepSidestep. // Odin can reduce penetrating damage.[Trait] YOU ARE NOT WORTHYFREE: Choose an opposing character. Until your next turn, that character can use Earthbound/Neutralized, can't use the EFFECT of equipment, and its maximum attack and defense values are each equal to Odin's printed value of that type.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Asgardian | Ruler | Warrior | Deity |",
     "alternates": [
       {
         "name": "Odin",
@@ -11549,6 +11629,16 @@
         "Damage": "5",
         "Damage Ability": "Probability Control",
         "image": "78e6801c-9bcf-4af7-b49a-7ee0c1c554c4.Click11.png"
+      },
+      {
+        "name": "Odin",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "78e6801c-9bcf-4af7-b49a-7ee0c1c554c4.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11566,11 +11656,11 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] THOUGHTOpposing characters with 4 squares and line of fire modify attack -1.",
+    "Team Abilities Search": "| Cosmic Energy |",
     "alternates": [
       {
         "name": "Hugin",
@@ -11602,11 +11692,11 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] MEMORYOpposing characters with 4 squares and line of fire modify defense -1.",
+    "Team Abilities Search": "| Cosmic Energy |",
     "alternates": [
       {
         "name": "Munin",
@@ -11638,14 +11728,14 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Agents Of Atlas | Atlantis | God Squad | Mystical | Deity",
-    "Keywords Search": "| Agents Of Atlas | Atlantis | God Squad | Mystical | Deity |",
     "Range": "8",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering | Characters",
     "Traits and Special Powers": "[Trait] DIVINE FAVORWhen Venus attacks, targeted characters without the Deity keyword modify defense -1. // SAFEGUARD: Opposing Perplex and Opposing Probability Control.[Trait] FIGHTING THE SKRULL PANTHEONWhen Venus attacks, opposing characters can't use Shape Change, and opposing characters with the Deity keyword can't evade attacks.[Attack] A SIREN'S PERSUASION[cs:dolphin]. // When Venus hits, give all hit characters an action token and, until your next turn, when those hit characters choose targets they must target Venus if possible.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Agents Of Atlas | Atlantis | God Squad | Mystical | Deity |",
     "alternates": [
       {
         "name": "Venus",
@@ -11734,6 +11824,16 @@
         "Damage": "1",
         "Damage Ability": "Perplex",
         "image": "76c4befb-2d1c-49c8-bd9c-b23869e5379e.Click6.png"
+      },
+      {
+        "name": "Venus",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "76c4befb-2d1c-49c8-bd9c-b23869e5379e.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11752,13 +11852,13 @@
     "Properties": "Sideline Active",
     "Point Values": "100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Ruler | Mystical | Deity",
-    "Keywords Search": "| Ruler | Mystical | Deity |",
     "Range": "10",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AVATAR OF SETHSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Seth's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Seth's Avatar can use Poison and [ta:mystics] and also scores the points paid with this trait when they are KO'd.[Trait] GOD OF DEATHPowers: Invincible, StealthInvincible, Stealth. // When Seth is KO'd, choose a friendly character and deal 2 damage to every character adjacent to them. If that character is Seth's Avatar, this game that character can use Steal Energy with close and range attacks. Protected: Pulse Wave.[Damage] BEHOLD MY TRUE FORM!Powers: Perplex, Probability Control[cs:giant]. Perplex, Probability Control. // Modify Seth's attack and defense +2.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Ruler | Mystical | Deity |",
     "alternates": [
       {
         "name": "Seth",
@@ -11893,6 +11993,16 @@
         "Damage": "3",
         "Damage Ability": "Special - BEHOLD MY TRUE FORM!",
         "image": "23e315fd-8430-49e0-87cf-ce30c42eb091.Click9.png"
+      },
+      {
+        "name": "Seth",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "23e315fd-8430-49e0-87cf-ce30c42eb091.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -11912,9 +12022,9 @@
     "Traits and Special Powers": "[Trait] AVATAR OF SETHPowers: PoisonSIDELINE ACTIVE - During force construction you may pay 10 points to choose another friendly character to be Seth's Avatar. If the chosen character has the Herald keyword, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Seth's Avatar can use Poison and [ta:mystics] and also scores the points paid with this trait when they are KO'd.",
     "alternates": [
       {
+        "name": "Avatar of Seth",
         "type": "Tile",
         "size": "1x1",
-        "name": "Avatar of Seth",
         "image": "11e9a635-fc8f-4da9-9c16-29f85a0f2fbc.Tile.png"
       }
     ],
@@ -11933,11 +12043,11 @@
     "Rarity": "Super Rare",
     "Point Values": "70",
     "Keywords": "Champions | Armor | Scientist | Stark Industries | Mystical | Wakanda",
-    "Keywords Search": "| Champions | Armor | Scientist | Stark Industries | Mystical | Wakanda |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MODE SHIFT, N.A.T.A.L.I.E.!Ironheart may use her displayed damage powers twice per turn.[Trait] CHANNEL THE WILLSPRINGAt the beginning of the game, generate a Wellspring marker into any square. // If Ironheart is adjacent to the Wellspring marker, she has [ta:cosmic_energy], [ta:mystics], and modifies her attack and defense +1.",
+    "Keywords Search": "| Champions | Armor | Scientist | Stark Industries | Mystical | Wakanda |",
     "alternates": [
       {
         "name": "Ironheart",
@@ -12029,6 +12139,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "e449e50f-8966-4e08-90bb-d7970e3d0aaf.Click6.png"
+      },
+      {
+        "name": "Ironheart",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e449e50f-8966-4e08-90bb-d7970e3d0aaf.KO.png"
       }
     ],
     "Set": "Black Panther",
@@ -12047,13 +12167,13 @@
     "Properties": "Unique",
     "Point Values": "30",
     "Team Abilities": "Wakanda",
-    "Team Abilities Search": "| Wakanda |",
     "Keywords": "Illuminati | Ruler | Warrior | Wakanda",
-    "Keywords Search": "| Illuminati | Ruler | Warrior | Wakanda |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ABSOLUTE AUTHORITYAt the beginning of the game, you may choose up to two game elements on your opponent's Sideline. Game elements chosen for this trait can't be brought into the game or use SIDELINE ACTIVE effects.[Damage] KING OF WAKANDAPowers: Leadership, OutwitLeadership, Outwit. // FREE: Remove any one Vibranium token from your Sideline. If you do, remove an action token from a friendly character.",
+    "Team Abilities Search": "| Wakanda |",
+    "Keywords Search": "| Illuminati | Ruler | Warrior | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -12125,6 +12245,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "918df8e4-89e7-4170-8e35-3917f449f619.Click5.png"
+      },
+      {
+        "name": "Black Panther",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "918df8e4-89e7-4170-8e35-3917f449f619.KO.png"
       }
     ],
     "Set": "Black Panther",

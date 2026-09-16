@@ -9,13 +9,13 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps",
-    "Keywords Search": "| Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE MASTER PLANFriendly characters that are adjacent or share a keyword with Lex Luthor have [ta:superman_enemy].",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Lex Luthor",
@@ -114,13 +114,13 @@
     "Rarity": "Common",
     "Point Values": "85/50",
     "Team Abilities": "Justice League | Superman Ally",
-    "Team Abilities Search": "| Justice League | Superman Ally |",
     "Keywords": "Future | Kryptonian | Legion Of Super Villains | Metropolis | Past | Ruler",
-    "Keywords Search": "| Future | Kryptonian | Legion Of Super Villains | Metropolis | Past | Ruler |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ABSOLUTE POWER: SUPERMANSuperman deals penetrating damage to characters that have the team ability chosen for [ta:justice_league].",
+    "Team Abilities Search": "| Justice League | Superman Ally |",
+    "Keywords Search": "| Future | Kryptonian | Legion Of Super Villains | Metropolis | Past | Ruler |",
     "alternates": [
       {
         "name": "Superman",
@@ -253,13 +253,13 @@
     "Rarity": "Common",
     "Point Values": "70/40",
     "Team Abilities": "Batman Ally | Justice League",
-    "Team Abilities Search": "| Batman Ally | Justice League |",
     "Keywords": "Batman Family | Future | Gotham City | Legion Of Super Villains | Martial Artist | Past | Ruler | Detective",
-    "Keywords Search": "| Batman Family | Future | Gotham City | Legion Of Super Villains | Martial Artist | Past | Ruler | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ABSOLUTE POWER: BATMANWhen Batman attacks, opposing characters that have the team ability chosen for [ta:justice_league] can't use Shape Change or Super Senses.",
+    "Team Abilities Search": "| Batman Ally | Justice League |",
+    "Keywords Search": "| Batman Family | Future | Gotham City | Legion Of Super Villains | Martial Artist | Past | Ruler | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -393,13 +393,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Brute | Arkham Asylum | Gotham City | Gotham City Underworld",
-    "Keywords Search": "| Brute | Arkham Asylum | Gotham City | Gotham City Underworld |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: G.O.O.N.When G.O.O.N. is KO'd by an opposing character, after resolutions you may roll a D6.[d:3]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Brute | Arkham Asylum | Gotham City | Gotham City Underworld |",
     "alternates": [
       {
         "name": "G.O.O.N.",
@@ -505,11 +505,11 @@
     "Properties": "Generic",
     "Point Values": "30/0",
     "Keywords": "Cosmic | Police | Robot | Sinestro Corps",
-    "Keywords Search": "| Cosmic | Police | Robot | Sinestro Corps |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NO MAN ESCAPES THE MANHUNTERSDuring force construction, for all characters with this trait, for every 3 [set:not] #005 Manhunters you paid to add to your force, you may add 1 [set:not] #005 Manhunter without paying its cost. (They're still scored normally.)",
+    "Keywords Search": "| Cosmic | Police | Robot | Sinestro Corps |",
     "alternates": [
       {
         "name": "Manhunter",
@@ -609,11 +609,11 @@
     "Properties": "Generic",
     "Point Values": "25",
     "Keywords": "Assassin | Court Of Owls | Gotham City | Martial Artist",
-    "Keywords Search": "| Assassin | Court Of Owls | Gotham City | Martial Artist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] STRIKE FROM THE SHADOWSPowers: Blades Claws FangsBlades/Claws/Fangs, but only if Court of Owls Assassin occupies hindering terrain.",
+    "Keywords Search": "| Assassin | Court Of Owls | Gotham City | Martial Artist |",
     "alternates": [
       {
         "name": "Court of Owls Assassin",
@@ -701,14 +701,14 @@
     "Properties": "Generic",
     "Point Values": "25",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Assassin | League Of Assassins | Martial Artist",
-    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Outdoor Blocking | Move Through",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Speed] HIT AND RUN TACTICSPowers: Sidestep, StealthSidestep, Stealth.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist |",
     "alternates": [
       {
         "name": "League Assassin",
@@ -792,11 +792,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Animal | Brute | Gorilla City | Warrior",
-    "Keywords Search": "| Animal | Brute | Gorilla City | Warrior |",
     "Range": "2",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: GRODD'S ARMYWhen Gorilla City Warrior is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate an hindering terrain marker in the square Gorilla City Warrior last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Animal | Brute | Gorilla City | Warrior |",
     "alternates": [
       {
         "name": "Gorilla City Warrior",
@@ -901,13 +901,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Brute | Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Brute | Arkham Asylum | Gotham City Underworld |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: JOKER'S POSSEWhen Joker Goon is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate an Smoke terrain marker in the square Joker Goon last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Brute | Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Joker Goon",
@@ -1009,14 +1009,14 @@
     "Rarity": "Common",
     "Point Values": "65",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Animal | Brute | Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Animal | Brute | Arkham Asylum | Gotham City Underworld |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SIMIAN BODY, MOB BOSS BRAINAt the beginning of the game, Gorilla Boss may generate a character with an Expendable Goon trait on their 15 point line. If you're not the first player, you may generate 2 instead.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Animal | Brute | Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Gorilla Boss",
@@ -1147,13 +1147,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Animal | Brute | Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Animal | Brute | Arkham Asylum | Gotham City Underworld |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: NOTCHKA AND SHAKAWhen Polar Bear is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate an Ice blocking terrain marker in the square Polar Bear last occupied. This game, that marker has \"Adjacent characters must roll for break away if they don't already need to.\"[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Animal | Brute | Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Polar Bear",
@@ -1259,13 +1259,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brute | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains",
-    "Keywords Search": "| Brute | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: BLACK MANTA'S CREWWhen Black Manta Goon is KO'd by an opposing character, after resolutions you may roll a D6.[d:1]-[d:3]: Generate a water terrain marker in the square Black Manta Goon last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brute | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "Black Manta Goon",
@@ -1370,13 +1370,13 @@
     "Rarity": "Common",
     "Point Values": "120/60",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Brute | Legion Of Doom | Metropolis | Outlaws | Monster",
-    "Keywords Search": "| Brute | Legion Of Doom | Metropolis | Outlaws | Monster |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PEOPLE NO TAKE BIZARRO SERIOUSWhen Bizarro starts the game, you may turn him to click #9. If you do, this game turn his dial in the direction of decreasing click numbers when he is damaged, and in the direction of increasing click numbers when he is healed. If he would be turned past his starting click, KO him. Protected: Pulse Wave. (If played at 60 points, his starting click is 5.)",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Brute | Legion Of Doom | Metropolis | Outlaws | Monster |",
     "alternates": [
       {
         "name": "Bizarro",
@@ -1542,13 +1542,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Brute | Arkham Asylum | Gotham City | Gotham City Underworld",
-    "Keywords Search": "| Brute | Arkham Asylum | Gotham City | Gotham City Underworld |",
     "Range": "2",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: RIDDLER'S GANGWhen Riddler Goon is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Give the character who KO'd him an action token.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Brute | Arkham Asylum | Gotham City | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Riddler Goon",
@@ -1649,13 +1649,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: TETCH'S TEA PARTYWhen White Rabbit Goon is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Place the character who KO'd him up to 2 squares away from their current square.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld |",
     "alternates": [
       {
         "name": "White Rabbit Goon",
@@ -1758,13 +1758,13 @@
     "Rarity": "Common",
     "Point Values": "70",
     "Team Abilities": "Batman Enemy | Injustice League",
-    "Team Abilities Search": "| Batman Enemy | Injustice League |",
     "Keywords": "Brute | Gotham City | Injustice League | Legion Of Doom | Secret Society Of Super Villains | Monster | Mystical",
-    "Keywords Search": "| Brute | Gotham City | Injustice League | Legion Of Doom | Secret Society Of Super Villains | Monster | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] RETURN FROM SLAUGHTER SWAMPFREE: If Solomon Grundy occupies water terrain, heal him 2 clicks. // Solomon Grundy has SAFEGUARD: Outwit.",
+    "Team Abilities Search": "| Batman Enemy | Injustice League |",
+    "Keywords Search": "| Brute | Gotham City | Injustice League | Legion Of Doom | Secret Society Of Super Villains | Monster | Mystical |",
     "alternates": [
       {
         "name": "Solomon Grundy",
@@ -1878,11 +1878,11 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Keywords": "Herald | Sinestro Corps | Warrior",
-    "Keywords Search": "| Herald | Sinestro Corps | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: SINESTRO'S WEAPONERSWhen Qwardian Thunderer is KO'd by an opposing character, after resolutions you may roll a D6.[d:1]-[d:3]: Generate a standard object in the square Qwardian Thunderer last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Keywords Search": "| Herald | Sinestro Corps | Warrior |",
     "alternates": [
       {
         "name": "Qwardian Thunderer",
@@ -1987,13 +1987,13 @@
     "Rarity": "Common",
     "Point Values": "75",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Herald | Legion Of Doom | Scientist | Sinestro Corps",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Herald | Legion Of Doom | Scientist | Sinestro Corps |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PREYING ON YOUR FEARSPowers: Smoke CloudSmoke Cloud as FREE, but only to generate 2 markers. If you weren't the first player, generate 4 instead. // When Scarecrow makes a close attack, opposing characters occupying his Smoke markers are considered adjacent to him.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Herald | Legion Of Doom | Scientist | Sinestro Corps |",
     "alternates": [
       {
         "name": "Scarecrow",
@@ -2128,11 +2128,11 @@
     "Properties": "Generic",
     "Point Values": "25",
     "Keywords": "Project Cadmus | Robot | Spy",
-    "Keywords Search": "| Project Cadmus | Robot | Spy |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] UPDATING PROTOCOLSOMAC starts the game on click #6. // Once per turn, when another friendly [set:not] #019a OMAC is KO'd, after resolution you may heal OMAC 2 clicks. OMAC may heal past his starting line this way.",
+    "Keywords Search": "| Project Cadmus | Robot | Spy |",
     "alternates": [
       {
         "name": "OMAC",
@@ -2250,12 +2250,12 @@
     "Properties": "Prime",
     "Point Values": "175/100",
     "Keywords": "Brute | Project Cadmus | Robot | Spy",
-    "Keywords Search": "| Brute | Project Cadmus | Robot | Spy |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] ABSORPTION CELLSOMAC Prime can use the displayed standard powers of adjacent opposing characters.[Trait] OMAC VIRUSPowers: LeadershipLeadership, but increase Action Total by +2 instead of +1 if OMAC Prime is on a themed team. // When an opposing character is KO'd by a friendly character with the Robot keyword, after resolutions you may generate a [set:not] #019a OMAC. // FREE: KO an adjacent bystander.",
+    "Keywords Search": "| Brute | Project Cadmus | Robot | Spy |",
     "alternates": [
       {
         "name": "OMAC Prime",
@@ -2450,13 +2450,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50/35",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Legion Of Doom | Detective",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Legion Of Doom | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] RIDDLE ME THISAdjacent friendly characters have SAFEGUARD: Opposing Probability Control. // If you weren't the first player, opposing characters within range have SAFEGUARD: Friendly Probability Control.[Damage] A REAL STUMPERPowers: OutwitOutwit. When The Riddler uses it to target an opposing character that was targeted by Perplex since your last turn, after resolutions deal that character 1 damage.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Legion Of Doom | Detective |",
     "alternates": [
       {
         "name": "The Riddler",
@@ -2573,12 +2573,12 @@
     "Rarity": "Uncommon",
     "Point Values": "75",
     "Keywords": "Animal | Gorilla City | Legion Of Doom | Ruler",
-    "Keywords Search": "| Animal | Gorilla City | Legion Of Doom | Ruler |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] GORILLA CITY SHALL RULE!Powers: Mind Control, LeadershipMind Control, Leadership. When Grodd uses Leadership and succeeds, after resolutions you may move a friendly character with the Animal keyword up to 3 squares.[Defense] RULE BY STRENGTHPowers: Invulnerability, MastermindInvulnerability, Mastermind",
+    "Keywords Search": "| Animal | Gorilla City | Legion Of Doom | Ruler |",
     "alternates": [
       {
         "name": "Grodd",
@@ -2709,12 +2709,12 @@
     "Rarity": "Uncommon",
     "Point Values": "115/50",
     "Keywords": "Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] THE BLACKEST NIGHT FALLS FROM THE SKIESFREE: Generate a Grave hindering terrain marker within range. If any characters were KO'd this turn, generate 2 instead.[Damage] THE DARKNESS GROWSPowers: PerplexPerplex. When Black Hand uses it, he can target characters occupying or adjacent to any friendly Grave terrain marker regardless of range or line of fire.",
+    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Black Hand",
@@ -2864,13 +2864,13 @@
     "Rarity": "Uncommon",
     "Point Values": "100/70/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Future | Legion Of Super Villains",
-    "Keywords Search": "| Future | Legion Of Super Villains |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ADJUSTING THE PAST THROUGH FORCEPowers: PerplexPerplex. When Lightning Lord uses it, he may count squares for range and line of fire from friendly characters with the Legion of Super Villains keyword. // If Lightning Lord is 100 points, he can use Perplex twice a turn.[Trait] MONITORING EARTH FROM ORBITIf Lightning Lord is on a themed team, when he uses [ta:team_player] he may instead choose a copyable team ability an opposing character can use.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Future | Legion Of Super Villains |",
     "alternates": [
       {
         "name": "Lightning Lord",
@@ -3021,11 +3021,11 @@
     "Rarity": "Uncommon",
     "Point Values": "45",
     "Keywords": "Gotham City Underworld | Past | Robot | Soldier | Spy | Vehicle",
-    "Keywords Search": "| Gotham City Underworld | Past | Robot | Soldier | Spy | Vehicle |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TRANSCHANGER[cs:passenger]: 2. // [cs:passenger]: 6, but only to carry characters with the Gotham City Underworld keyword.[Trait] ANTI-MIND CONTROL PLATINGSy Borgman and adjacent friendly characters that share a keyword with him have SAFEGUARD: Mind Control.",
+    "Keywords Search": "| Gotham City Underworld | Past | Robot | Soldier | Spy | Vehicle |",
     "alternates": [
       {
         "name": "Sy Borgman",
@@ -3110,13 +3110,13 @@
     "Rarity": "Uncommon",
     "Point Values": "90/60",
     "Team Abilities": "Injustice League",
-    "Team Abilities Search": "| Injustice League |",
     "Keywords": "Herald | Injustice League | Legion Of Doom | Ruler | Secret Society Of Super Villains | Sinestro Corps",
-    "Keywords Search": "| Herald | Injustice League | Legion Of Doom | Ruler | Secret Society Of Super Villains | Sinestro Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LEADING BY FEARPowers: LeadershipLeadership. // Friendly characters with the Sinestro Corps keyword have [ta:injustice_league].[Trait] THE YELLOW RINGPowers: PerplexPerplex, but only to negatively modify combat values. // When a friendly character with [ta:injustice_league] attacks an opposing character that has a negatively modified combat value, their attack rolls of 10 and 11 are critical hits.",
+    "Team Abilities Search": "| Injustice League |",
+    "Keywords Search": "| Herald | Injustice League | Legion Of Doom | Ruler | Secret Society Of Super Villains | Sinestro Corps |",
     "alternates": [
       {
         "name": "Sinestro",
@@ -3251,13 +3251,13 @@
     "Rarity": "Uncommon",
     "Point Values": "80/30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Cosmic | Injustice League | Robot | Scientist",
-    "Keywords Search": "| Cosmic | Injustice League | Robot | Scientist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEW CONFIGURATIONSPowers: LeadershipLeadership. // When Brainiac uses it, friendly characters within range that share a keyword with him are considered adjacent to him.[Damage] YOUR MIGHTIEST, DEFEATED BY MATHPowers: OutwitOutwit. When Brainiac uses it to target a character that can use Impervious and chooses a defense power, modify the target's combat values by -1 until your next turn. Protected: Outwit",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Cosmic | Injustice League | Robot | Scientist |",
     "alternates": [
       {
         "name": "Brainiac",
@@ -3407,14 +3407,14 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Mystics | Suicide Squad",
-    "Team Abilities Search": "| Mystics | Suicide Squad |",
     "Keywords": "Ghost Realm | Past | Secret Society Of Super Villains | Suicide Squad | Monster | Mystical",
-    "Keywords Search": "| Ghost Realm | Past | Secret Society Of Super Villains | Suicide Squad | Monster | Mystical |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] I'LL BE TAKING THATAdjacent opposing characters can't use attack powers or the EFFECT of equipment.[Defense] HOW TERRIBLY RUDEPowers: Super SensesSuper Senses. When Gentleman Ghost uses it and succeeds, after resolutions deal the attacker 1 penetrating damage.",
+    "Team Abilities Search": "| Mystics | Suicide Squad |",
+    "Keywords Search": "| Ghost Realm | Past | Secret Society Of Super Villains | Suicide Squad | Monster | Mystical |",
     "alternates": [
       {
         "name": "Gentleman Ghost",
@@ -3515,14 +3515,14 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Team Player | Batman Enemy",
-    "Team Abilities Search": "| Team Player | Batman Enemy |",
     "Keywords": "Arkham Asylum | Batman Family | Gotham City | Gotham City Underworld | Legion Of Doom | Scientist | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Batman Family | Gotham City | Gotham City Underworld | Legion Of Doom | Scientist | Suicide Squad |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] HARLEY'S PUTTING A CREW TOGETHERWhen establishing themed teams, Harley Quinn may choose a character that shares a keyword with her. That character gains the Gotham City Underworld keyword.[Trait] BFF GFFSFREE: Make an attack targeting an opposing character that attacked Harley Quinn or another friendly character with the Gotham City Underworld keyword since your last turn. // When Harley Quinn attacks a character that damaged a friendly character named Poison Ivy since your last turn, modify her attack and damage +1.",
+    "Team Abilities Search": "| Team Player | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Batman Family | Gotham City | Gotham City Underworld | Legion Of Doom | Scientist | Suicide Squad |",
     "alternates": [
       {
         "name": "Harley Quinn",
@@ -3657,14 +3657,14 @@
     "Properties": "Generic",
     "Point Values": "55",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Central City | Assassin | Injustice League | Rogues | Secret Society Of Super Villains | Suicide Squad",
-    "Keywords Search": "| Central City | Assassin | Injustice League | Rogues | Secret Society Of Super Villains | Suicide Squad |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Blocking | Characters",
     "Traits and Special Powers": "[Defense] DUPLICATESPowers: Super SensesSuper Senses. When Mirror Master uses it and succeeds, after resolutions he may generate a [set:not] #029 Mirror Master on click #7 within range. This game, that character is not scored when KO'd. // When Mirror Master uses Super Senses, increase the result +1 if one or more adjacent characters are named Mirror Master. Protected: Outwit",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Central City | Assassin | Injustice League | Rogues | Secret Society Of Super Villains | Suicide Squad |",
     "alternates": [
       {
         "name": "Mirror Master",
@@ -3781,13 +3781,13 @@
     "Properties": "Generic",
     "Point Values": "40",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Cosmic | Secret Society Of Super Villains | Sinestro Corps",
-    "Keywords Search": "| Animal | Cosmic | Secret Society Of Super Villains | Sinestro Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] ATTACHED TO YOUR FACEWhen an adjacent opposing character begins a move or is placed, after resolutions you may place Starrophyte adjacent to that character.[Trait] CHILD OF THE CONQUERORIf another friendly character has the Cosmic and Ruler keywords, modify Starrophyte's attack +1. // At the beginning of the game, if a friendly character is named Starro, generate a [set:not] #030 Starrophyte on click #1.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Cosmic | Secret Society Of Super Villains | Sinestro Corps |",
     "alternates": [
       {
         "name": "Starrophyte",
@@ -3874,13 +3874,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Central City | Legion Of Doom | Rogues | Suicide Squad",
-    "Keywords Search": "| Central City | Legion Of Doom | Rogues | Suicide Squad |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THERE ARE ONLY FOUR RULES...Powers: LeadershipLeadership. When Captain Cold uses it and succeeds, this turn friendly characters automatically break away.[Attack] COLD GUNPowers: IncapacitateIncapacitate. // When Captain Cold hits, after resolutions he may generate an Ice blocking terrain marker adjacent to a hit character. This game, that terrain marker has \"Adjacent characters must roll breakaway to move if they don't already.\" At the beginning of your next turn (even if this is lost) remove it.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Central City | Legion Of Doom | Rogues | Suicide Squad |",
     "alternates": [
       {
         "name": "Captain Cold",
@@ -4000,14 +4000,14 @@
     "Rarity": "Uncommon",
     "Point Values": "90",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Kryptonian | Ruler | Soldier",
-    "Keywords Search": "| Kryptonian | Ruler | Soldier |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] KNEEL BEFORE ZODFREE: Choose an opposing character within 4 squares and line of fire. Both you and that character's controller roll 2d6. If the chosen character is less than 90 points, increase your result by +2. If your result is higher, give that character an action token. If you can't give them an action token, deal them 1 unavoidable damage instead.",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Kryptonian | Ruler | Soldier |",
     "alternates": [
       {
         "name": "Zod",
@@ -4142,13 +4142,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Celebrity | Gotham City Underworld | Suicide Squad",
-    "Keywords Search": "| Celebrity | Gotham City Underworld | Suicide Squad |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GIMMICKED POLKA-DOTSFREE: Roll a d6. Turn Polka-Dot Man to the resulting click number.[d:4]: Click #1[d:5]: Click #5[d:6]: Click #9[Trait] DOT'S ALL SHE WROTE!Polka-Dot Man takes a maximum of 2 damage from effects. // When Polka-Dot Man is KO'd, after resolutions other friendly characters that have the Suicide Squad keyword heal 2 clicks.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Celebrity | Gotham City Underworld | Suicide Squad |",
     "alternates": [
       {
         "name": "Polka-Dot Man",
@@ -4296,13 +4296,13 @@
     "Rarity": "Rare",
     "Point Values": "90/45",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Assassin | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains | Suicide Squad",
-    "Keywords Search": "| Assassin | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains | Suicide Squad |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] UNDERSEA SALVAGEUNIQUE MODIFIER: FREE: If Black Manta occupies or is adjacent to water terrain, roll a d6. All friendly characters with [cs:dolphin] modify the listed combat value(s) matching the numbers on the d6 by +1 until your next turn.[d:3]-[d:4]: Attack[d:5]: Damage[d:6]: Attack and Damage[Trait] RAMPANT PIRACYWhen a friendly character with [cs:dolphin] hits a single equipped opposing character, they may choose to deal a maximum of 1 damage to that target. If they do, they may equip any equipment equipped to the hit target.[Attack] DEVIL RAYPowers: Energy Explosion, Precision StrikeEnergy Explosion, Precision Strike, KNOCKBACK.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Assassin | Injustice League | Legion Of Doom | Pirate | Secret Society Of Super Villains | Suicide Squad |",
     "alternates": [
       {
         "name": "Black Manta",
@@ -4437,13 +4437,13 @@
     "Rarity": "Rare",
     "Point Values": "90",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Animal | Arkham Asylum | Assassin | Gotham City Underworld | Secret Society Of Super Villains | Suicide Squad | Monster",
-    "Keywords Search": "| Animal | Arkham Asylum | Assassin | Gotham City Underworld | Secret Society Of Super Villains | Suicide Squad | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEWER MAZEWhen placing characters during setup, if you're not the first player, you may place Killer Croc up to 6 squares from your starting area. If you do, generate 4 Water terrain markers anywhere on the map.[Trait] CROCODILE JAWSPowers: Blades Claws FangsBlades/Claws/Fangs. When Killer Croc uses it, if the hit character occupies water terrain, the minimum result is instead his printed damage value +1.[Speed] REPTILIAN MUTATIONPowers: ChargeCharge. When Killer Croc uses it, if he occupies water terrain, before moving you may place him in a square of water terrain within 4 squares.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Animal | Arkham Asylum | Assassin | Gotham City Underworld | Secret Society Of Super Villains | Suicide Squad | Monster |",
     "alternates": [
       {
         "name": "Killer Croc",
@@ -4591,14 +4591,14 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Assassin | Gotham City | Secret Six | Suicide Squad",
-    "Keywords Search": "| Assassin | Gotham City | Secret Six | Suicide Squad |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering | Characters",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] ONE SHOT, ONE KILLPOWER: Range 8. Make a range attack that deals penetrating damage, but only to target opposing characters with a Target token regardless of line of fire.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Assassin | Gotham City | Secret Six | Suicide Squad |",
     "alternates": [
       {
         "name": "Deadshot",
@@ -4715,13 +4715,13 @@
     "Rarity": "Rare",
     "Point Values": "80",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Assassin | League Of Assassins | Martial Artist | Ruler",
-    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist | Ruler |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] LEADER OF THE LEAGUEFREE: If no opposing characters have a Target token, give an opposing character a Target token. Friendly characters with a \"The Target\" trait treat that token as if it were generated by that trait.[Defense] RESILIENT, UNDYINGPowers: Mastermind, Super Senses, ToughnessMastermind, Super Senses, Toughness.[Damage] READY TO FACE YOUR BETTER, DETECTIVE?Powers: Leadership, OutwitLeadership, Outwit. When Ra's Al Ghul uses Leadership and succeeds, you may generate a [set:not] #007 League Assassin on click #3.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist | Ruler |",
     "alternates": [
       {
         "name": "Ra's Al Ghul",
@@ -4841,11 +4841,11 @@
     "Properties": "Prime | Sideline Active",
     "Point Values": "40",
     "Keywords": "Brute | Assassin | League Of Assassins | Martial Artist | Ruler",
-    "Keywords Search": "| Brute | Assassin | League Of Assassins | Martial Artist | Ruler |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE DEMONSIDELINE ACTIVE - Other friendly characters with the Assassin keyword modify attack +1. // SIDELINE ACTIVE - When another friendly character named Ra's Al Ghul is KO'd, you may generate Ra's Al Ghul from your Sideline on click #5 in the square that character last occupied. If you do, until your next turn he has IMMUNE.[Trait] THE LAZARUS PITPowers: RegenerationRegeneration as FREE, but only if Ra's Al Ghul occupies water terrain or a square on the map edge.[Speed] FRENZIED AND REBORNPowers: Charge, Flurry, SidestepCharge, Flurry, Sidestep.",
+    "Keywords Search": "| Brute | Assassin | League Of Assassins | Martial Artist | Ruler |",
     "alternates": [
       {
         "name": "Ra's Al Ghul",
@@ -4964,13 +4964,13 @@
     "Rarity": "Rare",
     "Point Values": "80/30",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Assassin | Court Of Owls | Gotham City | Gotham City Underworld | Politician",
-    "Keywords Search": "| Assassin | Court Of Owls | Gotham City | Gotham City Underworld | Politician |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] THE NEXT MAYOR OF GOTHAM CITYPowers: Leadership, MastermindLeadership, Mastermind. When Lincoln March uses Leadership and succeeds, you may instead generate a [set:not] #006 Court of Owls Assassin on click #3.[Damage] POLITICS IS A NASTY BUSINESSPowers: Exploit Weakness, OutwitExploit Weakness, Outwit.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Assassin | Court Of Owls | Gotham City | Gotham City Underworld | Politician |",
     "alternates": [
       {
         "name": "Lincoln March",
@@ -5118,13 +5118,13 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "40",
     "Team Abilities": "Police | Suicide Squad",
-    "Team Abilities Search": "| Police | Suicide Squad |",
     "Keywords": "Arkham Asylum | Politician | Spy | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Politician | Spy | Suicide Squad |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BOMB COLLARSWhen a friendly standard character is KO'd by an opponent's attack, after resolutions you may deal 1 penetrating damage to each opposing character adjacent to the last square they occupied.[Trait] WHAT'S THE PROBLEM HERE?SIDELINE ACTIVE - At the beginning of your turn, if two or more friendly characters that share a keyword with Amanda Waller were KO'd since your last turn, you may generate Amanda Waller from your Sideline into your starting area on click #1.[Damage] TASK FORCE XPowers: Leadership, Outwit, PerplexLeadership, Outwit, Perplex.",
+    "Team Abilities Search": "| Police | Suicide Squad |",
+    "Keywords Search": "| Arkham Asylum | Politician | Spy | Suicide Squad |",
     "alternates": [
       {
         "name": "Amanda Waller",
@@ -5223,13 +5223,13 @@
     "Rarity": "Rare",
     "Point Values": "80/50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Armor | Gotham City Underworld | Injustice League | Scientist | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Armor | Gotham City Underworld | Injustice League | Scientist | Suicide Squad |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FROZEN EARTHAt the beginning of the game generate 2 Ice blocking terrain markers in any squares at least 3 squares from a map edge. This game those markers have \"Adjacent characters must roll breakaway to move if they don't already.\" If you're not the first player, generate 4 instead.[Trait] FROZEN IN FEARWhen an opposing character fails a break away roll, after resolutions deal them 1 penetrating damage.[Attack] ICE GUNPowers: IncapacitateIncapacitate. When Mr. Freeze uses it, after resolutions deal each hit character damage equal to their action tokens.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Armor | Gotham City Underworld | Injustice League | Scientist | Suicide Squad |",
     "alternates": [
       {
         "name": "Mr. Freeze",
@@ -5364,13 +5364,13 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist | Past | Secret Six",
-    "Keywords Search": "| Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist | Past | Secret Six |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] MASTER ASSASSINPowers: Shape ChangeShape Change. When Strix uses it, if an opposing character has a Target token, increase the result by +1.[Speed] MOVING WITH THE SHADOWSPowers: ChargeCharge. When Strix uses it, after moving you may place her in a square of hindering terrain within 4 squares and line of fire.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist | Past | Secret Six |",
     "alternates": [
       {
         "name": "Strix",
@@ -5490,13 +5490,13 @@
     "Properties": "Prime",
     "Point Values": "60",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist",
-    "Keywords Search": "| Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] GHOST, MYTH, MORE THAN MORTALPowers: Shape Change, Stealth, RegenerationShape Change, Stealth. Regeneration as FREE.[Attack] TOOLS OF THE TRADEWhen a friendly character with the Assassin keyword attacks, opposing characters with a Target token can't use Defense powers. // Friendly characters with the Court of Owls keyword have SAFEGUARD: Opposing Probability Control.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Birds Of Prey | Assassin | Court Of Owls | Gotham City | Martial Artist |",
     "alternates": [
       {
         "name": "Talon",
@@ -5615,13 +5615,13 @@
     "Rarity": "Rare",
     "Point Values": "100/70/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Future | Legion Of Super Villains",
-    "Keywords Search": "| Future | Legion Of Super Villains |",
     "Range": "7",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ADJUSTING THE PAST THROUGH FORCEPowers: Probability ControlProbability Control. When Saturn Queen uses it, she may count squares for range and line of fire from friendly characters with the Legion of Super Villains keyword. // If Saturn Queen is 100 points, she can use Probability Control twice a turn.[Damage] NOT THE PUSH-OVER YOU THOUGHT I WASPowers: Shape ChangeShape Change. When Saturn Queen uses it and succeeds, after resolutions deal the attacker 1 penetrating damage.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Future | Legion Of Super Villains |",
     "alternates": [
       {
         "name": "Saturn Queen",
@@ -5772,13 +5772,13 @@
     "Rarity": "Rare",
     "Point Values": "100/70/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Future | Legion Of Super Villains | Scientist",
-    "Keywords Search": "| Future | Legion Of Super Villains | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ADJUSTING THE PAST THROUGH FORCEPowers: OutwitOutwit. When Cosmic King uses it, he may count squares for range and line of fire from friendly characters with the Legion of Super Villains keyword. // If Cosmic King is 100 points, he can use Outwit twice a turn.[Attack] BRING THIS PLACE DOWN ON YOUR HEADFREE: Choose a piece of blocking terrain within range and destroy it. After resolutions, deal 1 penetrating damage to each opposing character that was adjacent to the destroyed terrain.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Future | Legion Of Super Villains | Scientist |",
     "alternates": [
       {
         "name": "Cosmic King",
@@ -5929,14 +5929,14 @@
     "Rarity": "Rare",
     "Point Values": "125/75/40",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Herald | Monster | Black Lantern Corps | Deity",
-    "Keywords Search": "| Herald | Monster | Black Lantern Corps | Deity |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] RISE...FREE: Generate a Grave hindering terrain marker within range and line of fire. // Friendly characters with the Black Lantern Corps keyword occupying or adjacent to any friendly Grave terrain markers may heal past their starting lines if healed by a character with the Black Lantern Corps keyword.[Trait] ...AND DEVOURPowers: Steal EnergySteal Energy, but may use it with close or range attacks. // When an opposing character is KO'd, after resolutions heal a friendly character with the Black Lantern Corps keyword 2 clicks.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Herald | Monster | Black Lantern Corps | Deity |",
     "alternates": [
       {
         "name": "Nekron",
@@ -6087,13 +6087,13 @@
     "Rarity": "Rare",
     "Point Values": "80/50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Herald | Scientist",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Herald | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BFF GFFSFREE: Make an attack targeting an opposing character that attacked Poison Ivy or another friendly character with the Gotham City Underworld keyword since your last turn. // When Poison Ivy attacks a character that damaged a friendly character named Harley Quinn since your last turn, modify her attack and damage +1.[Trait] BLACK ROSE RESSURECTIONThe first time Poison Ivy would be KO'd, instead turn her to click #9 and KO any number of friendly Thorn Vine bystanders. Heal Poison Ivy 1 click for each Thorn Vine bystander KO'd this way.[Attack] ENTER THE GREENFREE: Generate a Thorn Vine bystander [MAX 4] in a square within range and line of fire.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Herald | Scientist |",
     "alternates": [
       {
         "name": "Poison Ivy",
@@ -6243,10 +6243,10 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Batman Enemy |",
     "alternates": [
       {
         "name": "Thorn Vine",
@@ -6278,14 +6278,14 @@
     "Rarity": "Rare",
     "Point Values": "200/100",
     "Team Abilities": "Cosmic Energy | Mystics",
-    "Team Abilities Search": "| Cosmic Energy | Mystics |",
     "Keywords": "Justice Society | Legion Of Doom | Past | Ruler | Secret Society Of Super Villains | Sinestro Corps | Mystical | Warrior | Deity",
-    "Keywords Search": "| Justice Society | Legion Of Doom | Past | Ruler | Secret Society Of Super Villains | Sinestro Corps | Mystical | Warrior | Deity |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] THE LIVING LIGHTNINGWhen Black Adam uses [ta:mystics] he also deals 1 penetrating damage to each opposing character within 3 squares of the attacker.[Defense] GUARDIAN OF KAHNDAQPowers: InvincibleInvincible. // Friendly characters within range and line of fire can use Mastermind, but only to choose Black Adam regardless of adjacency.",
+    "Team Abilities Search": "| Cosmic Energy | Mystics |",
+    "Keywords Search": "| Justice Society | Legion Of Doom | Past | Ruler | Secret Society Of Super Villains | Sinestro Corps | Mystical | Warrior | Deity |",
     "alternates": [
       {
         "name": "Black Adam",
@@ -6466,13 +6466,13 @@
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Injustice League | Monster",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Injustice League | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TAP DANCE ON YOUR GRAVEPowers: Charge, PlasticityCharge, Plasticity. // When an opposing character within range is knocked back, after resolutions you may place The Joker adjacent to that character.[Trait] YOU GET WHAT YOU DESERVEPowers: PoisonPoison. When The Joker uses it, characters occupying or adjacent to any friendly Smoke terrain markers within 6 squares are considered adjacent to him. // At the beginning of the game generate 2 Smoke terrain markers into any squares. If you aren't the first player, generate 4 instead.[Attack] WE'LL DO THIS DANCE FOREVER, BATSPowers: Blades Claws FangsBlades/Claws/Fangs. When The Joker uses it, after resolutions choose one: *Heal The Joker equal to half the result. *Place The Joker up to 2 squares away.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Injustice League | Monster |",
     "alternates": [
       {
         "name": "The Joker",
@@ -6607,13 +6607,13 @@
     "Properties": "Prime",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Celebrity | Gotham City | Gotham City Underworld",
-    "Keywords Search": "| Celebrity | Gotham City | Gotham City Underworld |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TRAGEDY AND COMEDY IN ONEPowers: PerplexPerplex. Jokester can use Perplex up to three times a turn, but can't target the same character with it more than once a turn.[Trait] LEAVE THE JOKES TO THE PROFESSIONALSPowers: Probability ControlProbability Control. // When an opposing character rerolls a roll or replaces a die in a roll, after resolutions give that character an action token. If you can't deal them 1 penetrating damage.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Celebrity | Gotham City | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Jokester",
@@ -6730,14 +6730,14 @@
     "Rarity": "Super Rare",
     "Point Values": "150/100",
     "Team Abilities": "Justice League | Wonder Woman Ally",
-    "Team Abilities Search": "| Justice League | Wonder Woman Ally |",
     "Keywords": "Justice League | Amazon | Warrior | Deity",
-    "Keywords Search": "| Justice League | Amazon | Warrior | Deity |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] THIS IS FOR SUPERMAN!When Wonder Woman KO's an oppposing character, give her a Regime Token. // FREE: Remove a Regime Token from Wonder Woman. If you do, remove an action token from her and heal 1 click.[Attack] SURRENDER WHILE YOU CANPowers: Blades Claws FangsBlades/Claws/Fangs. When Wonder Woman uses it, if the d6 roll is less than her printed damage, the damage dealt is penetrating.[Defense] THE OFFSPRING OF GODSPowers: Stop, Impervious, Super SensesSTOP. Impervious, Super Senses.",
+    "Team Abilities Search": "| Justice League | Wonder Woman Ally |",
+    "Keywords Search": "| Justice League | Amazon | Warrior | Deity |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -6902,13 +6902,13 @@
     "Rarity": "Super Rare",
     "Point Values": "150",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Justice League | Kryptonian | Metropolis | Ruler | Sinestro Corps",
-    "Keywords Search": "| Justice League | Kryptonian | Metropolis | Ruler | Sinestro Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I'LL CRUSH YOU LIKE THE OTHERS!Superman deals penetrating damage.[Speed] JUSTICE REQUIRES ORDERPowers: ChargeCharge. // Once per turn, when another friendly character is damaged by an attack, after resolutions you may place Superman adjacent to the attacker. If you do, Superman has Immune until your next turn.[Damage] ONE EARTH REGIMEPowers: LeadershipLeadership. When Superman uses it and succeeds, he may instead remove an action token from himself and have all friendly characters modify attack +1 this turn.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Justice League | Kryptonian | Metropolis | Ruler | Sinestro Corps |",
     "alternates": [
       {
         "name": "Superman",
@@ -7070,13 +7070,13 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Police | Politician",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Police | Politician |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HEADS I WIN...FREE: If Two-Face began the turn on the map, flip a coin. If it's Heads, modify his combat values +1 until your next turn. Otherwise, either replace Two-Face with [set:not] #050b Two-Face or deal him 1 unavoidable damage.[Trait] IT'S ALL 50/50When Two-Face makes an attack with a single target, instead of rolling a 2d6 you may flip a coin. *Heads: The attack is a critical hit. *Tails: The attack is a critical miss.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Police | Politician |",
     "alternates": [
       {
         "name": "Two-Face",
@@ -7195,13 +7195,13 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Police | Politician",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Police | Politician |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ...TAILS YOU LOSEPowers: RegenerationFREE: If Two-Face began the turn on the map, flip a coin. If it's Tails, give up to two opposing characters within range and line of fire an action token. Otherwise, either replace Two-Face with [set:not] #050a Two-Face or deal him 1 unavoidable damage.[Trait] TRY FOR DOUBLE OR NOTHING?When Two-Face would be hit by an attack, you may flip a coin. *Heads: The attack is instead a critical hit. *Tails: The attack is instead a critical miss.",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Police | Politician |",
     "alternates": [
       {
         "name": "Two-Face",
@@ -7320,13 +7320,13 @@
     "Rarity": "Super Rare",
     "Point Values": "65/25",
     "Team Abilities": "Underworld | Batman Enemy",
-    "Team Abilities Search": "| Underworld | Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Scientist",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ZOMBIE HUNTIN'If you were the first player, when an opposing character is damaged by a friendly character's attack, after resolutions deal that opposing character 1 unavoidable damage. If they're not KO'd, heal them 1 click. // UNIQUE MODIFIER - If an opponent's force has more characters than yours, friendly characters modify attack and damage +1.[Attack] DOUBLE BARRELSPowers: Energy ExplosionKNOCKBACK. Energy Explosion. // Harley Quinn deals penetrating damage to characters with the Monster keyword.[Damage] LOOK AT ALL THESE KIDS WE CAN CORRUPT!Powers: Empower, SupportEmpower, Support.",
+    "Team Abilities Search": "| Underworld | Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist |",
     "alternates": [
       {
         "name": "Harley Quinn",
@@ -7461,14 +7461,14 @@
     "Rarity": "Super Rare",
     "Point Values": "65/25",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Herald | Scientist | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Herald | Scientist | Suicide Squad |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] GROWING THE GOTHAM JUNGLEFor all characters with this trait, when a character is given an action, if an opposing terrain marker was destroyed during that action, after resolutions score 5 victory points and generate a Plant Hindering terrain marker into a square of a destroyed terrain marker. This game, that marker has \"When this marker hinders line of fire, characters instead modify defense +2.\"[Speed] SHELTERING THE SURVIVORSPowers: Stealth, PlasticityStealth, Plasticity. // Friendly characters occupying or adjacent to one or more terrain markers generated by Poison Ivy modify defense +1.[Attack] CRUSHING VINESPowers: IncapacitateIncapacitate. When Poison Ivy uses it, after resolutions deal each hit character with the Monster keyword 3 damage.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Herald | Scientist | Suicide Squad |",
     "alternates": [
       {
         "name": "Poison Ivy",
@@ -7603,14 +7603,14 @@
     "Rarity": "Super Rare",
     "Point Values": "115/80",
     "Team Abilities": "Suicide Squad",
-    "Team Abilities Search": "| Suicide Squad |",
     "Keywords": "Animal | Brute | Gotham City Underworld | Secret Six | Secret Society Of Super Villains | Suicide Squad",
-    "Keywords Search": "| Animal | Brute | Gotham City Underworld | Secret Six | Secret Society Of Super Villains | Suicide Squad |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] INSATIABLE HUNGERPowers: RegenerationRegeneration as FREE, but only if King Shark KO'd an opposing character or destroyed an opposing terrain marker this turn. If he did both, when he uses it don't halve the result.[Trait] ENRAGED SHARK MONSTERPowers: Battle FuryBattle Fury, but only if a character has been damaged since your last turn. // When King Shark destroys blocking terrain, after resolutions generate water terrain markers in the squares of the destroyed terrain.[Speed] EVEN FASTER IN WATERPowers: Charge, Plasticity, Hypersonic Speed, FlurryCharge, Plasticity. // Hypersonic Speed, but only if King Shark occupies water terrain. When King Shark uses it, he may use Flurry as FREE instead of making an attack.",
+    "Team Abilities Search": "| Suicide Squad |",
+    "Keywords Search": "| Animal | Brute | Gotham City Underworld | Secret Six | Secret Society Of Super Villains | Suicide Squad |",
     "alternates": [
       {
         "name": "King Shark",
@@ -7776,14 +7776,14 @@
     "Properties": "Prime",
     "Point Values": "110",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Ruler | Monster | Deity",
-    "Keywords Search": "| Animal | Ruler | Monster | Deity |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Destroy Blocking | Move Through",
     "Traits and Special Powers": "[Trait] PORTAL TO THE REDPowers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy. // When Kamo moves, before moving, you may place him adjacent to a friendly character within 4 squares.[Trait] A GOD AMONGST FISHAt the beginning of your turn, generate a Shark bystander [MAX 1]. // FREE: Choose a friendly bystander and move it up to its speed value. If the bystander has [cs:dolphin], it may make an attack.[Defense] SURVIVING HELLFIREPowers: Stop, Impervious, Super SensesSTOP. Impervious, Super Senses.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Ruler | Monster | Deity |",
     "alternates": [
       {
         "name": "Kamo",
@@ -7938,14 +7938,14 @@
     "Properties": "Unique",
     "Point Values": "90",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Keywords": "Animal | Batman Family | Gotham City Underworld",
-    "Keywords Search": "| Animal | Batman Family | Gotham City Underworld |",
     "Range": "2",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] CATS HAVE NINE LIVESCatwoman takes a maximum of 1 damage from effects. // When Catwoman is damaged, after resolutions generate a Cat bystander.[Trait] I AM CATWOMAN, HEAR ME ROAR!Catwoman can't be chosen for Mastermind or healed.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
+    "Keywords Search": "| Animal | Batman Family | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Catwoman",
@@ -8100,10 +8100,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
+    "Team Abilities Search": "| Batman Enemy |",
     "alternates": [
       {
         "name": "Cat",
@@ -8135,13 +8135,13 @@
     "Rarity": "Super Rare",
     "Point Values": "40",
     "Team Abilities": "Team Player | Batman Enemy",
-    "Team Abilities Search": "| Team Player | Batman Enemy |",
     "Keywords": "Birds Of Prey | Brute | Gotham City | Gotham City Underworld | Injustice League | Politician | Secret Society Of Super Villains",
-    "Keywords Search": "| Birds Of Prey | Brute | Gotham City | Gotham City Underworld | Injustice League | Politician | Secret Society Of Super Villains |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] INFORMATION BROKEROnce per turn, when a friendly character uses an Expendable Goon trait, you may reroll that d6. // At the beginning of the game, if you're not the first player, generate up to two characters with an Expendable Goon trait on their 15 point starting lines.[Attack] TRICK UMBRELLASPowers: Poison, Smoke Cloud, Blades Claws Fangs, Precision Strike, Energy ExplosionFREE: Choose an effect for The Penguin or an adjacent friendly character to use until your next turn: *Poison. Smoke Cloud as FREE, but only to generate 3 markers. *Blades/Claws/Fangs, Precision Strike *Energy Explosion, KNOCKBACK",
+    "Team Abilities Search": "| Team Player | Batman Enemy |",
+    "Keywords Search": "| Birds Of Prey | Brute | Gotham City | Gotham City Underworld | Injustice League | Politician | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "The Penguin",
@@ -8246,13 +8246,13 @@
     "Properties": "Unique",
     "Point Values": "50",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld |",
     "Range": "2",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SOMEONE CARRY MY POT!Frank The Plant may be carried as if he had [cs:tiny]. // Frank The Plant may be given non-FREE actions after being carried.[Attack] SWALLOW WHOLEPowers: Blades Claws FangsBlades/Claws/Fangs. // When Frank The Plant KOs an opposing character, after resolutions turn him to click #1.[Defense] TESTS POSTITIVELY WITH AUDIENCESPowers: StopSTOP.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Frank The Plant",
@@ -8356,13 +8356,13 @@
     "Rarity": "Super Rare",
     "Point Values": "55",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Secret Six",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Secret Six |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] IN THIS STYLE 10/6Powers: Mind ControlMind Control. When Jervis Tetch uses it, he may target characters with Control Chip tokens regardless of line of fire, and after resolutions give each hit character a Control Chip token. // At the beginning of the game, if you were not the first player, choose up to 2 opposing characters and give them a Control Chip token.[Trait] OH DEAR, YOU'RE ALL TURNED AROUND!UNIQUE MODIFIER - Opposing characters with one or more Control Chip tokens modify attack and damage -1. // When an opposing character attacks and hits all targets, after resolutions remove all Control Chip tokens from it.[Defense] OBSESSIVEPowers: Super Senses, Mastermind, WillpowerSuper Senses, Mastermind, Willpower.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Scientist | Secret Six |",
     "alternates": [
       {
         "name": "Jervis Tetch",
@@ -8451,14 +8451,14 @@
     "Rarity": "Super Rare",
     "Point Values": "60",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Legion Of Doom | Metropolis | Scientist | Superman Revenge Squad",
-    "Keywords Search": "| Legion Of Doom | Metropolis | Scientist | Superman Revenge Squad |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] I DEMAND MORE TOYS!Powers: Mind ControlMind Control. When Toyman uses it to target an opposing character with the Armor or Robot keyword, they may be given a second attack before reverting forces. // At the beginning of the game, if you weren't the first player, you may unequip an equipment from an opposing character and equip it to Toyman.[Damage] MURDEROUS TOYMAKERPowers: Empower, EnhancementEmpower, Enhancement. When Toyman uses either, friendly characters that started the game on your opponent's force are considered adjacent to him.",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Legion Of Doom | Metropolis | Scientist | Superman Revenge Squad |",
     "alternates": [
       {
         "name": "Toyman",
@@ -8585,13 +8585,13 @@
     "Rarity": "Super Rare",
     "Point Values": "40/25",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City Underworld",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I GOT YA!Other friendly characters with the Gotham City Underworld keyword within 4 squares can use Mastermind, but only to choose Kite Man regardless of adjacency. When they do, after resolutions place them adjacent to Kite Man.[Trait] KITES ARE PRETTY CRUCIALOther friendly characters that share a keyword with Kite Man have [cs:wing] if they are outdoors.[Speed] HELL YEAHPowers: ChargeCharge. When Kite Man uses it and moves in a direct path, modify his attack and damage +1 for every 2 squares moved through. (This counts both the square he starts in and ends in.)",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Kite Man",
@@ -8725,14 +8725,14 @@
     "Rarity": "Super Rare",
     "Point Values": "125/75",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Brute | Injustice League | Robot | Secret Society Of Super Villains | Soldier | Superman Revenge Squad",
-    "Keywords Search": "| Brute | Injustice League | Robot | Secret Society Of Super Villains | Soldier | Superman Revenge Squad |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] METAL-ZEROPowers: WillpowerWillpower. // When one or more action tokens are removed from Metallo, after resolutions you may give an action token to an adjacent opposing character or an opposing character that has the Kryptonian keyword within range.[Attack] GOODBYE, LOISPowers: Pulse WavePulse Wave. When Metallo uses it and hits, he may choose to increase the damage dealt to each hit target by the number of action tokens on that target. If he does, after resolutions KO Metallo.[Defense] IT'LL BE WORTH ITPowers: Stop, ImperviousSTOP. Impervious. // When this power is first revealed after resolutions remove all action tokens from Metallo.",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Brute | Injustice League | Robot | Secret Society Of Super Villains | Soldier | Superman Revenge Squad |",
     "alternates": [
       {
         "name": "Metallo",
@@ -8912,14 +8912,14 @@
     "Rarity": "Super Rare",
     "Point Values": "60/30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Central City | Gotham City Underworld | Rogues",
-    "Keywords Search": "| Central City | Gotham City Underworld | Rogues |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Speed] SPECIAL SKATES AND GOLDEN LIGHTPowers: Hypersonic SpeedHypersonic Speed. // UNIQUE MODIFIER - When Golden Glider moves through an opposing character, modify that character's attack -1 until your next turn.[Attack] CAMEL SPINPowers: Blades Claws FangsWhen Golden Glider makes a close attack she may choose to target all adjacent opposing characters. // Blades/Claws/Fangs, but may use it if targeting multiple characters and rolls a separate d6 for each hit character.[Defense] BORROWED THIS FROM MY BROTHERPowers: Super SensesSuper Senses. When Golden Glider uses it and succeeds, generate an Ice blocking terrain marker within 4 squares and line of fire. This game, those markers haver \"Adjacent characters must roll breakaway to move if they don't already.\"",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Central City | Gotham City Underworld | Rogues |",
     "alternates": [
       {
         "name": "Golden Glider",
@@ -9066,13 +9066,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70/50",
     "Team Abilities": "Batman Ally | Batman Enemy",
-    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
     "Keywords": "Assassin | Gotham City | Ruler | Monster | Dark Knights",
-    "Keywords Search": "| Assassin | Gotham City | Ruler | Monster | Dark Knights |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] STOLEN TOYSWhen an opposing equipment would be dropped in a square within range, after resolutions Robin King may equip that equipment. If he does, he doesn't unequip any equipment currently equipped to him.[Damage] UTILITY BELT OF NIGHTMARESPowers: OutwitOutwit. When Robin King uses it to target an opposing character with a Target marker, modify that character's combat values -1 until your next turn.",
+    "Team Abilities Search": "| Batman Ally | Batman Enemy |",
+    "Keywords Search": "| Assassin | Gotham City | Ruler | Monster | Dark Knights |",
     "alternates": [
       {
         "name": "Robin King",
@@ -9207,14 +9207,14 @@
     "Rarity": "Chase",
     "Point Values": "70/40",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Gotham City | Herald | Justice League | Monster | Black Lantern Corps | Detective",
-    "Keywords Search": "| Gotham City | Herald | Justice League | Monster | Black Lantern Corps | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] OUT OF THE ETERNAL SHADOWSFREE: Generate a Grave hindering terrain marker in Batman's square. If there is already any friendly Grave marker in Batman's square, instead place him into any other square with any friendly Grave marker. // When it's not your turn, lines of fire drawn to friendly characters through any friendly Grave hindering terrain markers are blocked instead of hindered.[Speed] I SHOULD HAVE BEEN KILLING THIS WHOLE TIME!Powers: Flurry, SidestepFlurry, Sidestep.[Damage] SPECTRAL DEDUCTIONPowers: OutwitOutwit. When Batman uses it, he may instead choose to target all opposing characters occupying any friendly Grave markers. If he does, choose a color instead of a power. The targeted characters can't use standard powers of the chosen color until your next turn.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Gotham City | Herald | Justice League | Monster | Black Lantern Corps | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -9349,14 +9349,14 @@
     "Rarity": "Chase",
     "Point Values": "260/120",
     "Team Abilities": "Superman Ally",
-    "Team Abilities Search": "| Superman Ally |",
     "Keywords": "Herald | Justice League | Kryptonian | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Kryptonian | Monster | Black Lantern Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] THE LAST TIME I INSPIRED ANYONE...Powers: LeadershipLeadership. When Superman uses it and succeeds, after resolutions remove an action token from him and generate a Grave hindering terrain marker.[Speed] FASTER THAN A SCYTHING BLADEPowers: Hypersonic SpeedHypersonic Speed. When Superman uses it, he may be given a CLOSE or RANGE as FREE instead of making an attack.[Attack] MORE POWERFUL THAN A HEARSEPowers: Super Strength, Steal EnergySuper Strength, Steal Energy. // When Superman uses any friendly Grave terrain marker to make a CLOSE/RANGE Terrain Action, modify his attack +1 and increase the damage dealt by 1.[Damage] ABLE TO DELETE TALL BUILDINGS IN A SINGLE BLOWPowers: Close Combat Expert, Exploit WeaknessClose Combat Expert, Exploit Weakness. // Superman's other powers have Protected: Outwit.",
+    "Team Abilities Search": "| Superman Ally |",
+    "Keywords Search": "| Herald | Justice League | Kryptonian | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Superman",
@@ -9536,13 +9536,13 @@
     "Rarity": "Chase",
     "Point Values": "125/45",
     "Team Abilities": "Wonder Woman Ally",
-    "Team Abilities Search": "| Wonder Woman Ally |",
     "Keywords": "Herald | Justice League | Monster | Amazon | Black Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Monster | Amazon | Black Lantern Corps |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BLACK LASSO THROUGH OPEN GRAVESWhen Wonder Woman hits, after resolutions you may place a hit character into any friendly Grave terrain marker within 4 squares and line of fire. // When Wonder Woman KO's an opposing character, after resolutions you may generate a Grave hindering terrain marker within 4 squares.[Trait] I HAVE SEEN THE FACE OF DEATH... AND SO SHALL YOU!Powers: Steal EnergySteal Energy. // Wonder Woman deals penetrating damage to opposing characters occupying squares with any friendly Grave terrain markers.[Defense] THE DANCE OF WAR AND DEATHPowers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses. Wonder Woman increases her roll for Super Senses by +1 when attacked by a character occupying any friendly Grave terrain marker.",
+    "Team Abilities Search": "| Wonder Woman Ally |",
+    "Keywords Search": "| Herald | Justice League | Monster | Amazon | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -9692,13 +9692,13 @@
     "Rarity": "Chase",
     "Point Values": "100/40",
     "Team Abilities": "Justice League",
-    "Team Abilities Search": "| Justice League |",
     "Keywords": "Atlantis | Herald | Justice League | Monster | Black Lantern Corps",
-    "Keywords Search": "| Atlantis | Herald | Justice League | Monster | Black Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WATERY GRAVEClear squares adjacent to any friendly Grave terrain marker are considered water terrain. // FREE: Generate a Grave hindering terrain marker into a square of water terrain within 4 squares.[Attack] TRIDENT OF THE FALLEN KINGPowers: Blades Claws Fangs, Steal Energy, PoisonBlades/Claws/Fangs, Steal Energy. // Poison. When Aquaman uses it, opposing characters occupying water terrain within 6 squares are considered adjacent to him.[Defense] THE DEAD SEAPowers: ImperviousImpervious. // If Aquaman occupies water terrain, he increases the results of his single d6 rolls by +1.",
+    "Team Abilities Search": "| Justice League |",
+    "Keywords Search": "| Atlantis | Herald | Justice League | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Aquaman",
@@ -9833,14 +9833,14 @@
     "Rarity": "Chase",
     "Point Values": "160/60",
     "Team Abilities": "Justice League",
-    "Team Abilities Search": "| Justice League |",
     "Keywords": "Herald | Justice League | Monster | Black Lantern Corps | Detective",
-    "Keywords Search": "| Herald | Justice League | Monster | Black Lantern Corps | Detective |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Blocking | Characters",
     "Traits and Special Powers": "[Speed] WHISPERING WRAITHPowers: Sidestep, StealthSidestep, Stealth. // When Martian Manhunter is attacked, after resolutions you may move him up to 2 squares.[Attack] CORRUPT AND COMPELPowers: Penetrating Psychic Blast, Steal EnergyPenetrating/Psychic Blast. Steal Energy, but for close and range attacks. // RANGE: [it:characters,elevated,hindering]. Make a range attack. Hit characters not occupying any friendly Grave markers take a maximum of 1 damage. After resolutions move a hit character up to 4 squares, then generate a Grave hindering terrain marker into their square.[Damage] PSYCHIC TRAPPowers: Shape ChangeShape Change. When Martian Manhunter uses it and succeeds, after resolutions deal the attacker damage equal to the number of action tokens on them.",
+    "Team Abilities Search": "| Justice League |",
+    "Keywords Search": "| Herald | Justice League | Monster | Black Lantern Corps | Detective |",
     "alternates": [
       {
         "name": "Martian Manhunter",
@@ -10005,14 +10005,14 @@
     "Rarity": "Chase",
     "Point Values": "100/50",
     "Team Abilities": "Justice League",
-    "Team Abilities Search": "| Justice League |",
     "Keywords": "Herald | Justice League | Justice Society | Martial Artist | Star City | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Justice Society | Martial Artist | Star City | Monster | Black Lantern Corps |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Adjacent",
     "Traits and Special Powers": "[Trait] THE GREATEST ARCHER, ALIVE OR DEADPowers: Precision Strike, Steal EnergyPrecision Strike. Steal Energy, but may use it with close or range attacks. // When Green Arrow attacks, his targets can't positively modify their defense value.[Trait] BANKED SHOT OFF THE HEADSTONESPowers: Probability ControlWhen Green Arrow attacks, he may use Probability Control any number of times. For each use past the first, he must remove a friendly Grave marker within 4 squares of the target from the game or that use of Probability Control has no effect.[Attack] GRAVEDIGGER ARROWPowers: Blades Claws FangsBlades/Claws/Fangs, but instead only for range attacks. // When Green Arrow hits a single opposing character who is not occupying any friendly Grave marker, you may give that character an action token and generate a Grave hindering terrain marker in their square.",
+    "Team Abilities Search": "| Justice League |",
+    "Keywords Search": "| Herald | Justice League | Justice Society | Martial Artist | Star City | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Green Arrow",
@@ -10147,14 +10147,14 @@
     "Rarity": "Chase",
     "Point Values": "140/60",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Monster | Black Lantern Corps",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Monster | Black Lantern Corps |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] ONLY ONE THING COMES TO THOSE WHO WAITPowers: WillpowerWillpower. // Friendly characters occupying any friendly Grave terrain markers can use Willpower. If they can already use Willpower, instead increase their Willpower roll +1.[Trait] YOUR FIGHT IS OVER...GIVE UPPowers: Steal EnergySteal Energy, but for close or range attacks. // When Hal Jordan hits, after resolutions give a hit character an action token. Until your next turn, that character can only remove action tokens by clearing.[Defense] TRAPPED IN ETERNAL BLACKPowers: Barrier, Energy Shield Deflection, ToughnessBarrier, Energy Shield/Deflection, Toughness. When Hal Jordan uses Barrier, after resolutions generate a Grave hindering terrain marker adjacent to one of the blocking terrain markers.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -10304,14 +10304,14 @@
     "Rarity": "Chase",
     "Point Values": "75/60",
     "Team Abilities": "Batman Ally | Justice League",
-    "Team Abilities Search": "| Batman Ally | Justice League |",
     "Keywords": "Apokolips | Batman Family | Gotham City | Justice League | Martial Artist | Monster | Detective",
-    "Keywords Search": "| Apokolips | Batman Family | Gotham City | Justice League | Martial Artist | Monster | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] DCEASEDThe first time Batman would be KO'd, you may instead turn him to click #9. If you do, this game he has \"When Batman would take damage from a game effect, he takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal Batman 1 unavoidable damage.\" Protected: Pulse Wave.[Trait] THERE'S A MONSTER INSIDE OF US ALLWhen Batman attacks one or more characters that can use a light blue standard power, modify his attack and damage +1.[Speed] MY MOTHER USED TO TELL ME THERE WAS NO SUCH THING AS MONSTERSPowers: Charge, SidestepCharge, Sidestep. // If Batman occupies hindering terrain, opposing characters can't use [it:] to target him or adjacent friendly characters.[Damage] THERE ISN'T ANYTHING MORE I CAN DOFriendly characters have SAFEGUARD: Mind Control and, when they attack, opposing characters can't use Shape Change.",
+    "Team Abilities Search": "| Batman Ally | Justice League |",
+    "Keywords Search": "| Apokolips | Batman Family | Gotham City | Justice League | Martial Artist | Monster | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -10492,14 +10492,14 @@
     "Properties": "Unique",
     "Point Values": "75/60",
     "Team Abilities": "Justice League | Superman Ally",
-    "Team Abilities Search": "| Justice League | Superman Ally |",
     "Keywords": "Apokolips | Justice League | Kryptonian | Metropolis | Reporter | Monster",
-    "Keywords Search": "| Apokolips | Justice League | Kryptonian | Metropolis | Reporter | Monster |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] DCEASEDThe first time Superman would be KO'd, you may instead turn him to click #9. If you do, this game he has \"When Superman would take damage from a game effect, he takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal Superman 1 unavoidable damage.\" Protected: Pulse Wave.[Trait] THERE'S A MONSTER INSIDE OF US ALLWhen Superman attacks one or more characters that can use a brown standard power, modify his attack and damage +1.[Speed] I DON'T HAVE TO CATCH UP TO HIM...I CAN COME FROM THE OTHER SIDEPowers: Hypersonic SpeedHypersonic Speed. // FREE: Place Superman adjacent to an opposing character within range and line of fire that moved since your last turn.[Attack] ...DRAINING THE SUNPowers: Pulse WavePulse Wave. When Superman uses it, he may use Range 8 instead of Range 4 and deals his printed damage value instead of 1 damage. If you do, after resolutions KO Superman.",
+    "Team Abilities Search": "| Justice League | Superman Ally |",
+    "Keywords Search": "| Apokolips | Justice League | Kryptonian | Metropolis | Reporter | Monster |",
     "alternates": [
       {
         "name": "Superman",
@@ -10679,13 +10679,13 @@
     "Rarity": "Chase",
     "Point Values": "75/60",
     "Team Abilities": "Justice League | Wonder Woman Ally",
-    "Team Abilities Search": "| Justice League | Wonder Woman Ally |",
     "Keywords": "Apokolips | Justice League | Ruler | Soldier | Monster | Amazon | Warrior | Deity",
-    "Keywords Search": "| Apokolips | Justice League | Ruler | Soldier | Monster | Amazon | Warrior | Deity |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DCEASEDThe first time Wonder Woman would be KO'd, you may instead turn her to click #9. If you do, this game she has \"When Wonder Woman would take damage from a game effect, she takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal Wonder Woman 1 unavoidable damage.\" Protected: Pulse Wave.[Trait] THERE'S A MONSTER INSIDE OF US ALLWhen Wonder Woman attacks one or more characters that can use a red standard power, modify her attack and damage +1.[Speed] DEATH IS FOREVERPowers: Charge, FlurryCharge, Flurry. // Adjacent opposing characters can't positively modify or replace their combat values.[Damage] KRYPTONITE-FUSED SWORD OF ATHENAPowers: Exploit Weakness, LeadershipExploit Weakness, Leadership. // When Wonder Woman hits, give each hit character a Slash token. This game, if those characters would reduce damage by more than 1 they reduce it by 1 instead.",
+    "Team Abilities Search": "| Justice League | Wonder Woman Ally |",
+    "Keywords Search": "| Apokolips | Justice League | Ruler | Soldier | Monster | Amazon | Warrior | Deity |",
     "alternates": [
       {
         "name": "Wonder Woman",
@@ -10866,13 +10866,13 @@
     "Properties": "Unique",
     "Point Values": "75/60",
     "Team Abilities": "Team Player | Batman Enemy",
-    "Team Abilities Search": "| Team Player | Batman Enemy |",
     "Keywords": "Apokolips | Arkham Asylum | Gotham City Underworld | Monster",
-    "Keywords Search": "| Apokolips | Arkham Asylum | Gotham City Underworld | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DCEASEDThe first time The Joker would be KO'd, you may instead turn him to click #9. If you do, this game he has \"When The Joker would take damage from a game effect, he takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal The Joker 1 unavoidable damage.\" Protected: Pulse Wave.[Trait] THERE'S A MONSTER INSIDE OF US ALLWhen The Joker attacks one or more characters that can use a black standard power, modify his attack and damage +1.[Speed] LIVING RENT-FREE IN YOUR HEADPowers: Leap Climb, Plasticity, SidestepLeap/Climb, Plasticity, Sidestep. // Once per turn when an adjacent friendly character begins a move or is placed, after resolutions you may place The Joker adjacent to that character.[Attack] THE LAST LAUGHPowers: PoisonPoison. When Joker uses it he deal unavoidable damage instead. // The Joker has SAFEGUARD: Outwit.",
+    "Team Abilities Search": "| Team Player | Batman Enemy |",
+    "Keywords Search": "| Apokolips | Arkham Asylum | Gotham City Underworld | Monster |",
     "alternates": [
       {
         "name": "The Joker",
@@ -11052,13 +11052,13 @@
     "Rarity": "Chase",
     "Point Values": "75/60",
     "Team Abilities": "Justice League | Justice Society",
-    "Team Abilities Search": "| Justice League | Justice Society |",
     "Keywords": "Apokolips | Justice League | Justice Society | Past | Monster | Warrior",
-    "Keywords Search": "| Apokolips | Justice League | Justice Society | Past | Monster | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DCEASEDThe first time Hawkman would be KO'd, you may instead turn him to click #9. If you do, this game he has \"When Hawkman would take damage from a game effect, he takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal Hawkman 1 unavoidable damage.\" Protected: Pulse Wave.[Trait] THERE'S A MONSTER INSIDE OF US ALLWhen Hawkman attacks one or more characters that can use a green standard power, modify his attack and damage +1.[Defense] STAND BACK, WE WILL HOLD THEM HEREPowers: Combat Reflexes, Toughness, WillpowerCombat Reflexes, Toughness, Willpower. // Friendly characters with [ta:justice_league] have [ta:justice_society]. Protected: Outwit, Pulse Wave.[Damage] LEADING THE ANTI-LIFE ARMYPowers: LeadershipLeadership, but succeeds on [d:4]-[d:6]. When Hawkman uses it and succeeds, this turn adjacent friendly characters have [cs:wing] and [im:characters].",
+    "Team Abilities Search": "| Justice League | Justice Society |",
+    "Keywords Search": "| Apokolips | Justice League | Justice Society | Past | Monster | Warrior |",
     "alternates": [
       {
         "name": "Hawkman",
@@ -11239,14 +11239,14 @@
     "Properties": "Unique",
     "Point Values": "70",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Brute | Kryptonian | Ruler | Soldier | Superman Revenge Squad",
-    "Keywords Search": "| Brute | Kryptonian | Ruler | Soldier | Superman Revenge Squad |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] FREED BY A BOMB TESTAt the beginning of the game, place Zod, Ursa, Non on their card and give them 6 Phantom Zone tokens. // At the beginning of your turn, remove a Phantom Zone token from Zod, Ursa, Non. // When a character is given an action, after resolutions, if a terrain marker was destroyed during that action, remove a Phantom Zone token from Zod, Ursa, Non. // When the last Phantom Zone token is removed, or when no friendly characters are on the map, after resolutions place Zod, Ursa, Non in a square on any map edge or in a square with a debris marker that was placed this turn.[Trait] COORDINATED ATTACKPowers: Flurry, WillpowerFlurry, Willpower. // FREE: If Zod, Ursa, Non doesn't have a Trio token, remove an action token from them and give them a Trio token. // When Zod, Ursa, Non clears action tokens, remove any Trio tokens from them.[Defense] MILITARY PRECISIONPowers: Stop, ImperviousSTOP. Impervious.",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Brute | Kryptonian | Ruler | Soldier | Superman Revenge Squad |",
     "alternates": [
       {
         "name": "Zod, Ursa, Non",
@@ -11410,13 +11410,13 @@
     "Rarity": "Chase",
     "Point Values": "100/60",
     "Team Abilities": "Batman Enemy | Wonder Woman Ally",
-    "Team Abilities Search": "| Batman Enemy | Wonder Woman Ally |",
     "Keywords": "Arkham Asylum | Armor | Gotham City Underworld | Scientist | Amazon",
-    "Keywords Search": "| Arkham Asylum | Armor | Gotham City Underworld | Scientist | Amazon |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE BOTH HAVE OUR ROPES TO USEAt the beginning of the game, if you weren't the first player, give Poison Ivy a Gaia's Armor token. // FREE: Generate a Plant hindering terrain marker. This game, those markers have \"When this marker hinders line of fire, characters instead modify defense +2.\"[Trait] MY MOTHER ALWAYS DRESSES ME FOR BATTLEPowers: Energy Shield Deflection, ImperviousFREE: Remove 2 Plant hindering terrain markers within range from the map. If you do, give Poison Ivy a Gaia's Armor token. // If Poison Ivy has a Gaia's Armor token, she can use Energy Shield/Deflection, Impervious, and [cs:wing]. When Poison Ivy takes damage, after resolutions remove all her Gaia's Armor tokens.[Attack] TEAR THIS MOUNTAIN DOWN!Powers: QuakeQuake. When Poison Ivy uses it, you may remove one of her Gaia's Armor tokens. If you do, instead target all opposing characters within 6 squares, regardless of adjacency.",
+    "Team Abilities Search": "| Batman Enemy | Wonder Woman Ally |",
+    "Keywords Search": "| Arkham Asylum | Armor | Gotham City Underworld | Scientist | Amazon |",
     "alternates": [
       {
         "name": "Poison Ivy",
@@ -11582,13 +11582,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Gotham City | Gotham City Underworld | Legion Of Doom | Detective",
-    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Legion Of Doom | Detective |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WAR CAME TO GOTHAMAt the beginning of the game, you may generate a [set:not] #M001 War of Jokes and Riddles onto an opponent's Sideline. This game it's friendly to that opponent's force. If you do, that opponent may choose a character friendly to them to gain the Detective keyword this game.[Attack] KNOCK KNOCKPowers: IncapacitateIncapacitate. When The Riddler uses it, after resolutions modify a hit character's combat values -1 for each action token they have until your next turn.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Gotham City | Gotham City Underworld | Legion Of Doom | Detective |",
     "alternates": [
       {
         "name": "The Riddler",
@@ -11693,13 +11693,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Arkham Asylum | Assassin | Gotham City | Gotham City Underworld | Scientist | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Assassin | Gotham City | Gotham City Underworld | Scientist | Suicide Squad |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE YEARLY CYCLEPowers: Probability Control, RegenerationProbability Control, Regeneration.[Speed] THIRTY DAYS HAS SEPTEMBERPowers: StealthStealth. // If the game began on an even numbered day, Calendar Man has: [im:characters]. Otherwise, Calendar Man has \"FREE: Choose an opposing character within range and line of fire. Until your next turn, that character modifies its defense -1 and decreases its single d6 rolls by -1.\"[Attack] APRIL, JUNE AND NOVEMBERPowers: Precision Strike, Energy ExplosionPrecision Strike. // If the game began on a Sunday, Monday, Tuesday, or Wednesday, Calendar Man can use Energy Explosion and deals penetrating damage when he uses it. Otherwise modify his attack and damage +2.[Damage] ALL THE REST HAVE THIRTY ONEPowers: Probability ControlIf the game began on an even numbered month, Calendar Man has: \"FREE: Choose a standard power. Opposing characters within range can't use the chosen power until your next turn.\" Otherwise, Calendar Man can use Probability Control twice a turn and may use it regardless of range.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Arkham Asylum | Assassin | Gotham City | Gotham City Underworld | Scientist | Suicide Squad |",
     "alternates": [
       {
         "name": "Calendar Man",
@@ -11758,6 +11758,16 @@
         "Defense Ability": "Mastermind",
         "Damage": "1",
         "image": "33fbe5b8-2b7b-4b10-bb3e-0a543b4ecc63.Click4.png"
+      },
+      {
+        "name": "Calendar Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "33fbe5b8-2b7b-4b10-bb3e-0a543b4ecc63.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -11775,15 +11785,15 @@
     "Rarity": "Rare",
     "Point Values": "100/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Arkham Asylum | Assassin | Gotham City Underworld | Injustice League | Martial Artist | Soldier | Suicide Squad",
-    "Keywords Search": "| Arkham Asylum | Assassin | Gotham City Underworld | Injustice League | Martial Artist | Soldier | Suicide Squad |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] I KILLED THE TEEN TITANSPowers: Charge, Sidestep, Energy Shield Deflection, Ranged Combat Expert, Close Combat Expert, Combat ReflexesCharge, Sidestep. // FREE: Choose one to use until your next turn: *Energy Shield/Deflection, Ranged Combat Expert *Close Combat Expert, Combat Reflexes[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Attack] TIMED STRIKESPowers: Blades Claws Fangs, Precision StrikeBlades/Claws/Fangs, Precision Strike. // When an opposing character moves through one or more squares adjacent to Deathstroke, after resolutions you may roll a d6. Deal that character damage equal to the result.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Arkham Asylum | Assassin | Gotham City Underworld | Injustice League | Martial Artist | Soldier | Suicide Squad |",
     "alternates": [
       {
         "name": "Deathstroke",
@@ -11900,6 +11910,16 @@
         "Damage": "1",
         "Damage Ability": "Exploit Weakness",
         "image": "1ee434a4-593d-4e83-89c1-f1a22f69e252.Click8.png"
+      },
+      {
+        "name": "Deathstroke",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1ee434a4-593d-4e83-89c1-f1a22f69e252.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -11917,11 +11937,11 @@
     "Rarity": "Uncommon",
     "Point Values": "45",
     "Keywords": "Herald | Sinestro Corps | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Sinestro Corps | Monster | Black Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BOOK OF THE BLACKWhen an opposing character uses Outwit, Steal Energy, or Regeneration, after resolutions you may generate a Grave hindering terrain marker in their square.[Trait] HELD BY THE BOOKOpposing characters occupying or adjacent to any friendly Grave terrain markers modify their combat values -1 when attacking or attacked by characters with the Black Lantern Corps keyword.[Attack] FEAR: OF DEATHPowers: PerplexPerplex, but only to negatively modify combat values. When she uses it, the target character can't heal until your next turn.",
+    "Keywords Search": "| Herald | Sinestro Corps | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Lyssa Drak",
@@ -12007,6 +12027,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "9aa5d2e1-a8be-47e1-8237-e52ee1d0e0d5.Click6.png"
+      },
+      {
+        "name": "Lyssa Drak",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9aa5d2e1-a8be-47e1-8237-e52ee1d0e0d5.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12024,15 +12054,15 @@
     "Rarity": "Uncommon",
     "Point Values": "110/75",
     "Team Abilities": "Crime Syndicate",
-    "Team Abilities Search": "| Crime Syndicate |",
     "Keywords": "Brute | Crime Syndicate | Ruler",
-    "Keywords Search": "| Brute | Crime Syndicate | Ruler |",
     "Range": "8",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Blocking",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] HIDING FROM THE SUNPowers: Stealth, WillpowerStealth. // Willpower, but only if Ultraman occupies hindering terrain.[Trait] FAVOR BANKPowers: RegenerationRegeneration as FREE, but only if there are more action tokens on friendly characters than opposing characters.",
+    "Team Abilities Search": "| Crime Syndicate |",
+    "Keywords Search": "| Brute | Crime Syndicate | Ruler |",
     "alternates": [
       {
         "name": "Ultraman",
@@ -12149,6 +12179,16 @@
         "Damage": "4",
         "Damage Ability": "Battle Fury",
         "image": "12a34b2c-ab2e-4317-a080-134b6cfe228c.Click8.png"
+      },
+      {
+        "name": "Ultraman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "12a34b2c-ab2e-4317-a080-134b6cfe228c.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12166,13 +12206,13 @@
     "Rarity": "Uncommon",
     "Point Values": "70/25",
     "Team Abilities": "Crime Syndicate",
-    "Team Abilities Search": "| Crime Syndicate |",
     "Keywords": "Crime Syndicate | Scientist | Detective",
-    "Keywords Search": "| Crime Syndicate | Scientist | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WADING THROUGH REFUSEPowers: SidestepSidestep. Owlman can use it twice a turn, but only if there are more action tokens on friendly characters than opposing characters.[Defense] TRAINING AND TECHNIQUEPowers: Super Senses, WillpowerSuper Senses, Willpower.[Damage] SMARTER THAN YOUPowers: OutwitOutwit. When Owlman uses it, he may choose an additional power for every action token he has.",
+    "Team Abilities Search": "| Crime Syndicate |",
+    "Keywords Search": "| Crime Syndicate | Scientist | Detective |",
     "alternates": [
       {
         "name": "Owlman",
@@ -12277,6 +12317,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "294d190b-1492-44db-b2c6-a8f9c9ee7838.Click7.png"
+      },
+      {
+        "name": "Owlman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "294d190b-1492-44db-b2c6-a8f9c9ee7838.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12294,13 +12344,13 @@
     "Rarity": "Uncommon",
     "Point Values": "75/50",
     "Team Abilities": "Crime Syndicate",
-    "Team Abilities Search": "| Crime Syndicate |",
     "Keywords": "Crime Syndicate | Amazon",
-    "Keywords Search": "| Crime Syndicate | Amazon |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LASSO OF SUBMISSIONPowers: Mind ControlWhen Superwoman hits, after resolutions Superwoman can use Mind Control as FREE, but only to target a hit character.[Trait] SADISTIC SUPERIORITYIf there are more action tokens on friendly characters than opposing characters, modify Superwoman's attack +2.",
+    "Team Abilities Search": "| Crime Syndicate |",
+    "Keywords Search": "| Crime Syndicate | Amazon |",
     "alternates": [
       {
         "name": "Superwoman",
@@ -12405,6 +12455,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "2859625d-c316-455c-bf2f-e4155fcbc316.Click7.png"
+      },
+      {
+        "name": "Superwoman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2859625d-c316-455c-bf2f-e4155fcbc316.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12423,11 +12483,11 @@
     "Properties": "Unique",
     "Point Values": "35",
     "Keywords": "Gotham City | Gotham City Underworld",
-    "Keywords Search": "| Gotham City | Gotham City Underworld |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MY ALL-POWERFUL COCOON GUN![cs:bolt][cs:bolt]. // When Killer Moth uses Incapacitate, modify his attack +2 and until your next turn targeted characters must roll for break away to move if they don't already need to. (Even if Killer Moth missed.)",
+    "Keywords Search": "| Gotham City | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Killer Moth",
@@ -12498,6 +12558,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "2",
         "image": "f378ea98-7110-4c9d-ac8d-4fceed4857aa.Click5.png"
+      },
+      {
+        "name": "Killer Moth",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f378ea98-7110-4c9d-ac8d-4fceed4857aa.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12515,13 +12585,13 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Celebrity | Gotham City Underworld",
-    "Keywords Search": "| Celebrity | Gotham City Underworld |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FIGHT ANOTHER DAYPowers: Precision Strike, Regeneration, SupportPrecision Strike. // Regeneration, Support. When Hush uses either, after resolutions you may move him up to the d6 result.[Defense] MANIPULATE YOUR WORST FOESPowers: MastermindMastermind. // FREE: Choose another friendly character within range and line of fire that shares a keyword with Hush. Place the chosen character into a square adjacent to Hush.[Damage] A WHISPERPowers: Shape ChangeShape Change. // Other friendly characters within range that share a keyword with Hush have SAFEGUARD: Outwit.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Celebrity | Gotham City Underworld |",
     "alternates": [
       {
         "name": "Hush",
@@ -12616,6 +12686,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "b0424210-5f7e-4b5a-9096-4e532387aaa2.Click7.png"
+      },
+      {
+        "name": "Hush",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b0424210-5f7e-4b5a-9096-4e532387aaa2.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12633,14 +12713,14 @@
     "Rarity": "Rare",
     "Point Values": "45",
     "Team Abilities": "Crime Syndicate",
-    "Team Abilities Search": "| Crime Syndicate |",
     "Keywords": "Crime Syndicate | Speedster",
-    "Keywords Search": "| Crime Syndicate | Speedster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] YOUR VIBRATIONAL FREQUENCY IS OFFWhen Johnny Quick attacks one or more characters that either have the Speedster keyword or that can use Hypersonic Speed, modify his attack +2 and the attack can't be evaded.[Damage] CRIMINAL PASTWhen Johnny Quick hits, if there are more action tokens on friendly characters than opposing characters, you may choose an equipment equipped to a hit character. Equip that equipment to Johnny Quick.",
+    "Team Abilities Search": "| Crime Syndicate |",
+    "Keywords Search": "| Crime Syndicate | Speedster |",
     "alternates": [
       {
         "name": "Johnny Quick",
@@ -12729,6 +12809,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "bde55cf5-4760-4051-a1d2-86604a0c9ad0.Click6.png"
+      },
+      {
+        "name": "Johnny Quick",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "bde55cf5-4760-4051-a1d2-86604a0c9ad0.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12746,14 +12836,14 @@
     "Rarity": "Rare",
     "Point Values": "250/175/125",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Apokolips | Ruler | Secret Society Of Super Villains | New Gods | Warrior | Deity",
-    "Keywords Search": "| Cosmic | Apokolips | Ruler | Secret Society Of Super Villains | New Gods | Warrior | Deity |",
     "Range": "10",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Characters | Adjacent",
     "Traits and Special Powers": "[Trait] DARKSEID ISPowers: Leadership, MastermindLeadership, Mastermind. // If Darkseid hasn't used Outwit since your last turn, he can reduce penetrating damage.[Trait] THE ANTI-LIFE EQUATIONWhen Darkseid or a friendly character that shares a keyword with him hits, after resolutions give an Anti-Life token to all hit characters that do not already have one. // Characters with an Anti-Life token modify attack and damage -1 and have \"When this character heals, remove their Anti-Life token.\"[Speed] CONQUER YOUR PLANET AND YOUR MINDSPowers: Mind Control, Phasing TeleportMind Control. Mind Control as FREE, but only to target an opposing character with an Anti-Life token. // Phasing/Teleport. Phasing/Teleport as FREE, but only to move 3 squares.[Damage] THEIR SUFFERING IS MY WILLPowers: OutwitOutwit. When Darkseid uses it he may remove an Anti-Life token from the targeted character. If he does, choose one: *For this use of Outwit, Darkseid may choose two powers instead of one. *Until your next turn, when the targeted character attacks and misses one or more targets, after resolutions deal them 1 unavoidable damage.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Apokolips | Ruler | Secret Society Of Super Villains | New Gods | Warrior | Deity |",
     "alternates": [
       {
         "name": "Darkseid",
@@ -12906,6 +12996,16 @@
         "Damage": "3",
         "Damage Ability": "Special - THEIR SUFFERING IS MY WILL",
         "image": "e85d997d-e316-41c5-9811-255921b27a0a.Click10.png"
+      },
+      {
+        "name": "Darkseid",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e85d997d-e316-41c5-9811-255921b27a0a.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -12923,13 +13023,13 @@
     "Rarity": "Super Rare",
     "Point Values": "100/60",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Gotham City Underworld | Ruler | Mystical",
-    "Keywords Search": "| Gotham City Underworld | Ruler | Mystical |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] ONCE UPON A TIME...Powers: Perplex, Outwit, Probability ControlPerplex. // When Queen of Fables starts the game, choose either Outwit or Probability Control to use this game. If you were the second player, instead choose both.[Speed] TRAPPED IN THE US TAX CODE[cs:tiny]. Queen of Fables can't make range attacks. // Adjacent friendly characters can use Support, but only to choose Queen of Fables.[Attack] REWRITE THE STORY AS I SEE FITPowers: Energy Explosion, Penetrating Psychic BlastEnergy Explosion, Penetrating/Psychic Blast, KNOCKBACK.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Gotham City Underworld | Ruler | Mystical |",
     "alternates": [
       {
         "name": "Queen of Fables",
@@ -13064,6 +13164,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "a646f4d9-4513-475b-a6c3-5867f1d4cde3.Click9.png"
+      },
+      {
+        "name": "Queen of Fables",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a646f4d9-4513-475b-a6c3-5867f1d4cde3.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13081,14 +13191,14 @@
     "Rarity": "Super Rare",
     "Point Values": "50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Assassin | Future | Gotham City | Project Cadmus",
-    "Keywords Search": "| Assassin | Future | Gotham City | Project Cadmus |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] YOUR ANGEL OF DEATH AWAITSPowers: Sidestep, Smoke CloudSidestep. // Smoke Cloud as FREE.[Attack] WILLING TO GO FURTHERPowers: Blades Claws FangsBlades/Claws/Fangs. // FREE: If the Phantasm occupies hindering terrain, make an attack.[Damage] MARK OF THE PHANTASMPowers: Exploit Weakness, Shape ChangeExploit Weakness. // Shape Change, but succeeds on [d:4]-[d:6] if the attacker occupies one of The Phantasm's Smoke terrain markers or has a Target token.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Assassin | Future | Gotham City | Project Cadmus |",
     "alternates": [
       {
         "name": "Phantasm",
@@ -13180,6 +13290,16 @@
         "Damage": "2",
         "Damage Ability": "Special - MARK OF THE PHANTASM",
         "image": "58eb4292-98d3-4a5a-acdc-09480deb327f.Click6.png"
+      },
+      {
+        "name": "Phantasm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "58eb4292-98d3-4a5a-acdc-09480deb327f.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13197,14 +13317,14 @@
     "Rarity": "Super Rare",
     "Point Values": "45",
     "Team Abilities": "Batman Enemy",
-    "Team Abilities Search": "| Batman Enemy |",
     "Keywords": "Animal | Gotham City | Scientist",
-    "Keywords Search": "| Animal | Gotham City | Scientist |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] SCENT OF BLOODWhen Man-Bat hits with a close attack, after resolutions give a hit character a Bleeding token. // When a character with one or more Bleeding tokens is dealt damage, increase the damage dealt by +1 for each Bleeding token on them.[Trait] SWOOPING DIVEPowers: Super SensesSuper Senses. // When Man-Bat attacks, modify his attack +2 if he isn't occupying the square he began the turn in.[Attack] FEAST ON BLOODPowers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy. When Man-Bat uses Steal Energy, he instead heals equal to the damage hit characters took.",
+    "Team Abilities Search": "| Batman Enemy |",
+    "Keywords Search": "| Animal | Gotham City | Scientist |",
     "alternates": [
       {
         "name": "Man-Bat",
@@ -13284,6 +13404,16 @@
         "Defense": "15",
         "Damage": "1",
         "image": "4460e863-001a-4708-b79a-b86e5dc8c560.Click6.png"
+      },
+      {
+        "name": "Man-Bat",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4460e863-001a-4708-b79a-b86e5dc8c560.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13301,13 +13431,13 @@
     "Rarity": "Super Rare",
     "Point Values": "150",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Crime Syndicate | Metropolis | Mystical",
-    "Keywords Search": "| Crime Syndicate | Metropolis | Mystical |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TAKE YOUR POWERWhen Mazahs! KO's an opposing character, choose one. If the KO'd character was more points than Mazahs!, choose both: *Choose a combat value not already chosen for the effect for Mazahs! to modify +1 this game. *Choose a standard power listed on the KO'd character's card for Mazahs! to use this game.[Attack] THE DARK LIGHTNINGPowers: Pulse WavePulse Wave as FREE, but only if Mazahs! moved this turn.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Crime Syndicate | Metropolis | Mystical |",
     "alternates": [
       {
         "name": "Mazahs!",
@@ -13422,6 +13552,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "2d265a6e-cedc-4d8b-9956-92ae26c749cf.Click8.png"
+      },
+      {
+        "name": "Mazahs!",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2d265a6e-cedc-4d8b-9956-92ae26c749cf.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13439,13 +13579,13 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Assassin | League Of Assassins | Martial Artist | Secret Six | Secret Society Of Super Villains",
-    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist | Secret Six | Secret Society Of Super Villains |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KO's an opposing character with a Target token, score 25 victory points.[Trait] TOXIN EXPERTPowers: PoisonSidestep. // Poison, and when she uses it she instead deals 2 damage.[Attack] TOXIC CLAWSPowers: Precision StrikePrecision Strike. // When Cheshire damages an opposing character, until your next turn that character can't reduce damage.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Assassin | League Of Assassins | Martial Artist | Secret Six | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "Cheshire",
@@ -13536,6 +13676,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "2f8a7a58-7e87-40fa-b378-dfae24b9d442.Click6.png"
+      },
+      {
+        "name": "Cheshire",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2f8a7a58-7e87-40fa-b378-dfae24b9d442.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13553,13 +13703,13 @@
     "Rarity": "Chase",
     "Point Values": "290/175/90/50/15",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Apokolips | Robot",
-    "Keywords Search": "| Apokolips | Robot |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Speed] COLOSSAL RETALIATION: FLAMING BLADEPOWER: If no other characters have been placed this turn, choose an opposing character that damaged a friendly character since your last turn. Place Brimstone such that he can make a close attack targeting the chosen character along a direct line of fire, then do so also targeting every other opposing character along that direct line between Brimstone and the chosen character. Instead of normal damage, roll a d6 and deal that much damage to each hit character.[Attack] THE FLAMES OF APOKOLIPSWhen Brimstone attacks, opposing characters can't use Super Senses or positively modify their combat values.[Defense] PLASMA COREPowers: Stop, ToughnessSTOP. Toughness.[Damage] INTENSELY RADIOACTIVEBrimstone deals penetrating damage. // At the end of your turn, deal 1 damage to all opposing characters within a number of squares equal to Brimstone's printed damage value.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Apokolips | Robot |",
     "alternates": [
       {
         "name": "Brimstone",
@@ -13861,6 +14011,16 @@
         "Damage": "2",
         "Damage Ability": "Special - INTENSELY RADIOACTIVE",
         "image": "cae70a03-9e79-4271-9516-e8fc21d1c405.Click20.png"
+      },
+      {
+        "name": "Brimstone",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cae70a03-9e79-4271-9516-e8fc21d1c405.KO.png"
       }
     ],
     "Set": "Notorious",
@@ -13877,8 +14037,8 @@
     "Unit Type": "Mystery Card",
     "Rarity": "Chase",
     "Keywords": "Batman Family | Detective",
-    "Keywords Search": "| Batman Family | Detective |",
     "Traits and Special Powers": "CLUE EFFECT: Gotham KnightsWhen a friendly character with a listed keyword attacks or is attacked while occupying hindering terrain, after resolutions gain 1 Clue token.SUSPECT (0)When a friendly character uses Outwit, Perplex, or Probability Control roll a d6. 1-3: Give that character an action token.SUSPECT (3)When you use this Mystery Card's SUSPECT effect, increase the result of the roll by +1.CASE CLOSED (5)When this effect becomes active, after resolutions remove this Mystery Card from the game.",
+    "Keywords Search": "| Batman Family | Detective |",
     "Set": "Notorious",
     "Type": "Mystery Card",
     "set_id": "dc66b511-572e-445b-a23b-53657168b5d6",

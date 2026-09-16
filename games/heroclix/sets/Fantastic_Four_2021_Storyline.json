@@ -73,6 +73,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "3fbece96-8ef2-4262-a739-b2326dac0146.Click4.png"
+      },
+      {
+        "name": "Mr. Fantastic",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3fbece96-8ef2-4262-a739-b2326dac0146.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -179,6 +189,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "6345dfc0-b480-4ccb-b0d2-e2e5edea5bf9.Click6.png"
+      },
+      {
+        "name": "Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6345dfc0-b480-4ccb-b0d2-e2e5edea5bf9.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -292,6 +312,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "eb3f70ec-eb2f-4c68-b057-690101885556.Click6.png"
+      },
+      {
+        "name": "Black Panther",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "eb3f70ec-eb2f-4c68-b057-690101885556.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -386,6 +416,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "d72291ed-79db-48a9-aa41-e4775499894f.Click5.png"
+      },
+      {
+        "name": "Human Torch",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d72291ed-79db-48a9-aa41-e4775499894f.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -522,6 +562,16 @@
         "Damage": "2",
         "Damage Ability": "Probability Control",
         "image": "302fc78c-ad78-4e34-98c8-40b1a567c317.Click8.png"
+      },
+      {
+        "name": "Invisible Woman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "302fc78c-ad78-4e34-98c8-40b1a567c317.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -621,6 +671,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "57e4027c-4959-4dcc-ad55-77324bdb2f3d.Click5.png"
+      },
+      {
+        "name": "X-23",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "57e4027c-4959-4dcc-ad55-77324bdb2f3d.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -734,6 +794,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "efb65338-4600-4192-8619-e3b24425a81d.Click6.png"
+      },
+      {
+        "name": "Wizard",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "efb65338-4600-4192-8619-e3b24425a81d.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -874,6 +944,16 @@
         "Defense Ability": "Special - TERRAX SHALL DESTROY YOU!",
         "Damage": "4",
         "image": "5f0cc552-4636-4734-b2f7-1effe8d152ed.Click8.png"
+      },
+      {
+        "name": "Terrax",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5f0cc552-4636-4734-b2f7-1effe8d152ed.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -1832,6 +1912,16 @@
         "Defense": "12",
         "Damage": "1",
         "image": "e6395e16-4451-4769-83c2-a99bee758d93.Click8.png"
+      },
+      {
+        "name": "Lockjaw",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e6395e16-4451-4769-83c2-a99bee758d93.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -1950,6 +2040,16 @@
         "Defense": "15",
         "Damage": "2",
         "image": "220de230-c5f6-4ec5-80bf-b9e35c1072ac.Click7.png"
+      },
+      {
+        "name": "Red Shift",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "220de230-c5f6-4ec5-80bf-b9e35c1072ac.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2046,6 +2146,16 @@
         "Defense Ability": "Willpower",
         "Damage": "1",
         "image": "cc6ebffd-10bd-411b-b235-5bfdfdd6ffe6.Click5.png"
+      },
+      {
+        "name": "Mole Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cc6ebffd-10bd-411b-b235-5bfdfdd6ffe6.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2196,6 +2306,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "8c733284-975e-4b7a-a685-8679976d756f.Click9.png"
+      },
+      {
+        "name": "Air-Walker",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8c733284-975e-4b7a-a685-8679976d756f.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2347,6 +2467,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "2ae661b5-f165-4234-b9e9-a52a55e867af.Click9.png"
+      },
+      {
+        "name": "Dr. Doom",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2ae661b5-f165-4234-b9e9-a52a55e867af.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2531,6 +2661,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "9ef87823-52b4-4273-bd24-ddcaa809d6a1.Click9.png"
+      },
+      {
+        "name": "Dr. Doom",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9ef87823-52b4-4273-bd24-ddcaa809d6a1.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2717,6 +2857,16 @@
         "Defense": "8",
         "Damage": "1",
         "image": "8299ad20-c07f-4bc3-b554-9e4c66c744d5.Click10.png"
+      },
+      {
+        "name": "Firelord",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8299ad20-c07f-4bc3-b554-9e4c66c744d5.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",
@@ -2872,6 +3022,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "eb139794-9973-499a-8688-32af0eed7769.Click11.png"
+      },
+      {
+        "name": "Thanos",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "eb139794-9973-499a-8688-32af0eed7769.KO.png"
       }
     ],
     "Set": "Fantastic Four 2021 Storyline",

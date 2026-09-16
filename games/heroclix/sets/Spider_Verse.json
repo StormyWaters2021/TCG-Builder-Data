@@ -9,13 +9,13 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Champions | Avengers | Spider Man Family | Ultimates",
-    "Keywords Search": "| Champions | Avengers | Spider Man Family | Ultimates |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Attack] BIO-STINGPowers: PoisonPoison. When Spider-Man uses it, give each character damaged by it an action token.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Champions | Avengers | Spider Man Family | Ultimates |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -133,13 +133,13 @@
     "Properties": "Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld | Sinister Syndicate",
-    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
     "Keywords": "Robot | Sinister Syndicate",
-    "Keywords Search": "| Robot | Sinister Syndicate |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: ANIMATRONICSWhen Mysterio is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Generate a Smoke terrain marker in the square Mysterio last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character or any Smoke terrain marker.",
+    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
+    "Keywords Search": "| Robot | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Mysterio",
@@ -244,14 +244,14 @@
     "Rarity": "Common",
     "Point Values": "15",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Robot | Spider Man Family",
-    "Keywords Search": "| Robot | Spider Man Family |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Damage] I'M JUST CHECKING MY EMAILAdjacent opposing characters can be targeted by friendly characters with [ta:spider_man] regardless of line of fire.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Robot | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Byte",
@@ -325,13 +325,13 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "Team Player | X Men",
-    "Team Abilities Search": "| Team Player | X Men |",
     "Keywords": "Champions | Spider Man Family | X Factor | X Men | Defenders",
-    "Keywords Search": "| Champions | Spider Man Family | X Factor | X Men | Defenders |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AMAZING FRIENDSAdjacent friendly characters with the Spider-Man Family keyword can use Iceman's displayed defense power.",
+    "Team Abilities Search": "| Team Player | X Men |",
+    "Keywords Search": "| Champions | Spider Man Family | X Factor | X Men | Defenders |",
     "alternates": [
       {
         "name": "Iceman",
@@ -450,13 +450,13 @@
     "Rarity": "Common",
     "Point Values": "35",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Champions | Avengers | Spider Man Family",
-    "Keywords Search": "| Champions | Avengers | Spider Man Family |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Speed] SPIDER-CAMOUFLAGEPowers: SidestepSidestep. // Non-adjacent opposing characters can't draw line of fire to Spider-Man.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Champions | Avengers | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -559,13 +559,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Team Player | Underworld",
-    "Team Abilities Search": "| Team Player | Underworld |",
     "Keywords": "Brute | Maggia",
-    "Keywords Search": "| Brute | Maggia |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ANYTHING YOU SAY, BOSS!When a friendly character uses Leadership and succeeds, after resolutions you may move Goon 1 square.[Trait] EXPENDABLE GOON: WORD ON THE STREETWhen Goon is KO'd by an opposing character, after resolutions you may roll a d6. [d:3]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Team Player | Underworld |",
+    "Keywords Search": "| Brute | Maggia |",
     "alternates": [
       {
         "name": "Goon",
@@ -669,13 +669,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "50/15",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Brute | Assassin | Martial Artist | Maggia",
-    "Keywords Search": "| Brute | Assassin | Martial Artist | Maggia |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: WE DON'T DIEWhen Inner Demon is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Friendly characters can use Shape Change this turn, even if this is lost.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Brute | Assassin | Martial Artist | Maggia |",
     "alternates": [
       {
         "name": "Inner Demon",
@@ -781,11 +781,11 @@
     "Properties": "Generic",
     "Point Values": "50/15",
     "Keywords": "Cosmic | Monster | Symbiote",
-    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "Range": "2",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BONDING TO A HOSTPowers: Shape Change, Steal EnergyShape Change, Steal Energy. // When Black Symbiote is KO'd, you may place it on a friendly character's card. If you do, this game that character can use Shape Change, Steal Energy, and Super Strength.",
+    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Black Symbiote",
@@ -906,11 +906,11 @@
     "Properties": "Generic",
     "Point Values": "50/15",
     "Keywords": "Cosmic | Monster | Symbiote",
-    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "Range": "2",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEEKING A HOSTPowers: Blades Claws Fangs, Shape ChangeBlades/Claws/Fangs, Shape Change. // When Red Symbiote is KO'd, you may place it on a friendly character's card. If you do, this game that character can use Blades/Claws/Fangs, Shape Change, and Sidestep.",
+    "Keywords Search": "| Cosmic | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Red Symbiote",
@@ -1030,12 +1030,12 @@
     "Rarity": "Common",
     "Point Values": "60/40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brute | Sinister Syndicate | Maggia | The Hand",
-    "Keywords Search": "| Brute | Sinister Syndicate | Maggia | The Hand |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brute | Sinister Syndicate | Maggia | The Hand |",
     "alternates": [
       {
         "name": "Man Mountain Marko",
@@ -1194,14 +1194,14 @@
     "Properties": "Expendable Goon",
     "Point Values": "15",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Robot | Sinister Syndicate | Spider Man Family",
-    "Keywords Search": "| Robot | Sinister Syndicate | Spider Man Family |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: SPIDER-BOTWhen Spider-Bot is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: Deal the opposing character 1 penetrating damage.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Robot | Sinister Syndicate | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Bot",
@@ -1272,14 +1272,14 @@
     "Rarity": "Common",
     "Point Values": "50/30",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Spider Man Family | Detective | Symbiote",
-    "Keywords Search": "| Celebrity | Spider Man Family | Detective | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSE!Once per turn for all friendly characters with this trait, when Ghost Spider hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Ghost Spider adjacent to her.[Trait] WEB WARRIORS: TICKET TO THE MULTIVERSEOnce per turn when Ghost Spider is placed by a friendly effect, after resolutions you may place her up to 2 squares away from her current square.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Spider Man Family | Detective | Symbiote |",
     "alternates": [
       {
         "name": "Ghost Spider",
@@ -1397,13 +1397,13 @@
     "Properties": "Generic",
     "Point Values": "25",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Brute | Scientist | Monster",
-    "Keywords Search": "| Brute | Scientist | Monster |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] MAXIMUM CLONAGEFREE: Make a close attack, but only to target a character another friendly [set:spv] #012 Spider-Clone hit this turn.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Brute | Scientist | Monster |",
     "alternates": [
       {
         "name": "Spider-Clone",
@@ -1500,13 +1500,13 @@
     "Rarity": "Common",
     "Point Values": "30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Scientist | Sinister Syndicate | Spider Man Family | Monster",
-    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Spider Man Family | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE CONNORS FORMULAWhen Dr. Curt Connors rolls a single d6 and the result is [d:6], after resolutions you may replace him with a [set:spv] #027 The Lizard on click #4.[Damage] APPLIED HERPETOLOGYPowers: Perplex, Shape Change, SupportPerplex, Shape Change, Support.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Spider Man Family | Monster |",
     "alternates": [
       {
         "name": "Dr. Curt Connors",
@@ -1600,13 +1600,13 @@
     "Rarity": "Common",
     "Point Values": "50/30",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Past | Spider Man Family | Spy | Detective",
-    "Keywords Search": "| Past | Spider Man Family | Spy | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] WEB WARRIORS: WE DON'T PICK THE BALLROOM, WE JUST DANCE!Powers: Smoke CloudWhen Spider-Man Noir is placed by a friendly effect, after resolutions he may use Smoke Cloud as FREE. // Friendly characters occupying any Smoke terrain can use Shape Change.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Past | Spider Man Family | Spy | Detective |",
     "alternates": [
       {
         "name": "Spider-Man Noir",
@@ -1724,13 +1724,13 @@
     "Properties": "Generic | Expendable Goon",
     "Point Values": "30/15",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Brute | Sinister Syndicate | Soldier | Monster",
-    "Keywords Search": "| Brute | Sinister Syndicate | Soldier | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPENDABLE GOON: GOBLIN ARMYWhen Goblin Army is KO'd by an opposing character, after resolutions you may roll a d6.[d:1]-[d:3]: You may place a character with [ta:sinister_syndicate] in the square Goblin Army last occupied.[d:4]-[d:6]: Generate a character with an Expendable Goon trait on its 15 point starting line adjacent to a friendly character.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Brute | Sinister Syndicate | Soldier | Monster |",
     "alternates": [
       {
         "name": "Goblin Army",
@@ -1820,13 +1820,13 @@
     "Rarity": "Uncommon",
     "Point Values": "40",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Animal | Spider Man Family | Monster",
-    "Keywords Search": "| Animal | Spider Man Family | Monster |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Defense] LIVING HIVE OF SPIDERSPowers: Super SensesSuper Senses. When Spiders-Man uses it and succeeds, after resolutions you may generate a Spider Swarm bystander [MAX 4]. // FREE: KO any number of adjacent friendly Spider Swarm bystanders. Heal Spiders-Man 1 click for each bystander KO'd this way.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Animal | Spider Man Family | Monster |",
     "alternates": [
       {
         "name": "Spiders-Man",
@@ -1979,14 +1979,14 @@
     "Rarity": "Uncommon",
     "Point Values": "100/60",
     "Team Abilities": "Sinister Syndicate | Spider Man",
-    "Team Abilities Search": "| Sinister Syndicate | Spider Man |",
     "Keywords": "Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote",
-    "Keywords Search": "| Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] WE ARE VENOMPowers: Plasticity, Shape ChangePlasticity, Shape Change.[Trait] CHOMP!When Venom KOs an opposing character of less points than himself, after resolutions heal him 1 click and score 10 Victory Points.[Defense] LETHAL PROTECTORPowers: InvulnerabilityInvulnerability. // Adjacent friendly characters modify their defense +1.",
+    "Team Abilities Search": "| Sinister Syndicate | Spider Man |",
+    "Keywords Search": "| Brute | Reporter | Sinister Syndicate | Spider Man Family | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Venom",
@@ -2151,12 +2151,12 @@
     "Rarity": "Uncommon",
     "Point Values": "120/65",
     "Keywords": "Cosmic | Future | Ruler | Monster | Deity | Symbiote",
-    "Keywords Search": "| Cosmic | Future | Ruler | Monster | Deity | Symbiote |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Bedlam is within 4 squares and line of fire of an opposing character, he can't be targeted by range attacks.[Damage] FORKING TIMELINESPowers: Probability ControlProbability Control. Bedlam may use it twice a turn, if both times he targets a character with the Symbiote keyword.",
+    "Keywords Search": "| Cosmic | Future | Ruler | Monster | Deity | Symbiote |",
     "alternates": [
       {
         "name": "Bedlam",
@@ -2321,13 +2321,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Celebrity | Scientist | Sinister Syndicate",
-    "Keywords Search": "| Celebrity | Scientist | Sinister Syndicate |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Attack] THEY CAN'T TOUCH ME...Powers: Incapacitate, Smoke CloudIncapacitate, Smoke Cloud. When Mysterio uses Smoke Cloud, after resolutions generate a [set:spv] #002 Mysterio on its red starting line in a square of hindering terrain within range.[Damage] ... BUT I CAN TORTURE THEMPowers: Shape Change, OutwitShape Change, Outwit. // FREE: Place Mysterio adjacent to a friendly [set:spv] #002 Mysterio within range and line of fire.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Celebrity | Scientist | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Mysterio",
@@ -2431,13 +2431,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60/35",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Armor | Scientist | Spider Man Family",
-    "Keywords Search": "| Armor | Scientist | Spider Man Family |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] 7W0 PL4C32 @ ONC3Powers: WillpowerWillpower. When Spider-Byte uses it and succeeds, after resolutions she may generate a [set:spv] #003 Spider-Byte on click #1.[Speed] H4C|<1N6 T3H SP1D3R/3R53FREE: Place Spider-Byte adjacent to a friendly [set:spv] #003 Spider-Byte within Range. If you do, after resolutions Spider-Byte may make an attack.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Armor | Scientist | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Byte",
@@ -2569,14 +2569,14 @@
     "Rarity": "Uncommon",
     "Point Values": "35",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Masters Of Evil | Scientist | Maggia | Thunderbolts",
-    "Keywords Search": "| Masters Of Evil | Scientist | Maggia | Thunderbolts |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] FRICTIONLESS SUITSlyde takes a maximum of 1 damage from close attacks and doesn't take knockback damage. // When Slyde is hit by an attack, after resolutions you may knock him back in the direction of your choice.[Defense] YOU'RE NEVER GOING TO CATCH ME! YOU'RE WASTING YOUR TIME!Powers: Energy Shield Deflection, Super SensesEnergy Shield/Deflection, Super Senses.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Masters Of Evil | Scientist | Maggia | Thunderbolts |",
     "alternates": [
       {
         "name": "Slyde",
@@ -2675,13 +2675,13 @@
     "Rarity": "Uncommon",
     "Point Values": "75/50",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Champions | Avengers | S.H.I.E.L.D. | Spider Man Family | Ultimates",
-    "Keywords Search": "| Champions | Avengers | S.H.I.E.L.D. | Spider Man Family | Ultimates |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-Man hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Man adjacent to him.[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Damage] CLOAKINGPowers: Shape ChangeShape Change. // If Spider-Man is adjacent to blocking terrain, lines of fire drawn to him are hindered.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Champions | Avengers | S.H.I.E.L.D. | Spider Man Family | Ultimates |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -2816,13 +2816,13 @@
     "Rarity": "Uncommon",
     "Point Values": "35",
     "Team Abilities": "Team Player | Sinister Syndicate",
-    "Team Abilities Search": "| Team Player | Sinister Syndicate |",
     "Keywords": "Politician | Scientist | Sinister Syndicate | Dark Avengers | Thunderbolts | Symbiote",
-    "Keywords Search": "| Politician | Scientist | Sinister Syndicate | Dark Avengers | Thunderbolts | Symbiote |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] RAISING A GOBLIN ARMYPowers: Precision StrikeFriendly characters that are 30 points or less or have the Sinister Syndicate keyword can use Precision Strike. // At the beginning of the game, generate a [set:spv] #015 Goblin Army on its 15 point starting line.[Attack] SYMKARIAN INFLUENCEPowers: TelekinesisTelekinesis. When Norman Osborn uses it to place a character that shares a keyword with him, modify that character's range +2 this turn.",
+    "Team Abilities Search": "| Team Player | Sinister Syndicate |",
+    "Keywords Search": "| Politician | Scientist | Sinister Syndicate | Dark Avengers | Thunderbolts | Symbiote |",
     "alternates": [
       {
         "name": "Norman Osborn",
@@ -2911,13 +2911,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Assassin | Martial Artist | Politician | Sinister Syndicate | Maggia",
-    "Keywords Search": "| Assassin | Martial Artist | Politician | Sinister Syndicate | Maggia |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE ALL HAVE OUR INNER DEMONSPowers: WillpowerWillpower, but succeeds on [d:4]-[d:6]. When Mr. Negative uses it and fails, after resolutions you may generate a [set:spv] #007 Inner Demon on its red starting line. // FREE: If Mr. Negative began your turn on the map, replace him with another character with this trait on the same click number.[Speed] CORRUPTING TOUCHPowers: Sidestep, Mind ControlSidestep, Mind Control. When Mr. Negative uses Mind Control and hits, hit characters gain [im:characters] and, after resolutions, deal 1 damage to all opposing characters adjacent to a hit target.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Assassin | Martial Artist | Politician | Sinister Syndicate | Maggia |",
     "alternates": [
       {
         "name": "Mr. Negative",
@@ -3033,13 +3033,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Martial Artist | Politician | Spider Man Family | Maggia",
-    "Keywords Search": "| Martial Artist | Politician | Spider Man Family | Maggia |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE ALL HAVE OUR INNER DEMONSPowers: WillpowerWillpower, but succeeds on [d:4]-[d:6]. When Martin Li uses it and fails, after resolutions you may generate a [set:spv] #007 Inner Demon on its red starting line. // FREE: If Martin Li began your turn on the map, replace him with another character with this trait on the same click number.[Damage] HEALING TOUCHPowers: Leadership, SupportLeadership, Support. Support as FREE, but only to choose characters of less points or that share a keyword with Martin Li. // When Martin Li heals another character, after resolutions heal him an equal number of clicks.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Martial Artist | Politician | Spider Man Family | Maggia |",
     "alternates": [
       {
         "name": "Martin Li",
@@ -3156,13 +3156,13 @@
     "Rarity": "Uncommon",
     "Point Values": "70",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Brute | Spider Man Family | New Warriors",
-    "Keywords Search": "| Brute | Spider Man Family | New Warriors |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] OH, WHAT? MEPHISTO MADE YOU DO IT?Powers: RegenerationRegeneration as FREE, but only if Scarlet Spider was damaged by an opposing character since your last turn. // When Scarlet Spider would be KO'd, you may roll a d6. [d:6]: Instead, turn him to click #6. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Brute | Spider Man Family | New Warriors |",
     "alternates": [
       {
         "name": "Scarlet Spider",
@@ -3281,13 +3281,13 @@
     "Rarity": "Uncommon",
     "Point Values": "90/50",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Brute | Assassin | Sinister Syndicate | Maggia | The Hand",
-    "Keywords Search": "| Brute | Assassin | Sinister Syndicate | Maggia | The Hand |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] COLD AS ICE, HARD AS MARBLEWhen Tombstone attacks, modify his attack and damage +1 if a target has two action tokens. // Tombstone can reduce penetrating damage.[Trait] RUNNING MY OWN RACKETPowers: WillpowerWillpower. // At the beginning of the game, Tombstone may generate a character with an Expendable Goon trait on their 15 point line. If you're the first player, you may generate 2 instead.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Brute | Assassin | Sinister Syndicate | Maggia | The Hand |",
     "alternates": [
       {
         "name": "Tombstone",
@@ -3429,13 +3429,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Spider Man Family | Symbiote",
-    "Keywords Search": "| Celebrity | Spider Man Family | Symbiote |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Gwen Stacy is within 4 squares and line of fire of an opposing character, she can't be targeted by range attacks.[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Spider Man Family | Symbiote |",
     "alternates": [
       {
         "name": "Gwen Stacy",
@@ -3552,13 +3552,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Animal | Scientist | Sinister Syndicate | Monster",
-    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] REPTILE REGENERATIONAt the beginning of your turn and when The Lizard clears action tokens, you may heal him 1 click.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Animal | Scientist | Sinister Syndicate | Monster |",
     "alternates": [
       {
         "name": "The Lizard",
@@ -3701,13 +3701,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Team Player | Spider Man",
-    "Team Abilities Search": "| Team Player | Spider Man |",
     "Keywords": "Avengers | Scientist | Spider Man Family | Defenders | Fantastic Four",
-    "Keywords Search": "| Avengers | Scientist | Spider Man Family | Defenders | Fantastic Four |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AMAZING FRIENDSAdjacent friendly characters with the Spider-Man Family keyword can use Spider-Man's displayed defense power.[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.",
+    "Team Abilities Search": "| Team Player | Spider Man |",
+    "Keywords Search": "| Avengers | Scientist | Spider Man Family | Defenders | Fantastic Four |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -3820,13 +3820,13 @@
     "Rarity": "Rare",
     "Point Values": "75",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Future | Scientist | Spider Man Family | Exiles",
-    "Keywords Search": "| Future | Scientist | Spider Man Family | Exiles |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] FRIENDS ACROSS THE SPIDER-VERSE!Once per turn for all friendly characters with this trait, when Spider-Man 2099 hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Man 2099 adjacent to him.[Trait] SI TE METES CON EL BARRIO... TE METES CON SPIDER-MANWhen a friendly character of less points than Spider-Man 2099 is damaged by an opposing character, after resolutions heal Spider-Man 2099 1 click and remove an action token from him.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Future | Scientist | Spider Man Family | Exiles |",
     "alternates": [
       {
         "name": "Spider-Man 2099",
@@ -3946,14 +3946,14 @@
     "Properties": "Prime",
     "Point Values": "90/65",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Future | Scientist | Spider Man Family | Exiles",
-    "Keywords Search": "| Future | Scientist | Spider Man Family | Exiles |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSE!Once per turn for all friendly characters with this trait, when Spider-Man 2099 hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Man 2099 adjacent to him.[Trait] WE HAVE FILES ON THIS TIME, RIGHT LYLA?Powers: OutwitOutwit. // FREE: Once per game, generate a Lyla bystander.[Speed] THE SPIDER-MAN OF TOMORROW...Powers: Charge, Running ShotCharge, Running Shot. Once per turn, when Spider-Man 2099 uses either, after resolutions he may use the other as FREE.[Defense] ...HERE TO SAVE TODAY!Powers: Invincible, Super SensesInvincible, Super Senses.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Future | Scientist | Spider Man Family | Exiles |",
     "alternates": [
       {
         "name": "Spider-Man 2099",
@@ -4085,11 +4085,11 @@
     "Rarity": "Rare",
     "Point Values": "0",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] HERE, I'M BEYOND CUTTING EDGEWhen an opposing character within range would use Outwit, Perplex, or Probability Control you may roll a d6. If the result is higher than that character's printed damage value, instead they can't use that power this turn.",
+    "Team Abilities Search": "| Spider Man |",
     "alternates": [
       {
         "name": "Lyla",
@@ -4121,11 +4121,11 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Keywords": "Celebrity | Past | Reporter | S.H.I.E.L.D. | Spider Man Family | Spy",
-    "Keywords Search": "| Celebrity | Past | Reporter | S.H.I.E.L.D. | Spider Man Family | Spy |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Defense] THE NEW WORLDPowers: Stop, Combat Reflexes, Super SensesSTOP. Combat Reflexes, Super Senses. When The Spider uses Super Senses, if he is on a themed team, he succeeds on a [d:4]-[d:6].[Damage] WE ARE THE QUEEN'S SHIELDFriendly characters can use Mastermind, but only to choose The Spider. When they do, if they have the Past keyword, after resolutions heal them 1 click.",
+    "Keywords Search": "| Celebrity | Past | Reporter | S.H.I.E.L.D. | Spider Man Family | Spy |",
     "alternates": [
       {
         "name": "The Spider",
@@ -4240,14 +4240,14 @@
     "Rarity": "Rare",
     "Point Values": "70",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Reporter | Scientist | Spider Man Family",
-    "Keywords Search": "| Reporter | Scientist | Spider Man Family |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] HERE LIES SPIDER-MANOnce per game, when Spider-Man would be KO'd, instead turn him to click #7, generate a Grave hindering terrain marker in your starting area, and place him on his card. Protected: Pulse Wave.[Trait] SPYDER! SPYDER!Powers: Stealth, Super SensesStealth, Super Senses. // At the beginning of your turn, if Spider-Man is on his card, KO him if there aren't any Grave markers on the map. Otherwise, roll a d6. Heal him equal to half the result and you may place him in a square with a Grave marker. If he is healed to click #1, instead place him in any square and he has +1 combat values this game.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Reporter | Scientist | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -4382,14 +4382,14 @@
     "Properties": "Prime",
     "Point Values": "65",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Animal | Brute | Martial Artist | Sinister Syndicate | Warrior",
-    "Keywords Search": "| Animal | Brute | Martial Artist | Sinister Syndicate | Warrior |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] LAST HUNTWhen Kraven hits, after resolutions generate a Grave hindering terrain marker in a hit character's square. // Opposing characters occupying Grave hindering terrain markers have a maximum range of 0 and must break away to move.[Trait] FEARFUL SYMMETRYPowers: Sidestep, StealthSidestep, Stealth. // Kraven can use the standard powers that opposing characters occupying any Grave markers can use. // When Kraven KOs an opposing character, after resolutions deal 1 unavoidable damage to each opposing character occupying any Grave marker.[Defense] I AM THE SPIDERPowers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Animal | Brute | Martial Artist | Sinister Syndicate | Warrior |",
     "alternates": [
       {
         "name": "Kraven",
@@ -4538,14 +4538,14 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Future | Ruler | Spider Man Family | Maggia",
-    "Keywords Search": "| Future | Ruler | Spider Man Family | Maggia |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] KINGPIN OF THE WASTELANDSAt the beginning of the game, if you're the first player, generate up to two characters with an Expendable Goon trait on their 15 point starting lines.[Trait] TRAPPING INHERITORS ON EARTH-3145Powers: PoisonPoison. // Opposing characters within 3 squares can't heal or positively modify their combat values.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Future | Ruler | Spider Man Family | Maggia |",
     "alternates": [
       {
         "name": "Ashley Barton",
@@ -4664,14 +4664,14 @@
     "Rarity": "Rare",
     "Point Values": "85",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Politician | Soldier | Spider Man Family",
-    "Keywords Search": "| Celebrity | Politician | Soldier | Spider Man Family |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-Punk hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Punk adjacent to him.[Trait] ROCKABILLY FREAKOUTPowers: WillpowerWillpower. // When Spider-Punk is missed by an opposing attack, after resolutions you may remove an action token from him.[Attack] GUITAR SMASHPowers: Pulse WavePulse Wave, but instead deals 2 damage if all targeted characters are hit. Once per turn, when Spider-Punk uses Pulse Wave, you may reroll the attack roll.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Politician | Soldier | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Punk",
@@ -4869,13 +4869,13 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Team Player | Avengers",
-    "Team Abilities Search": "| Team Player | Avengers |",
     "Keywords": "Avengers | Hellions | Spider Man Family | Spy | New Warriors | X Men",
-    "Keywords Search": "| Avengers | Hellions | Spider Man Family | Spy | New Warriors | X Men |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AMAZING FRIENDSAdjacent friendly characters with the Spider-Man Family keyword can use Firestar's displayed defense power.[Attack] PLASMA BLASTSPowers: Energy Explosion, Precision Strike, PoisonEnergy Explosion, Precision Strike, Poison. // When Firestar damages an opposing character, after resolutions you may generate a Fire smoke terrain marker in their square. At the beginning of your next turn (even if this is lost), deal 1 damage to each character occupying those markers, then remove those markers.",
+    "Team Abilities Search": "| Team Player | Avengers |",
+    "Keywords Search": "| Avengers | Hellions | Spider Man Family | Spy | New Warriors | X Men |",
     "alternates": [
       {
         "name": "Firestar",
@@ -4991,14 +4991,14 @@
     "Properties": "Unique",
     "Point Values": "30",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Animal | Spider Man Family",
-    "Keywords Search": "| Animal | Spider Man Family |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-Cat hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Cat adjacent to him.[Trait] MY KIND OF ALLIESWhen establishing themed teams, friendly characters with the Animal keyword gain the Spider-Man Family keyword.[Speed] ZOOMIESPowers: Hypersonic SpeedHypersonic Speed. When Spider-Cat uses it, after resolutions you may give an action token to an opposing character he moved through.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Animal | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Cat",
@@ -5072,13 +5072,13 @@
     "Properties": "Unique",
     "Point Values": "50/25",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Brute | Sinister Syndicate",
-    "Keywords Search": "| Brute | Sinister Syndicate |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] OTTO, YOU'RE BACK...Friendly characters whose name contains \"Octopus\" can use Mastermind, but only to choose Stunner regardless of adjacency. // Stunner modifies her attack +1 if a friendly character's name contains \"Octopus\".[Defense] VR OFFPowers: StopSTOP. // At the beginning of your turn you may KO Stunner. If you do, heal another friendly character that has [ta:sinister_syndicate] 2 clicks. If that character is named Doctor Octopus, heal him 4 clicks instead.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Brute | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Stunner",
@@ -5210,14 +5210,14 @@
     "Rarity": "Rare",
     "Point Values": "80/45",
     "Team Abilities": "Mystics | Spider Man",
-    "Team Abilities Search": "| Mystics | Spider Man |",
     "Keywords": "Spider Man Family | Mystical | Excalibur",
-    "Keywords Search": "| Spider Man Family | Mystical | Excalibur |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-UK hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-UK adjacent to him.[Trait] WEB WARRIORS: KEEP CALM AND WEB ONPowers: Empower, LeadershipEmpower, Leadership. When Spider-UK uses any of these powers, friendly characters with a Web Warriors trait within 3 squares are considered adjacent to him.[Speed] THE PERFECT CUPPAPowers: ChargeCharge. When Spider-UK uses it and hits, after resolutions you may remove an action token from a friendly character within range.",
+    "Team Abilities Search": "| Mystics | Spider Man |",
+    "Keywords Search": "| Spider Man Family | Mystical | Excalibur |",
     "alternates": [
       {
         "name": "Spider-UK",
@@ -5353,13 +5353,13 @@
     "Properties": "Unique",
     "Point Values": "80/65",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Animal | Brute | Cosmic | Assassin | Monster | Mystical",
-    "Keywords Search": "| Animal | Brute | Cosmic | Assassin | Monster | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FAMILY DINNERBystanders printed on his card are Inheritors and each one has [MAX 1].[Trait] FEEDING ACROSS THE SPIDERVERSEPowers: Steal EnergySteal Energy. // Once per turn when Morlun would heal, he may instead generate an Inheritor bystander. // When a friendly Inheritor bystander would heal, instead heal Morlun that amount.[Attack] IT IS TIME FOR ME TO FEASTPowers: Precision StrikePrecision Strike. // When Morlun or an Inheritor KO's an opposing character with the Animal or Spider-Man Family keyword, score 15 Victory Points.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Animal | Brute | Cosmic | Assassin | Monster | Mystical |",
     "alternates": [
       {
         "name": "Morlun",
@@ -5647,13 +5647,13 @@
     "Properties": "Unique",
     "Point Values": "55",
     "Team Abilities": "Team Player | Sinister Syndicate",
-    "Team Abilities Search": "| Team Player | Sinister Syndicate |",
     "Keywords": "Hydra | Ruler | Scientist | Sinister Syndicate | M.O.D.O.K.'S 11 | Maggia | The Hand",
-    "Keywords Search": "| Hydra | Ruler | Scientist | Sinister Syndicate | M.O.D.O.K.'S 11 | Maggia | The Hand |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME TO SPOTWORLDWhen The Spot starts the game, generate a Spot's Spot marker within 4 squares. // FREE: Place the Spot's Spot marker into a square within 4 squares, or place a terrain marker adjacent to the Spot's Spot marker into a square adjacent to The Spot.[Speed] I AM NOT A JOKEPowers: Flurry, Phasing TeleportFlurry, Phasing/Teleport. Flurry as FREE, but only to target a character adjacent to his Spot's Spot marker regardless of adjacency. // When The Spot hits, after resolutions you may place a hit character adjacent to The Spot or a terrain marker if The Spot or that terrain marker is within 3 squares of their current square.[Defense] SPOT THE SPOTPowers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses. // When The Spot is missed by an attack, after resolutions deal the attacker 2 damage.",
+    "Team Abilities Search": "| Team Player | Sinister Syndicate |",
+    "Keywords Search": "| Hydra | Ruler | Scientist | Sinister Syndicate | M.O.D.O.K.'S 11 | Maggia | The Hand |",
     "alternates": [
       {
         "name": "The Spot",
@@ -5768,9 +5768,9 @@
     "Traits and Special Powers": "[Trait] SPOT'S SPOTFriendly characters named The Spot treat characters occupying or adjacent to this marker as adjacent when making close attacks. // When a friendly character named The Spot would move, before moving they may place themselves and the Spot marker in each other's squares.",
     "alternates": [
       {
+        "name": "Spot's Spot",
         "type": "Tile",
         "size": "1x1",
-        "name": "Spot's Spot",
         "image": "2ffdf6fc-0363-4b63-a450-2faa8b3598af.Tile.png"
       }
     ],
@@ -5790,13 +5790,13 @@
     "Properties": "Unique",
     "Point Values": "50",
     "Team Abilities": "Team Player | Spider Man",
-    "Team Abilities Search": "| Team Player | Spider Man |",
     "Keywords": "Animal | Reporter | Scientist | Spider Man Family",
-    "Keywords Search": "| Animal | Reporter | Scientist | Spider Man Family |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] IT AIN'T KOSHER TO TAKE A BITE OUTTA THE SPIDER-HAM!When an opposing character damages a friendly character with the Spider-Man Family keyword, this turn that opposing character can't heal.[Trait] WEB WARRIORS: HAM-MERSPACEWhen Spider-Ham is placed by a friendly effect, after resolutions he may generate a standard object. A friendly character adjacent to that object may immediately pick it up.",
+    "Team Abilities Search": "| Team Player | Spider Man |",
+    "Keywords Search": "| Animal | Reporter | Scientist | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Ham",
@@ -5916,13 +5916,13 @@
     "Properties": "Prime",
     "Point Values": "50",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Animal | Cosmic | Reporter | Scientist | Spider Man Family | Monster | Symbiote",
-    "Keywords Search": "| Animal | Cosmic | Reporter | Scientist | Spider Man Family | Monster | Symbiote |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLING ACROSS PANELSPowers: Leap Climb, Shape ChangeLeap/Climb, Shape Change. // FREE: Place this character in a square of different elevation within 4 squares.[Trait] FASHION ADVICE FROM BEE-YOND THE STARSPowers: PlasticityFriendly characters have \"Plasticity. // If this character is within 4 squares and line of fire of an opposing character, they can't be targeted by range attacks.\"[Attack] PUNCH OUT OF CONTINUITYPowers: Super StrengthSuper Strength. // When Spider-Ham hits and the attack roll is doubles, he may choose that a hit character is knocked back 16 squares instead of 3. That character's knockback path isn't stopped by changing elevation, and if it would be stopped by blocking terrain, instead destroy that terrain and continue the knockback path.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Animal | Cosmic | Reporter | Scientist | Spider Man Family | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Spider-Ham",
@@ -6041,15 +6041,15 @@
     "Rarity": "Super Rare",
     "Point Values": "70",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Scientist | Spider Man Family | Mystical",
-    "Keywords Search": "| Scientist | Spider Man Family | Mystical |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-Man hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Man adjacent to him.[Trait] WEB WARRIORS: FARADAY CAGE WEBBINGPowers: Super SensesSuper Senses. // When Spider-Man is placed by a friendly effect, until your next turn, friendly characters have SAFEGUARD: Energy Explosion and SAFEGUARD: Pulse Wave. Protected: Pulse Wave.[Attack] KADA WEB SLINGINGWhen Spider-Man hits with a range attack, once per turn after resolutions you may place a hit character adjacent to Spider-Man, then Spider-Man may make an attack using Incapacitate. // When a friendly character uses Incapaciate, hit characters modify their speed and range -1 until your next turn.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Scientist | Spider Man Family | Mystical |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -6181,11 +6181,11 @@
     "Rarity": "Super Rare",
     "Point Values": "60/30",
     "Keywords": "Animal | Brute | Martial Artist | Sinister Syndicate",
-    "Keywords Search": "| Animal | Brute | Martial Artist | Sinister Syndicate |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I'M NOT NOBODY! I'M THE KANGAROO!Powers: Leap Climb, SidestepLeap/Climb, Sidestep. Kangaroo may use Sidestep a second time if he knocked back an opposing character this turn.[Trait] I LIVED IN KANGAROO COUNTRY, MATEKangaroo modifies his defense +1 when attacked by characters that can't use Leap/Climb. // FREE: Make an attack, but only to target characters that can't use Leap/Climb.[Damage] COMPRESSED AIR JETSPowers: Close Combat ExpertClose Combat Expert, [im:destroy_blocking].",
+    "Keywords Search": "| Animal | Brute | Martial Artist | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Kangaroo",
@@ -6334,11 +6334,11 @@
     "Properties": "Unique",
     "Point Values": "25",
     "Keywords": "Brute | Monster",
-    "Keywords Search": "| Brute | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ALL IN ALL...The Wall takes a maximum of 1 damage from attacks. // When The Wall is KO'd, generate a blocking terrain marker in the square he last occupied. Protected: Pulse Wave.[Trait] HERE'S ONE WALL YOU'LL NEVER CRAWL!KNOCKBACK. // Characters knocked back into The Wall take damage as if he were blocking terrain. Protected: Pulse Wave.[Speed] FASTER THAN THE AVERAGE WALLPowers: SidestepSidestep. // Opposing lines of fire that cross The Wall's square are blocked, unless they are drawn to The Wall. // Opposing characters can't move through The Wall's square. Protected: Pulse Wave.",
+    "Keywords Search": "| Brute | Monster |",
     "alternates": [
       {
         "name": "The Wall",
@@ -6420,14 +6420,14 @@
     "Properties": "Unique",
     "Point Values": "60",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Celebrity | Scientist",
-    "Keywords Search": "| Celebrity | Scientist |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] THE HYPNO HUSTLER...Powers: Mind ControlMind Control. When Hypno-Hustler uses it, he gains an additional [cs:bolt] for each adjacent Mercy Killer bystander.[Trait] ...AND HIS MERCY KILLERSPowers: WillpowerWillpower. // At the beginning of the game and when Hypno-Hustler uses Willpower and succeeds, generate a Mercy Killer bystander [MAX 3].[Speed] GO WITH THE FLOW!Powers: SidestepSidestep. // Opposing characters within range and line of fire can't remove action tokens except by clearing.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Celebrity | Scientist |",
     "alternates": [
       {
         "name": "Hypno-Hustler",
@@ -6531,10 +6531,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Underworld |",
     "alternates": [
       {
         "name": "Mercy Killer",
@@ -6568,13 +6568,13 @@
     "Properties": "Unique",
     "Point Values": "80/60",
     "Team Abilities": "Underworld",
-    "Team Abilities Search": "| Underworld |",
     "Keywords": "Brute | Hydra | Robot | Ruler | Maggia",
-    "Keywords Search": "| Brute | Hydra | Robot | Ruler | Maggia |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HEAD OF THE FAMILYPowers: Leadership, Mastermind, PerplexLeadership, but succeeds on a [d:4]-[d:6]. When Silvermane uses Leadership and succeeds, you may instead generate a [set:spv] #006 Goon on its 15 point starting line. // Silvermane starts the game with the Silvermane Head special object attached.[Trait] TRYING TO GET A HEADWhen a character holding the Silvermane Head is hit by a close attack, after resolutions they drop the Silvermane Head and the attacker may pick up the Silvermane Head. // FREE: If Silvermane or an adjacent friendly character is holding the Silvermane Head, attach it to Silvermane.[Trait] HEAD WILL ROLLIf Silvermane has the Silvermane Head attached, he takes a maximum of 1 damage from attacks. // When Silvermane takes damage, if the Silvermane Head is attached, unattach it and place it 4 squares away from Silvermane.",
+    "Team Abilities Search": "| Underworld |",
+    "Keywords Search": "| Brute | Hydra | Robot | Ruler | Maggia |",
     "alternates": [
       {
         "name": "Silvermane",
@@ -6738,13 +6738,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70/45",
     "Team Abilities": "Sinister Syndicate | Spider Man",
-    "Team Abilities Search": "| Sinister Syndicate | Spider Man |",
     "Keywords": "Hydra | Scientist | Sinister Syndicate | Spider Man Family",
-    "Keywords Search": "| Hydra | Scientist | Sinister Syndicate | Spider Man Family |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] SPY BOTSWhen Superior Octopus uses his displayed damage power, he may count squares for range and line of fire from friendly characters named Spider-Bot.[Defense] I HAVE THESE ALL OVER THE CITYPowers: Combat Reflexes, Super SensesCombat Reflexes, Super Senses. // When an opposing character misses Superior Octopus, after resolutions generate a [set:spv] #010 Spider-Bot on click #1.",
+    "Team Abilities Search": "| Sinister Syndicate | Spider Man |",
+    "Keywords Search": "| Hydra | Scientist | Sinister Syndicate | Spider Man Family |",
     "alternates": [
       {
         "name": "Superior Octopus",
@@ -6895,14 +6895,14 @@
     "Properties": "Prime",
     "Point Values": "120",
     "Team Abilities": "Underworld | Sinister Syndicate",
-    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
     "Keywords": "Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts",
-    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] I AM SUPERIOR!When Doctor Octopus would be KO'd you may instead replace him with [set:spv] #047a Superior Octopus on his 45 point starting line. Protected: Pulse Wave.[Trait] THE IDEAL OCTOPUSPowers: FlurryGiant Reach: 3. // Flurry. When Doctor Octopus uses it and targets more than one character, instead of normal damage he may deal each hit character damage equal to his printed damage value.[Damage] MOST BRILLIANTPowers: Outwit, Perplex, Probability ControlOutwit, Perplex, Probability Control. // FREE: Once per game, generate a [set:spv] #037 Stunner on her 25 point starting line.",
+    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
+    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "alternates": [
       {
         "name": "Doctor Octopus",
@@ -7047,13 +7047,13 @@
     "Rarity": "Super Rare",
     "Point Values": "40",
     "Team Abilities": "Masters Of Evil",
-    "Team Abilities Search": "| Masters Of Evil |",
     "Keywords": "Armor | Masters Of Evil | Maggia",
-    "Keywords Search": "| Armor | Masters Of Evil | Maggia |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] IT'S AN HOMAGE!Powers: WillpowerDuring force construction, you may add 5 points to Lady Stilt-Man's cost as many times as you choose. For each time you choose to do so, at the beginning of the game, give Lady Stilt-Man a Leg Extension. // Lady Stilt-Man can use the following effects based on the number of Leg Extensions she has:*1-2: [cs:giant] *3-4: [cs:colossal] *5+: [cs:colossal], Giant Reach: 4, and modify her combat values +1.[Trait] DOES SHE KNOW HOW TO USE THEM?If Lady Stilt-Man has any Leg Extensions, she takes a maximum of 1 damage from attacks. // When Lady Stilt-Man takes damage from an attack, after resolutions knock her back away from the attacker a number of squares equal to her Leg Extensions, then remove a Leg Extension from her. If her knockback path is stopped by a character, deal that character 2 damage.[Damage] VILLAIN FOR HIREAdjacent friendly characters have \"POWER: Roll a d6.[d:1]-[d:3]: Give Lady Stilt-Man a Leg Extension.[d:4]-[d:6]: Give Lady Stilt-Man a Leg Extension and heal her one click.\"",
+    "Team Abilities Search": "| Masters Of Evil |",
+    "Keywords Search": "| Armor | Masters Of Evil | Maggia |",
     "alternates": [
       {
         "name": "Lady Stilt-Man",
@@ -7159,9 +7159,9 @@
     "Traits and Special Powers": "[Trait] IT'S AN HOMAGE!During force construction, you may add 5 points to Lady Stilt-Man's cost as many times as you choose. For each time you choose to do so, at the beginning of the game, give Lady Stilt-Man a Leg Extension. // Lady Stilt-Man can use the following effects based on the number of Leg Extensions she has:*1-2: [cs:giant] *3-4: [cs:colossal] *5+: [cs:colossal], Giant Reach: 4, and modify her combat values +1.",
     "alternates": [
       {
+        "name": "Lady Stilt-Man (Leg Extension)",
         "type": "Tile",
         "size": "1x1",
-        "name": "Lady Stilt-Man (Leg Extension)",
         "image": "ae2d773b-5479-4f1f-9416-80361e6f2a2e.Tile.png"
       }
     ],
@@ -7180,14 +7180,14 @@
     "Rarity": "Super Rare",
     "Point Values": "75",
     "Team Abilities": "Police | Spider Man",
-    "Team Abilities Search": "| Police | Spider Man |",
     "Keywords": "Animal | Past | Police | Spider Man Family",
-    "Keywords Search": "| Animal | Past | Police | Spider Man Family |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] PILOT: IS THAT HORSE WEARING A MASK?When revealing your force, you may choose a single base character on your Sideline that has the Animal keyword, and turn it to any click. Web Slinger can use the standard attack and damage powers displayed on that character's dial. // When Web Slinger is KO'd, before removing him from the map, generate the chosen character from your Sideline on its last non-KO click. This game, that character can't be healed or replaced, and is removed from the game without being scored when it would take damage. Protected: Pulse Wave.[Trait] QUICKDRAWWhen Web Slinger hits with a range attack, if it was during your first action this turn, after resolutions remove an action token from him.[Defense] DODGING BULLETS AND TUMBLEWEEDSPowers: Energy Shield Deflection, Super SensesEnergy Shield/Deflection, Super Senses.",
+    "Team Abilities Search": "| Police | Spider Man |",
+    "Keywords Search": "| Animal | Past | Police | Spider Man Family |",
     "alternates": [
       {
         "name": "Web Slinger",
@@ -7313,15 +7313,15 @@
     "Properties": "Unique",
     "Point Values": "70",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Future | Robot | Soldier | Spider Man Family | Monster",
-    "Keywords Search": "| Future | Robot | Soldier | Spider Man Family | Monster |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Move Through",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] SOLDIER OF THE GREAT NESTThe first time Spider-Biodroid would be KO'd, you may instead turn him to click #9. If you do, this game he has \"When Spider-Biodroid would take damage from a game effect, he takes 1 unavoidable damage instead.\" and \"At the end of your turn, deal Spider-Biodroid 1 unavoidable damage.\" Protected: Pulse Wave.[Speed] JOIN USZZ OR DIE!Powers: SidestepSidestep. // When this click is first revealed, you may choose a character with the Spider-Man Family keyword on your Sideline of 50 points or less and generate it on its starting click. Your opponent scores that character now instead of when it's KO'd.[Attack] INVERSE PHASE TERMINATIONPowers: Energy ExplosionEnergy Explosion. When Spider-Biodroid uses it, damage dealt to each hit character is equal to the number of characters adjacent to that character instead.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Future | Robot | Soldier | Spider Man Family | Monster |",
     "alternates": [
       {
         "name": "Spider-Biodroid",
@@ -7485,13 +7485,13 @@
     "Rarity": "Chase",
     "Point Values": "75",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Cosmic | Avengers | Reporter | Scientist | Spider Man Family",
-    "Keywords Search": "| Cosmic | Avengers | Reporter | Scientist | Spider Man Family |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WITH THE GREATEST POWER...When Spider-Man starts the game, he generates and equips an Infinity Gauntlet equipment special object.[Defense] I WISH THANOS NEVER GOT THE INFINITY GEMSPowers: Stop, Super SensesSTOP. Super Senses. // When this click is revealed by damage from an opposing effect, after resolutions remove all equipment (on the map or equipped) and all game elements on Sidelines from the game, then end the durations of any effects created by the removed Sideline elements. Game elements removed from Sidelines this way only score points paid to add them to a Sideline. // Spider-Man can't be healed above this click.[Damage] NO ONE REMEMBERS ME BEATING THANOSPowers: Empower, Probability ControlEmpower, Probability Control. Spider-Man may use Probability Control twice a turn.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Cosmic | Avengers | Reporter | Scientist | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -7626,9 +7626,9 @@
     "Traits and Special Powers": "EFFECTPowers: Perplex[ta:cosmic_energy], Perplex.",
     "alternates": [
       {
+        "name": "Infinity Gauntlet",
         "type": "Tile",
         "size": "1x1",
-        "name": "Infinity Gauntlet",
         "image": "bc89434a-cb70-400d-81a0-023a061c648e.Tile.png"
       }
     ],
@@ -7647,13 +7647,13 @@
     "Rarity": "Chase",
     "Point Values": "55",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Asgardian | Spider Man Family | Warrior",
-    "Keywords Search": "| Asgardian | Spider Man Family | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] THE POWER OF MJOLNIRPowers: Blades Claws FangsBlades/Claws/Fangs, but can use it during close or range attacks, and may roll a d8 instead of a d6.[Attack] SLAM!When Spider-Man hits, after resolutions, choose one: Give a hit character an action token -or- place a hit character in a square adjacent to Spider-Man.[Defense] CORRUPTED INNOCENCEPowers: Stop, Super Senses, ToughnessSTOP. Super Senses, Toughness.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Asgardian | Spider Man Family | Warrior |",
     "alternates": [
       {
         "name": "Spider-Man",
@@ -7786,14 +7786,14 @@
     "Properties": "Unique",
     "Point Values": "200/100",
     "Team Abilities": "Cosmic Energy | Spider Man",
-    "Team Abilities Search": "| Cosmic Energy | Spider Man |",
     "Keywords": "Champions | Cosmic | Avengers | Spider Man Family",
-    "Keywords Search": "| Champions | Cosmic | Avengers | Spider Man Family |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering | Blocking | Characters",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSE!Once per turn for all friendly characters with this trait, when Captain Universe hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Captain Universe adjacent to him.[Attack] I'VE GOT TWO WORDS FOR YOU...Powers: Blades Claws FangsGiant Reach: 3. // Blades/Claws/Fangs. When Captain Universe uses it, damage dealt is unavoidable.[Defense] PILE ON!Powers: Stop, Impervious, Super SensesSTOP. Impervious, Super Senses. // Once per turn during your turn, when a friendly character with the Spider-Man Family keyword is placed adjacent to Captain Universe, after resolutions that character may make an attack.[Damage] ENIGMA FORCE VENOM STRIKEPowers: Ranged Combat ExpertRanged Combat Expert. // When Captain Universe hits with a range attack, after resolutions give each hit target an action token.",
+    "Team Abilities Search": "| Cosmic Energy | Spider Man |",
+    "Keywords Search": "| Champions | Cosmic | Avengers | Spider Man Family |",
     "alternates": [
       {
         "name": "Captain Universe",
@@ -7989,13 +7989,13 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Frightful Four | Sinister Syndicate",
-    "Keywords Search": "| Frightful Four | Sinister Syndicate |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EM REPULSIONPowers: Energy Shield DeflectionFriendly characters with the Sinister Syndicate keyword can use Energy Shield/Deflection.[Attack] FRY THE WEBHEADPowers: Energy ExplosionEnergy Explosion. When Electro uses it, after resolutions deal 1 penetrating damage to any characters that evaded the attack.[Damage] ELECTRICAL ARCINGPowers: Ranged Combat ExpertRanged Combat Expert. // At the beginning of your turn, you may roll a d6. [d:4]-[d:6]: Deal 2 damage to an opposing character within range and line of fire.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Frightful Four | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Electro",
@@ -8146,13 +8146,13 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Underworld | Sinister Syndicate",
-    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
     "Keywords": "Scientist | Sinister Syndicate",
-    "Keywords Search": "| Scientist | Sinister Syndicate |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ANTI-GRAVITY HARNESSFriendly characters with the Sinister Syndicate keyword have [ta:underworld]. When they use it, they may carry two characters with the Sinister Syndicate keyword regardless of point values.[Trait] AIR SUPERIORITYOpposing characters that can't use [im:elevated] modify their speed and range -1 ([cs:wing] and Leap/Climb grant [im:elevated]).[Speed] DIVEBOMBPowers: ChargeCharge. // When an opposing character is placed within 4 squares of Vulture by an effect other than knockback, after resolutions you may roll a d6.[d:4]-[d:6]: Place Vulture adjacent to that character, then deal that character 1 penetrating damage.",
+    "Team Abilities Search": "| Underworld | Sinister Syndicate |",
+    "Keywords Search": "| Scientist | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Vulture",
@@ -8303,13 +8303,13 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts",
-    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FOUNDING THE SINISTER SIXPowers: LeadershipGiant Reach: 4, Leadership. // When a friendly character with the Sinister Syndicate keyword uses [ta:sinister_syndicate] or Leadership, they consider other friendly characters within 4 squares of themselves to be adjacent.[Attack] ARMS OF THE OCTOPUSWhen Doctor Octopus or a friendly character that replaced their attack value with his attacks, attack rolls of 8 are critical hits.[Damage] ALWAYS SUPERIORPowers: OutwitOutwit. // If an opposing character has been hit this turn, it can't use Protected: Outwit.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "alternates": [
       {
         "name": "Doctor Octopus",
@@ -8460,13 +8460,13 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Animal | Assassin | Marksman | Martial Artist | Sinister Syndicate | Mystical | Warrior",
-    "Keywords Search": "| Animal | Assassin | Marksman | Martial Artist | Sinister Syndicate | Mystical | Warrior |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TROPHY HUNTERWhen a friendly character is KO'd, after resolutions generate a Grave hindering terrain marker in the square that character last occupied.[Trait] THE HUNTER REBORNWhen Kraven is KO'd, after resolutions you may generate a character with the Sinister Syndicate keyword from your KO area into a square with any Grave terrain marker on their last non-KO click. Roll a d6 and heal them equal to half the result. This game, that character has \"If this character would be KO'd, instead remove them from the game without scoring them.\" Protected: Pulse Wave.[Speed] THE GREATEST HUNTERPowers: Charge, Stealth, Exploit Weakness, FlurryCharge, Stealth. When Kraven uses Charge, he doesn't halve speed and choose one or both to use: *Exploit Weakness and modify damage +1. *Flurry and modify attack +1. If Kraven chooses both, he can only attack characters with [ta:spider_man].",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Animal | Assassin | Marksman | Martial Artist | Sinister Syndicate | Mystical | Warrior |",
     "alternates": [
       {
         "name": "Kraven",
@@ -8617,14 +8617,14 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Brute | Avengers | Frightful Four | Sinister Syndicate",
-    "Keywords Search": "| Brute | Avengers | Frightful Four | Sinister Syndicate |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Improved Movement": "Destroy Blocking | Characters",
     "Traits and Special Powers": "[Trait] THIS CITY IS MY SANDBOX!Powers: Smoke CloudSmoke Cloud as FREE. When Sandman uses it, after generating each marker, Sandman may destroy a terrain marker or square of blocking terrain adjacent to that marker.[Trait] IT'S SAND, IT GETS EVERYWHEREDamage dealt by friendly characters with the Sinister Syndicate keyword can't be reduced below Sandman's printed damage value.[Attack] SCOURING SANDSPowers: PoisonPoison. When Sandman uses it, characters within range and line of fire are considered adjacent to him.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Brute | Avengers | Frightful Four | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Sandman",
@@ -8775,14 +8775,14 @@
     "Properties": "Unique",
     "Point Values": "75/50",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Celebrity | Scientist | Sinister Syndicate | Maggia",
-    "Keywords Search": "| Celebrity | Scientist | Sinister Syndicate | Maggia |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] YOUR GREATEST FOES CONCEALED!Powers: StealthFriendly characters with the Sinister Syndicate keyword can use Stealth.[Trait] THE ILLUSION GENERATORPowers: Shape ChangeShape Change. // FREE: If there are no other friendly characters named Mysterio, roll a d6. Generate up to half the result [set:spv] #002 Mysterios on their red starting line within range and line of fire.[Speed] EVERYWHERE, YET NOWHEREPowers: Mind ControlMind Control. // FREE: Place Mysterio and a friendly character named Mysterio in each other's squares.[Damage] A PUFF OF SMOKE, A SHATTERED MIRRORPowers: Probability ControlProbability Control. // Opposing characters within range of a friendly character named Mysterio can't use [it:] abilities.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Celebrity | Scientist | Sinister Syndicate | Maggia |",
     "alternates": [
       {
         "name": "Mysterio",
@@ -8917,13 +8917,13 @@
     "Rarity": "Chase",
     "Point Values": "60",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Reporter | Spider Man Family | Detective",
-    "Keywords Search": "| Reporter | Spider Man Family | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] IF THERE IS TOO MUCH POWER...If an opposing force has more characters than yours, Spider-Man Noir takes a maximum of 1 damage from opposing effects.[Attack] ...IT IS THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY.When Spider-Man Noir attacks a character with a positively modified combat value, modify his attack and damage +2.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Reporter | Spider Man Family | Detective |",
     "alternates": [
       {
         "name": "Spider-Man Noir",
@@ -9057,13 +9057,13 @@
     "Rarity": "Chase",
     "Point Values": "45",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Spider Man Family | Detective",
-    "Keywords Search": "| Celebrity | Spider Man Family | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BRINGING SPIDER-WOMAN TO JUSTICEAt the beginning of the game, generate a Captain Stacy bystander friendly to your opponent's force adjacent to an opposing character.[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Defense] YOU'RE A GOOD COP, DAD!Powers: Stop, Super SensesSTOP. Super Senses. // Gwen Stacy can't be healed above this click. // The first time this power is revealed, Captain Stacy becomes friendly to your force and gains Immune until your next turn.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Spider Man Family | Detective |",
     "alternates": [
       {
         "name": "Gwen Stacy",
@@ -9182,11 +9182,11 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] SWORE AN OATHPowers: Enhancement, Outwit, PerplexEnhancement. // If a friendly character is named Gwen Stacy, Captain Stacy can use Outwit. Otherwise, Captain Stacy can use Perplex.",
+    "Team Abilities Search": "| Police |",
     "alternates": [
       {
         "name": "Captain Stacy",
@@ -9220,12 +9220,12 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Keywords": "Animal | Scientist | Monster",
-    "Keywords Search": "| Animal | Scientist | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] LIZARD MUTAGENFREE: Heal The Lizard 1 click.[Trait] JUST... WANTED TO BE... LIKE YOUWhen The Lizard is KO'd by an opposing character, that character can't use powers until the end of your next turn. If that character has the Spider-Man Family keyword, after resolutions deal them 1 unavoidable damage. Protected: Pulse Wave.[Attack] SSSHOOOOW THEM ALLGiant Reach: 2. // When The Lizard hits, after resolutions deal 1 damage to an opposing character within 2 squares and line of fire.",
+    "Keywords Search": "| Animal | Scientist | Monster |",
     "alternates": [
       {
         "name": "The Lizard",
@@ -9360,14 +9360,14 @@
     "Properties": "Unique",
     "Point Values": "295",
     "Team Abilities": "Team Player | Spider Man",
-    "Team Abilities Search": "| Team Player | Spider Man |",
     "Keywords": "Champions | Avengers | Scientist | Spider Man Family | Symbiote",
-    "Keywords Search": "| Champions | Avengers | Scientist | Spider Man Family | Symbiote |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] YOUR FRIENDLY NEIGHBORHOOD SPIDERS...Powers: Leap Climb, Super Senses, ToughnessLeap/Climb, Super Senses, Toughness. // At the beginning of your turn, Spider-Man, Spider-Man, and Ghost Spider may generate a friendly character with the Spider-Man Family keyword of 100 points or less from your Sideline on its starting click. If they do, remove any other characters generated this way from the game without scoring them. Characters generated this way can't heal or be replaced this game.[Speed] THEIR TEAMWORK CAN'T BE TIGHTERPowers: ChargeCharge. // CLOSE: Make three close attacks. Before making each attack, Spider-Man, Spider-Man, and Ghost Spider may move up to two squares.",
+    "Team Abilities Search": "| Team Player | Spider Man |",
+    "Keywords Search": "| Champions | Avengers | Scientist | Spider Man Family | Symbiote |",
     "alternates": [
       {
         "name": "Spider-Man, Spider-Man, and Ghost Spider",
@@ -9561,13 +9561,13 @@
     "Rarity": "Chase",
     "Point Values": "275/200/100/50",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Animal | Past | Spider Man Family",
-    "Keywords Search": "| Animal | Past | Spider Man Family |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] FRIENDS ACROSS THE SPIDER-VERSEOnce per turn for all friendly characters with this trait, when Spider-Rex hits, after resolutions you may place a friendly character with the Spider-Man Family keyword of less points than Spider-Rex adjacent to her.[Trait] SPIDER-REX, SPIDER-REX, TINY ARMS, REAL THICK NECK!Powers: Super SensesSuper Senses. When Spider-Rex uses it and succeeds, after resolutions you may knock back all adjacent opposing characters.[Trait] SPINS A WEB, JURASSIC SIZE, SUPER BIG, BUT SOMEHOW FLIES!Powers: QuakeWhen Spider-Rex moves and moves 5 squares or less, after resolutions he may use Quake as FREE. If he does, characters hit by that use of Quake are given an action token.[Damage] LOOK OUT! HERE COMES SPIDER-REX!Powers: Outwit, Probability ControlFREE: Choose one for Spider-Rex to use until your next turn:* Outwit * Probability Control",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Animal | Past | Spider Man Family |",
     "alternates": [
       {
         "name": "Spider-Rex",
@@ -9869,11 +9869,11 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Keywords": "Avengers | Midnight Sons",
-    "Keywords Search": "| Avengers | Midnight Sons |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DOES WHATEVER A MYSTERIOUS STRANGER CANFREE: Choose a team ability another character can use. Spider Hero can use that team ability until he chooses again.",
+    "Keywords Search": "| Avengers | Midnight Sons |",
     "alternates": [
       {
         "name": "Spider Hero",
@@ -9906,13 +9906,13 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Cosmic | Spider Man Family",
-    "Keywords Search": "| Cosmic | Spider Man Family |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CONSTANT TELEPATHYFriendly characters within Psider-Man's range can use [it:elevated,characters,blocking], but only when targeting friendly characters within Psider-Man's range.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Cosmic | Spider Man Family |",
     "alternates": [
       {
         "name": "Psider-Man",
@@ -9946,13 +9946,13 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Spider Man Family",
-    "Keywords Search": "| Spider Man Family |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] TENDING HER GARDENPowers: StealthStealth. // At the end of your turn, Garden-Spider may generate a hindering terrain marker in her square.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Spider Man Family |",
     "alternates": [
       {
         "name": "Garden-Spider",
@@ -9986,13 +9986,13 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Spider Man Family",
-    "Keywords Search": "| Spider Man Family |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FULL-BODY GLOWDuring your turn, lines of fire drawn to characters within Spidair's range can't be hindered.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Spider Man Family |",
     "alternates": [
       {
         "name": "Spidair",
@@ -10026,10 +10026,10 @@
     "Rarity": "Chase",
     "Point Values": "20",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Team Player |",
     "alternates": [
       {
         "name": "Bora & Brix",
@@ -10168,12 +10168,12 @@
     "Rarity": "Chase",
     "Point Values": "15",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Police | Spider Man Family",
-    "Keywords Search": "| Police | Spider Man Family |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Police | Spider Man Family |",
     "alternates": [
       {
         "name": "Jefferson Morales",
@@ -10206,13 +10206,13 @@
     "Rarity": "Chase",
     "Point Values": "10",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Sinister Syndicate",
-    "Keywords Search": "| Sinister Syndicate |",
     "Range": "2",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] VIBRO-SHOCK GAUNTLETSKNOCKBACK.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Sinister Syndicate |",
     "alternates": [
       {
         "name": "Prowler",
@@ -10246,13 +10246,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Celebrity | Spider Man Family",
-    "Keywords Search": "| Celebrity | Spider Man Family |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WALL-CRAWLERPowers: Leap ClimbLeap/Climb. // FREE: Place this character in a square of different elevation within 4 squares and line of fire.[Trait] I CAN MAKE YOU ALL CELEBRITIESPowers: TelekinesisWhen establishing themed teams, friendly characters with the Spider-Man Family keyword gain the Celebrity keyword. // Telekinesis. When TV's Spider-Man uses it to place a character with the Celebrity keyword, after resolutions that character may make an attack.[Defense] CELEBRITIES GET PERKSPowers: StopSTOP. When this click is first revealed, after resolutions heal all friendly characters 2 clicks.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Celebrity | Spider Man Family |",
     "alternates": [
       {
         "name": "TV's Spider-Man",
@@ -10335,6 +10335,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "560f87ed-d28b-4312-ab5a-ffada45f46b7.Click6.png"
+      },
+      {
+        "name": "TV's Spider-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "560f87ed-d28b-4312-ab5a-ffada45f46b7.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10352,14 +10362,14 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Avengers | Spider Man Family | Mystical",
-    "Keywords Search": "| Avengers | Spider Man Family | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] WEB WARRIORS: THE WEAVEROnce per game, when Spider-Girl is placed by a friendly effect, after resolutions she may generate a Karn bystander. // When Karn is KO'd, after resolutions generate a Master Weaver bystander in the square he last occupied.[Trait] ARAÑAThe first time Spider-Girl would be KO'd, instead turn her to click #2 and modify her attack and defense +1 for the rest of the game. Protected: Pulse Wave.[Damage] READING THE SCROLLSPowers: Leadership, PerplexLeadership, Perplex. // FREE: Choose an adjacent friendly character with the Spider-Man Family keyword. If you do, until your next turn, when Spider-Girl or the chosen character uses Perplex or Probability Control they may do so regardless of range or line of fire.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Avengers | Spider Man Family | Mystical |",
     "alternates": [
       {
         "name": "Spider-Girl",
@@ -10431,6 +10441,16 @@
         "Damage": "2",
         "Damage Ability": "Special - READING THE SCROLLS",
         "image": "df75f507-197d-4296-9607-4ec403bebf29.Click5.png"
+      },
+      {
+        "name": "Spider-Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "df75f507-197d-4296-9607-4ec403bebf29.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10483,10 +10503,10 @@
     "Rarity": "Uncommon",
     "Point Values": "0",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Range": "8",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Spider Man |",
     "alternates": [
       {
         "name": "Master Weaver",
@@ -10519,13 +10539,13 @@
     "Rarity": "Rare",
     "Point Values": "25",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Spider Man Family | Monster",
-    "Keywords Search": "| Spider Man Family | Monster |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TALKING ABOUT FOSTERINGPOWER: KO an opposing bystander with a point cost of 0 within 6 squares.[Attack] PASTRY DECORATOR WEB-SHOOTERSPowers: IncapacitateIncapacitate. // When Spider-Ma'am hits, after resolutions choose one:* Hit characters gain Immobile until your next turn. * Heal up to 2 adjacent friendly characters 1 click.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Spider Man Family | Monster |",
     "alternates": [
       {
         "name": "Spider-Ma'am",
@@ -10598,6 +10618,16 @@
         "Damage": "1",
         "Damage Ability": "Perplex",
         "image": "80624e96-4bc7-430b-8a6e-25b5bf930b5c.Click5.png"
+      },
+      {
+        "name": "Spider-Ma'am",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "80624e96-4bc7-430b-8a6e-25b5bf930b5c.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10615,14 +10645,14 @@
     "Rarity": "Rare",
     "Point Values": "45",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Midnight Sons | Spider Man Family | New Warriors",
-    "Keywords Search": "| Midnight Sons | Spider Man Family | New Warriors |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] DEAL WITH THE DEVILScarlet Spider's combat values can't be modified by other friendly character's effects. // The first time Scarlet Spider would be KO'd, instead roll a d6 and turn him to the click number matching the d6 face value. Protected: Pulse Wave.[Speed] BACK IN THE HOODPowers: FlurrySidestep. // Flurry. When Scarlet Spider uses it and hits, you may immediately place him in a square adjacent to a hit target.[Damage] AM I THE REAL SPIDER-MAN OR AM I A CLONE?Powers: Shape ChangeShape Change. // FREE: Choose a standard power that another friendly character that has [ta:spider_man] within 4 squares and line of fire can use. Scarlet Spider can use the chosen power until your next turn.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Midnight Sons | Spider Man Family | New Warriors |",
     "alternates": [
       {
         "name": "Scarlet Spider",
@@ -10712,6 +10742,16 @@
         "Damage": "2",
         "Damage Ability": "Special - AM I THE REAL SPIDER-MAN OR AM I A CLONE?",
         "image": "9ccfdec8-81cc-443b-b05b-4ce66cdb6e00.Click6.png"
+      },
+      {
+        "name": "Scarlet Spider",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9ccfdec8-81cc-443b-b05b-4ce66cdb6e00.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10729,13 +10769,13 @@
     "Rarity": "Super Rare",
     "Point Values": "30",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Herald | Spider Man Family | Mystical",
-    "Keywords Search": "| Herald | Spider Man Family | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NAVIGATING THE WEB OF LIFE AND DESTINYMadame Web starts the game on any starting line. // FREE: Place Madame Web up to 2 squares away from her current square, then turn her dial to her next starting line (She isn't KO'd by this if KO clicks appear).[Trait] PASS ON MY POWERPowers: Super SensesSuper Senses. // When Madame Web is KO'd, after resolutions choose a friendly character with the Spider-Man Family keyword and a standard power on this card. For the rest of the game, that friendly character can use the chosen power. Protected: Pulse Wave.[Damage] CLAIRVOYANTWhen this click is revealed, roll a d6 and place it on this card. // When a character within 4 squares and line of fire rolls an attack roll or rolls for Super Senses, you may remove a d6 from this card and replace a die in the roll with it.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Herald | Spider Man Family | Mystical |",
     "alternates": [
       {
         "name": "Madame Web",
@@ -10840,6 +10880,16 @@
         "Damage": "0",
         "Damage Ability": "Special - CLAIRVOYANT",
         "image": "49f9e4d0-9e99-4e84-8d9c-e6576ba5a4c0.Click11.png"
+      },
+      {
+        "name": "Madame Web",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "49f9e4d0-9e99-4e84-8d9c-e6576ba5a4c0.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10857,13 +10907,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts",
-    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] YOU FIGHT ME AND THE TENTACLESDoctor Octopus starts the game with 4 Tentacle tokens. // When Doctor Octopus would take damage, you may remove a Tentacle token from him instead. // Doctor Octopus positively modifies his attack and defense by the number of Tentacle tokens he has, and positively modifies his damage by half that amount.[Attack] YOU OBEY ME NOW!Powers: Precision Strike, QuakePrecision Strike, Quake. Giant Reach: 4.[Damage] GENIUS LEVEL INTELLECTPowers: Close Combat Expert, Exploit Weakness, Probability ControlClose Combat Expert, Exploit Weakness, Probability Control.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Masters Of Evil | Scientist | Sinister Syndicate | Thunderbolts |",
     "alternates": [
       {
         "name": "Doctor Octopus",
@@ -10955,6 +11005,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "78c16e25-befd-4e4f-a1ee-c70c293902bd.Click6.png"
+      },
+      {
+        "name": "Doctor Octopus",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "78c16e25-befd-4e4f-a1ee-c70c293902bd.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -10972,13 +11032,13 @@
     "Rarity": "Super Rare",
     "Point Values": "60",
     "Team Abilities": "Sinister Syndicate",
-    "Team Abilities Search": "| Sinister Syndicate |",
     "Keywords": "Scientist | Sinister Syndicate",
-    "Keywords Search": "| Scientist | Sinister Syndicate |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WORKERS PROTECT THE QUEENPowers: PoisonPoison. // Swarm takes a maximum of 1 damage from attacks, can't be chosen for Mastermind, and can't be healed except by characters named Bee Swarm. Protected: Pulse Wave.[Attack] NOT THE BEES!!!When Swarm damages one or more opposing characters, after resolutions generate a Bee Swarm bystander adjacent to a damaged character.",
+    "Team Abilities Search": "| Sinister Syndicate |",
+    "Keywords Search": "| Scientist | Sinister Syndicate |",
     "alternates": [
       {
         "name": "Swarm",
@@ -11070,6 +11130,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "608692b1-3949-44de-9dbc-850fe2f74e71.Click6.png"
+      },
+      {
+        "name": "Swarm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "608692b1-3949-44de-9dbc-850fe2f74e71.KO.png"
       }
     ],
     "Set": "Spider-Verse",
@@ -11122,14 +11192,14 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Team Abilities": "Spider Man",
-    "Team Abilities Search": "| Spider Man |",
     "Keywords": "Future | Spider Man Family | Vehicle",
-    "Keywords Search": "| Future | Spider Man Family | Vehicle |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] PILOT: JOURNEY TO NEW BABYLONWhen revealing your force, you may choose a single base character on your Sideline that has the Future or Spider-Man Family keyword, and turn it to any click. Spider-Mobile can use the standard attack and damage powers displayed on that character's dial. // When Spider-Mobile is KO'd, before removing it from the map, generate the chosen character from your Sideline on its last non-KO click. This game, that character can't be healed or replaced, and is removed from the game without being scored when it would take damage. Protected: Pulse Wave.[Trait] BUILT BY JOHNNY STORM HIMSELF!If Spider-Mobile's pilot is 100 points or less, Spider-Mobile may replace its attack and damage values with the same values displayed on the dial of its pilot.[Defense] RUNNING ON FUMESPowers: StopSTOP. When this click is revealed, after resolutions roll a d6.[d:1]-[d:4]: KO Spider-Mobile.[d:5]-[d:6]: Heal Spider-Mobile 1 click.",
+    "Team Abilities Search": "| Spider Man |",
+    "Keywords Search": "| Future | Spider Man Family | Vehicle |",
     "alternates": [
       {
         "name": "Spider-Mobile",
@@ -11241,6 +11311,16 @@
         "Defense Ability": "Special - RUNNING ON FUMES",
         "Damage": "0",
         "image": "b7a546f2-5eb3-47c4-aa09-eedd469a0d80.Click8.png"
+      },
+      {
+        "name": "Spider-Mobile",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b7a546f2-5eb3-47c4-aa09-eedd469a0d80.KO.png"
       }
     ],
     "Set": "Spider-Verse",

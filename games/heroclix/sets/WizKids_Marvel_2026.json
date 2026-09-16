@@ -9,13 +9,13 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Team Abilities": "Guardians",
-    "Team Abilities Search": "| Guardians |",
     "Keywords": "Assassin | Infinity Watch | Martial Artist | Warrior | Guardians Of The Galaxy",
-    "Keywords Search": "| Assassin | Infinity Watch | Martial Artist | Warrior | Guardians Of The Galaxy |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DEADLIEST WOMAN IN THE GALAXYWhen Gamora would make a close attack, before choosing targets you may place her adjacent to an opposing character within 3 squares. If you do, she can only target a single character with that attack, regardless of any other effects.[Defense] CYBERNETICALLY ENHANCEDPowers: Invulnerability, Super SensesInvulnerability, Super Senses. When Gamora uses Super Senses and succeeds, after resolutions heal her 2 clicks.",
+    "Team Abilities Search": "| Guardians |",
+    "Keywords Search": "| Assassin | Infinity Watch | Martial Artist | Warrior | Guardians Of The Galaxy |",
     "alternates": [
       {
         "name": "Gamora",
@@ -147,13 +147,13 @@
     "Rarity": "Chase",
     "Point Values": "85",
     "Team Abilities": "Avengers | Ultimates",
-    "Team Abilities Search": "| Avengers | Ultimates |",
     "Keywords": "Avengers | Police | S.W.O.R.D. | Nextwave | Ultimates",
-    "Keywords Search": "| Avengers | Police | S.W.O.R.D. | Nextwave | Ultimates |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AUNTIE MONICA'S NOT LAUGHINGPowers: Pulse WavePulse Wave. When Monica Rambeau uses it, choose one: *She instead has a range of 6. *Friendly characters have SAFEGUARD: Pulse Wave and their powers and abilities have Protected: Pulse Wave.",
+    "Team Abilities Search": "| Avengers | Ultimates |",
+    "Keywords Search": "| Avengers | Police | S.W.O.R.D. | Nextwave | Ultimates |",
     "alternates": [
       {
         "name": "Monica Rambeau",
@@ -299,14 +299,14 @@
     "Rarity": "Chase",
     "Point Values": "80",
     "Team Abilities": "Guardians",
-    "Team Abilities Search": "| Guardians |",
     "Keywords": "Avengers | Future | Soldier | Guardians Of The Galaxy",
-    "Keywords Search": "| Avengers | Future | Soldier | Guardians Of The Galaxy |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated",
     "Traits and Special Powers": "[Trait] I'M OLDER THAN I LOOKPowers: ToughnessToughness. // When Major Victory hits, give each hit character an action token.[Defense] THE SHIELD IS A RESPONSIBILITYPowers: Energy Shield DeflectionEnergy Shield/Deflection. // Other friendly characters within 3 squares can use Energy Shield/Deflection.",
+    "Team Abilities Search": "| Guardians |",
+    "Keywords Search": "| Avengers | Future | Soldier | Guardians Of The Galaxy |",
     "alternates": [
       {
         "name": "Major Victory",
@@ -452,14 +452,14 @@
     "Rarity": "Chase",
     "Point Values": "55",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Avengers | Illuminati | Midnight Sons | Mystical | Defenders",
-    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] I'M OPENING A PORTAL!Powers: Phasing TeleportPhasing/Teleport, [cs:passenger]: 3.[Defense] SHIELD OF SERAPHIMPowers: Stop, Super SensesSTOP. Super Senses.[Damage] TRUST ME, I'M A DOCTORPowers: Probability ControlProbability Control. Doctor Strange may use it an additional time each turn for each action token he has.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Avengers | Illuminati | Midnight Sons | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Doctor Strange",
@@ -564,13 +564,13 @@
     "Properties": "Generic",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Monster | Mystical",
-    "Keywords Search": "| Monster | Mystical |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ENDLESS ARMIESWhen Mindless One starts the game, generate up to four Mindless One bystanders. // When a standard character within range is KO'd, after resolutions generate a Mindless One bystander or a character named Mindless One of 15 points or less on its starting click.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Monster | Mystical |",
     "alternates": [
       {
         "name": "Mindless One",
@@ -711,10 +711,10 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Mystics |",
     "alternates": [
       {
         "name": "Mindless One",
@@ -748,11 +748,11 @@
     "Properties": "Unique",
     "Point Values": "115/45",
     "Keywords": "Animal | Mystical",
-    "Keywords Search": "| Animal | Mystical |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FUTURE MASTER OF THE MYSTIC ARTSPowers: Probability Control, Outwit, PerplexProbability Control. If a friendly character is named Doctor Strange, Rintrah can use Outwit and Perplex.[Trait] THE DOCTOR'S DISCIPLEWhen establishing themed teams, Rintrah gains the keywords of friendly characters named Doctor Strange. // Friendly characters named Doctor Strange may use Mastermind, but only to choose Rintrah.[Defense] THE HORNS ARE OUTPowers: Stop, InvincibleSTOP. Invincible. // When this power is revealed, Rintrah can't use the \"Future Master of the Mystic Arts\" trait this game.",
+    "Keywords Search": "| Animal | Mystical |",
     "alternates": [
       {
         "name": "Rintrah",
@@ -899,14 +899,14 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Avengers | Wakanda",
-    "Team Abilities Search": "| Avengers | Wakanda |",
     "Keywords": "Avengers | Ruler | Scientist | Warrior | Defenders | Ultimates | Wakanda",
-    "Keywords Search": "| Avengers | Ruler | Scientist | Warrior | Defenders | Ultimates | Wakanda |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] LEADING BY EXAMPLEPowers: Leadership, WillpowerLeadership, Willpower. When Black Panther uses either and succeeds, you may choose that this turn friendly characters replace their speed, attack, and damage values with Black Panther's printed values.[Defense] WELCOME TO WAKANDAPowers: Stop, Combat ReflexesSTOP. Combat Reflexes.",
+    "Team Abilities Search": "| Avengers | Wakanda |",
+    "Keywords Search": "| Avengers | Ruler | Scientist | Warrior | Defenders | Ultimates | Wakanda |",
     "alternates": [
       {
         "name": "Black Panther",
@@ -1010,13 +1010,13 @@
     "Rarity": "Chase",
     "Point Values": "125/75/30",
     "Team Abilities": "Avengers | Shield",
-    "Team Abilities Search": "| Avengers | Shield |",
     "Keywords": "Celebrity | Armor | Avengers | S.H.I.E.L.D. | Scientist | Stark Industries",
-    "Keywords Search": "| Celebrity | Armor | Avengers | S.H.I.E.L.D. | Scientist | Stark Industries |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CONTINGENCY PROTOCOLSFriendly characters with [ta:avengers] modify defense +1 when attacked by characters with the team ability chosen for the [ta:avengers] this game. // When a friendly character with [ta:avengers] is KO'd, after resolutions you may turn a face-down One-Shot face up.[Attack] ADAPTIVE ARMORIf two other friendly characters have the Avengers keyword, damage Iron Man deals can't be reduced below 1. // If two other friendly characters have the Scientist keyword, when Iron Man attacks, after resolutions deal 1 damage to each targeted character he missed this turn.[Defense] IRON.GPTPowers: Invulnerability, Energy Shield Deflection, Super Senses, Combat ReflexesInvulnerability. // If two other friendly characters have the Avengers keyword, Iron Man can use Energy Shield/Deflection and Super Senses. // If two other friendly characters have the Armor keyword, Iron Man can use Combat Reflexes and can reduce penetrating damage.",
+    "Team Abilities Search": "| Avengers | Shield |",
+    "Keywords Search": "| Celebrity | Armor | Avengers | S.H.I.E.L.D. | Scientist | Stark Industries |",
     "alternates": [
       {
         "name": "Iron Man",
@@ -1182,14 +1182,14 @@
     "Rarity": "Chase",
     "Point Values": "70",
     "Team Abilities": "Avengers | Ultimates",
-    "Team Abilities Search": "| Avengers | Ultimates |",
     "Keywords": "Cosmic | Avengers | Kree | S.H.I.E.L.D. | Soldier | Guardians Of The Galaxy | Ultimates",
-    "Keywords Search": "| Cosmic | Avengers | Kree | S.H.I.E.L.D. | Soldier | Guardians Of The Galaxy | Ultimates |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Attack] EXPLOSIVE FORCEPowers: Pulse WavePulse Wave. When Captain Marvel uses it, after resolutions she may make a close attack.[Defense] KREE-ENHANCED DURABILITYPowers: Stop, ToughnessSTOP, but only once per turn. Toughness.",
+    "Team Abilities Search": "| Avengers | Ultimates |",
+    "Keywords Search": "| Cosmic | Avengers | Kree | S.H.I.E.L.D. | Soldier | Guardians Of The Galaxy | Ultimates |",
     "alternates": [
       {
         "name": "Captain Marvel",
@@ -1323,15 +1323,15 @@
     "Rarity": "Common",
     "Point Values": "65",
     "Team Abilities": "Police | Guardians",
-    "Team Abilities Search": "| Police | Guardians |",
     "Keywords": "Cosmic | Avengers | Soldier | New Warriors | Nova Corps | Guardians Of The Galaxy",
-    "Keywords Search": "| Cosmic | Avengers | Soldier | New Warriors | Nova Corps | Guardians Of The Galaxy |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] BEEN AROUND THE GALAXYIf Nova is part of a themed team, he has [ta:team_player].[Speed] NOTHING OUTRUNS USPowers: Charge, Running ShotCharge, Running Shot. // POWER: Move, but only in a direct path. After resolutions, deal 3 damage to all opposing characters Nova moved through during this action and knock them back in a direction of your choice (each character can be knocked back in a different direction).",
+    "Team Abilities Search": "| Police | Guardians |",
+    "Keywords Search": "| Cosmic | Avengers | Soldier | New Warriors | Nova Corps | Guardians Of The Galaxy |",
     "alternates": [
       {
         "name": "Nova",
@@ -1421,6 +1421,16 @@
         "Defense Ability": "Super Senses",
         "Damage": "3",
         "image": "4cfd0bf9-c607-45c8-9330-57a636deb920.Click6.png"
+      },
+      {
+        "name": "Nova",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4cfd0bf9-c607-45c8-9330-57a636deb920.KO.png"
       }
     ],
     "Set": "WizKids Marvel 2026",
@@ -1476,13 +1486,13 @@
     "Rarity": "Chase",
     "Point Values": "200/100/50",
     "Team Abilities": "Team Player | Defenders | X Men",
-    "Team Abilities Search": "| Team Player | Defenders | X Men |",
     "Keywords": "Champions | Spider Man Family | X Factor | X Men | Defenders",
-    "Keywords Search": "| Champions | Spider Man Family | X Factor | X Men | Defenders |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ICE TO MEET YOUIceman can't be targeted by opposing characters with one or more action tokens. // Opposing characters within range can't remove action tokens except by clearing.[Attack] EVERYONE GRAB A SNOWBALL!Powers: Precision Strike, IncapacitatePrecision Strike. // When Iceman hits, this turn friendly characters have \"FREE: Make an attack using Incapacitate\".",
+    "Team Abilities Search": "| Team Player | Defenders | X Men |",
+    "Keywords Search": "| Champions | Spider Man Family | X Factor | X Men | Defenders |",
     "alternates": [
       {
         "name": "Iceman",
@@ -1766,14 +1776,14 @@
     "Properties": "Generic",
     "Point Values": "300/150/70",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Cosmic | Past | Monster | Symbiote",
-    "Keywords Search": "| Animal | Cosmic | Past | Monster | Symbiote |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] SYMBIOTE PHYSIOLOGYPowers: Plasticity, Shape ChangePlasticity, Shape Change. // If Symbiote Dragon is within 4 squares and line of fire of an opposing character, they can't be targeted by range attacks.[Attack] SPREADING DARKNESSPowers: Penetrating Psychic BlastPenetrating/Psychic Blast. // When Symbiote Dragon hits with a range attack, you may immediately generate a Slime water terrain marker in a square of each hit character. This game those markers have \"Characters that began the turn on this marker can't be placed or use [im:] abilities.\"[Defense] SYMBIOTIC DOMEPowers: Defend, InvulnerabilityDefend, Invulnerability.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Cosmic | Past | Monster | Symbiote |",
     "alternates": [
       {
         "name": "Symbiote Dragon",
@@ -2064,13 +2074,13 @@
     "Properties": "Generic",
     "Point Values": "40",
     "Team Abilities": "Police",
-    "Team Abilities Search": "| Police |",
     "Keywords": "Armor | Police | Soldier | Stark Industries",
-    "Keywords Search": "| Armor | Police | Soldier | Stark Industries |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PROJECT P.E.G.A.S.U.S.When Guardsman would be KO'd, if it's not an equipment you may instead turn it to click # 6, 7, or 8. If you do, this game Guardsman is an equipment instead of a character and you may equip it to an unequipped friendly character. // If Guardsman is an equipment, when it would be unequipped, destroy it instead. Protected: Pulse Wave.[Trait] VAULT SECURITYIf Guardsman is an equipment it has \"EFFECT: This character positively modifies their defense by Guardsman's defense value and can use the powers displayed on Guardsman's dial.\"[Speed] EXPERIMENTAL THRUSTERS[cs:wing].",
+    "Team Abilities Search": "| Police |",
+    "Keywords Search": "| Armor | Police | Soldier | Stark Industries |",
     "alternates": [
       {
         "name": "Guardsman",
@@ -2198,13 +2208,13 @@
     "Rarity": "Chase",
     "Point Values": "80/50",
     "Team Abilities": "Avengers | Defenders",
-    "Team Abilities Search": "| Avengers | Defenders |",
     "Keywords": "Armor | Avengers | Heroes For Hire | Warrior | Defenders | Excalibur",
-    "Keywords Search": "| Armor | Avengers | Heroes For Hire | Warrior | Defenders | Excalibur |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] STRIDERFREE: Choose Black Knight or an adjacent friendly character. The chosen character has [cs:wing] (this action) and moves up to 3 squares.[Damage] EBOM SIEGEPowers: Probability ControlProbability Control. Black Knight can use it an additional time each turn for each equipped opposing character.",
+    "Team Abilities Search": "| Avengers | Defenders |",
+    "Keywords Search": "| Armor | Avengers | Heroes For Hire | Warrior | Defenders | Excalibur |",
     "alternates": [
       {
         "name": "Black Knight",
@@ -2366,13 +2376,13 @@
     "Rarity": "Chase",
     "Point Values": "70/50",
     "Team Abilities": "Minions Of Doom",
-    "Team Abilities Search": "| Minions Of Doom |",
     "Keywords": "Atlantis | Latveria | Ruler | Warrior",
-    "Keywords Search": "| Atlantis | Latveria | Ruler | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ATLANTIS RISINGWhen Attuma starts the game, generate up to 6 water terrain markers anywhere on the map.[Attack] THREE-BLADED SWORDPowers: Blades Claws FangsBlades/Claws/Fangs. // Giant Reach: X, where X is the number of adjacent squares of water terrain.[Damage] ATLANTIS OR DEATH!Powers: LeadershipLeadership. // Friendly characters with [cs:dolphin] have [ta:minions_of_doom].",
+    "Team Abilities Search": "| Minions Of Doom |",
+    "Keywords Search": "| Atlantis | Latveria | Ruler | Warrior |",
     "alternates": [
       {
         "name": "Attuma",
@@ -2553,11 +2563,11 @@
     "Properties": "Generic",
     "Point Values": "35/15",
     "Keywords": "Atlantis | Soldier | Warrior",
-    "Keywords Search": "| Atlantis | Soldier | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DROWN THE SURFACEWhen Atlantean Warrior starts the game, you may generate a water terrain marker anywhere on the map. // If Atlantean Warrior occupies water terrain, modify her attack +1.[Trait] REINFORCEMENTS FROM THE DEEPWhen Atlantean Warrior is KO'd, after resolutions roll a d6.[d:1]-[d:3]: Generate a water terrain marker anywhere on the map.[d:4]-[d:6]: Generate a [set:wkm26] #MVP26-009 Atlantean Warrior on its red starting line into any square of water terrain.",
+    "Keywords Search": "| Atlantis | Soldier | Warrior |",
     "alternates": [
       {
         "name": "Atlantean Warrior",
@@ -2663,14 +2673,14 @@
     "Properties": "Unique",
     "Point Values": "100/55",
     "Team Abilities": "Mystics | Avengers",
-    "Team Abilities Search": "| Mystics | Avengers |",
     "Keywords": "Avengers | Illuminati | Marvel Knights | Midnight Sons | Mystical | Defenders",
-    "Keywords Search": "| Avengers | Illuminati | Marvel Knights | Midnight Sons | Mystical | Defenders |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] CLOAK OF LEVITATIONPowers: Energy Shield Deflection, SidestepEnergy Shield/Deflection, Sidestep. // FREE: Place Dr. Strange or an adjacent friendly character up to 4 squares away from their current square.[Attack] MASTER OF THE MYSTICAL ARTSPowers: Blades Claws Fangs, Energy Explosion, Pulse Wave, Quake, Super Strength, Incapacitate, Penetrating Psychic Blast, Smoke Cloud, Precision Strike, Poison, Steal Energy, TelekinesisDr. Strange can use all standard attack powers.[Damage] ASTRAL ILLUSIONSPowers: Shape ChangeShape Change. When Dr. Strange uses it, if he hit the attacker on your last turn, he also succeeds on any roll greater than the attacker's printed damage value.",
+    "Team Abilities Search": "| Mystics | Avengers |",
+    "Keywords Search": "| Avengers | Illuminati | Marvel Knights | Midnight Sons | Mystical | Defenders |",
     "alternates": [
       {
         "name": "Dr. Strange",
@@ -2807,9 +2817,9 @@
     "Traits and Special Powers": "EFFECT:Powers: Blades Claws FangsBlades/Claws/Fangs. When this character uses it and KOs an opposing character, after resolutions heal this character equal to half the d6 result.",
     "alternates": [
       {
+        "name": "Ebony Blade",
         "type": "Tile",
         "size": "1x1",
-        "name": "Ebony Blade",
         "image": "16b6cf4b-061b-45e9-8f47-b4266d2d80fa.Tile.png"
       }
     ],
@@ -2830,9 +2840,9 @@
     "Traits and Special Powers": "EFFECT:This character reduces damage taken from sources other than attacks by 1 in addition to other effects, and can reduce penetrating damage from sources other than attacks.",
     "alternates": [
       {
+        "name": "Captain America's Shield",
         "type": "Tile",
         "size": "1x1",
-        "name": "Captain America's Shield",
         "image": "b42e25fe-913f-4f6f-b0a1-14ea7e62c301.Tile.png"
       }
     ],

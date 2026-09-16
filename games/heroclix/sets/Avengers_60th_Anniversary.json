@@ -7478,6 +7478,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "15598ce3-1ded-425b-9670-b0ac23eba90c.Click9.png"
+      },
+      {
+        "name": "Black Skull",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "15598ce3-1ded-425b-9670-b0ac23eba90c.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -7876,6 +7886,16 @@
         "Damage": "3",
         "Damage Ability": "Support",
         "image": "f185e12a-fc60-4dd4-9487-9852baa5fa61.Click9.png"
+      },
+      {
+        "name": "Dark Phoenix",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f185e12a-fc60-4dd4-9487-9852baa5fa61.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -8204,6 +8224,16 @@
         "Damage": "4",
         "Damage Ability": "Outwit",
         "image": "705ce5bc-2613-44fc-908e-bdb7941462ef.Click9.png"
+      },
+      {
+        "name": "King Killmonger",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "705ce5bc-2613-44fc-908e-bdb7941462ef.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -8532,6 +8562,16 @@
         "Damage": "2",
         "Damage Ability": "Special - DOOM DOES NOT NEGOTIATE",
         "image": "ec0abf44-3c53-4175-ac34-1b5afe800c24.Click9.png"
+      },
+      {
+        "name": "Doom Supreme",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ec0abf44-3c53-4175-ac34-1b5afe800c24.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -8860,6 +8900,16 @@
         "Damage": "3",
         "Damage Ability": "Special - I WILL EVISCERATE THE EARTH!",
         "image": "acbb5d15-e360-4f7a-9e96-10cf6c463c98.Click9.png"
+      },
+      {
+        "name": "Kid Thanos",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "acbb5d15-e360-4f7a-9e96-10cf6c463c98.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -9190,6 +9240,16 @@
         "Damage": "3",
         "Damage Ability": "Special - GRRRR!",
         "image": "1cfbe76e-ad76-4026-abed-19168bb15992.Click9.png"
+      },
+      {
+        "name": "Hound",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1cfbe76e-ad76-4026-abed-19168bb15992.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -9518,6 +9578,16 @@
         "Damage": "2",
         "Damage Ability": "Special - A NEW RIDER TO PLAY WITH",
         "image": "5d9026ff-a34d-46cf-9cfe-454613a7b315.Click9.png"
+      },
+      {
+        "name": "Ghost Goblin",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5d9026ff-a34d-46cf-9cfe-454613a7b315.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -9846,6 +9916,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "38ebb93e-da3f-49a2-94d6-b36fc8040eeb.Click9.png"
+      },
+      {
+        "name": "Iron Inquisitor",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "38ebb93e-da3f-49a2-94d6-b36fc8040eeb.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -10174,6 +10254,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "ae8d5e09-89e8-4e9a-a667-084124b0e1d8.Click9.png"
+      },
+      {
+        "name": "Thor",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ae8d5e09-89e8-4e9a-a667-084124b0e1d8.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -10324,6 +10414,16 @@
         "Damage": "2",
         "Damage Ability": "Special - IF IT WORKS FOR THEM WHY NOT US?",
         "image": "c233955c-d938-48d1-ad97-4d69982817b1.Click3.png"
+      },
+      {
+        "name": "Mephisto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c233955c-d938-48d1-ad97-4d69982817b1.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -10964,6 +11064,16 @@
         "Damage": "1",
         "Damage Ability": "Exploit Weakness",
         "image": "c44d40e9-0a29-49f0-9715-983cbb217162.Click6.png"
+      },
+      {
+        "name": "Ant-Man",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c44d40e9-0a29-49f0-9715-983cbb217162.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11120,6 +11230,16 @@
         "Damage": "3",
         "Damage Ability": "Shape Change",
         "image": "57c52124-d70c-4106-b661-a7ceff9f102d.Click9.png"
+      },
+      {
+        "name": "Ms. Marvel",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "57c52124-d70c-4106-b661-a7ceff9f102d.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11217,6 +11337,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "3a89ad9a-2209-4178-bf49-6c08b42823fc.Click5.png"
+      },
+      {
+        "name": "Wasp",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "3a89ad9a-2209-4178-bf49-6c08b42823fc.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11358,6 +11488,16 @@
         "Damage": "1",
         "Damage Ability": "Special - HOW MANY PHD'S DOES BANNER HAVE AGAIN?",
         "image": "1895e20a-fc78-4b4d-94f9-a8d0459e7a5e.Click11.png"
+      },
+      {
+        "name": "Hulk",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1895e20a-fc78-4b4d-94f9-a8d0459e7a5e.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11475,6 +11615,16 @@
         "Damage": "2",
         "Damage Ability": "Outwit",
         "image": "d485ae83-a136-4378-aac3-8b7165ef2e9a.Click7.png"
+      },
+      {
+        "name": "Captain America",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d485ae83-a136-4378-aac3-8b7165ef2e9a.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11625,6 +11775,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "2918a723-be81-407d-9314-5af49e28f36d.Click9.png"
+      },
+      {
+        "name": "Iron Doom",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2918a723-be81-407d-9314-5af49e28f36d.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11792,6 +11952,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "625b1bc1-385b-4e4c-bae4-d3c9f989d43b.Click10.png"
+      },
+      {
+        "name": "Iron Man and War Machine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "625b1bc1-385b-4e4c-bae4-d3c9f989d43b.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -11927,6 +12097,16 @@
         "Defense Ability": "Impervious",
         "Damage": "4",
         "image": "e0e9b177-806d-4b1d-ac16-7bf3b04fd6c4.Click8.png"
+      },
+      {
+        "name": "Thor Odinson",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e0e9b177-806d-4b1d-ac16-7bf3b04fd6c4.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12034,6 +12214,16 @@
         "Defense": "14",
         "Damage": "1",
         "image": "6d7f1b74-a7eb-4bdc-941f-6b8ff4e71563.Click6.png"
+      },
+      {
+        "name": "Squirrel Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6d7f1b74-a7eb-4bdc-941f-6b8ff4e71563.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12251,6 +12441,16 @@
         "Damage": "3",
         "Damage Ability": "Special - FOREVER FIGHT AS ONE",
         "image": "23451abd-04d5-4b98-809a-8c74da5289b7.Click11.png"
+      },
+      {
+        "name": "Avengers Prime",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "23451abd-04d5-4b98-809a-8c74da5289b7.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12363,6 +12563,16 @@
         "Defense": "10",
         "Damage": "1",
         "image": "6f116070-7ba9-4feb-9fe1-00ff5a1240d0.Click7.png"
+      },
+      {
+        "name": "Nick Fury",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6f116070-7ba9-4feb-9fe1-00ff5a1240d0.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12503,6 +12713,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "ae8fdad8-beef-44d1-81d5-0e5a8278df5f.Click8.png"
+      },
+      {
+        "name": "Loki",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ae8fdad8-beef-44d1-81d5-0e5a8278df5f.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12647,6 +12867,16 @@
         "Defense": "11",
         "Damage": "2",
         "image": "e5e1c453-c959-4bc4-998f-1dc289308a85.Click10.png"
+      },
+      {
+        "name": "Ultron",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e5e1c453-c959-4bc4-998f-1dc289308a85.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",
@@ -12724,6 +12954,16 @@
         "Defense": "13",
         "Damage": "1",
         "image": "764d0486-2d2d-4a29-b78a-24f82f4652b0.Click4.png"
+      },
+      {
+        "name": "General Thunderbolt Ross",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "764d0486-2d2d-4a29-b78a-24f82f4652b0.KO.png"
       }
     ],
     "Set": "Avengers 60th Anniversary",

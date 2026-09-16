@@ -167,6 +167,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "708cff15-d1f3-424a-8f27-0a88b1132f62.Click4.png"
+      },
+      {
+        "name": "Rachel Grey",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "708cff15-d1f3-424a-8f27-0a88b1132f62.KO.png"
       }
     ],
     "Set": "House of X",
@@ -250,6 +260,16 @@
         "Damage": "2",
         "Damage Ability": "Ranged Combat Expert",
         "image": "69568d6f-d6be-47c2-9957-4584e5def5b8.Click4.png"
+      },
+      {
+        "name": "Rachel Grey",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "69568d6f-d6be-47c2-9957-4584e5def5b8.KO.png"
       }
     ],
     "Set": "House of X",
@@ -450,6 +470,16 @@
         "Damage": "2",
         "Damage Ability": "Special - TECHNOPATH",
         "image": "239a3c6c-aa87-4895-95c4-ebdcc3504500.Click5.png"
+      },
+      {
+        "name": "Forge",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "239a3c6c-aa87-4895-95c4-ebdcc3504500.KO.png"
       }
     ],
     "Set": "House of X",
@@ -545,6 +575,16 @@
         "Damage": "2",
         "Damage Ability": "Special - TECHNOPATH",
         "image": "f9d2cf2f-f675-4549-ac5d-78d4dad5ed3b.Click5.png"
+      },
+      {
+        "name": "Forge",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f9d2cf2f-f675-4549-ac5d-78d4dad5ed3b.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1022,6 +1062,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "dbe70806-e86e-444e-8a57-fcc709ca8da0.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "dbe70806-e86e-444e-8a57-fcc709ca8da0.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1135,6 +1185,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "b67017f5-5843-40dc-8322-aab9c8384c0e.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b67017f5-5843-40dc-8322-aab9c8384c0e.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1248,6 +1308,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "221408bd-b1df-4d24-9631-67ae5cb4954f.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "221408bd-b1df-4d24-9631-67ae5cb4954f.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1361,6 +1431,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "76722b73-b4a5-4ed7-9e68-04ba95600479.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "76722b73-b4a5-4ed7-9e68-04ba95600479.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1474,6 +1554,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "bb3d24fe-ec25-43ee-9847-d2ea4a35bdad.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "bb3d24fe-ec25-43ee-9847-d2ea4a35bdad.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1587,6 +1677,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "2b1ec8f9-1128-42b0-91e9-7fdd8a3820fa.Click6.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2b1ec8f9-1128-42b0-91e9-7fdd8a3820fa.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1841,6 +1941,16 @@
         "Damage": "1",
         "Damage Ability": "Perplex",
         "image": "12c5d8c1-1a48-4d91-83ba-f3964725ab09.Click3.png"
+      },
+      {
+        "name": "Cypher",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "12c5d8c1-1a48-4d91-83ba-f3964725ab09.KO.png"
       }
     ],
     "Set": "House of X",
@@ -1909,6 +2019,16 @@
         "Damage": "1",
         "Damage Ability": "Perplex",
         "image": "1da48691-d2f4-4ec1-80de-1e74688c613d.Click3.png"
+      },
+      {
+        "name": "Cypher",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1da48691-d2f4-4ec1-80de-1e74688c613d.KO.png"
       }
     ],
     "Set": "House of X",
@@ -2317,6 +2437,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "54611f0e-bbbf-48f7-aee2-f25c93ac53f8.Click6.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "54611f0e-bbbf-48f7-aee2-f25c93ac53f8.KO.png"
       }
     ],
     "Set": "House of X",
@@ -2425,6 +2555,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "c2951cb4-dad6-41cb-9485-d064e626b4ec.Click6.png"
+      },
+      {
+        "name": "Beast",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c2951cb4-dad6-41cb-9485-d064e626b4ec.KO.png"
       }
     ],
     "Set": "House of X",
@@ -2619,6 +2759,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "image": "e71e5a6d-fbf8-4293-a3e7-4da54bcd4acc.Click5.png"
+      },
+      {
+        "name": "Havok",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e71e5a6d-fbf8-4293-a3e7-4da54bcd4acc.KO.png"
       }
     ],
     "Set": "House of X",
@@ -2711,6 +2861,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "3",
         "image": "e329aa9f-24f1-4124-937e-1bb402831120.Click5.png"
+      },
+      {
+        "name": "Havok",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e329aa9f-24f1-4124-937e-1bb402831120.KO.png"
       }
     ],
     "Set": "House of X",
@@ -3608,6 +3768,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "35799d23-b791-4f9a-8149-d58ba679184f.Click6.png"
+      },
+      {
+        "name": "Corsair",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "35799d23-b791-4f9a-8149-d58ba679184f.KO.png"
       }
     ],
     "Set": "House of X",
@@ -3721,6 +3891,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "e0aa998f-05d8-465d-9eb0-5cd05c326b06.Click6.png"
+      },
+      {
+        "name": "Corsair",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e0aa998f-05d8-465d-9eb0-5cd05c326b06.KO.png"
       }
     ],
     "Set": "House of X",
@@ -3953,6 +4133,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "b64218c1-dde0-41e8-b77a-87c3f41e5f35.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b64218c1-dde0-41e8-b77a-87c3f41e5f35.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4064,6 +4254,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "d37b323e-be9d-45ec-b35c-fcdb0e81c073.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d37b323e-be9d-45ec-b35c-fcdb0e81c073.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4175,6 +4375,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "ffe3b937-9404-44db-a3f5-f2765a3ab822.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ffe3b937-9404-44db-a3f5-f2765a3ab822.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4286,6 +4496,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "54499fef-ce80-4357-91ab-d86a646c63cb.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "54499fef-ce80-4357-91ab-d86a646c63cb.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4397,6 +4617,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "dc0e42d7-df54-450a-af93-6b980a84ce31.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "dc0e42d7-df54-450a-af93-6b980a84ce31.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4508,6 +4738,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "11e2255c-2e6d-4a28-993e-ceed11501735.Click6.png"
+      },
+      {
+        "name": "Cyclops",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "11e2255c-2e6d-4a28-993e-ceed11501735.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4716,6 +4956,16 @@
         "Damage": "2",
         "Damage Ability": "Special - PSYCHIC BACKLASH",
         "image": "34171874-dda1-49a3-bf0c-f0d8cbb63182.Click5.png"
+      },
+      {
+        "name": "Marvel Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "34171874-dda1-49a3-bf0c-f0d8cbb63182.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4815,6 +5065,16 @@
         "Damage": "2",
         "Damage Ability": "Special - PSYCHIC BACKLASH",
         "image": "cbb6e6f7-5b2b-4211-9529-db94c3752e16.Click5.png"
+      },
+      {
+        "name": "Marvel Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "cbb6e6f7-5b2b-4211-9529-db94c3752e16.KO.png"
       }
     ],
     "Set": "House of X",
@@ -4914,6 +5174,16 @@
         "Damage": "2",
         "Damage Ability": "Special - PSYCHIC BACKLASH",
         "image": "27088aa1-593a-404c-b179-66657aa68456.Click5.png"
+      },
+      {
+        "name": "Marvel Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "27088aa1-593a-404c-b179-66657aa68456.KO.png"
       }
     ],
     "Set": "House of X",
@@ -5013,6 +5283,16 @@
         "Damage": "2",
         "Damage Ability": "Special - PSYCHIC BACKLASH",
         "image": "24bd6f8a-1072-4eb2-a113-b077e77dfbe4.Click5.png"
+      },
+      {
+        "name": "Marvel Girl",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "24bd6f8a-1072-4eb2-a113-b077e77dfbe4.KO.png"
       }
     ],
     "Set": "House of X",
@@ -5373,6 +5653,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "a20cfac0-8320-4a43-a266-84b13ffacebd.Click7.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a20cfac0-8320-4a43-a266-84b13ffacebd.KO.png"
       }
     ],
     "Set": "House of X",
@@ -5503,6 +5793,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "4a2bf9c9-34e0-4d50-9733-959662fb908f.Click7.png"
+      },
+      {
+        "name": "Wolverine",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4a2bf9c9-34e0-4d50-9733-959662fb908f.KO.png"
       }
     ],
     "Set": "House of X",
@@ -5727,6 +6027,16 @@
         "Damage": "2",
         "Damage Ability": "Enhancement",
         "image": "35c0e719-af54-4f0f-92de-1281af236133.Click6.png"
+      },
+      {
+        "name": "Psylocke",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "35c0e719-af54-4f0f-92de-1281af236133.KO.png"
       }
     ],
     "Set": "House of X",
@@ -5834,6 +6144,16 @@
         "Damage": "2",
         "Damage Ability": "Enhancement",
         "image": "f67d6a2b-ee33-403d-acdf-9fe7e5bb92af.Click6.png"
+      },
+      {
+        "name": "Psylocke",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f67d6a2b-ee33-403d-acdf-9fe7e5bb92af.KO.png"
       }
     ],
     "Set": "House of X",
@@ -6090,6 +6410,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "043dc82b-5dd3-452c-a9ee-95e4d0db45bd.Click8.png"
+      },
+      {
+        "name": "Douglock",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "043dc82b-5dd3-452c-a9ee-95e4d0db45bd.KO.png"
       }
     ],
     "Set": "House of X",
@@ -6213,6 +6543,16 @@
         "Defense Ability": "Toughness",
         "Damage": "2",
         "image": "1189e137-03fa-40b1-b9f2-402ceaad0e52.Click8.png"
+      },
+      {
+        "name": "Douglock",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1189e137-03fa-40b1-b9f2-402ceaad0e52.KO.png"
       }
     ],
     "Set": "House of X",
@@ -6447,6 +6787,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "image": "e0cc73ad-9ba3-4bf8-bbf2-a4eef9fca8be.Click6.png"
+      },
+      {
+        "name": "Sunspot",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e0cc73ad-9ba3-4bf8-bbf2-a4eef9fca8be.KO.png"
       }
     ],
     "Set": "House of X",
@@ -6559,6 +6909,16 @@
         "Defense Ability": "Combat Reflexes",
         "Damage": "3",
         "image": "59f9b57e-51ed-4cbd-8680-34ba2220a820.Click6.png"
+      },
+      {
+        "name": "Sunspot",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "59f9b57e-51ed-4cbd-8680-34ba2220a820.KO.png"
       }
     ],
     "Set": "House of X",
@@ -6899,6 +7259,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "70924079-8061-4629-97fd-67b317657bd4.Click6.png"
+      },
+      {
+        "name": "Emma Frost",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "70924079-8061-4629-97fd-67b317657bd4.KO.png"
       }
     ],
     "Set": "House of X",
@@ -7012,6 +7382,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "f9215882-cdfe-41f6-a655-4b282d3ccbf5.Click6.png"
+      },
+      {
+        "name": "Emma Frost",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f9215882-cdfe-41f6-a655-4b282d3ccbf5.KO.png"
       }
     ],
     "Set": "House of X",
@@ -7719,6 +8099,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "c426566a-b66b-4acc-ba8e-fce3a25740fd.Click7.png"
+      },
+      {
+        "name": "Mister Sinister",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c426566a-b66b-4acc-ba8e-fce3a25740fd.KO.png"
       }
     ],
     "Set": "House of X",
@@ -7847,6 +8237,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "06cc2bf9-ef68-49a0-9b65-bf6552b6cc83.Click7.png"
+      },
+      {
+        "name": "Mister Sinister",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "06cc2bf9-ef68-49a0-9b65-bf6552b6cc83.KO.png"
       }
     ],
     "Set": "House of X",
@@ -7975,6 +8375,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "64b1bf82-d083-4d51-971f-8af37a196434.Click7.png"
+      },
+      {
+        "name": "Mister Sinister",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "64b1bf82-d083-4d51-971f-8af37a196434.KO.png"
       }
     ],
     "Set": "House of X",
@@ -8103,6 +8513,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "abba46c0-16dd-4cf4-a190-1346b8ff0a02.Click7.png"
+      },
+      {
+        "name": "Mister Sinister",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "abba46c0-16dd-4cf4-a190-1346b8ff0a02.KO.png"
       }
     ],
     "Set": "House of X",
@@ -8784,6 +9204,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "850eaabe-9a66-490a-bc25-01e2c1ab49d4.Click6.png"
+      },
+      {
+        "name": "Rogue",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "850eaabe-9a66-490a-bc25-01e2c1ab49d4.KO.png"
       }
     ],
     "Set": "House of X",
@@ -8895,6 +9325,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "24fae919-83b1-42fd-9289-eccee7f9748c.Click6.png"
+      },
+      {
+        "name": "Rogue",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "24fae919-83b1-42fd-9289-eccee7f9748c.KO.png"
       }
     ],
     "Set": "House of X",
@@ -9601,6 +10041,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "762a68dd-8c7e-40aa-999c-d1c589f501cf.Click7.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "762a68dd-8c7e-40aa-999c-d1c589f501cf.KO.png"
       }
     ],
     "Set": "House of X",
@@ -9729,6 +10179,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "6df501a8-0264-477b-8bc8-fa0355d112e2.Click7.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6df501a8-0264-477b-8bc8-fa0355d112e2.KO.png"
       }
     ],
     "Set": "House of X",
@@ -9857,6 +10317,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "037baed8-928e-4c5c-bbc4-7f2b4d2663a0.Click7.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "037baed8-928e-4c5c-bbc4-7f2b4d2663a0.KO.png"
       }
     ],
     "Set": "House of X",
@@ -9985,6 +10455,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "0083d948-c214-4b3a-ba76-0f84a381e306.Click7.png"
+      },
+      {
+        "name": "Storm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0083d948-c214-4b3a-ba76-0f84a381e306.KO.png"
       }
     ],
     "Set": "House of X",
@@ -10429,6 +10909,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "302b59a1-35b3-471d-8dce-d0fecb82da00.Click6.png"
+      },
+      {
+        "name": "Professor X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "302b59a1-35b3-471d-8dce-d0fecb82da00.KO.png"
       }
     ],
     "Set": "House of X",
@@ -10542,6 +11032,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "8fc74b8f-072e-4a42-b1ec-eaa0f8a30606.Click6.png"
+      },
+      {
+        "name": "Professor X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8fc74b8f-072e-4a42-b1ec-eaa0f8a30606.KO.png"
       }
     ],
     "Set": "House of X",
@@ -10655,6 +11155,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "8e35a169-abb1-4cac-a001-5cdd84be4d4c.Click6.png"
+      },
+      {
+        "name": "Professor X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8e35a169-abb1-4cac-a001-5cdd84be4d4c.KO.png"
       }
     ],
     "Set": "House of X",
@@ -10768,6 +11278,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "51471ac6-e26d-4825-86c4-e9b8edcb7f77.Click6.png"
+      },
+      {
+        "name": "Professor X",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "51471ac6-e26d-4825-86c4-e9b8edcb7f77.KO.png"
       }
     ],
     "Set": "House of X",
@@ -11291,6 +11811,16 @@
         "Damage": "2",
         "Damage Ability": "Special - BREAKING HUMAN NORMS",
         "image": "5237d5d6-db40-43cd-a37c-c6a5e0de1397.Click10.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5237d5d6-db40-43cd-a37c-c6a5e0de1397.KO.png"
       }
     ],
     "Set": "House of X",
@@ -11463,6 +11993,16 @@
         "Damage": "2",
         "Damage Ability": "Special - BREAKING HUMAN NORMS",
         "image": "6d9c8a3d-e81e-40e5-ad60-69e334bba67e.Click10.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "6d9c8a3d-e81e-40e5-ad60-69e334bba67e.KO.png"
       }
     ],
     "Set": "House of X",
@@ -11635,6 +12175,16 @@
         "Damage": "2",
         "Damage Ability": "Special - BREAKING HUMAN NORMS",
         "image": "9ee1c148-bcaa-45f4-8dda-8f29f7fcc25d.Click10.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9ee1c148-bcaa-45f4-8dda-8f29f7fcc25d.KO.png"
       }
     ],
     "Set": "House of X",
@@ -11807,6 +12357,16 @@
         "Damage": "2",
         "Damage Ability": "Special - BREAKING HUMAN NORMS",
         "image": "b9eb7e25-e1f5-422a-b305-3e779806c220.Click10.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b9eb7e25-e1f5-422a-b305-3e779806c220.KO.png"
       }
     ],
     "Set": "House of X",
@@ -12119,6 +12679,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "34cec7b7-919d-437b-ba5a-643308c3ce3d.Click6.png"
+      },
+      {
+        "name": "Karima",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "34cec7b7-919d-437b-ba5a-643308c3ce3d.KO.png"
       }
     ],
     "Set": "House of X",
@@ -12225,6 +12795,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "9bfc08cc-48c3-49de-9558-20306a03ad10.Click6.png"
+      },
+      {
+        "name": "Karima",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "9bfc08cc-48c3-49de-9558-20306a03ad10.KO.png"
       }
     ],
     "Set": "House of X",
@@ -12411,6 +12991,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "4eece536-8491-4f2d-8f7c-e6b8f24cd591.Click5.png"
+      },
+      {
+        "name": "Hope Summers",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4eece536-8491-4f2d-8f7c-e6b8f24cd591.KO.png"
       }
     ],
     "Set": "House of X",
@@ -12499,6 +13089,16 @@
         "Damage": "2",
         "Damage Ability": "Close Combat Expert",
         "image": "a7031be7-8dde-4173-9826-cf5635ff3f89.Click5.png"
+      },
+      {
+        "name": "Hope Summers",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a7031be7-8dde-4173-9826-cf5635ff3f89.KO.png"
       }
     ],
     "Set": "House of X",

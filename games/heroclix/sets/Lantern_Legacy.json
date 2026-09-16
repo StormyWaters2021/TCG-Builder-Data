@@ -9,13 +9,13 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Pilot",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Pilot |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GREEN LANTERN'S LIGHTPowers: WillpowerWillpower. // Modify Hal Jordan's attack +1 for each character that used Willpower and succeeded this turn.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Pilot |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -119,11 +119,11 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Keywords": "Herald | Justice League | Pilot | Red Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Pilot | Red Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WE'LL BURN YOU ALL, THAT IS YOUR FATE!Powers: PoisonPoison, but deals damage even if moved or placed this turn.",
+    "Keywords Search": "| Herald | Justice League | Pilot | Red Lantern Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -225,11 +225,11 @@
     "Rarity": "Common",
     "Point Values": "50",
     "Keywords": "Herald | Justice League | Pilot | Orange Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Pilot | Orange Lantern Corps |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MINE AND MINE AND MINE! NOT YOURS!Powers: PlasticityPlasticity. // When an opposing character attacks, Hal Jordan can use the displayed defense power of the attacker (replace the opposing character's name in the power with Hal Jordan if needed).",
+    "Keywords Search": "| Herald | Justice League | Pilot | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -331,13 +331,13 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Teen Titans",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S WILLPowers: WillpowerWillpower. When Kyle Rayner uses it and succeeds, after resolutions remove an action token from another friendly character with a point value less than or equal to Kyle Rayner's.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -456,11 +456,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Herald | Justice League | Orange Lantern Corps | Teen Titans",
-    "Keywords Search": "| Herald | Justice League | Orange Lantern Corps | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S GREEDPowers: PlasticityPlasticity. // When an opposing character within range heals, after resolutions heal Kyle Rayner the same number of clicks.",
+    "Keywords Search": "| Herald | Justice League | Orange Lantern Corps | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -571,11 +571,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Blue Lantern Corps | Herald | Justice League | Teen Titans",
-    "Keywords Search": "| Blue Lantern Corps | Herald | Justice League | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S HOPEPowers: EmpowerEmpower. // FREE: Choose an adjacent friendly character that missed this turn. That character makes an attack.",
+    "Keywords Search": "| Blue Lantern Corps | Herald | Justice League | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -691,11 +691,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Herald | Indigo Tribe | Justice League | Teen Titans",
-    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S COMPASSIONPowers: SupportSupport. When Kyle Rayner uses it, after resolutions heal him 1 click.",
+    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -814,11 +814,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Herald | Indigo Tribe | Justice League | Teen Titans",
-    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: CHANNELING THE FULL SPECTRUMFREE: Choose a character named Kyle Rayner on your Sideline. If that character has a trait whose name contains \"An Artist's\", friendly characters that can use Support can use that trait until your next turn.[Trait] THE LIGHT OF COMPASSIONPowers: SupportSupport. // POWER: Heal all friendly characters that can use Support 1 click.",
+    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -910,6 +910,16 @@
         "Damage": "3",
         "Damage Ability": "Outwit",
         "image": "90b52378-5edc-4e5a-9ead-3daa84562c70.Click6.png"
+      },
+      {
+        "name": "Kyle Rayner",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "90b52378-5edc-4e5a-9ead-3daa84562c70.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -927,11 +937,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Herald | Justice League | Star Sapphires | Teen Titans",
-    "Keywords Search": "| Herald | Justice League | Star Sapphires | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S LOVE[ta:mystics]. When Kyle Rayner uses it, after resolutions give the attacker an action token.",
+    "Keywords Search": "| Herald | Justice League | Star Sapphires | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -1050,11 +1060,11 @@
     "Rarity": "Common",
     "Point Values": "60",
     "Keywords": "Herald | Justice League | Star Sapphires | Teen Titans",
-    "Keywords Search": "| Herald | Justice League | Star Sapphires | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: HEARTS LONG LOST[ta:mystics]. Friendly characters that can use Shape Change can use [ta:mystics].[Trait] CONNECTIONS ACROSS THE UNIVERSEFriendly characters with the Star Sapphires keyword have a minimum range of 6. Protected: Pulse Wave.",
+    "Keywords Search": "| Herald | Justice League | Star Sapphires | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -1146,6 +1156,16 @@
         "Damage": "3",
         "Damage Ability": "Shape Change",
         "image": "0b6f04cd-bb61-4bd1-8b25-bcbf5b9c71b0.Click6.png"
+      },
+      {
+        "name": "Kyle Rayner",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "0b6f04cd-bb61-4bd1-8b25-bcbf5b9c71b0.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -1163,14 +1183,14 @@
     "Rarity": "Common",
     "Point Values": "55",
     "Team Abilities": "Batman Ally | Justice League",
-    "Team Abilities Search": "| Batman Ally | Justice League |",
     "Keywords": "Batman Family | Gotham City | Justice League | Martial Artist | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Justice League | Martial Artist | Detective |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] ONE PUNCH!Batman deals penetrating damage to characters with the Green Lantern Corps or Herald keyword.[Attack] BONK!When Batman hits, give each hit character an action token.",
+    "Team Abilities Search": "| Batman Ally | Justice League |",
+    "Keywords Search": "| Batman Family | Gotham City | Justice League | Martial Artist | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -1305,13 +1325,13 @@
     "Properties": "Generic",
     "Point Values": "45",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Green Lantern Corps",
-    "Keywords Search": "| Cosmic | Green Lantern Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CREATORS OF THE POWER BATTERYUNIQUE MODIFIER - When a friendly character within range uses Willpower and succeeds, they modify their damage +1 this turn.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps |",
     "alternates": [
       {
         "name": "Guardian",
@@ -1415,13 +1435,13 @@
     "Rarity": "Common",
     "Point Values": "70/45",
     "Team Abilities": "Cosmic Energy | Green Lantern Corps",
-    "Team Abilities Search": "| Cosmic Energy | Green Lantern Corps |",
     "Keywords": "Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald",
-    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME TO THE CORPSWhen establishing themed teams, you may choose a friendly character. This game, that character has the Green Lantern Corps keyword and [ta:green_lantern_corps].",
+    "Team Abilities Search": "| Cosmic Energy | Green Lantern Corps |",
+    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Ganthet",
@@ -1542,11 +1562,11 @@
     "Properties": "Generic",
     "Point Values": "40/15",
     "Keywords": "Brute | Herald | Red Lantern Corps",
-    "Keywords Search": "| Brute | Herald | Red Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEW RECRUITFor all characters with this trait, when Red Lantern Recruit or an adjacent friendly character with the Red Lantern Corps keyword KOs an opposing character, after resolutions generate a [set:ll] #005 Red Lantern Recruit on its red starting line adjacent to a friendly character with the Red Lantern Corps keyword.[Trait] BURN YOU ALL!Powers: PoisonPoison, but deals damage even if moved this turn.",
+    "Keywords Search": "| Brute | Herald | Red Lantern Corps |",
     "alternates": [
       {
         "name": "Red Lantern Recruit",
@@ -1645,11 +1665,11 @@
     "Properties": "Generic",
     "Point Values": "40/15",
     "Keywords": "Herald | Sinestro Corps | Soldier | Warrior",
-    "Keywords Search": "| Herald | Sinestro Corps | Soldier | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEW RECRUITFor all characters with this trait, when Sinestro Corps Recruit or an adjacent friendly character with the Sinestro Corps keyword KOs an opposing character, after resolutions generate a [set:ll] #006 Sinestro Corps Recruit on its red starting line adjacent to a friendly character with the Sinestro Corps keyword.[Trait] FEARS MADE INTO LIGHTPowers: PerplexPerplex, but only to negatively modify combat values.",
+    "Keywords Search": "| Herald | Sinestro Corps | Soldier | Warrior |",
     "alternates": [
       {
         "name": "Sinestro Corps Recruit",
@@ -1753,13 +1773,13 @@
     "Properties": "Generic",
     "Point Values": "40/15",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Green Lantern Corps | Herald | Police",
-    "Keywords Search": "| Green Lantern Corps | Herald | Police |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] NEW RECRUITFor all characters with this trait, when Green Lantern Recruit or an adjacent friendly character with the Green Lantern Corps keyword KOs an opposing character, after resolutions generate a [set:ll] #007 Green Lantern Recruit on its red starting line adjacent to a friendly character with the Green Lantern Corps keyword.[Trait] PATROLLING TOGETHERPowers: WillpowerWillpower. When Green Lantern Recruit uses it and succeeds, you may instead remove an action token from any friendly [set:ll] #007 Green Lantern Recruit.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Police |",
     "alternates": [
       {
         "name": "Green Lantern Recruit",
@@ -1865,11 +1885,11 @@
     "Properties": "Generic",
     "Point Values": "40/15",
     "Keywords": "Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE HORDES RISE!Powers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy. When Black Lantern Reanimate uses Blades/Claws/Fangs and rolls a [d:1]-[d:2], after resolutions generate a [set:ll] #008 Black Lantern Reanimate on its red starting line adjacent to the hit character.",
+    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Black Lantern Reanimate",
@@ -1970,14 +1990,14 @@
     "Rarity": "Common",
     "Point Values": "125/30",
     "Team Abilities": "Mystics | Justice Society",
-    "Team Abilities Search": "| Mystics | Justice Society |",
     "Keywords": "Cosmic | Herald | Justice Society | Past | Police | Mystical | Detective",
-    "Keywords Search": "| Cosmic | Herald | Justice Society | Past | Police | Mystical | Detective |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] A SIMPLER TIME: SPECTREOnce per turn for all characters with this trait, when a character uses [ta:justice_society] to replace its defense value with Spectre's, you may choose that, this turn, that character can use [ta:mystics].",
+    "Team Abilities Search": "| Mystics | Justice Society |",
+    "Keywords Search": "| Cosmic | Herald | Justice Society | Past | Police | Mystical | Detective |",
     "alternates": [
       {
         "name": "Spectre",
@@ -2142,13 +2162,13 @@
     "Rarity": "Common",
     "Point Values": "30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Brute | Cosmic",
-    "Keywords Search": "| Animal | Brute | Cosmic |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] RIDING SHOTGUNWhen Dawg is carried, this turn he may be given CLOSE actions as if he wasn't carried.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Brute | Cosmic |",
     "alternates": [
       {
         "name": "Dawg",
@@ -2238,13 +2258,13 @@
     "Properties": "Generic",
     "Point Values": "30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Animal | Cosmic | Herald",
-    "Keywords Search": "| Animal | Cosmic | Herald |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] KLIK-IKK-KIK[cs:wing]. // Space Dolphin considers friendly characters within range as adjacent for effects other than Carry if they can use a team ability Space Dolphin can use.[Defense] CHURCH OF THE TRIPLE FISH-GODPowers: Defend, Super SensesDefend, Super Senses.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Animal | Cosmic | Herald |",
     "alternates": [
       {
         "name": "Space Dolphin",
@@ -2333,13 +2353,13 @@
     "Rarity": "Common",
     "Point Values": "30",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Justice League | Martial Artist | Reporter | Detective",
-    "Keywords Search": "| Justice League | Martial Artist | Reporter | Detective |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PSEUDODERM MASKPowers: Shape Change, StealthShape Change, Stealth.[Attack] MY FACE? WHAT A RUDE THING TO ASK.Powers: Smoke CloudSmoke Cloud as FREE. When Question uses it, after resolutions you may turn him to any click.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Justice League | Martial Artist | Reporter | Detective |",
     "alternates": [
       {
         "name": "Question",
@@ -2429,11 +2449,11 @@
     "Properties": "Generic",
     "Point Values": "40/15",
     "Keywords": "Monster | Orange Lantern Corps",
-    "Keywords Search": "| Monster | Orange Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] NEW RECRUITFor all characters with this trait, when Orange Lantern Construct or an adjacent friendly character with the Orange Lantern Corps keyword KOs an opposing character, after resolutions generate a [set:ll] #013 Orange Lantern Construct on its red starting line adjacent to a friendly character with the Orange Lantern Corps keyword.[Trait] ORANGE LANTERN CORPS: IDENTITY STOLENPowers: PlasticityPlasticity. // When an opposing character within 4 squares and line of fire uses Sidestep, after resolutions Orange Lantern Construct may move up to 2 squares.",
+    "Keywords Search": "| Monster | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Orange Lantern Construct",
@@ -2538,13 +2558,13 @@
     "Rarity": "Common",
     "Point Values": "45",
     "Team Abilities": "Justice League",
-    "Team Abilities Search": "| Justice League |",
     "Keywords": "Justice League | Scientist",
-    "Keywords Search": "| Justice League | Scientist |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] THE BIG GUYS DON'T NOTICE MEOpposing characters that have [cs:giant] or [cs:colossal] can't target Atom unless all characters on your force have [cs:tiny].[Defense] I CAN ACTUALLY GO SMALLERPowers: Super SensesSuper Senses. // Opposing characters can't target Atom unless they're adjacent to him.",
+    "Team Abilities Search": "| Justice League |",
+    "Keywords Search": "| Justice League | Scientist |",
     "alternates": [
       {
         "name": "Atom",
@@ -2662,11 +2682,11 @@
     "Properties": "Generic",
     "Point Values": "25",
     "Keywords": "Herald | Sinestro Corps",
-    "Keywords Search": "| Herald | Sinestro Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] SENTIENT VIRUSPowers: PoisonPoison. SAFEGUARD: Poison. // Once per turn for all characters with this trait, when Despotellis hits with a close attack, after resolutions you may generate a [set:ll] #015 Despotellis on click number #5 adjacent to a hit target. This game, that Despotellis isn't scored when KO'd.",
+    "Keywords Search": "| Herald | Sinestro Corps |",
     "alternates": [
       {
         "name": "Despotellis",
@@ -2755,11 +2775,11 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Keywords": "Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BY MY BLACK HAND...Powers: Steal EnergySteal Energy, but with close or range attacks. // When Hal Jordan generates a Grave hindering terrain marker, after resolutions you may place him in that square.[Defense] ...THE DEAD SHALL RISE!Powers: Barrier, Combat ReflexesBarrier, Combat Reflexes. // Once per turn, when Hal Jordan generates one or more terrain markers, after resolutions he may generate a Grave hindering terrain marker adjacent to another marker he generated this turn.",
+    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -2863,11 +2883,11 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Keywords": "Herald | Justice League | Pilot | White Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Pilot | White Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] LET THERE BE LIGHT!Powers: Phasing TeleportPhasing/Teleport. // When Hal Jordan moves, after resolutions heal an adjacent character 1 click.[Defense] CHANNELING THE ENTITYPowers: Stop, Invulnerability, RegenerationSTOP. Invulnerability, Regeneration. // Once per game, Regeneration as FREE.",
+    "Keywords Search": "| Herald | Justice League | Pilot | White Lantern Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -2971,11 +2991,11 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Keywords": "Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DEATH OF THE ARTISTPowers: StealthStealth. // When Kyle Rayner damages an opposing character, after resolutions generate a Grave hindering terrain marker.[Trait] A GRAVE MISTAKEWhen Kyle Rayner attacks, before rolling for the attack, KO any opposing bystanders within 4 squares that are occupying any Grave terrain markers.",
+    "Keywords Search": "| Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -3094,11 +3114,11 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Keywords": "Cosmic | Herald | White Lantern Corps | Teen Titans",
-    "Keywords Search": "| Cosmic | Herald | White Lantern Corps | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LIVE!The first time Kyle Rayner would be KO'd, instead turn him to click #6, then roll a d6 and heal him equal to half the result. Protected: Pulse Wave.",
+    "Keywords Search": "| Cosmic | Herald | White Lantern Corps | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -3217,13 +3237,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Herald | Monster | Black Lantern Corps | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Herald | Monster | Black Lantern Corps | Detective |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SKULKING AMONG THE GRAVESWhen Batman KOs an opposing character, after resolutions generate a Grave hindering terrain marker in the square that character last occupied and you may place Batman in that square.[Attack] DETECTIVE OF THE DEADPowers: Blades Claws Fangs, Steal EnergyBlades/Claws/Fangs, Steal Energy.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Herald | Monster | Black Lantern Corps | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -3357,14 +3377,14 @@
     "Rarity": "Uncommon",
     "Point Values": "100/60",
     "Team Abilities": "Cosmic Energy | Batman Ally",
-    "Team Abilities Search": "| Cosmic Energy | Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Herald | Justice League | White Lantern Corps | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Herald | Justice League | White Lantern Corps | Detective |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Attack] NOT MY FIRST POWER RINGPowers: Precision Strike, TelekinesisPrecision Strike, Telekinesis. Telekinesis as FREE, but only to place a friendly character that shares a keyword with Batman.[Defense] THE LIGHT OF GOTHAMPowers: Stop, RegenerationSTOP. Regeneration. Regeneration as FREE, but only if a friendly character healed this turn.",
+    "Team Abilities Search": "| Cosmic Energy | Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Herald | Justice League | White Lantern Corps | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -3514,13 +3534,13 @@
     "Rarity": "Uncommon",
     "Point Values": "125/60",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Damage] THE BOOK OF THE BLACKPowers: Probability ControlProbability Control. When Scar uses it, she doesn't need line of fire to characters occupying any Grave terrain marker. // When an opposing character misses, if their attack was rerolled, after resolutions generate any Grave hindering terrain marker in their square.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Scar",
@@ -3685,13 +3705,13 @@
     "Rarity": "Uncommon",
     "Point Values": "125/60",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: THE BLACKEST NIGHTWhen Scar starts the game, if she is part of a Black Lantern Corps themed team, generate 3 Grave hindering terrain markers anywhere on the map, then generate 2 [set:ll] #008 Black Lantern Reanimates on their red starting lines.[Damage] THE BOOK OF THE BLACKPowers: Probability ControlProbability Control. When Scar uses it, she doesn't need line of fire to characters occupying any Grave terrain marker. // When an opposing character misses, if their attack was rerolled, after resolutions generate any Grave hindering terrain marker in their square.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Scar",
@@ -3829,6 +3849,16 @@
         "Damage": "2",
         "Damage Ability": "Probability Control",
         "image": "7a6e0605-31e0-496f-94b1-870fb704213a.Click9.png"
+      },
+      {
+        "name": "Scar",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7a6e0605-31e0-496f-94b1-870fb704213a.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -3846,13 +3876,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald",
-    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FOUNDING THE BLUEWhen establishing themed teams, you may choose a friendly character with the Green Lantern Corps keyword. That character gains the Blue Lantern Corps keyword.[Damage] 200% CHARGEDPowers: Empower, EnhancementEmpower, Enhancement. When Sayd uses either, other friendly characters with the Blue Lantern Corps keyword within range are considered adjacent to her.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Sayd",
@@ -3941,13 +3971,13 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald | Orange Lantern Corps",
-    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald | Orange Lantern Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: FOUNDING THE BLUEWhen establishing themed teams, if a friendly character is named Ganthet, friendly characters that share a keyword with Sayd gain the Blue Lantern Corps keyword.[Damage] 200% CHARGEDPowers: Empower, EnhancementEmpower, Enhancement. When Sayd uses either, other friendly characters with the Blue Lantern Corps keyword within range are considered adjacent to her.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Herald | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Sayd",
@@ -4009,6 +4039,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "eda5bdb0-1937-453c-8543-299b7e3844d7.Click4.png"
+      },
+      {
+        "name": "Sayd",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "eda5bdb0-1937-453c-8543-299b7e3844d7.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -4026,11 +4066,11 @@
     "Rarity": "Uncommon",
     "Point Values": "50/30",
     "Keywords": "Assassin | Herald | Sinestro Corps | Warrior",
-    "Keywords Search": "| Assassin | Herald | Sinestro Corps | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE TARGETAt the beginning of the game, for all friendly characters with this trait, give a Target token to an opposing character. // For all characters with this trait, when a friendly character with the Assassin keyword KOs an opposing character with a Target token, score 25 victory points.[Trait] STALKING THE REALMS OF LORDSWhen establishing themed teams, friendly characters with the Sinestro Corps keyword gain the Assassin keyword.",
+    "Keywords Search": "| Assassin | Herald | Sinestro Corps | Warrior |",
     "alternates": [
       {
         "name": "Dez Trevius",
@@ -4135,11 +4175,11 @@
     "Rarity": "Uncommon",
     "Point Values": "50/30",
     "Keywords": "Assassin | Herald | Red Lantern Corps | Warrior",
-    "Keywords Search": "| Assassin | Herald | Red Lantern Corps | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BURN YOU ALL!Powers: PoisonPoison.[Attack] BURNING BLADESPowers: Blades Claws FangsBlades/Claws/Fangs. When Dez Trevius uses it, after resolutions deal 1 damage to each opposing character adjacent to the target.",
+    "Keywords Search": "| Assassin | Herald | Red Lantern Corps | Warrior |",
     "alternates": [
       {
         "name": "Dez Trevius",
@@ -4244,11 +4284,11 @@
     "Rarity": "Uncommon",
     "Point Values": "70",
     "Keywords": "Cosmic | Green Lantern Corps | Herald | Ruler | Scientist | Sinestro Corps",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Ruler | Scientist | Sinestro Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FEAR OF MY FATHERPowers: PerplexPerplex. When Soranik Natu uses it to target an opposing character, until your next turn, that character can't use Leadership or Willpower.",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Ruler | Scientist | Sinestro Corps |",
     "alternates": [
       {
         "name": "Soranik Natu",
@@ -4380,13 +4420,13 @@
     "Rarity": "Uncommon",
     "Point Values": "70",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Cosmic | Green Lantern Corps | Police | Scientist",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Police | Scientist |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GREEN LANTERN'S LIGHTPowers: WillpowerWillpower. // Modify Soranik Natu's attack +1 for each character that used Willpower and succeeded this turn.[Damage] GREATEST DOCTOR IN THE GALAXYPowers: SupportSupport. When Soranik Natu uses it, the chosen character heals an additional click.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Police | Scientist |",
     "alternates": [
       {
         "name": "Soranik Natu",
@@ -4520,11 +4560,11 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Keywords": "Herald | Marksman | Sinestro Corps",
-    "Keywords Search": "| Herald | Marksman | Sinestro Corps |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BEWARE YOUR FEARS MADE INTO LIGHTPowers: PerplexPerplex, but only to negatively modify combat values.[Attack] A NEW RING, A NEW MISSIONPowers: Energy ExplosionEnergy Explosion. when Jessica Cruz uses it, hit targets of less points than Jessica Cruz are given an action token.",
+    "Keywords Search": "| Herald | Marksman | Sinestro Corps |",
     "alternates": [
       {
         "name": "Jessica Cruz",
@@ -4658,13 +4698,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Marksman | Mystical",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] POWER OF VOLTHOOM'S RINGPowers: WillpowerWillpower. When Jessica Cruz uses it and fails, this turn modify her attack, speed, and range +1.[Defense] FOUR YEARS TRAPPEDPowers: Barrier, Combat ReflexesBarrier, Combat Reflexes.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Mystical |",
     "alternates": [
       {
         "name": "Jessica Cruz",
@@ -4795,13 +4835,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Marksman | Mystical",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: RELUCTANT PARTNERSIf a friendly character is named Simon Baz, Jessica Cruz and friendly characters named Simon Baz modify their combat values +1.[Trait] POWER OF VOLTHOOM'S RINGPowers: WillpowerWillpower. When Jessica Cruz uses it and fails, this turn modify her attack, speed, and range +1.[Defense] FOUR YEARS TRAPPEDPowers: Barrier, Combat ReflexesBarrier, Combat Reflexes.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Mystical |",
     "alternates": [
       {
         "name": "Jessica Cruz",
@@ -4905,6 +4945,16 @@
         "Damage": "3",
         "Damage Ability": "Ranged Combat Expert",
         "image": "1f70e99b-c69c-48a3-a4ad-a1cfa076f776.Click7.png"
+      },
+      {
+        "name": "Jessica Cruz",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1f70e99b-c69c-48a3-a4ad-a1cfa076f776.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -4922,11 +4972,11 @@
     "Rarity": "Uncommon",
     "Point Values": "75",
     "Keywords": "Herald | Martial Artist | Red Lantern Corps | Warrior",
-    "Keywords Search": "| Herald | Martial Artist | Red Lantern Corps | Warrior |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WITH BLOOD AND RAGEPowers: PoisonPoison, but deals damage even if moved or placed this turn.[Attack] UNCONTROLLED RAGEPowers: Blades Claws FangsBlades/Claws/Fangs, but may use it while targeting multiple characters, and rolls a separate d6 for each hit character.",
+    "Keywords Search": "| Herald | Martial Artist | Red Lantern Corps | Warrior |",
     "alternates": [
       {
         "name": "Laira",
@@ -5045,11 +5095,11 @@
     "Rarity": "Uncommon",
     "Point Values": "75",
     "Keywords": "Herald | Martial Artist | Red Lantern Corps | Warrior",
-    "Keywords Search": "| Herald | Martial Artist | Red Lantern Corps | Warrior |",
     "Range": "0",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: INFECTIOUS RAGEIf Laira is on a Red Lantern Corps themed team, all characters (friendly and opposing) can use Battle Fury. // Characters with the Red Lantern Corps keyword can be carried regardless of Battle Fury.[Trait] WITH BLOOD AND RAGEPowers: PoisonPoison, but deals damage even if moved or placed this turn.[Attack] UNCONTROLLED RAGEPowers: Blades Claws FangsBlades/Claws/Fangs, but may use it while targeting multiple characters, and rolls a separate d6 for each hit character.",
+    "Keywords Search": "| Herald | Martial Artist | Red Lantern Corps | Warrior |",
     "alternates": [
       {
         "name": "Laira",
@@ -5141,6 +5191,16 @@
         "Damage": "3",
         "Damage Ability": "Battle Fury",
         "image": "faf9899c-61aa-4168-8679-256e8b430e79.Click6.png"
+      },
+      {
+        "name": "Laira",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "faf9899c-61aa-4168-8679-256e8b430e79.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -5158,13 +5218,13 @@
     "Rarity": "Uncommon",
     "Point Values": "75",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Martial Artist | Warrior | Lost Lanterns",
-    "Keywords Search": "| Green Lantern Corps | Herald | Martial Artist | Warrior | Lost Lanterns |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GREEN LANTERN'S LIGHTPowers: WillpowerWillpower. // Modify Laira's attack +1 for each character that used Willpower and succeeded this turn.[Attack] TRAINED STRIKESWhen Laira attacks, opposing characters can't use Super Senses.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Martial Artist | Warrior | Lost Lanterns |",
     "alternates": [
       {
         "name": "Laira",
@@ -5283,13 +5343,13 @@
     "Rarity": "Uncommon",
     "Point Values": "110/50",
     "Team Abilities": "Mystics | Green Lantern Corps",
-    "Team Abilities Search": "| Mystics | Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Mystical | Deity",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Mystical | Deity |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] VENGEANCE...OR REDEMPTION?Powers: ToughnessToughness. // When The Spectre uses Willpower and succeeds, The Spectre and adjacent friendly characters have [ta:mystics] until your next turn. If they already have [ta:mystics] printed on their base, they deal 2 penetrating damage instead when using it.[Trait] BLESSED BY THE PRESENCEWhen The Spectre would be KO'd, you may instead replace him with a character named Hal Jordan or Green Lantern of equal or lesser point value than The Spectre on their last non-KO click, then heal the replacement character 2 clicks. This game that character can't be replaced or healed by other effects. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Mystics | Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Mystical | Deity |",
     "alternates": [
       {
         "name": "The Spectre",
@@ -5439,13 +5499,13 @@
     "Rarity": "Uncommon",
     "Point Values": "100/50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Herald | Monster | Black Lantern Corps | Deity",
-    "Keywords Search": "| Cosmic | Herald | Monster | Black Lantern Corps | Deity |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Giant",
     "Traits and Special Powers": "[Trait] DEATH IS INEVITABLEPowers: Steal EnergySteal Energy, but with close or range attacks. // POWER: Generate a Grave hindering terrain marker within range and line of fire.[Attack] JUDGMENT MUST BE MADEPowers: Pulse WavePulse Wave. When The Spectre uses it, hit opposing characters occupying any Grave terrain markers are dealt 2 damage instead, and friendly characters occupying any Grave terrain markers have SAFEGUARD: Pulse Wave.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Herald | Monster | Black Lantern Corps | Deity |",
     "alternates": [
       {
         "name": "The Spectre",
@@ -5610,13 +5670,13 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Team Player | Outsiders",
-    "Team Abilities Search": "| Team Player | Outsiders |",
     "Keywords": "Animal | Celebrity | Doom Patrol | Teen Titans",
-    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] TIME TO TRANSFORMWhen Beast Boy hits, after resolutions you may give him a Transform token and roll a d6, adding the number of his Transform tokens to the result.7+: Remove all Transform tokens from Beast Boy, then replace him with a character named Beast Boy on the same click number.[Attack] THAT'S RUFF, BROPowers: QuakeQuake. When Beast Boy uses it, he does not deal damage and after resolutions, give each hit character an action token.",
+    "Team Abilities Search": "| Team Player | Outsiders |",
+    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "alternates": [
       {
         "name": "Beast Boy",
@@ -5750,14 +5810,14 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Team Abilities": "Team Player | Outsiders",
-    "Team Abilities Search": "| Team Player | Outsiders |",
     "Keywords": "Animal | Celebrity | Doom Patrol | Teen Titans",
-    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Dolphin | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] TIME TO TRANSFORMWhen Beast Boy hits, after resolutions you may give him a Transform token and roll a d6, adding the number of his Transform tokens to the result.7+: Remove all Transform tokens from Beast Boy, then replace him with a character named Beast Boy on the same click number.[Damage] DUDE, DOLPHIN TRICKS!Powers: PerplexPerplex. // Other friendly characters within 4 squares can use Shape Change.",
+    "Team Abilities Search": "| Team Player | Outsiders |",
+    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "alternates": [
       {
         "name": "Beast Boy",
@@ -5884,13 +5944,13 @@
     "Rarity": "Uncommon",
     "Point Values": "35",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Justice Society | Martial Artist | Past | Scientist | Black Lantern Corps | Detective",
-    "Keywords Search": "| Justice Society | Martial Artist | Past | Scientist | Black Lantern Corps | Detective |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] A SIMPLER TIME: SANDMANOnce per turn for all characters with this trait, when a character uses [ta:justice_society] to replace its defense value with Sandman's, after resolutions you may choose that, this turn, that character can use Stealth.[Trait] MYSTERY MANPowers: Stealth, Smoke CloudStealth, Smoke Cloud as FREE. // When Sandman attacks, he may instead target all opposing characters occupying squares with Smoke markers he generated regardless of range, line of fire, or adjacency. If he does, hit characters are given an action token instead of normal damage.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Justice Society | Martial Artist | Past | Scientist | Black Lantern Corps | Detective |",
     "alternates": [
       {
         "name": "Sandman",
@@ -5979,11 +6039,11 @@
     "Rarity": "Uncommon",
     "Point Values": "50",
     "Keywords": "Blue Lantern Corps | Herald | Justice League | Pilot",
-    "Keywords Search": "| Blue Lantern Corps | Herald | Justice League | Pilot |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] LOOK TO THE STARS, FOR HOPE BURNS BRIGHT!Powers: EmpowerEmpower. // Adjacent friendly characters modify defense +1.",
+    "Keywords Search": "| Blue Lantern Corps | Herald | Justice League | Pilot |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -6087,11 +6147,11 @@
     "Rarity": "Uncommon",
     "Point Values": "60",
     "Keywords": "Herald | Justice League | Sinestro Corps | Teen Titans",
-    "Keywords Search": "| Herald | Justice League | Sinestro Corps | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S FEARPowers: PerplexPerplex. When Kyle Rayner uses it to target an opposing character, that character decreases the results of their single d6 rolls by -1 until your next turn.",
+    "Keywords Search": "| Herald | Justice League | Sinestro Corps | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -6205,11 +6265,11 @@
     "Properties": "Unique",
     "Point Values": "145/60",
     "Keywords": "Brute | Herald | Sinestro Corps | Monster | New Guardians | Warrior",
-    "Keywords Search": "| Brute | Herald | Sinestro Corps | Monster | New Guardians | Warrior |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DRILL SERGEANTPowers: PerplexPerplex. // When Arkillo is given a MOVE, CLOSE, or RANGE action, after resolutions you may give up to two friendly characters with \"Recruit\" in their name within 4 squares the same type of action as FREE.[Speed] ARKILLO'S MIGHTPowers: ChargeCharge, but don't halve speed.[Damage] ARE YOU AFRAID YET?Powers: Battle Fury, LeadershipBattle Fury, Leadership. // FREE: Make an attack, but only to target a character of less points than Arkillo.",
+    "Keywords Search": "| Brute | Herald | Sinestro Corps | Monster | New Guardians | Warrior |",
     "alternates": [
       {
         "name": "Arkillo",
@@ -6390,13 +6450,13 @@
     "Properties": "Prime",
     "Point Values": "100/50",
     "Team Abilities": "Police | Green Lantern Corps",
-    "Team Abilities Search": "| Police | Green Lantern Corps |",
     "Keywords": "Brute | Green Lantern Corps | Herald | Police",
-    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Police |",
     "Range": "3",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME TO THE CORPS, POOZERS.Powers: LeadershipAt the beginning of the game generate up to two [set:ll] #007 Green Lantern Recruits on their red starting line. // Leadership. When Kilowog uses it and succeeds, you may choose a friendly character with a New Recruit trait. Turn that character to click #1 (This doesn't change that character's point value or starting line. Characters can't heal while above their starting line).[Trait] PROTOCOL OFFICERPowers: Impervious, WillpowerImpervious, Willpower. When Kilowog uses Willpower and succeeds, he can reduce penetrating damage until your next turn.",
+    "Team Abilities Search": "| Police | Green Lantern Corps |",
+    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Police |",
     "alternates": [
       {
         "name": "Kilowog",
@@ -6546,13 +6606,13 @@
     "Rarity": "Rare",
     "Point Values": "40",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Animal | Green Lantern Corps | Herald | Justice League",
-    "Keywords Search": "| Animal | Green Lantern Corps | Herald | Justice League |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] I ALWAYS WANTED T' BE SOMEBODY'S SIDEKICKPowers: WillpowerWillpower. // When establishing themed teams, choose a keyword a character on your starting force has. G'nort gains that keyword.[Trait] THE CORPS HAS LAWS AGAINST TRANSDIMENSIONAL PORTALSWhen an opposing character is placed within 4 squares of G'nort, after resolutions give that character an action token.[Attack] RING-A-DINGPowers: Energy Shield DeflectionAt the beginning of your turn, roll a d6. G'nort can use the resulting effect until your next turn:[d:1]-[d:3]: \"Opposing characters within range modify attack -1.\"[d:4]-[d:6]: \"G'nort and adjacent friendly characters can use Energy Shield/Deflection.\"",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Animal | Green Lantern Corps | Herald | Justice League |",
     "alternates": [
       {
         "name": "G'nort",
@@ -6656,13 +6716,13 @@
     "Rarity": "Rare",
     "Point Values": "125",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Brute | Cosmic | Assassin | Green Lantern Corps | Herald",
-    "Keywords Search": "| Brute | Cosmic | Assassin | Green Lantern Corps | Herald |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] EXPERT ANTAGONIZERPowers: PerplexPerplex. When Lobo uses it to target an opposing character, that character can use Battle Fury until your next turn.[Trait] MAIN MAN OF THE CORPSPowers: WillpowerWillpower. // When a friendly character within range uses Willpower and succeeds, after resolutions heal Lobo 1 click.[Damage] SPACE PUNTPowers: Close Combat ExpertClose Combat Expert. KNOCKBACK.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Brute | Cosmic | Assassin | Green Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Lobo",
@@ -6797,14 +6857,14 @@
     "Properties": "Prime",
     "Point Values": "70",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Brute | Cosmic | Assassin",
-    "Keywords Search": "| Brute | Cosmic | Assassin |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Traits and Special Powers": "[Trait] UN-FRAGGIN'-BELIEVABLEWhen Lobo would be KO'd by an opposing effect, instead place him on his card. // If Lobo is on his card and no friendly characters are on the map or the game ends, KO him. Protected: Pulse Wave.[Trait] CZARNIAN REGENERATIONWhen a friendly character rolls doubles, if Lobo is on his card, after resolutions you may turn him to the click number matching an individual die's result in that roll and place him adjacent to that character.[Trait] THE MAIN MAN LIKES THINGS WILDFriendly characters with [ta:team_player] can use all team abilities characters on the map can use.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Brute | Cosmic | Assassin |",
     "alternates": [
       {
         "name": "Lobo",
@@ -6923,14 +6983,14 @@
     "Rarity": "Rare",
     "Point Values": "55",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Justice Society | Outsiders | Mystical",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Justice Society | Outsiders | Mystical |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] MY PARENTS' GIFTSPowers: WillpowerWillpower. When Jade uses it and succeeds, after resolutions generate 2 Plant hindering terrain markers. This game, those markers have \"When this marker hinders line of fire, characters instead modify defense +2.\" // If Jade occupies or is adjacent to any Plant terrain markers, modify her attack and defense +1.[Attack] THE STARHEART'S INFLUENCEPowers: Precision Strike, Steal EnergyPrecision Strike, Steal Energy.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Justice Society | Outsiders | Mystical |",
     "alternates": [
       {
         "name": "Jade",
@@ -7046,13 +7106,13 @@
     "Rarity": "Rare",
     "Point Values": "120/60",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Celebrity | Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps",
-    "Keywords Search": "| Celebrity | Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CORPORATE GREEDPowers: PlasticityPlasticity. // When an opposing character within range and line of fire uses Probability Control, Lex Luthor may reroll the roll they rerolled. // Lex Luthor may be equipped with up to 2 equipment.[Attack] WHAT I REALLY WANT... IS TO BE SUPERMANPowers: Penetrating Psychic BlastPenetrating/Psychic Blast. // Lex Luthor can use all [it:] and [im:] abilities that opposing characters can use.[Defense] MOTIVATION, MADE FLESHPowers: Impervious, MastermindImpervious, Mastermind.",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Celebrity | Armor | Herald | Legion Of Doom | Metropolis | Scientist | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Lex Luthor",
@@ -7187,14 +7247,14 @@
     "Rarity": "Rare",
     "Point Values": "75",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Cosmic | Green Lantern Corps | Herald",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Adjacent",
     "Traits and Special Powers": "[Trait] LANTERN OF SECTOR 911Lines of fire Rot Lop Fan draws to opposing characters that moved or attacked since your last turn can't be blocked.[Trait] MY EARS CATCH EVIL'S SLIGHTEST SOUNDPowers: WillpowerWillpower. When Rot Lop Fan uses it, he increases his roll by +1 for each opposing character within range.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Rot Lop Fan",
@@ -7311,14 +7371,14 @@
     "Rarity": "Rare",
     "Point Values": "70/25",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Gotham City | Justice Society | Past | Mystical",
-    "Keywords Search": "| Gotham City | Justice Society | Past | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] A SIMPLER TIME: GREEN LANTERNOnce per turn for all characters with this trait, if a characters uses [ta:justice_society] to replace its defense value with Alan Scott's, you may choose that, this turn, that character can use Energy Shield/Deflection.[Defense] KEEPER OF THE STARHEARTPowers: Energy Shield Deflection, WillpowerEnergy Shield/Deflection, Willpower. // Friendly characters within range consider each other as adjacent for the purposes of [ta:justice_society].",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Gotham City | Justice Society | Past | Mystical |",
     "alternates": [
       {
         "name": "Alan Scott",
@@ -7469,13 +7529,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Team Player",
-    "Team Abilities Search": "| Team Player |",
     "Keywords": "Injustice League | Past | Secret Society Of Super Villains",
-    "Keywords Search": "| Injustice League | Past | Secret Society Of Super Villains |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CARE FOR A WAGER?At the beginning of your turn, you may choose an opposing character within range and flip a coin.HEADS: Deal that character 2 penetrating damage.TAILS: Heal that character 1 click.[Attack] STACK THE DECKPowers: IncapacitateIncapacitate. // Once per turn, when a friendly character flips a coin, you may reflip that coin.",
+    "Team Abilities Search": "| Team Player |",
+    "Keywords Search": "| Injustice League | Past | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "Gambler",
@@ -7579,13 +7639,13 @@
     "Rarity": "Rare",
     "Point Values": "75",
     "Team Abilities": "Green Lantern Corps | Justice League",
-    "Team Abilities Search": "| Green Lantern Corps | Justice League |",
     "Keywords": "Brute | Green Lantern Corps | Herald | Justice League | Warrior",
-    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Justice League | Warrior |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WILLPOWER: STUBBORN WILLPowers: WillpowerWillpower, but succeeds on a roll of [d:4]-[d:6]. // Constructs generated by Guy Gardner have [ta:justice_league].[Speed] I DON'T NEED A RING TO KICK YOUR BUTT!Powers: Charge, Earthbound Neutralized, FlurryCharge, Earthbound/Neutralized, Flurry. // When this power is first revealed, if Guy Gardner is equipped, you may unequip him. If you do, Guy Gardner modifies his combat values +2 this game.",
+    "Team Abilities Search": "| Green Lantern Corps | Justice League |",
+    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Justice League | Warrior |",
     "alternates": [
       {
         "name": "Guy Gardner",
@@ -7732,11 +7792,11 @@
     "Properties": "Prime | Sideline Active",
     "Point Values": "45",
     "Keywords": "Brute | Green Lantern Corps | Herald | Red Lantern Corps | Warrior",
-    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Red Lantern Corps | Warrior |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DUAL-WIELDING RED AND GREENPowers: Willpower, PoisonWillpower. Poison, but deals damage even if moved or placed this turn. // Friendly Green Constructs can use Poison, and friendly Red Constructs can use Willpower.[Trait] AND NOW I'M GONNA KILL ALL OF YOU!!SIDELINE ACTIVE - When an opposing character KOs a friendly character with the Green Lantern Corps keyword, after resolutions you may generate Guy Gardner from your Sideline adjacent to that character on his starting click. If you do, roll a d6. Deal Guy Gardner damage equal to the result and that opposing character damage equal to half the result.[Speed] \"GUY GARDNER OF SECTOR 2814. YOU HAVE GREAT RAGE IN YOUR HEART.\"Powers: ChargeCharge, but don't halve speed.",
+    "Keywords Search": "| Brute | Green Lantern Corps | Herald | Red Lantern Corps | Warrior |",
     "alternates": [
       {
         "name": "Guy Gardner",
@@ -7855,13 +7915,13 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Cosmic | Green Lantern Corps | Herald | Police",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Police |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SEE IT THROUGHPowers: WillpowerWillpower. When Jo Mullein uses it and fails, modify her defense +2 until your next turn. When she uses it and succeeds, she has [cs:wing] until your next turn.[Damage] SPECIAL INVESTIGATIONSPowers: Outwit, PerplexFREE: Choose Outwit or Perplex. Jo Mullein can use the chosen power until your next turn.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald | Police |",
     "alternates": [
       {
         "name": "Jo Mullein",
@@ -7965,11 +8025,11 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Keywords": "Herald | Justice League | Pilot | Sinestro Corps",
-    "Keywords Search": "| Herald | Justice League | Pilot | Sinestro Corps |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BURN LIKE HIS POWERS, SINESTRO'S MIGHT!Powers: PerplexPerplex. When Hal Jordan uses it to target an opposing character, after resolutions he may knock back that character.",
+    "Keywords Search": "| Herald | Justice League | Pilot | Sinestro Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -8068,11 +8128,11 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Keywords": "Herald | Justice League | Pilot | Sinestro Corps",
-    "Keywords Search": "| Herald | Justice League | Pilot | Sinestro Corps |",
     "Range": "5",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: THE REGIMEIf Hal Jordan is part of a Justice League themed team, when a friendly character attacks and damages one or more characters, friendly characters modify attack +1 this turn.[Trait] FEAR: OF LOSING CAROLPowers: PerplexPerplex. When Hal Jordan uses it to target an opposing character, until your next turn that character has \"When this character damages one or more other characters, after resolutions deal them 1 penetrating damage.\"",
+    "Keywords Search": "| Herald | Justice League | Pilot | Sinestro Corps |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -8144,6 +8204,16 @@
         "Defense": "17",
         "Damage": "2",
         "image": "ad8562a4-d009-4035-afb1-256078c1bd78.Click5.png"
+      },
+      {
+        "name": "Hal Jordan",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "ad8562a4-d009-4035-afb1-256078c1bd78.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -8161,11 +8231,11 @@
     "Rarity": "Rare",
     "Point Values": "60",
     "Keywords": "Brute | Herald | Justice League | Red Lantern Corps | Monster | Teen Titans",
-    "Keywords Search": "| Brute | Herald | Justice League | Red Lantern Corps | Monster | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AN ARTIST'S RAGEPowers: PoisonPoison. When Kyle Rayner uses it, he may instead roll a d6 and deal damage to each adjacent opposing character equal to half the result.",
+    "Keywords Search": "| Brute | Herald | Justice League | Red Lantern Corps | Monster | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -8281,14 +8351,14 @@
     "Rarity": "Super Rare",
     "Point Values": "150/75",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Herald | Injustice League | Legion Of Doom | Ruler | Ultraviolet Corps",
-    "Keywords Search": "| Herald | Injustice League | Legion Of Doom | Ruler | Ultraviolet Corps |",
     "Range": "6",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] YOUR DARKEST SELF SHALL BE OUR KNIGHT...Powers: Mind ControlMind Control. When Sinestro uses it, if all targets have the Ultraviolet Corps keyword, modify attack +2. // When Sinestro hits, after resolutions give each hit character a UV token if they don't already have one. Those characters gain the Ultraviolet Corps keyword and lose all other keywords.[Attack] EMBRACE THE REAL YOUPowers: Energy Explosion, Precision StrikeEnergy Explosion, Precision Strike. // Sinestro deals penetrating damage to characters with the Ultraviolet Corps keyword.[Damage] WELCOME TO MY CORPSPowers: Empower, Enhancement, LeadershipEmpower, Enhancement, Leadership. When Sinestro uses them, he considers friendly characters that share a keyword with him within range and line of fire as adjacent to him.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Herald | Injustice League | Legion Of Doom | Ruler | Ultraviolet Corps |",
     "alternates": [
       {
         "name": "Sinestro",
@@ -8469,13 +8539,13 @@
     "Properties": "Prime",
     "Point Values": "100/50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Brute | Herald | Injustice League | Ruler | Sinestro Corps | New Guardians",
-    "Keywords Search": "| Brute | Herald | Injustice League | Ruler | Sinestro Corps | New Guardians |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] PARALLAX TAMEDPowers: PerplexPerplex. // Characters' combat values can't be positively modified.[Attack] CRIPPLING FEARPowers: Pulse WavePulse Wave. When Sinestro uses it, after resolutions give each hit character an action token.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Brute | Herald | Injustice League | Ruler | Sinestro Corps | New Guardians |",
     "alternates": [
       {
         "name": "Sinestro",
@@ -8625,13 +8695,13 @@
     "Rarity": "Super Rare",
     "Point Values": "200/75",
     "Team Abilities": "Superman Ally | Superman Enemy",
-    "Team Abilities Search": "| Superman Ally | Superman Enemy |",
     "Keywords": "Brute | Herald | Kryptonian | Legion Of Super Villains | Sinestro Corps",
-    "Keywords Search": "| Brute | Herald | Kryptonian | Legion Of Super Villains | Sinestro Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FEAR: MAKING ME THE VILLAINPowers: PerplexPerplex. // Adjacent opposing characters decrease their single d6 rolls by -1.[Attack] DESTROY THE ANTI-MONITORSuperboy Prime modifies his attack +1 and deals unavoidable damage when he attacks a character with [cs:giant] or [cs:colossal].[Damage] GIVE THE LANTERNS SOMETHING TO FEARPowers: Close Combat Expert[ta:cosmic_energy], Close Combat Expert. // Opposing characters with a lower point value than Superboy Prime modify attack -2 when attacking Superboy Prime.",
+    "Team Abilities Search": "| Superman Ally | Superman Enemy |",
+    "Keywords Search": "| Brute | Herald | Kryptonian | Legion Of Super Villains | Sinestro Corps |",
     "alternates": [
       {
         "name": "Superboy Prime",
@@ -8823,14 +8893,14 @@
     "Rarity": "Super Rare",
     "Point Values": "75",
     "Team Abilities": "Green Lantern Corps | Justice League",
-    "Team Abilities Search": "| Green Lantern Corps | Justice League |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Marksman | Police | Soldier",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Police | Soldier |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] LET THE RING SHINEPowers: WillpowerWillpower. When John Stewart uses it and succeeds, replace his range with his click number + 4 until your next turn.[Defense] THE ARCHITECTPowers: Invincible, BarrierInvincible. Barrier as FREE, but only to generate 2 markers.[Damage] NO EVIL SHALL ESCAPE MY SIGHTPowers: Leadership, PerplexLeadership, Perplex.",
+    "Team Abilities Search": "| Green Lantern Corps | Justice League |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Marksman | Police | Soldier |",
     "alternates": [
       {
         "name": "John Stewart",
@@ -8965,13 +9035,13 @@
     "Properties": "Prime",
     "Point Values": "100/50",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Herald | Justice League | Soldier | Ultraviolet Corps",
-    "Keywords Search": "| Herald | Justice League | Soldier | Ultraviolet Corps |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] YOUR DARKEST SELF SHALL BE OUR KNIGHT...Powers: Mind ControlMind Control. When John Stewart uses it, if all targets have the Ultraviolet Corps keyword, modify attack +2. // When John Stewart hits, after resolutions give each hit character a UV token if they don't already have one. Those characters gain the Ultraviolet Corps keyword and lose all other keywords.[Trait] ... WIELD THE SWORD OF UNSEEN LIGHT!Powers: Exploit WeaknessExploit Weakness. // Opposing characters with the Ultraviolet Corps keyword can't use the EFFECT of equipment.[Damage] FLESH IS WEAK!Powers: OutwitOutwit. // When an opposing character is hit with Mind Control, after resolutions deal that character 1 penetrating damage and, until your next turn, they can't use Protected: Outwit or SAFEGUARD: Outwit.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Herald | Justice League | Soldier | Ultraviolet Corps |",
     "alternates": [
       {
         "name": "John Stewart",
@@ -9137,13 +9207,13 @@
     "Properties": "Unique | Sideline Active",
     "Point Values": "50",
     "Team Abilities": "Cosmic Energy | Justice League",
-    "Team Abilities Search": "| Cosmic Energy | Justice League |",
     "Keywords": "Animal | Celebrity | Herald | Justice League",
-    "Keywords Search": "| Animal | Celebrity | Herald | Justice League |",
     "Range": "2",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AVATAR OF THE REDSIDELINE ACTIVE - During force construction you may pay 10 points to choose a friendly character to be Animal Man's Avatar. If the chosen character is named Animal Man, pay 0 points instead. That character can't be equipped or chosen to be any other character's Avatar. This game, Animal Man's Avatar has [cs:wing], [cs:dolphin], and \"FREE: Choose a standard power on Animal Man's card. This character can use the chosen power until they choose again.\", and also scores the points paid with this trait when they are KO'd.[Trait] CHAMPION OF THE REDAnimal Man starts the game with 6 Life tokens. // When Animal Man takes damage, instead of turning the dial, remove that many Life tokens from him. Then, if he has no Life tokens, KO him. // When Animal Man heals, instead of turning the dial, give him that many Life tokens, to a maximum of 6. // FREE: Turn Animal Man to any click. Protected: Pulse Wave.",
+    "Team Abilities Search": "| Cosmic Energy | Justice League |",
+    "Keywords Search": "| Animal | Celebrity | Herald | Justice League |",
     "alternates": [
       {
         "name": "Animal Man",
@@ -9344,14 +9414,14 @@
     "Rarity": "Super Rare",
     "Point Values": "70/30",
     "Team Abilities": "Team Player | Justice Society",
-    "Team Abilities Search": "| Team Player | Justice Society |",
     "Keywords": "Central City | Future | Justice Society | Past | Politician | Scientist | Speedster",
-    "Keywords Search": "| Central City | Future | Justice Society | Past | Politician | Scientist | Speedster |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Elevated | Characters",
     "Traits and Special Powers": "[Trait] A SIMPLER TIME: FLASHOnce per turn for all characters with this trait, if a character uses [ta:justice_society] to replace its defense value with Flash's, you may choose that, this turn, that character can use Super Senses.[Trait] FLASH OF TWO WORLDSWhen establishing themed teams, friendly characters with the Justice League keyword gain the Justice Society keyword.[Speed] THE ORIGINAL SPEEDSTERPowers: Charge, Hypersonic SpeedCharge. Hypersonic Speed, but only if no other characters have moved this turn.",
+    "Team Abilities Search": "| Team Player | Justice Society |",
+    "Keywords Search": "| Central City | Future | Justice Society | Past | Politician | Scientist | Speedster |",
     "alternates": [
       {
         "name": "Flash",
@@ -9471,13 +9541,13 @@
     "Rarity": "Super Rare",
     "Point Values": "70/25",
     "Team Abilities": "Injustice League",
-    "Team Abilities Search": "| Injustice League |",
     "Keywords": "Injustice League | Past | Secret Society Of Super Villains",
-    "Keywords Search": "| Injustice League | Past | Secret Society Of Super Villains |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ABSORBING AND DEFLECTING SOUNDPowers: Shape ChangeFriendly characters within range and line of fire can use Shape Change, but only when an opposing character makes a range attack.[Attack] DISORIENTING BLASTPowers: Pulse WavePulse Wave. When Sonar uses it, until your next turn hit opposing characters have \"When this character would roll a single d6, instead the result is [d:1].\"",
+    "Team Abilities Search": "| Injustice League |",
+    "Keywords Search": "| Injustice League | Past | Secret Society Of Super Villains |",
     "alternates": [
       {
         "name": "Sonar",
@@ -9613,13 +9683,13 @@
     "Properties": "Unique",
     "Point Values": "125",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Brute | Cosmic | Herald | Ruler | Sinestro Corps | Warrior",
-    "Keywords Search": "| Brute | Cosmic | Herald | Ruler | Sinestro Corps | Warrior |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE MONGUL CORPSPowers: PerplexPerplex, but only to target opposing characters. // Once per turn, when a friendly character uses Perplex to target an opposing character, after resolutions you may deal that opposing character 1 penetrating damage.[Defense] I'LL CONQUER A DIFFERENT PLANETPowers: Stop, Combat Reflexes, ImperviousSTOP. Combat Reflexes, Impervious. // When this click is first revealed, after resolutions you may place Mongul adjacent to an opposing character who is 6 or more squares away from him. If you do, he has Immune until your next turn.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Brute | Cosmic | Herald | Ruler | Sinestro Corps | Warrior |",
     "alternates": [
       {
         "name": "Mongul",
@@ -9768,14 +9838,14 @@
     "Rarity": "Super Rare",
     "Point Values": "100/40",
     "Team Abilities": "Cosmic Energy | Kingdom Come",
-    "Team Abilities Search": "| Cosmic Energy | Kingdom Come |",
     "Keywords": "Armor | Future | Green Lantern Corps | Justice League | Justice Society | Mystical",
-    "Keywords Search": "| Armor | Future | Green Lantern Corps | Justice League | Justice Society | Mystical |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] A LONELY THRONEAlan Scott can't be targeted by non-adjacent characters. Protected: Pulse Wave.[Trait] I'VE FACED THE DARKNESS WITHINWhen an opposing character misses Alan Scott, after resolutions remove an action token from Alan Scott. // When an effect other than clearing removes an action token from Alan Scott, after resolutions heal him 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Kingdom Come |",
+    "Keywords Search": "| Armor | Future | Green Lantern Corps | Justice League | Justice Society | Mystical |",
     "alternates": [
       {
         "name": "Alan Scott",
@@ -9921,13 +9991,13 @@
     "Properties": "Unique",
     "Point Values": "80",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Keywords": "Cosmic | Herald | Metropolis | Robot | Ruler | Sinestro Corps",
-    "Keywords Search": "| Cosmic | Herald | Metropolis | Robot | Ruler | Sinestro Corps |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FEAR: THE MANHUNTERSPowers: PerplexPerplex. When Cyborg Superman uses it to target an opposing character, after resolutions you may generate a Manhunter bystander [MAX 3] adjacent to the target.[Defense] THEY WON'T LET ME DIEPowers: Invulnerability, RegenerationInvulnerability, Regeneration.[Damage] MANHUNTER GRANDMASTERPowers: Stop, LeadershipSTOP. Leadership. // When this click is first revealed, after resolutions generate up to two Manhunter bystanders. [MAX 3].",
+    "Team Abilities Search": "| Superman Enemy |",
+    "Keywords Search": "| Cosmic | Herald | Metropolis | Robot | Ruler | Sinestro Corps |",
     "alternates": [
       {
         "name": "Cyborg Superman",
@@ -10046,10 +10116,10 @@
     "Rarity": "Super Rare",
     "Point Values": "0",
     "Team Abilities": "Superman Enemy",
-    "Team Abilities Search": "| Superman Enemy |",
     "Range": "5",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
+    "Team Abilities Search": "| Superman Enemy |",
     "alternates": [
       {
         "name": "Manhunter",
@@ -10082,14 +10152,14 @@
     "Rarity": "Super Rare",
     "Point Values": "60/30",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Justice Society | Past | Scientist",
-    "Keywords Search": "| Justice Society | Past | Scientist |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Movement": "Destroy Blocking",
     "Traits and Special Powers": "[Trait] A SIMPLER TIME: HOURMANOnce per turn for all characters with this trait, when a character uses [ta:justice_society] to replace its defense value with Hourman's, you may choose that, this turn, that character reduces damage taken by 1 in addition to other effects.[Trait] THE CLOCK IS TICKING...Powers: Steal EnergySteal Energy. // When Hourman clears one or more action tokens, deal him 1 unavoidable damage. (Removing tokens with Willpower or Leadership isn't clearing).[Speed] MAN OF THE HOURPowers: Charge, FlurryCharge, Flurry.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Justice Society | Past | Scientist |",
     "alternates": [
       {
         "name": "Hourman",
@@ -10239,13 +10309,13 @@
     "Rarity": "Chase",
     "Point Values": "150/70",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Animal | Brute | Herald | Red Lantern Corps | Monster | Mystical | New Guardians",
-    "Keywords Search": "| Animal | Brute | Herald | Red Lantern Corps | Monster | Mystical | New Guardians |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] YOU KICKED MY CAT!?!When Atrocitus & Dex-Starr starts the game, generate a Dex-Starr bystander. // When Dex-Starr is KO'd by an opposing effect, modify Atrocitus & Dex-Starr's combat values +1 this game. Protected: Pulse Wave.[Attack] CRIMSON TIDEPowers: PoisonPoison. // Friendly characters with the Red Lantern Corps keyword have a minimum range of 3 and \"When this character uses Poison, opposing characters within range and line of fire are considered adjacent.\"[Damage] BLOOD MAGICPowers: Leadership, Probability ControlLeadership, Probability Control.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Animal | Brute | Herald | Red Lantern Corps | Monster | Mystical | New Guardians |",
     "alternates": [
       {
         "name": "Atrocitus & Dex-Starr",
@@ -10395,11 +10465,11 @@
     "Rarity": "Chase",
     "Point Values": "0",
     "Keywords": "Red Lantern Corps",
-    "Keywords Search": "| Red Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Attack] HISSSS!Powers: Blades Claws Fangs, PoisonBlades/Claws/Fangs, Poison.",
+    "Keywords Search": "| Red Lantern Corps |",
     "alternates": [
       {
         "name": "Dex-Starr",
@@ -10433,13 +10503,13 @@
     "Rarity": "Chase",
     "Point Values": "260",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Herald | Monster | New Guardians | Orange Lantern Corps",
-    "Keywords Search": "| Cosmic | Herald | Monster | New Guardians | Orange Lantern Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] AGENT ORANGEPowers: Plasticity, Steal EnergyPlasticity, Steal Energy. // At the beginning of the game, for each opposing character, generate a [set:ll] #013 Orange Lantern Construct on its red starting line in your starting area. // When Larfleeze would be equipped, you may instead destroy that equipment. // For each equipment in your opponent's KO area, modify Larfleeze's attack and defense +1.[Trait] I DEMAND A GREAT MANY THINGS!When Larfleeze KOs an opposing bystander, after resolutions generate a copy of that bystander.[Defense] BACK INTO MY LANTERN, ALL OF YOU!Powers: Stop, InvincibleSTOP. Invincible. // When this click is first revealed, after resolutions remove all friendly bystanders and friendly [set:ll] #013 Orange Lantern Constructs from the game without scoring them, then heal Larfleeze 1 click for each character removed this way. If 3 or more friendly characters were removed this way, this game, Larfleeze has [cs:giant] and modifies his combat values +1.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Herald | Monster | New Guardians | Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Larfleeze",
@@ -10633,14 +10703,14 @@
     "Rarity": "Chase",
     "Point Values": "100/60",
     "Team Abilities": "Batman Ally",
-    "Team Abilities Search": "| Batman Ally |",
     "Keywords": "Batman Family | Gotham City | Herald | Martial Artist | Scientist | Sinestro Corps | Detective",
-    "Keywords Search": "| Batman Family | Gotham City | Herald | Martial Artist | Scientist | Sinestro Corps | Detective |",
     "Range": "5",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Adjacent",
     "Traits and Special Powers": "[Trait] FLOCK OF YELLOW BATSPowers: PerplexPerplex. When Batman uses it, targeted characters can't use [it:] abilities until your next turn. // Opposing lines of fire drawn to friendly characters within 3 squares of Batman are hindered.[Attack] BEWARE YOUR POWER?Powers: Energy ExplosionEnergy Explosion. // Batman deals penetrating damage to opposing characters of less points than him.[Defense] TIME TO BEWARE MINE!Powers: Stop, Combat Reflexes, InvincibleSTOP. Combat Reflexes, Invincible. // When this click is revealed, after resolutions remove an action token from Batman and give an action token to an opposing character within range.",
+    "Team Abilities Search": "| Batman Ally |",
+    "Keywords Search": "| Batman Family | Gotham City | Herald | Martial Artist | Scientist | Sinestro Corps | Detective |",
     "alternates": [
       {
         "name": "Batman",
@@ -10791,13 +10861,13 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Cosmic | Green Lantern Corps | Herald",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] THE LIVING PLANETWhen Mogo starts the game, place him on his card. Mogo can be given actions and use his powers and abilities while on his card. // At the beginning of your turn, if no friendly characters are on the map, KO Mogo.[Trait] GUIDING THE RINGSAt the beginning of your turn, you may choose a friendly character that either has the Green Lantern Corps keyword or used Willpower and succeeded this turn. If you do, until your next turn, when Mogo attacks or uses a power or ability, he may do so as if he occupied the chosen character's square. // When Mogo is given an action, after resolutions roll a d6. [d:1]-[d:3]: Deal Mogo 1 unavoidable damage.[Trait] CRUSHING GRAVITYFREE: Choose a character within range and line of fire. Place that character up to 1 square away from its current square.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Mogo",
@@ -10882,13 +10952,13 @@
     "Rarity": "Chase",
     "Point Values": "65",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Blue Lantern Corps | Cosmic | Green Lantern Corps | Justice League | Pilot | Soldier",
-    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Justice League | Pilot | Soldier |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] POWER LEVELS AT 200%Powers: Running ShotWhen a friendly character's finalized attack roll is a critical hit, until your next turn modify Hal Jordan's combat values +1 and he can use Running Shot as FREE.[Trait] WHAT DO YOU HOPE FOR?Powers: Empower, WillpowerHal Jordan and Constructs he generated can use Empower and Willpower. // When a friendly character that can use Willpower attacks, their attack rolls of 10-12 are critical hits.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Blue Lantern Corps | Cosmic | Green Lantern Corps | Justice League | Pilot | Soldier |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -11022,14 +11092,14 @@
     "Rarity": "Chase",
     "Point Values": "50",
     "Team Abilities": "Team Player | Justice League",
-    "Team Abilities Search": "| Team Player | Justice League |",
     "Keywords": "Herald | Indigo Tribe | Justice League | Martial Artist | Scientist | Teen Titans",
-    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Martial Artist | Scientist | Teen Titans |",
     "Range": "3",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Improved Movement": "Blocking | Characters",
     "Traits and Special Powers": "[Trait] I'M COMPASSIONATE... NOT DEFENSELESSPowers: Shape Change, Stealth, SupportShape Change, Stealth, Support. // FREE: Make an attack targeting an opposing character that attacked The Atom or another friendly character with the Herald or Indigo Tribe keywords since your last turn.[Speed] DO THEY HAVE PHONE LINES IN SPACE?Powers: SidestepSidestep. // FREE: If The Atom is adjacent to a friendly character that shares a keyword with him, you may place him adjacent to another friendly character within 6 squares.[Damage] INDIGO INSIGHTPowers: Probability Control, Outwit, PerplexProbability Control. // FREE: Choose either Outwit or Perplex for The Atom to use until your next turn. You may instead choose both, but if you do The Atom must use both to target the same opposing character.",
+    "Team Abilities Search": "| Team Player | Justice League |",
+    "Keywords Search": "| Herald | Indigo Tribe | Justice League | Martial Artist | Scientist | Teen Titans |",
     "alternates": [
       {
         "name": "The Atom",
@@ -11148,13 +11218,13 @@
     "Rarity": "Chase",
     "Point Values": "75",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Brute | Herald | Red Lantern Corps | Star Sapphires | Warrior",
-    "Keywords Search": "| Brute | Herald | Red Lantern Corps | Star Sapphires | Warrior |",
     "Range": "0",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SINGLE-HANDEDLY SAVING THE CORPS....AGAIN.Powers: ChargeCharge. // When Guy Gardner would generate a Red or Violet Construct, he may generate both a Red and Violet version of that Construct instead.[Attack] I LOVE THE CORPS!Powers: Precision StrikeGiant Reach: 2, Precision Strike. // When Guy Gardner hits, after resolutions heal a friendly character 1 click for each distinct opposing character Guy Gardner hit this turn.[Damage] I HATE BEING FILLED WITH RAGE!Powers: Battle FuryBattle Fury. // When Guy Gardner damages an opposing character, that character can't be healed until your next turn.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Brute | Herald | Red Lantern Corps | Star Sapphires | Warrior |",
     "alternates": [
       {
         "name": "Guy Gardner",
@@ -11289,11 +11359,11 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Keywords": "Cosmic | Entity | Ultraviolet Corps",
-    "Keywords Search": "| Cosmic | Entity | Ultraviolet Corps |",
     "Range": "4",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] ULTRAVIOLET LANTERN SUNWhen Umbrax starts the game, place him on his card. Umbrax can be given actions and use his powers and abilities while on his card. // At the beginning of your turn, if no friendly characters are on the map, KO Umbrax.[Trait] THE UNSEEN SPECTRUMAt the beginning of your turn, you may choose a friendly character that either has the Ultraviolet Corps keyword or was damaged since your last turn. If you do, until your next turn, when Umbrax attacks or uses a power or ability, he may do so as if he occupied the chosen character's square. // When Umbrax is given an action, after resolutions roll a d6. [d:1]-[d:3]: Deal Umbrax 1 unavoidable damage.[Trait] YOUR DARKEST SELF SHALL BE OUR KNIGHT...Powers: Mind ControlMind Control. When Umbrax uses it, if all targets have the Ultraviolet Corps keyword, modify attack +2. // When Umbrax hits, after resolutions give each hit character a UV token if they don't already have one. Those characters gain the Ultraviolet Corps keyword and lose all other keywords.",
+    "Keywords Search": "| Cosmic | Entity | Ultraviolet Corps |",
     "alternates": [
       {
         "name": "Umbrax",
@@ -11377,13 +11447,13 @@
     "Rarity": "Chase",
     "Point Values": "125/70",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Cosmic | Herald | Monster | Black Lantern Corps",
-    "Keywords Search": "| Cosmic | Herald | Monster | Black Lantern Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] DEATH: POWER LEVELS RISING...Powers: Leadership, StealthLeadership, Stealth. // FREE: Generate a Grave hindering terrain marker within range. If any characters were KO'd since your last turn, generate 2 instead.[Trait] ...POWER LEVELS 100%Opposing characters within 4 squares of any Grave terrain marker modify defense -1. // When an opposing character destroys any Grave terrain marker, after resolutions deal them 1 unavoidable damage.[Defense] YOU CAN'T KILL WHAT'S DEADPowers: Invincible, MastermindInvincible, Mastermind.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Cosmic | Herald | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Black Hand",
@@ -11531,13 +11601,13 @@
     "Rarity": "Chase",
     "Point Values": "90/50",
     "Team Abilities": "Cosmic Energy | Superman Ally",
-    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
     "Keywords": "Justice League | Kryptonian | Metropolis | White Lantern Corps",
-    "Keywords Search": "| Justice League | Kryptonian | Metropolis | White Lantern Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] ENDING THE BLACKEST NIGHTPowers: RegenerationWhen Superman hits, after resolutions he may remove all Grave terrain markers within 4 squares of any hit targets.[Trait] LIFE: THE RETURNPowers: RegenerationThe first time Superman would be KO'd, instead turn him to click #7. If you do, until the end of your next turn, friendly characters can use Regeneration as FREE even if this effect is lost. Protected: Pulse Wave.[Defense] THE ENTITYPowers: Impervious, Super SensesImpervious, Super Senses. // At the beginning of your turn, you may heal a friendly character within range 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
+    "Keywords Search": "| Justice League | Kryptonian | Metropolis | White Lantern Corps |",
     "alternates": [
       {
         "name": "Superman",
@@ -11687,13 +11757,13 @@
     "Rarity": "Chase",
     "Point Values": "90/50",
     "Team Abilities": "Cosmic Energy | Superman Ally",
-    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
     "Keywords": "Justice League | Kryptonian | Metropolis | White Lantern Corps",
-    "Keywords Search": "| Justice League | Kryptonian | Metropolis | White Lantern Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] TEAM UP: JUSTICE LEAGUEWhen establishing theme teams, friendly characters with the Justice League keyword gain the White Lantern Corps keyword. // When another friendly character with the White Lantern Corps keyword heals, they heal an additional click.[Trait] LIFE: THE RETURNPowers: RegenerationThe first time Superman would be KO'd, instead turn him to click #7. If you do, until the end of your next turn, friendly characters can use Regeneration as FREE even if this effect is lost. Protected: Pulse Wave.[Defense] THE ENTITYPowers: Impervious, Super SensesImpervious, Super Senses. // At the beginning of your turn, you may heal a friendly character within range 1 click.",
+    "Team Abilities Search": "| Cosmic Energy | Superman Ally |",
+    "Keywords Search": "| Justice League | Kryptonian | Metropolis | White Lantern Corps |",
     "alternates": [
       {
         "name": "Superman",
@@ -11816,6 +11886,16 @@
         "Damage": "3",
         "Damage Ability": "Probability Control",
         "image": "f0b841b3-d27c-49ba-8c31-f5c6497ca5c0.Click8.png"
+      },
+      {
+        "name": "Superman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f0b841b3-d27c-49ba-8c31-f5c6497ca5c0.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -11834,13 +11914,13 @@
     "Properties": "Unique | Generic",
     "Point Values": "150",
     "Team Abilities": "Cosmic Energy | Police",
-    "Team Abilities Search": "| Cosmic Energy | Police |",
     "Keywords": "Cosmic | Green Lantern Corps",
-    "Keywords Search": "| Cosmic | Green Lantern Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] BRINGING ORDER TO THE UNIVERSEPowers: LeadershipLeadership. // At the beginning of your turn Guardian of the Universe may generate a Manhunter bystander [MAX 4].[Trait] HARNESSING THE GLOWFREE: Choose an opposing bystander within range. That character becomes friendly to your force and may, in either order, move and make an attack, then it reverts forces.",
+    "Team Abilities Search": "| Cosmic Energy | Police |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps |",
     "alternates": [
       {
         "name": "Guardian of the Universe",
@@ -12038,13 +12118,13 @@
     "Rarity": "Chase",
     "Point Values": "60/35",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Pilot",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Pilot |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CONSTRUCT CREATIONPowers: WillpowerWillpower. When Hal Jordan uses it and succeeds, if no Construct Hal Jordan generated is on the map, after resolutions he may generate a Green Construct within range.[Damage] OVERFLOWING WILLPOWERPowers: PerplexPerplex. // Friendly Constructs within range have \"UNIQUE MODIFIER - Modify this character's combat values +1 for each action token on Hal Jordan.\"",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Pilot |",
     "alternates": [
       {
         "name": "Hal Jordan",
@@ -12179,13 +12259,13 @@
     "Rarity": "Chase",
     "Point Values": "60/35",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Herald | Justice League | Teen Titans",
-    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Teen Titans |",
     "Range": "4",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CONSTRUCT CREATIONPowers: WillpowerWillpower. When Kyle Rayner uses it and succeeds, if no Construct Kyle Rayner generated is on the map, after resolutions he may generate a Green Construct within range.[Defense] ELABORATE CONSTRUCTSPowers: Barrier, Energy Shield DeflectionBarrier, Energy Shield/Deflection. When Kyle Rayner uses Barrier, he also generates a blocking terrain marker adjacent to each friendly Construct within range. Those markers are removed at the beginning of your next turn.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Herald | Justice League | Teen Titans |",
     "alternates": [
       {
         "name": "Kyle Rayner",
@@ -12320,11 +12400,11 @@
     "Rarity": "Chase",
     "Point Values": "300/200/150/25",
     "Keywords": "Cosmic | Armor | Ruler | Sinestro Corps",
-    "Keywords Search": "| Cosmic | Armor | Ruler | Sinestro Corps |",
     "Range": "10",
     "Targets": "3",
     "Combat Symbols": "Wing | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Trait] SINESTRO'S MIGHT!Opposing characters with a point value less than Sinestro can't target him with Outwit or give him action tokens. // Sinestro can reduce penetrating damage dealt by characters with a lower point value than himself.[Trait] NOTHING FRIGHTENS ME.Powers: PerplexPerplex. When Sinestro uses it to target an opposing character, after resolutions he may generate a Yellow Construct adjacent to the target.[Speed] YOU INSPIRE GREAT FEARPowers: SidestepSidestep. // POWER: Make a close attack. Hit characters are dealt 3 damage instead of normal damage and given an action token.[Defense] I AM FEARPowers: Stop, InvulnerabilitySTOP. Invulnerability. // Opposing characters modify attack -2 when attacking characters of higher points than themselves.",
+    "Keywords Search": "| Cosmic | Armor | Ruler | Sinestro Corps |",
     "alternates": [
       {
         "name": "Sinestro",
@@ -12601,6 +12681,16 @@
         "Damage": "2",
         "Damage Ability": "Perplex",
         "image": "e96be4f7-5122-4eaf-96d5-aa6754f1bec1.Click19.png"
+      },
+      {
+        "name": "Sinestro",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e96be4f7-5122-4eaf-96d5-aa6754f1bec1.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -12619,13 +12709,13 @@
     "Properties": "Sideline Active",
     "Point Values": "60",
     "Team Abilities": "Outsiders | Titans",
-    "Team Abilities Search": "| Outsiders | Titans |",
     "Keywords": "Animal | Celebrity | Doom Patrol | Teen Titans",
-    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CLIMBING UP THE FOOD CHAINSIDELINE ACTIVE - When a friendly character named Beast Boy hits, after resolutions you may replace that character with another character named Beast Boy of equal or less points. If you do, remove all Transform tokens on the replaced character and give the replacement character a Transform token for each removed Transform token.[Trait] BRINGIN' THE WHOLE ANIMAL KINGDOM, BABY!When Beast Boy is given a costed action, after resolutions give him a Transform token. // FREE: Remove up to 3 Transform tokens. For each token removed, modify Beast Boy's combat values +1 and choose a standard speed or attack power for him to use until your next turn.",
+    "Team Abilities Search": "| Outsiders | Titans |",
+    "Keywords Search": "| Animal | Celebrity | Doom Patrol | Teen Titans |",
     "alternates": [
       {
         "name": "Beast Boy",
@@ -12709,6 +12799,16 @@
         "Damage": "1",
         "Damage Ability": "Shape Change",
         "image": "be9fbec5-a4bb-41c7-aa68-4550cc8496d4.Click6.png"
+      },
+      {
+        "name": "Beast Boy",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "be9fbec5-a4bb-41c7-aa68-4550cc8496d4.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -12726,11 +12826,11 @@
     "Rarity": "Uncommon",
     "Point Values": "135/85",
     "Keywords": "Brute | Cosmic | Sinestro Corps | Warrior | White Lantern Corps",
-    "Keywords Search": "| Brute | Cosmic | Sinestro Corps | Warrior | White Lantern Corps |",
     "Range": "8",
     "Targets": "2",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] I LEARN QUICKLYPowers: Charge, Running Shot, SidestepCharge, Running Shot, Sidestep. // FREE: Choose an opposing bystander within range and line of fire or in your opponent's KO area. Generate a copy of that bystander.[Attack] NOW YOUR WEAPONS ARE MINEFREE: Choose an equipment in any KO area or equipped to a character within range and line of fire. The Weaponer of Qward can use the EFFECT of that equipment until you choose again. Protected: Pulse Wave.[Damage] EVEN IF THERE WERE TEN OF THEM, I WOULD STILL PREVAILPowers: Stop, RegenerationSTOP. Regeneration as FREE.",
+    "Keywords Search": "| Brute | Cosmic | Sinestro Corps | Warrior | White Lantern Corps |",
     "alternates": [
       {
         "name": "The Weaponer of Qward",
@@ -12864,6 +12964,16 @@
         "Damage": "1",
         "Damage Ability": "Special - EVEN IF THERE WERE TEN OF THEM, I WOULD STILL PREVAIL",
         "image": "f02b44d0-08a9-443d-ba04-c09110373b32.Click9.png"
+      },
+      {
+        "name": "The Weaponer of Qward",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f02b44d0-08a9-443d-ba04-c09110373b32.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -12881,13 +12991,13 @@
     "Rarity": "Uncommon",
     "Point Values": "100",
     "Team Abilities": "Green Lantern Corps | Legion Of Super Heroes",
-    "Team Abilities Search": "| Green Lantern Corps | Legion Of Super Heroes |",
     "Keywords": "Cosmic | Future | Green Lantern Corps | Legion Of Super Heroes",
-    "Keywords Search": "| Cosmic | Future | Green Lantern Corps | Legion Of Super Heroes |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE LAST GUARDIANPowers: WillpowerWillpower. // Sodam Yat modifies his defense +1 for each action token he has.[Defense] WIELDER OF IONPowers: Stop, ImperviousSTOP. [ta:cosmic_energy], Impervious. // Sodam Yat can reduce penetrating damage and can't be healed.[Damage] FIGHTING ALONGSIDE THE LEGIONPowers: Ranged Combat ExpertRanged Combat Expert. // FREE: If a friendly character was KO'd since your last turn, make an attack.",
+    "Team Abilities Search": "| Green Lantern Corps | Legion Of Super Heroes |",
+    "Keywords Search": "| Cosmic | Future | Green Lantern Corps | Legion Of Super Heroes |",
     "alternates": [
       {
         "name": "Sodam Yat",
@@ -13018,6 +13128,16 @@
         "Defense Ability": "Special - WIELDER OF ION",
         "Damage": "3",
         "image": "35ab26f4-2992-49ff-a746-3a083fceb2bb.Click9.png"
+      },
+      {
+        "name": "Sodam Yat",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "35ab26f4-2992-49ff-a746-3a083fceb2bb.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13035,13 +13155,13 @@
     "Rarity": "Uncommon",
     "Point Values": "80",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Herald | Star Sapphires",
-    "Keywords Search": "| Herald | Star Sapphires |",
     "Range": "8",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WITH YOUR LAST BREATHPOWER: Once per game, generate a friendly character from your KO area on their last non-KO click. This game, that character has [ta:mystics], can't be healed or replaced, and is immediately removed from the game without being scored if they take damage.[Damage] LOVE HEALS ALLPowers: Shape Change, SupportShape Change, Support.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Herald | Star Sapphires |",
     "alternates": [
       {
         "name": "Miri Riam",
@@ -13130,6 +13250,16 @@
         "Damage": "2",
         "Damage Ability": "Special - LOVE HEALS ALL",
         "image": "5ce32255-6632-40c0-96e9-509d91a3913b.Click6.png"
+      },
+      {
+        "name": "Miri Riam",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "5ce32255-6632-40c0-96e9-509d91a3913b.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13147,11 +13277,11 @@
     "Rarity": "Uncommon",
     "Point Values": "35",
     "Keywords": "Blue Lantern Corps | Herald",
-    "Keywords Search": "| Blue Lantern Corps | Herald |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Speed] PATROLLING ODYMFREE: Sister Sercy and another friendly character within range and line of fire may each move up to 2 squares.[Attack] INSPIRATIONOther friendly characters within range and line of fire modify attack and damage +1.[Damage] HEALING BLUE LIGHTPowers: Probability Control, SupportProbability Control, Support. // FREE: Heal a friendly character 1 click.",
+    "Keywords Search": "| Blue Lantern Corps | Herald |",
     "alternates": [
       {
         "name": "Sister Sercy",
@@ -13224,6 +13354,16 @@
         "Damage": "1",
         "Damage Ability": "Special - HEALING BLUE LIGHT",
         "image": "109a994d-5ef5-4d49-bdc3-44b90c351d01.Click5.png"
+      },
+      {
+        "name": "Sister Sercy",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "109a994d-5ef5-4d49-bdc3-44b90c351d01.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13242,13 +13382,13 @@
     "Properties": "Sideline Active",
     "Point Values": "60",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Cosmic | Future | Justice Society | Past | Police | Tarot",
-    "Keywords Search": "| Cosmic | Future | Justice Society | Past | Police | Tarot |",
     "Range": "8",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] HEROIC LEGACYSIDELINE ACTIVE - When a friendly character with the Justice Society keyword of 70 points or more is KO'd, after resolutions you may generate Starman from your Sideline on click #1 in a square that character last occupied. Equip Starman with any equipment that was equipped to the KO'd character.[Trait] KNIGHT'S PASTDuring force construction, Starman may be assigned equipment without paying the equipment's cost.[Trait] CHARITY'S FORTUNEPowers: Probability Control, Super SensesProbability Control, Super Senses. // Once per turn when an attack misses Starman, after resolutions modify friendly characters' defense +1 this turn.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Cosmic | Future | Justice Society | Past | Police | Tarot |",
     "alternates": [
       {
         "name": "Starman",
@@ -13332,6 +13472,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "73c48546-4f5a-4091-b42d-ce975d7a0988.Click6.png"
+      },
+      {
+        "name": "Starman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "73c48546-4f5a-4091-b42d-ce975d7a0988.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13349,11 +13499,11 @@
     "Rarity": "Rare",
     "Point Values": "60/30",
     "Keywords": "Herald | Red Lantern Corps | Ruler | New Guardians",
-    "Keywords Search": "| Herald | Red Lantern Corps | Ruler | New Guardians |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WITH BLOOD AND RAGEPowers: PoisonPoison, but deals damage even if moved or placed this turn.[Trait] NEVER AGAIN!Modify Bleez's attack and defense +1 for each adjacent opposing character.[Damage] IMMERSED IN THE BLOOD OCEANPowers: LeadershipLeadership. // POWER: Move up to two adjacent friendly characters with the Red Lantern Corps keyword up to 4 squares.",
+    "Keywords Search": "| Herald | Red Lantern Corps | Ruler | New Guardians |",
     "alternates": [
       {
         "name": "Bleez",
@@ -13460,6 +13610,16 @@
         "Damage": "2",
         "Damage Ability": "Battle Fury",
         "image": "e1db2ede-2474-4b9c-9f6a-7584fb0a0ab8.Click7.png"
+      },
+      {
+        "name": "Bleez",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e1db2ede-2474-4b9c-9f6a-7584fb0a0ab8.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13478,11 +13638,11 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Keywords": "Animal | Brute | Cosmic | Sinestro Corps",
-    "Keywords Search": "| Animal | Brute | Cosmic | Sinestro Corps |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] MY FATHERS THREEAt the beginning of your turn, Karu-Sil may generate a The Pack bystander within range [MAX 3].[Damage] FEAR THE HUNTPowers: Battle Fury, PerplexKaru-Sil and friendly characters named The Pack can use Battle Fury and Perplex.",
+    "Keywords Search": "| Animal | Brute | Cosmic | Sinestro Corps |",
     "alternates": [
       {
         "name": "Karu-Sil",
@@ -13571,6 +13731,16 @@
         "Damage": "2",
         "Damage Ability": "Special - FEAR THE HUNT",
         "image": "b0d1fb72-03d5-4b96-8de3-cf9a2262c7be.Click6.png"
+      },
+      {
+        "name": "Karu-Sil",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b0d1fb72-03d5-4b96-8de3-cf9a2262c7be.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13622,11 +13792,11 @@
     "Rarity": "Rare",
     "Point Values": "30",
     "Keywords": "Animal | Red Lantern Corps | Monster",
-    "Keywords Search": "| Animal | Red Lantern Corps | Monster |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] JUST THE CUTEST RAGE-FILLED MONSTERPowers: Poison, Shape ChangePoison, Shape Change. When Dex-Starr uses Shape Change and fails, modify the attacker's attack by -X, where X is the Shape Change result.[Speed] I FIND WHO HURT YOU. I KILL...Powers: Flurry, SidestepFlurry, Sidestep.[Damage] ...I GOOD KITTYPowers: Battle Fury, Close Combat ExpertBattle Fury, Close Combat Expert. // When Dex-Starr attacks, modify his attack and damage +1 if any targeted characters damaged a friendly character since your last turn.",
+    "Keywords Search": "| Animal | Red Lantern Corps | Monster |",
     "alternates": [
       {
         "name": "Dex-Starr",
@@ -13686,6 +13856,16 @@
         "Damage": "2",
         "Damage Ability": "Special - ...I GOOD KITTY",
         "image": "aa553529-63dc-4af6-a87a-678c16846812.Click4.png"
+      },
+      {
+        "name": "Dex-Starr",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "aa553529-63dc-4af6-a87a-678c16846812.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13703,13 +13883,13 @@
     "Rarity": "Super Rare",
     "Point Values": "40",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Green Lantern Corps | Past | Ruler | Mystical",
-    "Keywords Search": "| Green Lantern Corps | Past | Ruler | Mystical |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] GENIE OF THE LAMPPowers: Running Shot, Invulnerability, Super SensesWillpower. When Al Jhor Dan uses it, choose a number of the following equal to half the result to use until your next turn: *[cs:wing] *[cs:dolphin] *Running Shot *Invulnerability *Super Senses[Trait] WISHES ARE GIFTSAl Jhor Dan's finalized attack rolls of [d:3][d:3] are critical hits. // Once per game, when Al Jhor Dan would be KO'd, instead roll a d6. Turn him to the click number equal to half the result. Protected: Pulse Wave.[Damage] 1001 EMERALD NIGHTSPowers: Probability ControlProbability Control. // Once per turn, Al Jhor Dan may reroll a single d6 roll made by a character within range and line of fire.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Green Lantern Corps | Past | Ruler | Mystical |",
     "alternates": [
       {
         "name": "Al Jhor Dan",
@@ -13779,6 +13959,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "image": "1d695b35-de76-4546-ae24-6bfb191385f8.Click5.png"
+      },
+      {
+        "name": "Al Jhor Dan",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "1d695b35-de76-4546-ae24-6bfb191385f8.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13796,13 +13986,13 @@
     "Rarity": "Rare",
     "Point Values": "150",
     "Team Abilities": "Cosmic Energy",
-    "Team Abilities Search": "| Cosmic Energy |",
     "Keywords": "Coast City | Cosmic | Green Lantern Corps | Herald | Sinestro Corps",
-    "Keywords Search": "| Coast City | Cosmic | Green Lantern Corps | Herald | Sinestro Corps |",
     "Range": "9",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] THE YELLOW IMPURITY, FREEDOpposing characters that can use a yellow standard power modify their combat values -1 (including yellow standard powers granted by special powers and other effects.)[Trait] FEED ON YOUR FEARPowers: PerplexPerplex. // When a friendly character uses Perplex to target an opposing character, after resolutions choose a combat value. Parallax modifies the chosen combat value +1 until your next turn.[Attack] THE END OF THE CORPPowers: Pulse WavePulse Wave as FREE. When Parallax uses it, before targeting characters, remove all non-debris terrain markers within range from the game.",
+    "Team Abilities Search": "| Cosmic Energy |",
+    "Keywords Search": "| Coast City | Cosmic | Green Lantern Corps | Herald | Sinestro Corps |",
     "alternates": [
       {
         "name": "Parallax (Hal Jordan)",
@@ -13939,6 +14129,16 @@
         "Damage": "4",
         "Damage Ability": "Probability Control",
         "image": "188cd0e3-8fc5-4c8c-9afe-5ad3a831f139.Click9.png"
+      },
+      {
+        "name": "Parallax (Hal Jordan)",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "188cd0e3-8fc5-4c8c-9afe-5ad3a831f139.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -13957,14 +14157,14 @@
     "Properties": "Unique",
     "Point Values": "40",
     "Team Abilities": "Mystics | Outsiders",
-    "Team Abilities Search": "| Mystics | Outsiders |",
     "Keywords": "Green Lantern Corps | Justice League | Justice League Dark | Outsiders | Secret Six | Mystical",
-    "Keywords Search": "| Green Lantern Corps | Justice League | Justice League Dark | Outsiders | Secret Six | Mystical |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Elevated | Hindering | Characters",
     "Traits and Special Powers": "[Trait] MANIPULATING DIMENSIONSPowers: Stealth, TelekinesisStealth, Telekinesis.[Trait] UNFINISHED MORTAL BUSINESSPOWER: Generate a character not already chosen for this effect from your KO area adjacent to Green Lantern on any click it could have been on this game. One at a time, in any order that character may move and/or make an attack. After resolutions, remove that character from the game without scoring it.[Trait] WHO AM I?Powers: Enhancement, Probability ControlEnhancement, Probability Control.",
+    "Team Abilities Search": "| Mystics | Outsiders |",
+    "Keywords Search": "| Green Lantern Corps | Justice League | Justice League Dark | Outsiders | Secret Six | Mystical |",
     "alternates": [
       {
         "name": "Green Lantern",
@@ -14018,6 +14218,16 @@
         "Defense Ability": "Willpower",
         "Damage": "0",
         "image": "e985c1fe-455b-4247-a979-1fe4a31acbdc.Click4.png"
+      },
+      {
+        "name": "Green Lantern",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e985c1fe-455b-4247-a979-1fe4a31acbdc.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14035,13 +14245,13 @@
     "Rarity": "Rare",
     "Point Values": "50",
     "Team Abilities": "Crime Syndicate",
-    "Team Abilities Search": "| Crime Syndicate |",
     "Keywords": "Cosmic | Crime Syndicate | Herald | Mystical",
-    "Keywords Search": "| Cosmic | Crime Syndicate | Herald | Mystical |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] SPIRITS OF VOLTHOOM'S RINGWhen another character with the Herald keyword is KO'd, choose a standard power printed on that character's card. Power Ring can use that power this game. Protected: Pulse Wave.[Speed] YOU'RE NOT THE ONE IN CONTROLPowers: Phasing TeleportPhasing/Teleport, [cs:passenger]: 4. // Opposing characters within 4 squares can't remove action tokens except by clearing.[Damage] THE RING IS KILLING MEPowers: PerplexPerplex. When Power Ring uses it, you may modify the chosen combat value by +2 or -2. If you do, deal him 1 unavoidable damage and that use of Perplex lasts until your next turn even if this power is lost.",
+    "Team Abilities Search": "| Crime Syndicate |",
+    "Keywords Search": "| Cosmic | Crime Syndicate | Herald | Mystical |",
     "alternates": [
       {
         "name": "Power Ring",
@@ -14131,6 +14341,16 @@
         "Damage": "1",
         "Damage Ability": "Special - THE RING IS KILLING ME",
         "image": "c78277b7-859f-4c84-9e4a-70d624692cd4.Click6.png"
+      },
+      {
+        "name": "Power Ring",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c78277b7-859f-4c84-9e4a-70d624692cd4.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14148,14 +14368,14 @@
     "Rarity": "Rare",
     "Point Values": "35",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Animal | Justice Society | Past | Scientist | Monster | Black Lantern Corps",
-    "Keywords Search": "| Animal | Justice Society | Past | Scientist | Monster | Black Lantern Corps |",
     "Range": "4",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] A DARKER TIMEOnce per turn for all characters with this trait, if a character replaces its defense value with Dr. Mid-Nite's or Hooty's, after resolutions you may heal that character 1 click.[Trait] HOOTYFREE: Once per game, generate a Hooty bystander adjacent to any Grave terrain marker within 4 squares. Hooty gains all of Dr. Mid-Nite's keywords.[Attack] BLACKEST NIGHT BOMBSPowers: Smoke CloudSmoke Cloud as FREE. When Dr. Mid-Nite uses it, at the beginning of your next turn when those markers are removed, generate a Grave hindering terrain marker in a square a Smoke marker last occupied.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Animal | Justice Society | Past | Scientist | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Dr. Mid-Nite",
@@ -14216,6 +14436,16 @@
         "Damage": "2",
         "Damage Ability": "Support",
         "image": "e2aa4e62-7805-4549-9563-95e5a1349350.Click4.png"
+      },
+      {
+        "name": "Dr. Mid-Nite",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e2aa4e62-7805-4549-9563-95e5a1349350.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14268,11 +14498,11 @@
     "Rarity": "Rare",
     "Point Values": "90",
     "Keywords": "Herald | Justice League | Monster | Black Lantern Corps",
-    "Keywords Search": "| Herald | Justice League | Monster | Black Lantern Corps |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] WELCOME ABOARD, NERDWhen Firestorm KOs an opposing character, choose a standard power printed on that character's card. Firestorm can use the chosen power this game. Protected: Pulse Wave.[Trait] DEATH: RADIATE IN PEACEFirestorm modifies his attack and defense +1 for every Grave terrain marker within range.[Speed] THERE'S NO \"GOOD AND EVIL\"...Powers: Running Shot, Sidestep, StealthRunning Shot, Sidestep, Stealth.[Damage] ...JUST ALIVE AND DEADPowers: Steal Energy, Probability ControlProbability Control. Steal Energy, but with close and range attacks.",
+    "Keywords Search": "| Herald | Justice League | Monster | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Firestorm",
@@ -14390,6 +14620,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "2",
         "image": "e47875f8-4199-4e11-9245-36333a68fc64.Click8.png"
+      },
+      {
+        "name": "Firestorm",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e47875f8-4199-4e11-9245-36333a68fc64.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14407,13 +14647,13 @@
     "Rarity": "Super Rare",
     "Point Values": "75",
     "Team Abilities": "Justice League",
-    "Team Abilities Search": "| Justice League |",
     "Keywords": "Central City | Coast City | Green Lantern Corps | Justice League | Police | Speedster",
-    "Keywords Search": "| Central City | Coast City | Green Lantern Corps | Justice League | Police | Speedster |",
     "Range": "8",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] FRIENDLY RIVALRYPowers: WillpowerWillpower. // Modify The Flash and Green Lantern's attack +1 for each character that missed this turn.[Speed] DON'T WORRY ABOUT WHAT HAPPENS TO USPowers: Hypersonic SpeedHypersonic Speed, but don't halve range.[Attack] WE BOTH PUSH EACH OTHER TO BE OUR BETTER SELVESOnce per turn, when The Flash and Green Lantern misses, after resolutions they may make an attack.[Damage] WE COULDN'T HAVE DONE IT WITHOUT MEPowers: Probability ControlProbability Control. // When The Flash and Green Lantern attacks, replace their attack value with their speed value.",
+    "Team Abilities Search": "| Justice League |",
+    "Keywords Search": "| Central City | Coast City | Green Lantern Corps | Justice League | Police | Speedster |",
     "alternates": [
       {
         "name": "The Flash and Green Lantern",
@@ -14544,6 +14784,16 @@
         "Defense Ability": "Barrier",
         "Damage": "4",
         "image": "948dd942-5f9a-4c12-a55a-299cc3c402da.Click9.png"
+      },
+      {
+        "name": "The Flash and Green Lantern",
+        "type": "KO",
+        "size": "1x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "948dd942-5f9a-4c12-a55a-299cc3c402da.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14561,14 +14811,14 @@
     "Rarity": "Super Rare",
     "Point Values": "80/50",
     "Team Abilities": "Mystics",
-    "Team Abilities Search": "| Mystics |",
     "Keywords": "Injustice League | Secret Society Of Super Villains | Sinestro Corps | Star Sapphires | Warrior",
-    "Keywords Search": "| Injustice League | Secret Society Of Super Villains | Sinestro Corps | Star Sapphires | Warrior |",
     "Range": "6",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering",
     "Traits and Special Powers": "[Trait] LOVE CONQUERS HATEWhen Fatality uses Shape Change or Super Senses and succeeds, after resolutions deal the attacker 1 penetrating damage.[Trait] LOVE ENDURESPowers: Mind ControlMind Control. When Fatality uses it, she has [cs:bolt][cs:bolt] and, until your next turn, increases her Shape Change and Super Senses results by +1 when hit characters attack her.[Attack] HARD ENERGY SPEARPowers: Blades Claws FangsBlades/Claws/Fangs, Giant Reach: 2. // Once per turn, when Fatality makes a close attack and misses, after resolutions she may make a close attack targeting an opposing character that's adjacent to the original target regardless of adjacency.",
+    "Team Abilities Search": "| Mystics |",
+    "Keywords Search": "| Injustice League | Secret Society Of Super Villains | Sinestro Corps | Star Sapphires | Warrior |",
     "alternates": [
       {
         "name": "Fatality",
@@ -14676,6 +14926,16 @@
         "Damage": "2",
         "Damage Ability": "Shape Change",
         "image": "7088e7fb-ce21-4460-8f7f-050815abdc83.Click7.png"
+      },
+      {
+        "name": "Fatality",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7088e7fb-ce21-4460-8f7f-050815abdc83.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14694,13 +14954,13 @@
     "Properties": "Unique",
     "Point Values": "50/30",
     "Team Abilities": "Justice Society",
-    "Team Abilities Search": "| Justice Society |",
     "Keywords": "Justice Society | Past | Soldier | Mystical",
-    "Keywords Search": "| Justice Society | Past | Soldier | Mystical |",
     "Range": "6",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Traits and Special Powers": "[Trait] CEI-U! NOW HOW TO WORD THIS...FREE: Roll 5d6. For every number that has at least two dice in the result, perform the listed effect:[d:1]: For each [d:1], remove an action token from a friendly character within range.[d:2]: Modify Johnny Thunder's attack +1 for each [d:2] until your next turn.[d:3]: Modify Johnny thunder's defense +1 for each [d:3] until your next turn.[d:4]: Modify Johnny Thunder's damage +1 for each [d:4] until your next turn.[d:5]: For each [d:5], heal a friendly character 1 click.[d:6]: For each [d:6], deal an opposing character within range 1 penetrating damage.[Damage] THE THUNDERBOLTPowers: Probability Control, Shape ChangeProbability Control, Shape Change.",
+    "Team Abilities Search": "| Justice Society |",
+    "Keywords Search": "| Justice Society | Past | Soldier | Mystical |",
     "alternates": [
       {
         "name": "Johnny Thunder",
@@ -14789,6 +15049,16 @@
         "Damage": "3",
         "Damage Ability": "Close Combat Expert",
         "image": "7f05d504-8e54-4cb3-867a-a1d02b298c33.Click6.png"
+      },
+      {
+        "name": "Johnny Thunder",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "7f05d504-8e54-4cb3-867a-a1d02b298c33.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14806,13 +15076,13 @@
     "Rarity": "Super Rare",
     "Point Values": "125/65",
     "Keywords": "Arkham Asylum | Gotham City Underworld | Herald | Red Lantern Corps | Black Lantern Corps",
-    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Herald | Red Lantern Corps | Black Lantern Corps |",
     "Range": "7",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Movement": "Characters",
     "Improved Targeting": "Adjacent",
     "Traits and Special Powers": "[Trait] DEATH, WITH A SMILEPowers: Steal EnergySteal Energy, but may use it with close or range attacks. // When an opposing character is KO'd, after resolutions heal Harley Quinn 2 clicks.[Speed] RUNNIN', GUNNIN'...Powers: Force Blast, Running ShotForce Blast, Running Shot.[Attack] ...AND WRASTLIN'Powers: Energy Explosion, PoisonEnergy Explosion, Poison. When Harley Quinn uses Poison, she still deals damage if she moved this turn, and characters she damaged this turn are considered adjacent to her.[Damage] TIME TO MAKE APPLE SAUCE!When Harley Quinn hits, this turn hit characters can't reduce damage below 1.",
+    "Keywords Search": "| Arkham Asylum | Gotham City Underworld | Herald | Red Lantern Corps | Black Lantern Corps |",
     "alternates": [
       {
         "name": "Harley Quinn",
@@ -14933,6 +15203,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "image": "e20739b6-3e32-46ce-9088-77dbde4eb0da.Click8.png"
+      },
+      {
+        "name": "Harley Quinn",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e20739b6-3e32-46ce-9088-77dbde4eb0da.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -14951,14 +15231,14 @@
     "Properties": "Unique",
     "Point Values": "125",
     "Team Abilities": "Cosmic Energy | Green Lantern Corps",
-    "Team Abilities Search": "| Cosmic Energy | Green Lantern Corps |",
     "Keywords": "Cosmic | Green Lantern Corps | Justice League | Soldier | New Gods | Deity",
-    "Keywords Search": "| Cosmic | Green Lantern Corps | Justice League | Soldier | New Gods | Deity |",
     "Range": "8",
     "Targets": "2",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Hindering | Characters",
     "Traits and Special Powers": "[Trait] GOD OF LIGHTPOWER: Once per game, generate any number of Constructs within 6 squares, as long as each generated Construct is of a different color.[Speed] UNBOUNDED BY TIME OR SPACEPowers: Phasing TeleportPhasing/Teleport. When Green Lantern, God of Light uses it and moves 6 squares or less, after resolutions he may make a range attack.[Defense] POWER RING FUSED WITH THE MOTHER BOXPowers: Energy Shield Deflection, Invincible, Super SensesEnergy Shield/Deflection, Invincible, Super Senses. // Adjacent friendly characters can Energy Shield/Deflection.[Damage] THERE IS ALWAYS A RAY OF HOPEPowers: Enhancement, Ranged Combat ExpertEnhancement, Ranged Combat Expert.",
+    "Team Abilities Search": "| Cosmic Energy | Green Lantern Corps |",
+    "Keywords Search": "| Cosmic | Green Lantern Corps | Justice League | Soldier | New Gods | Deity |",
     "alternates": [
       {
         "name": "Green Lantern, God of Light",
@@ -15065,6 +15345,16 @@
         "Damage": "3",
         "Damage Ability": "Enhancement",
         "image": "15dbe1a9-014a-449e-983c-b8cb143f9917.Click7.png"
+      },
+      {
+        "name": "Green Lantern, God of Light",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "15dbe1a9-014a-449e-983c-b8cb143f9917.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -15082,14 +15372,14 @@
     "Rarity": "Chase",
     "Point Values": "60",
     "Team Abilities": "Green Lantern Corps",
-    "Team Abilities Search": "| Green Lantern Corps |",
     "Keywords": "Green Lantern Corps | Justice League",
-    "Keywords Search": "| Green Lantern Corps | Justice League |",
     "Range": "7",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Starburst",
     "Improved Targeting": "Characters",
     "Traits and Special Powers": "[Trait] COMBATIVE WILLPowers: Energy Shield Deflection, WillpowerEnergy Shield/Deflection, Willpower. When Simon Baz uses Willpower and fails, this turn he has \"FREE: Make a range attack.\"[Damage] EMERALD SIGHTPowers: Ranged Combat ExpertRanged Combat Expert. // At the beginning of your turn, Simon Baz may roll a d6 and place it on his card, removing any other d6s on this card. // When a character within range and line of fire attacks or uses Willpower, you may remove a d6 from this card and replace a die in the roll with it.",
+    "Team Abilities Search": "| Green Lantern Corps |",
+    "Keywords Search": "| Green Lantern Corps | Justice League |",
     "alternates": [
       {
         "name": "Simon Baz",
@@ -15192,6 +15482,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "b1355c6b-c10e-4fe5-bb1e-47886ad50e58.Click7.png"
+      },
+      {
+        "name": "Simon Baz",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "b1355c6b-c10e-4fe5-bb1e-47886ad50e58.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -15210,11 +15510,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Green Lantern Corps",
-    "Keywords Search": "| Green Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityOpposing characters within range can't be given more than 1 FREE action a turn.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and Willpower.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Green Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (Green Lantern Corps)",
@@ -15464,6 +15764,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "05c59c2d-2580-4cc6-b9db-ab86822b6ba2.Click20.png"
+      },
+      {
+        "name": "Power Battery (Green Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "05c59c2d-2580-4cc6-b9db-ab86822b6ba2.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -15482,11 +15792,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "White Lantern Corps",
-    "Keywords Search": "| White Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityAt the beginning of your turn, Power Battery may heal up to 3 other characters within range 1 click.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and have \"FREE: Heal an adjacent character 1 click.\".[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| White Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (White Lantern Corps)",
@@ -15736,6 +16046,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "2a16b593-25e7-4103-863a-0777d660f4e4.Click20.png"
+      },
+      {
+        "name": "Power Battery (White Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2a16b593-25e7-4103-863a-0777d660f4e4.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -15754,11 +16074,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Red Lantern Corps",
-    "Keywords Search": "| Red Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityFriendly characters within range have Giant Reach: 2.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and Poison.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Red Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (Red Lantern Corps)",
@@ -16008,6 +16328,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "feecf7be-20ab-4d4c-ab80-da18dd4b8275.Click20.png"
+      },
+      {
+        "name": "Power Battery (Red Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "feecf7be-20ab-4d4c-ab80-da18dd4b8275.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -16026,11 +16356,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Orange Lantern Corps",
-    "Keywords Search": "| Orange Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityPOWER: Choose an opposing character within range. That character can't use the EFFECT of equipment until your next turn.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Barrier and Invincible.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Orange Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (Orange Lantern Corps)",
@@ -16280,6 +16610,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "8f17a91e-d6c7-4cdf-86f8-95099ac42717.Click20.png"
+      },
+      {
+        "name": "Power Battery (Orange Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8f17a91e-d6c7-4cdf-86f8-95099ac42717.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -16298,11 +16638,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Indigo Tribe",
-    "Keywords Search": "| Indigo Tribe |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityOther friendly characters within range can't be targeted by opposing characters more than 3 squares away from them.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and Support.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Indigo Tribe |",
     "alternates": [
       {
         "name": "Power Battery (Indigo Tribe)",
@@ -16552,6 +16892,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "a9d59a4a-984e-450a-a416-2c7847f79e04.Click20.png"
+      },
+      {
+        "name": "Power Battery (Indigo Tribe)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "a9d59a4a-984e-450a-a416-2c7847f79e04.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -16570,11 +16920,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Sinestro Corps",
-    "Keywords Search": "| Sinestro Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityOpposing characters within range modify their attack -1.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and Perplex, but only to negatively modify combat values.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Sinestro Corps |",
     "alternates": [
       {
         "name": "Power Battery (Sinestro Corps)",
@@ -16824,6 +17174,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "fef6cdce-8054-427a-b97e-a6e97e0ae945.Click20.png"
+      },
+      {
+        "name": "Power Battery (Sinestro Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "fef6cdce-8054-427a-b97e-a6e97e0ae945.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -16842,11 +17202,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Star Sapphires",
-    "Keywords Search": "| Star Sapphires |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityPowers: Shape ChangeFriendly characters within range can use Shape Change.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Invincible and [ta:mystics].[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Star Sapphires |",
     "alternates": [
       {
         "name": "Power Battery (Star Sapphires)",
@@ -17096,6 +17456,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "4880d988-7e35-4f46-945f-5fb9cdb9b271.Click20.png"
+      },
+      {
+        "name": "Power Battery (Star Sapphires)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4880d988-7e35-4f46-945f-5fb9cdb9b271.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -17114,11 +17484,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Blue Lantern Corps",
-    "Keywords Search": "| Blue Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityOnce per turn, you may reroll a roll made by a friendly character within range.[Power Battery Trait] Unnamed AbilityWhen a friendly Lantern Construct would take damage, you may deal Power Battery 1 unavoidable damage instead.[Power Battery Trait] Unnamed AbilityFriendly Lantern Constructs within range can use Enhancement and Invincible.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Lantern Construct within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Blue Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (Blue Lantern Corps)",
@@ -17368,6 +17738,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "25dfa5f0-9025-4e74-afb9-0efd60009b23.Click20.png"
+      },
+      {
+        "name": "Power Battery (Blue Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "25dfa5f0-9025-4e74-afb9-0efd60009b23.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -17386,11 +17766,11 @@
     "Properties": "Attached Not Equipped",
     "Point Values": "40",
     "Keywords": "Black Lantern Corps",
-    "Keywords Search": "| Black Lantern Corps |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Boot | Fist | Indomitable | Colossal",
     "Traits and Special Powers": "[Power Battery Trait] Unnamed AbilityPOWER: Choose a friendly character. That character can use the EFFECT of the Lantern Ring attached to this character until your next turn.[Power Battery Trait] Unnamed AbilityOpposing characters within range can't heal.[Power Battery Trait] Unnamed AbilityWhen this click is revealed, you may generate a grave hindering terrain marker in any square.[Power Battery Trait] Unnamed AbilityWhen an opposing character within range is KO'd, after resolutions you may generate a [set:ll] #008 Black Lantern Reanimate on their red starting line within range. If you do, deal Power Battery 1 unavoidable damage.[Power Battery Trait] Unnamed AbilityFriendly characters can use the EFFECT of the Lantern Ring attached to this character. Friendly Constructs or characters named Black Lantern Reanimate can't use that EFFECT to generate characters.[Power Battery Trait] Unnamed AbilityFriendly characters modify their combat values +1 for each friendly Grave terrain marker within 4 squares of them.POWER BATTERYA force can only contain one Power Battery. No game effect can add a second Power Battery to your force. Power Batteries are characters and can use the [icon:sun] and standard powers displayed on their dial. // During force construction, a Lantern Ring may be assigned to Power Battery. That ring is attached (not equipped) to Power Battery when the game begins and is destroyed if Power Battery is KO'd. // Power Battery has a range value equal to its click number and can't move, attack, or be chosen for Mastermind. SAFEGUARD: Mind Control.// Once per turn when Power Battery is given an action, after resolutions you may roll a d6 and deal it unavoidable damage equal to half the result.[Damage] RECHARGE YOUR RINGPowers: SupportSupport. When Power Battery uses it, it considers friendly characters within range and line of fire as adjacent.",
+    "Keywords Search": "| Black Lantern Corps |",
     "alternates": [
       {
         "name": "Power Battery (Black Lantern Corps)",
@@ -17640,6 +18020,16 @@
         "Damage": "0",
         "Damage Ability": "Probability Control",
         "image": "4f63db62-4fc3-4e31-a4c4-3843e8eacdb7.Click20.png"
+      },
+      {
+        "name": "Power Battery (Black Lantern Corps)",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "4f63db62-4fc3-4e31-a4c4-3843e8eacdb7.KO.png"
       }
     ],
     "Set": "Lantern Legacy",
@@ -17819,9 +18209,9 @@
     "Traits and Special Powers": "EFFECT:Powers: WillpowerWillpower. If this character can already use Willpower, when they use it increase the result by +1. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate a Green Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Green Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Green Lantern Ring",
         "image": "5fa9f81d-e19a-4f9c-bbfa-6ca852e0cf4f.Tile.png"
       }
     ],
@@ -17842,9 +18232,9 @@
     "Traits and Special Powers": "EFFECT:Powers: RegenerationRegeneration. If this character can already use Regeneration, when they use it heal an additional click. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate a White Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "White Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "White Lantern Ring",
         "image": "8cccc6fc-0647-4361-b2a4-886b051b2970.Tile.png"
       }
     ],
@@ -17865,9 +18255,9 @@
     "Traits and Special Powers": "EFFECT:Powers: Steal EnergySteal Energy. If this character can already use Steal Energy, when they use it they heal 2 clicks instead. // POWER: If no character generated by this character was on your force this turn, and this equipment is friendly to your force, generate a [set:ll] #008 Black Lantern Reanimate on its red starting line. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Black Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Black Lantern Ring",
         "image": "c0cd6412-93fc-4942-8f92-e2f694573805.Tile.png"
       }
     ],
@@ -17888,9 +18278,9 @@
     "Traits and Special Powers": "EFFECT:Powers: PerplexPerplex. If this character can already use Perplex, when they use it to negatively modify a combat value, they modify it by -2 instead. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate a Yellow Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Sinestro Corps Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Sinestro Corps Ring",
         "image": "36cedb2d-4537-4140-9fa3-487eebdac3d6.Tile.png"
       }
     ],
@@ -17911,9 +18301,9 @@
     "Traits and Special Powers": "EFFECT:Powers: EmpowerEmpower. If this character can already use Empower, when they use it they also modify the attacker's attack +1. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate a Blue Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Blue Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Blue Lantern Ring",
         "image": "51fc171f-bbf6-4171-b6a0-a8f903ad07f2.Tile.png"
       }
     ],
@@ -17934,9 +18324,9 @@
     "Traits and Special Powers": "EFFECT:Powers: PlasticityPlasticity. If this character can already use Plasticity, when it hits with a close attack, after resolutions you may unequip a hit character and equip that equipment to this character. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate an Orange Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Orange Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Orange Lantern Ring",
         "image": "781a0079-1103-43e8-a145-59510f41b330.Tile.png"
       }
     ],
@@ -17957,9 +18347,9 @@
     "Traits and Special Powers": "EFFECT:Powers: PoisonPoison. If this character can already use Poison, when they use it, damage dealt is penetrating. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate an Red Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as a FREE instead.",
     "alternates": [
       {
+        "name": "Red Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Red Lantern Ring",
         "image": "de84bbb3-2175-4071-82b5-b4a3cd0850db.Tile.png"
       }
     ],
@@ -17980,9 +18370,9 @@
     "Traits and Special Powers": "EFFECT:Powers: SupportSupport. If this character can already use Support, when they use it, increase the number of clicks healed by 1. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate an Indigo Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as FREE instead.",
     "alternates": [
       {
+        "name": "Indigo Tribe Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Indigo Tribe Ring",
         "image": "271b6500-5c4f-4862-a65d-0912deb7db05.Tile.png"
       }
     ],
@@ -18003,9 +18393,9 @@
     "Traits and Special Powers": "EFFECT:[ta:mystics]. If this character has [ta:mystics] printed on their base, when they use it, the damage dealt is unavoidable instead. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate a Violet Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as FREE instead.",
     "alternates": [
       {
+        "name": "Star Sapphire Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Star Sapphire Ring",
         "image": "08c37b9d-e1f7-4838-a074-2587b805ffd5.Tile.png"
       }
     ],
@@ -18026,9 +18416,9 @@
     "Traits and Special Powers": "EFFECT:Powers: Mind ControlMind Control. If this character can already use Mind Control, when they use it, after resolutions deal 1 unavoidable damage to each opposing character that missed during that action. // POWER: If no Construct generated by this character was on your force this turn, and this equipment is friendly to your force, generate an Ultraviolet Construct that hasn't been generated by this character this game. // If this character has a listed keyword, the POWER effect is activated as FREE instead.",
     "alternates": [
       {
+        "name": "Ultraviolet Lantern Ring",
         "type": "Tile",
         "size": "1x1",
-        "name": "Ultraviolet Lantern Ring",
         "image": "e0748442-6700-4d09-ae2a-1734c3db9064.Tile.png"
       }
     ],
@@ -18378,9 +18768,9 @@
     "Traits and Special Powers": "EFFECT:Giant Reach: 3. [cs:bolt][cs:bolt][cs:bolt], but only during close attacks.",
     "alternates": [
       {
+        "name": "Chain",
         "type": "Tile",
         "size": "1x1",
-        "name": "Chain",
         "image": "37f4d811-1555-4155-a69e-0665169c8bba.Tile.png"
       }
     ],
@@ -18707,9 +19097,9 @@
     "Traits and Special Powers": "EFFECT:Powers: Blades Claws FangsBlades/Claws/Fangs. // When this character attacks, opposing characters can't use [ta:mystics] or Super Senses.",
     "alternates": [
       {
+        "name": "God Killer Sword",
         "type": "Tile",
         "size": "1x1",
-        "name": "God Killer Sword",
         "image": "1fd9de6c-ac83-439f-8c22-3b5cd40aa2d3.Tile.png"
       }
     ],
@@ -19034,11 +19424,11 @@
     "Rarity": "Super Rare",
     "Point Values": "5",
     "Keywords": "Animal | Batman Family",
-    "Keywords Search": "| Animal | Batman Family |",
     "Range": "0",
     "Targets": "1",
     "Combat Symbols": "Wing | Fist | Indomitable | Tiny",
     "Traits and Special Powers": "[Trait] FLOCKOpposing characters can't draw lines of fire to friendly characters adjacent to two or more friendly characters named Bat.",
+    "Keywords Search": "| Animal | Batman Family |",
     "alternates": [
       {
         "name": "Bat",

@@ -10865,6 +10865,16 @@
         "Damage": "2",
         "Damage Ability": "Exploit Weakness",
         "image": "2d985b1e-8eb1-4f2d-8937-4cbd9a55732c.Click5.png"
+      },
+      {
+        "name": "Fabian Cortez",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2d985b1e-8eb1-4f2d-8937-4cbd9a55732c.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -10927,6 +10937,16 @@
         "Damage": "1",
         "Damage Ability": "Outwit",
         "image": "77c5b758-5bda-442e-90c3-b60d8d38260d.Click3.png"
+      },
+      {
+        "name": "Leech",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "77c5b758-5bda-442e-90c3-b60d8d38260d.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11028,6 +11048,16 @@
         "Defense": "13",
         "Damage": "1",
         "image": "61e26f9b-400d-4d3b-bd19-24877e9b84b1.Click6.png"
+      },
+      {
+        "name": "Havok",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "61e26f9b-400d-4d3b-bd19-24877e9b84b1.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11129,6 +11159,16 @@
         "Defense Ability": "Invulnerability",
         "Damage": "2",
         "image": "f935ee6b-3245-4aaa-b691-74549ac80c51.Click6.png"
+      },
+      {
+        "name": "Unus the Untouchable",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "f935ee6b-3245-4aaa-b691-74549ac80c51.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11264,6 +11304,16 @@
         "Damage": "2",
         "Damage Ability": "Enhancement",
         "image": "d98ccf20-2114-453e-9995-ca8cfaca7265.Click8.png"
+      },
+      {
+        "name": "Warlock",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "d98ccf20-2114-453e-9995-ca8cfaca7265.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11372,6 +11422,16 @@
         "Defense Ability": "Energy Shield Deflection",
         "Damage": "2",
         "image": "2c929e84-ba94-4d24-9880-3fc271a2df0e.Click6.png"
+      },
+      {
+        "name": "Banshee",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "2c929e84-ba94-4d24-9880-3fc271a2df0e.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11481,6 +11541,16 @@
         "Defense Ability": "Special - TIME TO COOL THINGS DOWN A BIT",
         "Damage": "3",
         "image": "18171761-fca3-4fa2-8898-6bac54517ff6.Click6.png"
+      },
+      {
+        "name": "Iceman",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "18171761-fca3-4fa2-8898-6bac54517ff6.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11604,6 +11674,16 @@
         "Damage": "2",
         "Damage Ability": "Leadership",
         "image": "e3b0de87-8b46-4133-ab96-c03278422972.Click7.png"
+      },
+      {
+        "name": "Forge",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "e3b0de87-8b46-4133-ab96-c03278422972.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11734,6 +11814,16 @@
         "Defense": "11",
         "Damage": "1",
         "image": "8e28b8d8-be2d-4480-b1c5-10a264900b44.Click8.png"
+      },
+      {
+        "name": "Magneto",
+        "type": "KO",
+        "size": "1x1",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "8e28b8d8-be2d-4480-b1c5-10a264900b44.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -11970,6 +12060,16 @@
         "Damage": "2",
         "Damage Ability": "Special - INCINERATE",
         "image": "30ff37f4-91b8-46d4-9ce2-5882156eb339.Click15.png"
+      },
+      {
+        "name": "Sentinel Mark II",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "30ff37f4-91b8-46d4-9ce2-5882156eb339.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -12284,6 +12384,16 @@
         "Defense Ability": "Regeneration",
         "Damage": "3",
         "image": "aeaadcba-6a55-48fb-9d7c-33a27be52103.Click20.png"
+      },
+      {
+        "name": "Sentinel Mark V",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "aeaadcba-6a55-48fb-9d7c-33a27be52103.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
@@ -12568,6 +12678,16 @@
         "Damage": "3",
         "Damage Ability": "Perplex",
         "image": "c122ba1b-f804-4f98-bea2-51940192e2bc.Click18.png"
+      },
+      {
+        "name": "Apocalypse",
+        "type": "KO",
+        "size": "2x2",
+        "Speed": "KO",
+        "Attack": "KO",
+        "Defense": "KO",
+        "Damage": "KO",
+        "image": "c122ba1b-f804-4f98-bea2-51940192e2bc.KO.png"
       }
     ],
     "Set": "X-Men: X of Swords",
