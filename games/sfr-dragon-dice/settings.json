@@ -1,0 +1,36 @@
+{
+  "gameName": "sfr-dragon-dice",
+  "game_id": "0000ac4a-0bf6-4c10-8f05-e32e53e57518",
+  "hiddenSets": ["fee04c22-8385-483e-8182-47a7b9fa479e", "a9a6ff23-cff7-448c-a552-aa852f0ed5ca"],
+  "addNValue": 4,
+  "groupOptions": [
+	"OCTGN",
+    "Type",
+    "Subtype"
+  ],
+  "filterOptions": [
+	"Type",
+    "Species",
+    "Class",
+	"Size",
+	"Element"
+  ],
+  
+  "filterValueOrder": {
+  "Size": ["Small", "Medium", "Large", "Champion", "Monster", "Artifact", "Medallion", "Relic" ],
+  "Element": ["Black (Death)", "Blue (Air)", "Green (Water)", "Red (Fire)", "Yellow (Earth)", "Ivory", "White", "Gold", "Silver", "Bronze" ]
+  },
+  
+  "filterDelimiter": ",",
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {
+	  "i": "Icons",
+	  "e": "Element"
+  },
+  "octgnExport": true,
+  "dragonDiceTTSExport": true,
+  "imagePackExport": true,
+  "disableFlipCardButton": true,
+  "useGridImageForPreview": true
+}

@@ -1,0 +1,29 @@
+{
+  "gameName": "netrunner-1996",
+  "addNValue": 4,
+  "groupOptions": [
+    "Type"
+  ],
+  "filterOptions": [
+    "Player",
+	"Type",
+	"Keywords",
+    "Cost",
+	"Set",
+	"Agenda Points",
+	"Artist",
+	"Rarity"
+  ],
+  "filterDelimiter": "|",
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {
+	"t": "Text",
+	"kw": "Keywords",
+	"str": "Strength",
+	"d": "Difficulty",
+	"mu": "MU Required"
+  },
+  "octgnExport": true,
+  "imagePackExport": true
+}

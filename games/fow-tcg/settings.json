@@ -1,0 +1,37 @@
+{
+  "gameName": "fow-tcg",
+  "addNValue": 4,
+  "maxCopiesPerCard": 4,
+  "octgnExport": false,
+  
+  "groupOptions": [
+    "OCTGN",
+    "Card Type"
+  ],
+  
+  "groupOrder": [
+    "Ruler",
+    "Resonator",
+    "Other"
+  ],
+  
+  "filterOptions": [
+    "Type",
+    "Colour",
+	"Cluster",
+	"Set Name"
+  ],
+  "filterDelimiter": "|",
+  "searchPrefixes": {
+    "a": "Abilities",
+	"r": "Race",
+	"atk": "ATK",
+	"def": "DEF",
+	"div": "Divinity",
+	"wp": "Willpower"
+  },
+  "cardPreview": {
+    "properties": ["Type", "Race", "Cost", "Card Type" ],
+    "hideEmpty": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gameName": "trails-tcg",
+  "addNValue": 4,
+  "groupOptions": [
+    "Type"
+  ],
+  "filterOptions": [
+    "Affiliation",
+    "Art Name",
+    "Icon Crafts",
+	"Set"
+  ],
+  "filterDelimiter": "|",
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {
+	  "t": "Text",
+	  "at": "Art Text",
+	  "ct": "Craft Text",
+	  "cp": "CP",
+	  "ep": "EP",
+	  "lv": "LV",
+	  "def": "DEF",
+	  "str": "STR"
+  },
+  "octgnExport": false,
+  "includeSubtitleInTextExport": true
+}

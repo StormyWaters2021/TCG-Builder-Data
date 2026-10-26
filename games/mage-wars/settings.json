@@ -1,0 +1,27 @@
+{
+  "gameName": "mage-wars",
+  
+  "addNValue": 4,
+  "groupOptions": [
+    "Type",
+    "Subtype"
+  ],
+  "filterOptions": [
+    "Type",
+	"Action",
+    "Armor",
+    "Cost",
+    "Level",
+    "Life",
+    "Range",
+    "Reveal Cost",
+    "School",
+    "Set",
+    "Target"
+  ],
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {},
+  "octgnExport": false,
+  "imagePackExport": false
+}
