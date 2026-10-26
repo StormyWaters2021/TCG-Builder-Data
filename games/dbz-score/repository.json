@@ -24,7 +24,8 @@
     }
   },
   "features": {
-    "seasons": true
+    "seasons": true,
+    "formats": true
   },
   "styleDetection": {
     "method": "cardMatch",
