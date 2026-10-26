@@ -1,0 +1,50 @@
+{
+  "gameName": "inwo",
+  "addNValue": 3,
+  "octgnExport": true,
+  "imagePackExport": true,
+  
+  "filterOptions": [
+    "Type",
+    "Subtype",
+	"Alignments",
+    "Power",
+    "Global Power",
+    "Resistance",
+	"Set"
+  ],
+  
+  "filterDelimiter": ",",
+ 
+  "groupOptions": [
+    "Type",
+	"OCTGN"
+  ],
+  
+  "groupOrder": [],
+  
+  
+  "groupSort": {
+    "Group": {
+      "by": [
+        "Subtype",
+        "name"
+      ],
+      "order": {
+        "Subtype": [
+          "Illuminati",
+          "Organization",
+          "Personality",
+          "name"
+        ]
+      }
+    }
+  },
+  
+  
+  "searchPrefixes": {
+    "t": "Card Text",
+    "al": "Alignments",
+    "at": "Attributes"
+  }
+}

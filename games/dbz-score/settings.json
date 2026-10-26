@@ -1,0 +1,110 @@
+{
+  "gameName": "dbz-score",
+  "addNValue": 3,
+  "hiddenSets": ["2768310b-7a1d-4fef-beb9-1e7267abecc3", "332100d6-fb85-4860-b6c5-15fd6ee3a16d"],
+  "cardPreview": {
+  "properties": [
+    "Set"
+  ],
+  "hideEmpty": true
+},
+  
+  "groupOptions": [
+    "OCTGN", 
+	"Type"
+  ],
+  "filterOptions": [
+    "Type",
+    "Style",
+	"Set", 
+	"Rarity",
+	"Designer"
+  ],
+  "groupOrder": [
+	"Personality - Hero",
+	"Personality - Villain",
+	"Personality - Rogue"
+  ],
+  
+  "groupSort": {
+    "Starting": {
+      "by": ["Card Level", "name"],
+    "order": {
+      "Card Level": ["1", "2", "3", "4", "5"]
+      }
+    },
+	"Personality - Hero": {
+      "by": [
+        "Card Level",
+        "name"
+      ],
+      "order": {
+        "Card Level": [
+          "1",
+          "2",
+          "3",
+          "4",
+		  "5"
+        ]
+      }
+    },
+    "Personality - Villain": {
+      "by": [
+        "Card Level",
+        "name"
+      ],
+      "order": {
+        "Card Level": [
+          "1",
+          "2",
+          "3",
+          "4",
+		  "5"
+        ]
+      }
+    },
+      "Personality - Rogue": {
+      "by": [
+        "Card Level",
+        "name"
+      ],
+      "order": {
+        "Card Level": [
+          "1",
+          "2",
+          "3",
+          "4",
+		  "5"
+        ]
+      }
+    }
+},
+  "searchPrefixes": {
+	"t": "Text",
+	"e": "Endurance",
+	"l": "Card Level"
+  },
+  "print": {
+  "cardWidthMm": 63,
+  "cardHeightMm": 88,
+  "bleedMm": 0,
+
+  "horizontalGapMm": 0,
+  "verticalGapMm": 0,
+
+  "sideMarginMm": 10,
+  "topMarginMm": 5,
+  "bottomMarginMm": 5,
+
+  "cardsPerRow": 3,
+  "cardsPerColumn": 3,
+  
+  "dpi": 300,
+  "jpegQuality": 0.72,
+
+  "paperSize": "Letter"
+	}, 
+  "octgnExport": true,
+  "deckSubmit": true,
+  "imagePackExport": true
+}

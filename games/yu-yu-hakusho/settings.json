@@ -1,0 +1,23 @@
+{
+  "gameName": "yu-yu-hakusho",
+  "addNValue": 3,
+  "groupOptions": [
+    "Type"
+  ],
+  "filterOptions": [
+    "Type",
+    "Spirit Energy",
+    "Team Name"
+  ],
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {
+	  "e": "Effect",
+	  "s": "Sideline Effect",
+	  "a": "ATK",
+	  "d": "DEF",
+	  "se": "Spirit Energy"
+  },
+  "octgnExport": false,
+  "imagePackExport": false
+}

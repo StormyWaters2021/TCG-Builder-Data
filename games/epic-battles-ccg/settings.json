@@ -1,0 +1,86 @@
+{
+  "gameName": "epic-battles-ccg",
+  "game_id": "4dbb84b8-f28d-4669-a547-5c8af2f691d6",
+  "addNValue": 4,
+  "fallbackGroup":"Deck",
+  "groupOptions": [
+	"OCTGN",
+    "Type"
+	],
+  "filterOptions": [
+    "Type",
+	"Attack Type",
+	"Link Type",
+	"Attack Height",
+    "Damage",
+    "Energy Cost",
+    "Rarity",
+	"Set",
+	"Franchise"
+  ],
+  "groupOrder": [],
+  "groupSort": {},
+  "searchPrefixes": {
+	  "t": "Text"
+  },
+  "octgnExport": true,
+  "imagePackExport":true,
+  "print":{
+      "cardWidthMm":63,
+      "cardHeightMm":88,
+      "bleedMm":3,
+      "horizontalGapMm":0,
+      "verticalGapMm":0,
+      "sideMarginMm":10,
+      "topMarginMm":5,
+      "bottomMarginMm":5,
+      "cardsPerRow":3,
+      "cardsPerColumn":3,
+      "dpi":300,
+      "jpegQuality":0.72,
+      "paperSize":"Letter"
+   },
+  "deckExports":{
+      "menu":[
+         "decklistImage",
+         "shareLink",
+		 "proxyPdf",
+         "octgn",
+         "deckText"
+      ],
+      "modules":{
+         "decklistImage":{
+            "enabled":true,
+            "label":"As Image"
+         },
+         "shareLink":{
+            "enabled":true,
+            "label":"Share Link"
+         },
+	    "proxyPdf":{
+		    "enabled":true,
+            "label":"Proxy PDF"
+         },
+         "octgn":{
+            "enabled":true,
+            "label":"OCTGN"
+         },
+         "deckText":{
+            "enabled":false,
+            "label":"Text"
+         },
+         "decklistPdf":{
+            "enabled":true,
+            "label":"Decklist PDF"
+         },
+         "deckSubmit":{
+            "enabled":false,
+            "label":"Submit Deck"
+         },
+         "tabletopSimulator":{
+            "enabled":false,
+            "label":"Tabletop Simulator"
+         }
+      }
+   }
+}

@@ -1,0 +1,40 @@
+{
+  "filters": [
+    {
+      "id": "style",
+      "label": "Deck Style",
+      "type": "select",
+      "options": [
+        "Black",
+        "Blue",
+        "Orange",
+        "Red",
+        "Namekian",
+        "Saiyan",
+        "Freestyle"
+      ]
+    },
+    {
+      "id": "placement",
+      "label": "Placement",
+      "type": "select",
+      "options": [
+        "Winner",
+        "Finalist",
+        "Top 4",
+        "Top 8",
+        "Other"
+      ]
+    }
+  ],
+  "features": {
+  "seasons": true
+},
+  "layout": {
+    "columns": { "maxColumns": 3 },
+    "groupPositions": {
+      "Type": { "Hero MP": 1, "Villain MP": 1, "Mastery": 2 },
+      "OCTGN": { "Starting": 1 }
+    }
+  }
+}

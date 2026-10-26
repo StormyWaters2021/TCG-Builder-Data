@@ -1,0 +1,65 @@
+{
+  "gameName": "stargate-tcg",
+  "addNValue": 3,
+  "octgnExport": true,
+  "imagePackExport": true,
+  "includeSubtitleInTextExport": true,
+  "groupOptions": [
+    "OCTGN",
+	"Type"
+  ],
+  "filterOptions": [
+    "Type",
+    "Set",
+	"Designer",
+    "Cost",
+    "Alignment",
+	"Affiliation",
+	"Mission Glyph",
+	"Mission Skill"
+  ],
+  "filterDelimiter": ",",
+  "groupOrder": [],
+  "groupSort": {
+    "Main": {
+      "by": [
+        "Alignment",
+        "name"
+      ],
+      "order": {
+        "Alignment": [
+          "Hero",
+          "Villain"
+        ]
+      }
+    },
+    "Mission Pile": {
+      "by": [
+        "Mission Skill",
+        "name"
+      ],
+      "order": {
+        "Mission Skill": [
+          "Combat",
+          "Culture",
+          "Ingenuity",
+          "Science"
+        ]
+      }
+    }
+  },
+  
+  "searchPrefixes": {
+	"t": "Text",
+	"cul": "Culture",
+	"sci": "Science",
+	"com": "Combat",
+	"ing": "Ingenuity",
+	"g": "Mission Glyph",
+	"xp": "Experience",
+	"f": "Firepower",
+	"r": "Revive"
+
+  }
+  
+}

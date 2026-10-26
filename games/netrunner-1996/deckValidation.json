@@ -1,0 +1,17 @@
+{
+  "minCards": 0,
+  "maxCards": 9999,
+  "maxCopiesPerCard": 9999,
+  "usePerCardLimit": false,
+  "propertyLimits": [
+    {}
+  ],
+  "factionLimit": {
+    "property": "Player",
+    "ignore": [],
+    "errorMessage": "You may only have Runner or Corp cards, not both!"
+  },
+  "banList": [
+    "Banned Card Name"
+  ]
+}
