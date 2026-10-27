@@ -27,14 +27,41 @@
       ]
     }
   ],
+  "styleDetection": {
+    "method": "cardMatch",
+    "matchProperty": "Type",
+    "matchContains": "Mastery",
+    "valueProperties": [
+      "Style",
+      "style",
+      "name"
+    ],
+    "values": [
+      "Black",
+      "Blue",
+      "Orange",
+      "Red",
+      "Namekian",
+      "Saiyan"
+    ],
+    "default": "Freestyle"
+  },
   "features": {
-  "seasons": true
-},
+    "seasons": true
+  },
   "layout": {
-    "columns": { "maxColumns": 3 },
+    "columns": {
+      "maxColumns": 3
+    },
     "groupPositions": {
-      "Type": { "Hero MP": 1, "Villain MP": 1, "Mastery": 2 },
-      "OCTGN": { "Starting": 1 }
+      "Type": {
+        "Hero MP": 1,
+        "Villain MP": 1,
+        "Mastery": 2
+      },
+      "OCTGN": {
+        "Starting": 1
+      }
     }
   }
 }
