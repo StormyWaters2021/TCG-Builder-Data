@@ -50,6 +50,31 @@
     "seasons": true
   },
   "layout": {
+	  "pinnedSections": {
+		  "header": [
+			{
+			  "name": "Starting",
+			  "maxColumns": 1,
+			  "groups": [
+				{
+				  "name": "MPs",
+				  "match": {
+					"Type": ["Hero MP", "Villain MP"]
+				  },
+				  "sort": {
+					"by": ["Level", "name"]
+				  }
+				},
+				{
+				  "name": "Mastery",
+				  "match": {
+					"Type": ["Mastery"]
+				  }
+				}
+			  ]
+			}
+		  ]
+		},
     "columns": {
       "maxColumns": 3
     },
