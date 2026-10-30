@@ -773,12 +773,12 @@
     "set_id": "2b473f2e-605f-4638-8005-7f2229077c54"
   },
   {
-    "name": "Goku Black's Judgement",
+    "name": "Goku Black's Judgment",
     "Style": "Named",
     "Card Number": "R33",
     "Type": "Event",
-    "Endurance": "",
-    "Text": "[INSTANT] POWER: Use when a Setup Power, Drill Power, or Ally Power is used. Cancel the effects of that card. Draw a card.\n(Banish after use.)",
+    "Endurance": "2",
+    "Text": "[INSTANT] POWER: Use when a Setup Power, Drill Power, or Ally Power is used. Cancel that Power. Draw a card.\n(Banish after use.)",
     "Traits": "",
     "PUR": "",
     "Power Rating": "",
