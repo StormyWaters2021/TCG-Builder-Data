@@ -11,7 +11,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ea0e65b2-7481-4946-ae9b-e4c139e5d88b.png"
+    "image": "ea0e65b2-7481-4946-ae9b-e4c139e5d88b.jpg"
   },
   {
     "id": "d907a61e-1390-4b85-bd8b-f2bdd09d852c",
@@ -25,7 +25,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d907a61e-1390-4b85-bd8b-f2bdd09d852c.png"
+    "image": "d907a61e-1390-4b85-bd8b-f2bdd09d852c.jpg"
   },
   {
     "id": "2f516bf7-3efb-4791-b9ef-a5f99a6dbcaa",
@@ -39,7 +39,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "2f516bf7-3efb-4791-b9ef-a5f99a6dbcaa.png"
+    "image": "2f516bf7-3efb-4791-b9ef-a5f99a6dbcaa.jpg"
   },
   {
     "id": "8f25a65d-d7e5-4fa8-8748-a6d34ec18d09",
@@ -53,7 +53,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "8f25a65d-d7e5-4fa8-8748-a6d34ec18d09.png"
+    "image": "8f25a65d-d7e5-4fa8-8748-a6d34ec18d09.jpg"
   },
   {
     "id": "f2af8239-9c55-4a67-b1c2-23f6e8449d91",
@@ -67,7 +67,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f2af8239-9c55-4a67-b1c2-23f6e8449d91.png"
+    "image": "f2af8239-9c55-4a67-b1c2-23f6e8449d91.jpg"
   },
   {
     "id": "db49b0b2-d37e-40c5-a8a1-8def0d29188b",
@@ -81,7 +81,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "db49b0b2-d37e-40c5-a8a1-8def0d29188b.png"
+    "image": "db49b0b2-d37e-40c5-a8a1-8def0d29188b.jpg"
   },
   {
     "id": "29b9b8c8-f98e-41da-bcb4-56ca352e4b32",
@@ -98,12 +98,12 @@
         "name": "Blasted Land",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "29b9b8c8-f98e-41da-bcb4-56ca352e4b32.Horizontal.png"
+        "image": "29b9b8c8-f98e-41da-bcb4-56ca352e4b32.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "29b9b8c8-f98e-41da-bcb4-56ca352e4b32.png"
+    "image": "29b9b8c8-f98e-41da-bcb4-56ca352e4b32.jpg"
   },
   {
     "id": "1b8f0d3a-6838-4c65-8fb4-337d13e30202",
@@ -120,12 +120,12 @@
         "name": "Gravity Chamber",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "1b8f0d3a-6838-4c65-8fb4-337d13e30202.Horizontal.png"
+        "image": "1b8f0d3a-6838-4c65-8fb4-337d13e30202.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "1b8f0d3a-6838-4c65-8fb4-337d13e30202.png"
+    "image": "1b8f0d3a-6838-4c65-8fb4-337d13e30202.jpg"
   },
   {
     "id": "eeca21bd-b9d4-44fe-bd22-ca74ff6ea7d1",
@@ -139,7 +139,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "eeca21bd-b9d4-44fe-bd22-ca74ff6ea7d1.png"
+    "image": "eeca21bd-b9d4-44fe-bd22-ca74ff6ea7d1.jpg"
   },
   {
     "id": "afe51c92-2329-48d1-b51b-0eef253553ad",
@@ -153,7 +153,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "afe51c92-2329-48d1-b51b-0eef253553ad.png"
+    "image": "afe51c92-2329-48d1-b51b-0eef253553ad.jpg"
   },
   {
     "id": "fe678838-7ccd-4f30-99f8-f38c4a235e7f",
@@ -167,7 +167,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "fe678838-7ccd-4f30-99f8-f38c4a235e7f.png"
+    "image": "fe678838-7ccd-4f30-99f8-f38c4a235e7f.jpg"
   },
   {
     "id": "a639b9c6-a281-4af1-b0be-52a5b601b2c0",
@@ -181,7 +181,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a639b9c6-a281-4af1-b0be-52a5b601b2c0.png"
+    "image": "a639b9c6-a281-4af1-b0be-52a5b601b2c0.jpg"
   },
   {
     "id": "f75afc2b-ba76-4899-ad12-af481b79b085",
@@ -195,7 +195,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f75afc2b-ba76-4899-ad12-af481b79b085.png"
+    "image": "f75afc2b-ba76-4899-ad12-af481b79b085.jpg"
   },
   {
     "id": "74628838-0d9e-4e44-9313-9a5415d91473",
@@ -209,7 +209,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "74628838-0d9e-4e44-9313-9a5415d91473.png"
+    "image": "74628838-0d9e-4e44-9313-9a5415d91473.jpg"
   },
   {
     "id": "af055d1f-204b-4bff-881a-4bca7ef108c6",
@@ -223,7 +223,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "af055d1f-204b-4bff-881a-4bca7ef108c6.png"
+    "image": "af055d1f-204b-4bff-881a-4bca7ef108c6.jpg"
   },
   {
     "id": "18f081dd-f727-4467-93fb-5d057b3734c5",
@@ -237,7 +237,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "18f081dd-f727-4467-93fb-5d057b3734c5.png"
+    "image": "18f081dd-f727-4467-93fb-5d057b3734c5.jpg"
   },
   {
     "id": "207b3fe1-fba7-4725-b258-57a40a040208",
@@ -251,7 +251,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "207b3fe1-fba7-4725-b258-57a40a040208.png"
+    "image": "207b3fe1-fba7-4725-b258-57a40a040208.jpg"
   },
   {
     "id": "76ce2b67-c186-4095-946c-f5c4a5394027",
@@ -265,7 +265,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "76ce2b67-c186-4095-946c-f5c4a5394027.png"
+    "image": "76ce2b67-c186-4095-946c-f5c4a5394027.jpg"
   },
   {
     "id": "e50544c7-f172-4a11-97da-2daccac56d26",
@@ -279,7 +279,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "e50544c7-f172-4a11-97da-2daccac56d26.png"
+    "image": "e50544c7-f172-4a11-97da-2daccac56d26.jpg"
   },
   {
     "id": "7ab38772-39c5-4e20-9192-acb62487bde2",
@@ -293,7 +293,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "7ab38772-39c5-4e20-9192-acb62487bde2.png"
+    "image": "7ab38772-39c5-4e20-9192-acb62487bde2.jpg"
   },
   {
     "id": "5345bd09-dda4-4a8a-97f5-2bbba49020cf",
@@ -307,7 +307,7 @@
     "Limit": "8",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "5345bd09-dda4-4a8a-97f5-2bbba49020cf.png"
+    "image": "5345bd09-dda4-4a8a-97f5-2bbba49020cf.jpg"
   },
   {
     "id": "b8e917e2-ca80-47ed-8fbd-551da13c77e5",
@@ -321,7 +321,7 @@
     "Limit": "8",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "b8e917e2-ca80-47ed-8fbd-551da13c77e5.png"
+    "image": "b8e917e2-ca80-47ed-8fbd-551da13c77e5.jpg"
   },
   {
     "id": "ebef3729-9cba-463d-948d-4acb43843019",
@@ -335,7 +335,7 @@
     "Limit": "8",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ebef3729-9cba-463d-948d-4acb43843019.png"
+    "image": "ebef3729-9cba-463d-948d-4acb43843019.jpg"
   },
   {
     "id": "af7a80f4-85c3-4345-a94d-1d2ad56a6c61",
@@ -349,7 +349,7 @@
     "Limit": "8",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "af7a80f4-85c3-4345-a94d-1d2ad56a6c61.png"
+    "image": "af7a80f4-85c3-4345-a94d-1d2ad56a6c61.jpg"
   },
   {
     "id": "39ff2250-727f-4eaf-a35e-277e0ae11691",
@@ -363,7 +363,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "39ff2250-727f-4eaf-a35e-277e0ae11691.png"
+    "image": "39ff2250-727f-4eaf-a35e-277e0ae11691.jpg"
   },
   {
     "id": "5e2103c7-a3be-4bdb-94c8-c1e264daddaa",
@@ -377,7 +377,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "5e2103c7-a3be-4bdb-94c8-c1e264daddaa.png"
+    "image": "5e2103c7-a3be-4bdb-94c8-c1e264daddaa.jpg"
   },
   {
     "id": "ff67e237-4a01-42d6-9fd1-7d1f61c3b48c",
@@ -391,7 +391,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ff67e237-4a01-42d6-9fd1-7d1f61c3b48c.png"
+    "image": "ff67e237-4a01-42d6-9fd1-7d1f61c3b48c.jpg"
   },
   {
     "id": "c584c5c6-fbb6-45ae-b6d3-2ababb45126b",
@@ -405,7 +405,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c584c5c6-fbb6-45ae-b6d3-2ababb45126b.png"
+    "image": "c584c5c6-fbb6-45ae-b6d3-2ababb45126b.jpg"
   },
   {
     "id": "20d34405-28bb-4b6e-8828-64e134851554",
@@ -419,7 +419,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "20d34405-28bb-4b6e-8828-64e134851554.png"
+    "image": "20d34405-28bb-4b6e-8828-64e134851554.jpg"
   },
   {
     "id": "13703b19-c672-4862-8478-3a6808d1d03c",
@@ -433,7 +433,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "13703b19-c672-4862-8478-3a6808d1d03c.png"
+    "image": "13703b19-c672-4862-8478-3a6808d1d03c.jpg"
   },
   {
     "id": "dc9b1ea1-4ded-4e96-9158-fe73be509134",
@@ -447,7 +447,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "dc9b1ea1-4ded-4e96-9158-fe73be509134.png"
+    "image": "dc9b1ea1-4ded-4e96-9158-fe73be509134.jpg"
   },
   {
     "id": "79150469-7d23-4833-be84-897de44bbd9d",
@@ -461,7 +461,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "79150469-7d23-4833-be84-897de44bbd9d.png"
+    "image": "79150469-7d23-4833-be84-897de44bbd9d.jpg"
   },
   {
     "id": "a65d5476-9e38-430a-8c0b-76767f8c1c20",
@@ -475,7 +475,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a65d5476-9e38-430a-8c0b-76767f8c1c20.png"
+    "image": "a65d5476-9e38-430a-8c0b-76767f8c1c20.jpg"
   },
   {
     "id": "02327a6b-a278-4487-8b41-cfe99ad21fa6",
@@ -489,7 +489,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "02327a6b-a278-4487-8b41-cfe99ad21fa6.png"
+    "image": "02327a6b-a278-4487-8b41-cfe99ad21fa6.jpg"
   },
   {
     "id": "ec74e803-869e-41fa-8a8b-e128753ae8b4",
@@ -503,7 +503,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ec74e803-869e-41fa-8a8b-e128753ae8b4.png"
+    "image": "ec74e803-869e-41fa-8a8b-e128753ae8b4.jpg"
   },
   {
     "id": "bb08c37d-238b-45fa-af13-abe31d42a45e",
@@ -517,7 +517,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "bb08c37d-238b-45fa-af13-abe31d42a45e.png"
+    "image": "bb08c37d-238b-45fa-af13-abe31d42a45e.jpg"
   },
   {
     "id": "9fe9ae50-5b84-4761-bb27-367ee953a13d",
@@ -531,7 +531,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9fe9ae50-5b84-4761-bb27-367ee953a13d.png"
+    "image": "9fe9ae50-5b84-4761-bb27-367ee953a13d.jpg"
   },
   {
     "id": "0021113b-72db-478f-a6df-ad346e9b443c",
@@ -545,7 +545,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "0021113b-72db-478f-a6df-ad346e9b443c.png"
+    "image": "0021113b-72db-478f-a6df-ad346e9b443c.jpg"
   },
   {
     "id": "12865503-5947-4316-95ec-eef2fe91612f",
@@ -559,7 +559,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "12865503-5947-4316-95ec-eef2fe91612f.png"
+    "image": "12865503-5947-4316-95ec-eef2fe91612f.jpg"
   },
   {
     "id": "43f5ed0f-1aa8-4131-b558-cb08f1a03c43",
@@ -573,7 +573,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "43f5ed0f-1aa8-4131-b558-cb08f1a03c43.png"
+    "image": "43f5ed0f-1aa8-4131-b558-cb08f1a03c43.jpg"
   },
   {
     "id": "d57b10c1-15bc-4d40-8af2-95cbbbe2a94f",
@@ -587,7 +587,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d57b10c1-15bc-4d40-8af2-95cbbbe2a94f.png"
+    "image": "d57b10c1-15bc-4d40-8af2-95cbbbe2a94f.jpg"
   },
   {
     "id": "cc920344-3848-4037-8fc3-7272e338d153",
@@ -601,7 +601,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "cc920344-3848-4037-8fc3-7272e338d153.png"
+    "image": "cc920344-3848-4037-8fc3-7272e338d153.jpg"
   },
   {
     "id": "d36f13d4-31c8-46f2-978e-506a9011869f",
@@ -618,12 +618,12 @@
         "name": "Hyperbolic Time Chamber",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "d36f13d4-31c8-46f2-978e-506a9011869f.Horizontal.png"
+        "image": "d36f13d4-31c8-46f2-978e-506a9011869f.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d36f13d4-31c8-46f2-978e-506a9011869f.png"
+    "image": "d36f13d4-31c8-46f2-978e-506a9011869f.jpg"
   },
   {
     "id": "0bd787e5-45ed-4b1f-89f7-b300851392d7",
@@ -640,12 +640,12 @@
         "name": "Master Roshi's Island",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "0bd787e5-45ed-4b1f-89f7-b300851392d7.Horizontal.png"
+        "image": "0bd787e5-45ed-4b1f-89f7-b300851392d7.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "0bd787e5-45ed-4b1f-89f7-b300851392d7.png"
+    "image": "0bd787e5-45ed-4b1f-89f7-b300851392d7.jpg"
   },
   {
     "id": "430eb5fc-aad7-4209-a16b-195fb4e4814e",
@@ -659,7 +659,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "430eb5fc-aad7-4209-a16b-195fb4e4814e.png"
+    "image": "430eb5fc-aad7-4209-a16b-195fb4e4814e.jpg"
   },
   {
     "id": "4e392e0c-6db6-4e55-8b4e-b1aca03a40c0",
@@ -673,7 +673,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "4e392e0c-6db6-4e55-8b4e-b1aca03a40c0.png"
+    "image": "4e392e0c-6db6-4e55-8b4e-b1aca03a40c0.jpg"
   },
   {
     "id": "f86e885f-3a82-4c2d-8704-d46e6db9d65d",
@@ -687,7 +687,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f86e885f-3a82-4c2d-8704-d46e6db9d65d.png"
+    "image": "f86e885f-3a82-4c2d-8704-d46e6db9d65d.jpg"
   },
   {
     "id": "3d0bc626-00d1-4363-baf7-7cf5edde4b66",
@@ -701,7 +701,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "3d0bc626-00d1-4363-baf7-7cf5edde4b66.png"
+    "image": "3d0bc626-00d1-4363-baf7-7cf5edde4b66.jpg"
   },
   {
     "id": "8328cc22-8165-465c-ab97-e5232be80351",
@@ -715,7 +715,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "8328cc22-8165-465c-ab97-e5232be80351.png"
+    "image": "8328cc22-8165-465c-ab97-e5232be80351.jpg"
   },
   {
     "id": "b31f6ff8-56ec-4c2a-b6e4-5e10346cb0e2",
@@ -729,7 +729,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "b31f6ff8-56ec-4c2a-b6e4-5e10346cb0e2.png"
+    "image": "b31f6ff8-56ec-4c2a-b6e4-5e10346cb0e2.jpg"
   },
   {
     "id": "c51a3acb-d09c-4dfe-b83d-5d641c05b2aa",
@@ -743,7 +743,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c51a3acb-d09c-4dfe-b83d-5d641c05b2aa.png"
+    "image": "c51a3acb-d09c-4dfe-b83d-5d641c05b2aa.jpg"
   },
   {
     "id": "914c5235-8408-42f0-be35-e3016d98dc34",
@@ -757,7 +757,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "914c5235-8408-42f0-be35-e3016d98dc34.png"
+    "image": "914c5235-8408-42f0-be35-e3016d98dc34.jpg"
   },
   {
     "id": "d667e5f3-6755-4e01-93c7-3dd1270143f3",
@@ -771,7 +771,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d667e5f3-6755-4e01-93c7-3dd1270143f3.png"
+    "image": "d667e5f3-6755-4e01-93c7-3dd1270143f3.jpg"
   },
   {
     "id": "9621bc8b-9d81-4023-901f-729bfcd43a86",
@@ -785,7 +785,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9621bc8b-9d81-4023-901f-729bfcd43a86.png"
+    "image": "9621bc8b-9d81-4023-901f-729bfcd43a86.jpg"
   },
   {
     "id": "248e2c30-6c6c-4674-b893-0e084a94b54b",
@@ -799,7 +799,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "248e2c30-6c6c-4674-b893-0e084a94b54b.png"
+    "image": "248e2c30-6c6c-4674-b893-0e084a94b54b.jpg"
   },
   {
     "id": "0bb6ae6b-7e28-4355-985c-ab37fa4d2aa6",
@@ -813,7 +813,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "0bb6ae6b-7e28-4355-985c-ab37fa4d2aa6.png"
+    "image": "0bb6ae6b-7e28-4355-985c-ab37fa4d2aa6.jpg"
   },
   {
     "id": "2c93fd5e-8156-4f79-920c-168f8d7ae604",
@@ -827,7 +827,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "2c93fd5e-8156-4f79-920c-168f8d7ae604.png"
+    "image": "2c93fd5e-8156-4f79-920c-168f8d7ae604.jpg"
   },
   {
     "id": "bfc78af6-efeb-49ca-b0b6-91ed30e7b4b1",
@@ -841,7 +841,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "bfc78af6-efeb-49ca-b0b6-91ed30e7b4b1.png"
+    "image": "bfc78af6-efeb-49ca-b0b6-91ed30e7b4b1.jpg"
   },
   {
     "id": "7e0268f7-23b2-4758-ba74-66ec046a9008",
@@ -855,7 +855,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "7e0268f7-23b2-4758-ba74-66ec046a9008.png"
+    "image": "7e0268f7-23b2-4758-ba74-66ec046a9008.jpg"
   },
   {
     "id": "d931dbcd-5a1c-4e4c-b348-409aee61f61a",
@@ -869,7 +869,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d931dbcd-5a1c-4e4c-b348-409aee61f61a.png"
+    "image": "d931dbcd-5a1c-4e4c-b348-409aee61f61a.jpg"
   },
   {
     "id": "ea527a1b-4ef3-4c30-8867-ba7cad2938b9",
@@ -883,7 +883,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ea527a1b-4ef3-4c30-8867-ba7cad2938b9.png"
+    "image": "ea527a1b-4ef3-4c30-8867-ba7cad2938b9.jpg"
   },
   {
     "id": "c6cc82c1-620c-4d28-aaa6-f290a2a222ee",
@@ -897,7 +897,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c6cc82c1-620c-4d28-aaa6-f290a2a222ee.png"
+    "image": "c6cc82c1-620c-4d28-aaa6-f290a2a222ee.jpg"
   },
   {
     "id": "cb38df78-01ab-4f9e-afc7-d37ebc5115f0",
@@ -911,7 +911,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "cb38df78-01ab-4f9e-afc7-d37ebc5115f0.png"
+    "image": "cb38df78-01ab-4f9e-afc7-d37ebc5115f0.jpg"
   },
   {
     "id": "d9ae96ef-c976-4516-b8a2-64d1907dcd77",
@@ -925,7 +925,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d9ae96ef-c976-4516-b8a2-64d1907dcd77.png"
+    "image": "d9ae96ef-c976-4516-b8a2-64d1907dcd77.jpg"
   },
   {
     "id": "00cb1867-3c1a-45bb-8007-715541407af6",
@@ -939,7 +939,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "00cb1867-3c1a-45bb-8007-715541407af6.png"
+    "image": "00cb1867-3c1a-45bb-8007-715541407af6.jpg"
   },
   {
     "id": "9ba9ed90-2408-4b00-b4e7-c5657a521679",
@@ -953,7 +953,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9ba9ed90-2408-4b00-b4e7-c5657a521679.png"
+    "image": "9ba9ed90-2408-4b00-b4e7-c5657a521679.jpg"
   },
   {
     "id": "6867ab1f-d62c-4528-ad0e-4b7b8d16aca5",
@@ -967,7 +967,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "6867ab1f-d62c-4528-ad0e-4b7b8d16aca5.png"
+    "image": "6867ab1f-d62c-4528-ad0e-4b7b8d16aca5.jpg"
   },
   {
     "id": "2661ea8d-337c-4a93-a8e2-51b851f9a83d",
@@ -981,7 +981,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "2661ea8d-337c-4a93-a8e2-51b851f9a83d.png"
+    "image": "2661ea8d-337c-4a93-a8e2-51b851f9a83d.jpg"
   },
   {
     "id": "f6353f2d-a9c6-4d97-a5c3-c1e2e7aa73c3",
@@ -995,7 +995,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f6353f2d-a9c6-4d97-a5c3-c1e2e7aa73c3.png"
+    "image": "f6353f2d-a9c6-4d97-a5c3-c1e2e7aa73c3.jpg"
   },
   {
     "id": "b374cdc2-b32c-4ef0-835a-915612c0e7a8",
@@ -1009,7 +1009,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "b374cdc2-b32c-4ef0-835a-915612c0e7a8.png"
+    "image": "b374cdc2-b32c-4ef0-835a-915612c0e7a8.jpg"
   },
   {
     "id": "70e9720f-6d0d-431d-8b08-c957628bbf7a",
@@ -1023,7 +1023,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "70e9720f-6d0d-431d-8b08-c957628bbf7a.png"
+    "image": "70e9720f-6d0d-431d-8b08-c957628bbf7a.jpg"
   },
   {
     "id": "162c164f-9c05-4eec-bf01-977be4740fae",
@@ -1037,7 +1037,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "162c164f-9c05-4eec-bf01-977be4740fae.png"
+    "image": "162c164f-9c05-4eec-bf01-977be4740fae.jpg"
   },
   {
     "id": "9cc91062-35af-4542-8b6d-8bdf0da5375b",
@@ -1051,7 +1051,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9cc91062-35af-4542-8b6d-8bdf0da5375b.png"
+    "image": "9cc91062-35af-4542-8b6d-8bdf0da5375b.jpg"
   },
   {
     "id": "c7080cd9-e28b-4b99-9344-6c0b0a4087af",
@@ -1065,7 +1065,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c7080cd9-e28b-4b99-9344-6c0b0a4087af.png"
+    "image": "c7080cd9-e28b-4b99-9344-6c0b0a4087af.jpg"
   },
   {
     "id": "aa88a383-6d4d-4ddb-b460-54ee1241be5a",
@@ -1079,7 +1079,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "aa88a383-6d4d-4ddb-b460-54ee1241be5a.png"
+    "image": "aa88a383-6d4d-4ddb-b460-54ee1241be5a.jpg"
   },
   {
     "id": "709ed2a4-6212-473b-a7bf-19d7be5131ac",
@@ -1093,7 +1093,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "709ed2a4-6212-473b-a7bf-19d7be5131ac.png"
+    "image": "709ed2a4-6212-473b-a7bf-19d7be5131ac.jpg"
   },
   {
     "id": "15137cdc-e0c9-4397-ad96-448a6ad31bee",
@@ -1107,7 +1107,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "15137cdc-e0c9-4397-ad96-448a6ad31bee.png"
+    "image": "15137cdc-e0c9-4397-ad96-448a6ad31bee.jpg"
   },
   {
     "id": "ebfa479a-5070-4fa7-a80d-cb53e698f53c",
@@ -1121,7 +1121,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ebfa479a-5070-4fa7-a80d-cb53e698f53c.png"
+    "image": "ebfa479a-5070-4fa7-a80d-cb53e698f53c.jpg"
   },
   {
     "id": "714e66aa-c797-4098-9364-038ffd8debee",
@@ -1135,7 +1135,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "714e66aa-c797-4098-9364-038ffd8debee.png"
+    "image": "714e66aa-c797-4098-9364-038ffd8debee.jpg"
   },
   {
     "id": "385cef1b-a436-4bbc-af52-77249b090cd0",
@@ -1149,7 +1149,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "385cef1b-a436-4bbc-af52-77249b090cd0.png"
+    "image": "385cef1b-a436-4bbc-af52-77249b090cd0.jpg"
   },
   {
     "id": "886b16e1-7b44-481e-8599-5d022a23b202",
@@ -1163,7 +1163,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "886b16e1-7b44-481e-8599-5d022a23b202.png"
+    "image": "886b16e1-7b44-481e-8599-5d022a23b202.jpg"
   },
   {
     "id": "7be32a00-d5fb-4473-b2cf-4e2113a66e9e",
@@ -1177,7 +1177,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "7be32a00-d5fb-4473-b2cf-4e2113a66e9e.png"
+    "image": "7be32a00-d5fb-4473-b2cf-4e2113a66e9e.jpg"
   },
   {
     "id": "7d605382-19ed-482a-b1a4-49512ad456df",
@@ -1191,7 +1191,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "7d605382-19ed-482a-b1a4-49512ad456df.png"
+    "image": "7d605382-19ed-482a-b1a4-49512ad456df.jpg"
   },
   {
     "id": "ae00964b-ebfc-4701-95b0-790d55d48efb",
@@ -1205,7 +1205,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ae00964b-ebfc-4701-95b0-790d55d48efb.png"
+    "image": "ae00964b-ebfc-4701-95b0-790d55d48efb.jpg"
   },
   {
     "id": "08f93eae-f6c8-499f-b92f-8f653306e638",
@@ -1219,7 +1219,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "08f93eae-f6c8-499f-b92f-8f653306e638.png"
+    "image": "08f93eae-f6c8-499f-b92f-8f653306e638.jpg"
   },
   {
     "id": "61459bcc-647e-476f-945d-9fdd5a2c36f7",
@@ -1233,7 +1233,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "61459bcc-647e-476f-945d-9fdd5a2c36f7.png"
+    "image": "61459bcc-647e-476f-945d-9fdd5a2c36f7.jpg"
   },
   {
     "id": "2aff3329-5799-4fb9-9bd6-aa1f950fe49e",
@@ -1247,7 +1247,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "2aff3329-5799-4fb9-9bd6-aa1f950fe49e.png"
+    "image": "2aff3329-5799-4fb9-9bd6-aa1f950fe49e.jpg"
   },
   {
     "id": "232e95d6-22f1-49b6-af3d-b7c09b344962",
@@ -1261,7 +1261,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "232e95d6-22f1-49b6-af3d-b7c09b344962.png"
+    "image": "232e95d6-22f1-49b6-af3d-b7c09b344962.jpg"
   },
   {
     "id": "dd30729e-31a5-4782-9eff-4d4c99700912",
@@ -1275,7 +1275,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "dd30729e-31a5-4782-9eff-4d4c99700912.png"
+    "image": "dd30729e-31a5-4782-9eff-4d4c99700912.jpg"
   },
   {
     "id": "90f2a451-1cbb-4329-955c-73c51c959e7f",
@@ -1289,7 +1289,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "90f2a451-1cbb-4329-955c-73c51c959e7f.png"
+    "image": "90f2a451-1cbb-4329-955c-73c51c959e7f.jpg"
   },
   {
     "id": "7f54f052-3896-4326-b7f5-f3236231f081",
@@ -1303,7 +1303,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "7f54f052-3896-4326-b7f5-f3236231f081.png"
+    "image": "7f54f052-3896-4326-b7f5-f3236231f081.jpg"
   },
   {
     "id": "0326750d-7554-4a1e-9fd8-92b5d726840e",
@@ -1320,12 +1320,12 @@
         "name": "City in Turmoil",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "0326750d-7554-4a1e-9fd8-92b5d726840e.Horizontal.png"
+        "image": "0326750d-7554-4a1e-9fd8-92b5d726840e.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "0326750d-7554-4a1e-9fd8-92b5d726840e.png"
+    "image": "0326750d-7554-4a1e-9fd8-92b5d726840e.jpg"
   },
   {
     "id": "48f3971d-1336-45d7-acf8-68884f4bd5b3",
@@ -1342,12 +1342,12 @@
         "name": "Winter Countryside",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "48f3971d-1336-45d7-acf8-68884f4bd5b3.Horizontal.png"
+        "image": "48f3971d-1336-45d7-acf8-68884f4bd5b3.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "48f3971d-1336-45d7-acf8-68884f4bd5b3.png"
+    "image": "48f3971d-1336-45d7-acf8-68884f4bd5b3.jpg"
   },
   {
     "id": "c4426534-8a9e-4453-b630-d09190f318eb",
@@ -1364,12 +1364,12 @@
         "name": "Kami's Floating Island",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "c4426534-8a9e-4453-b630-d09190f318eb.Horizontal.png"
+        "image": "c4426534-8a9e-4453-b630-d09190f318eb.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c4426534-8a9e-4453-b630-d09190f318eb.png"
+    "image": "c4426534-8a9e-4453-b630-d09190f318eb.jpg"
   },
   {
     "id": "832f4fa6-4556-4dc1-89a1-0a2aea1785a5",
@@ -1386,12 +1386,12 @@
         "name": "Defenseless Beach",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "832f4fa6-4556-4dc1-89a1-0a2aea1785a5.Horizontal.png"
+        "image": "832f4fa6-4556-4dc1-89a1-0a2aea1785a5.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "832f4fa6-4556-4dc1-89a1-0a2aea1785a5.png"
+    "image": "832f4fa6-4556-4dc1-89a1-0a2aea1785a5.jpg"
   },
   {
     "id": "9bd0dd3b-134e-46ca-af4d-94a0ebdf2e87",
@@ -1408,12 +1408,12 @@
         "name": "Dying Planet",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "9bd0dd3b-134e-46ca-af4d-94a0ebdf2e87.Horizontal.png"
+        "image": "9bd0dd3b-134e-46ca-af4d-94a0ebdf2e87.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9bd0dd3b-134e-46ca-af4d-94a0ebdf2e87.png"
+    "image": "9bd0dd3b-134e-46ca-af4d-94a0ebdf2e87.jpg"
   },
   {
     "id": "815c3442-cae2-4a35-ae41-e4a68739468c",
@@ -1427,7 +1427,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "815c3442-cae2-4a35-ae41-e4a68739468c.png"
+    "image": "815c3442-cae2-4a35-ae41-e4a68739468c.jpg"
   },
   {
     "id": "d221f4f3-9074-47c1-b196-740eaf813b3d",
@@ -1441,7 +1441,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d221f4f3-9074-47c1-b196-740eaf813b3d.png"
+    "image": "d221f4f3-9074-47c1-b196-740eaf813b3d.jpg"
   },
   {
     "id": "57f29cde-a86f-4a78-9976-5e4bb8b8f3ae",
@@ -1455,7 +1455,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "57f29cde-a86f-4a78-9976-5e4bb8b8f3ae.png"
+    "image": "57f29cde-a86f-4a78-9976-5e4bb8b8f3ae.jpg"
   },
   {
     "id": "5920e8aa-abf8-4b35-87fa-c2d5bda029eb",
@@ -1469,7 +1469,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "5920e8aa-abf8-4b35-87fa-c2d5bda029eb.png"
+    "image": "5920e8aa-abf8-4b35-87fa-c2d5bda029eb.jpg"
   },
   {
     "id": "78771f0d-ee42-42fe-a6d6-7cf0ec3eadea",
@@ -1483,7 +1483,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "78771f0d-ee42-42fe-a6d6-7cf0ec3eadea.png"
+    "image": "78771f0d-ee42-42fe-a6d6-7cf0ec3eadea.jpg"
   },
   {
     "id": "89e2e81d-3762-41e1-926b-38fd67af161c",
@@ -1497,7 +1497,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "89e2e81d-3762-41e1-926b-38fd67af161c.png"
+    "image": "89e2e81d-3762-41e1-926b-38fd67af161c.jpg"
   },
   {
     "id": "a27b0bc9-05a2-4027-abb9-1a580d83383b",
@@ -1511,7 +1511,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a27b0bc9-05a2-4027-abb9-1a580d83383b.png"
+    "image": "a27b0bc9-05a2-4027-abb9-1a580d83383b.jpg"
   },
   {
     "id": "f054e56c-711d-4ce6-a2e8-00ec0793de96",
@@ -1525,7 +1525,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f054e56c-711d-4ce6-a2e8-00ec0793de96.png"
+    "image": "f054e56c-711d-4ce6-a2e8-00ec0793de96.jpg"
   },
   {
     "id": "a28b869f-1812-44a2-9268-a3731b613fcd",
@@ -1539,7 +1539,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a28b869f-1812-44a2-9268-a3731b613fcd.png"
+    "image": "a28b869f-1812-44a2-9268-a3731b613fcd.jpg"
   },
   {
     "id": "1b78e306-0529-4ddf-a75b-04d271998aff",
@@ -1553,7 +1553,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "1b78e306-0529-4ddf-a75b-04d271998aff.png"
+    "image": "1b78e306-0529-4ddf-a75b-04d271998aff.jpg"
   },
   {
     "id": "a728416c-76b6-4721-b5f8-2e3caf2a06fe",
@@ -1567,7 +1567,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a728416c-76b6-4721-b5f8-2e3caf2a06fe.png"
+    "image": "a728416c-76b6-4721-b5f8-2e3caf2a06fe.jpg"
   },
   {
     "id": "b7e0d088-f3c7-4996-8940-6f47acbffb6b",
@@ -1581,7 +1581,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "b7e0d088-f3c7-4996-8940-6f47acbffb6b.png"
+    "image": "b7e0d088-f3c7-4996-8940-6f47acbffb6b.jpg"
   },
   {
     "id": "76d65685-064d-462e-94c1-4f6474585f90",
@@ -1595,7 +1595,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "76d65685-064d-462e-94c1-4f6474585f90.png"
+    "image": "76d65685-064d-462e-94c1-4f6474585f90.jpg"
   },
   {
     "id": "6e26fb0c-2611-4361-9b1b-d5ff26082de0",
@@ -1609,7 +1609,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "6e26fb0c-2611-4361-9b1b-d5ff26082de0.png"
+    "image": "6e26fb0c-2611-4361-9b1b-d5ff26082de0.jpg"
   },
   {
     "id": "65b74f4f-1f69-42af-925c-508cbffca29a",
@@ -1623,7 +1623,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "65b74f4f-1f69-42af-925c-508cbffca29a.png"
+    "image": "65b74f4f-1f69-42af-925c-508cbffca29a.jpg"
   },
   {
     "id": "1bae8481-426a-4804-aa79-31c1da4e9d9a",
@@ -1637,7 +1637,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "1bae8481-426a-4804-aa79-31c1da4e9d9a.png"
+    "image": "1bae8481-426a-4804-aa79-31c1da4e9d9a.jpg"
   },
   {
     "id": "349fe196-8ec0-4e32-ac07-5c505e58ba42",
@@ -1651,7 +1651,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "349fe196-8ec0-4e32-ac07-5c505e58ba42.png"
+    "image": "349fe196-8ec0-4e32-ac07-5c505e58ba42.jpg"
   },
   {
     "id": "20b680a5-6928-4bdc-8c14-6b235f2128f8",
@@ -1668,7 +1668,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "20b680a5-6928-4bdc-8c14-6b235f2128f8.png"
+    "image": "20b680a5-6928-4bdc-8c14-6b235f2128f8.jpg"
   },
   {
     "id": "04c9cb70-a1b6-479c-b5f5-2c163724d901",
@@ -1685,7 +1685,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "04c9cb70-a1b6-479c-b5f5-2c163724d901.png"
+    "image": "04c9cb70-a1b6-479c-b5f5-2c163724d901.jpg"
   },
   {
     "id": "96cf4666-46da-4262-8774-61f770b579c0",
@@ -1702,7 +1702,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "96cf4666-46da-4262-8774-61f770b579c0.png"
+    "image": "96cf4666-46da-4262-8774-61f770b579c0.jpg"
   },
   {
     "id": "ce92a81b-3e72-4db7-b2a5-022f412edd91",
@@ -1719,7 +1719,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ce92a81b-3e72-4db7-b2a5-022f412edd91.png"
+    "image": "ce92a81b-3e72-4db7-b2a5-022f412edd91.jpg"
   },
   {
     "id": "3481f0a1-fb6d-499b-a5e3-fe5a9794b8f4",
@@ -1736,7 +1736,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "3481f0a1-fb6d-499b-a5e3-fe5a9794b8f4.png"
+    "image": "3481f0a1-fb6d-499b-a5e3-fe5a9794b8f4.jpg"
   },
   {
     "id": "8debc284-096c-46fd-bf53-ff9e8b801fa8",
@@ -1753,7 +1753,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "8debc284-096c-46fd-bf53-ff9e8b801fa8.png"
+    "image": "8debc284-096c-46fd-bf53-ff9e8b801fa8.jpg"
   },
   {
     "id": "c85ff7f7-8a7e-4e12-93f2-cb30492eb068",
@@ -1770,7 +1770,7 @@
     "Card Level": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "c85ff7f7-8a7e-4e12-93f2-cb30492eb068.png"
+    "image": "c85ff7f7-8a7e-4e12-93f2-cb30492eb068.jpg"
   },
   {
     "id": "d8ec0bfa-a45c-4af2-8831-45ddba6fd47d",
@@ -1787,7 +1787,7 @@
     "Card Level": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "d8ec0bfa-a45c-4af2-8831-45ddba6fd47d.png"
+    "image": "d8ec0bfa-a45c-4af2-8831-45ddba6fd47d.jpg"
   },
   {
     "id": "507c601b-60de-44e2-91a4-0acba3bc6fc2",
@@ -1804,7 +1804,7 @@
     "Card Level": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "507c601b-60de-44e2-91a4-0acba3bc6fc2.png"
+    "image": "507c601b-60de-44e2-91a4-0acba3bc6fc2.jpg"
   },
   {
     "id": "8c1bc285-0ae7-4443-865a-f79445794df3",
@@ -1821,7 +1821,7 @@
     "Card Level": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "8c1bc285-0ae7-4443-865a-f79445794df3.png"
+    "image": "8c1bc285-0ae7-4443-865a-f79445794df3.jpg"
   },
   {
     "id": "ced859e3-561d-43c5-8e4c-68f33415ffda",
@@ -1835,7 +1835,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "ced859e3-561d-43c5-8e4c-68f33415ffda.png"
+    "image": "ced859e3-561d-43c5-8e4c-68f33415ffda.jpg"
   },
   {
     "id": "17462d6b-3a13-4140-8fcb-c55c88e0c0e5",
@@ -1849,7 +1849,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "17462d6b-3a13-4140-8fcb-c55c88e0c0e5.png"
+    "image": "17462d6b-3a13-4140-8fcb-c55c88e0c0e5.jpg"
   },
   {
     "id": "33d3ccaa-6c71-40bd-a864-86ddcf274588",
@@ -1863,7 +1863,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "33d3ccaa-6c71-40bd-a864-86ddcf274588.png"
+    "image": "33d3ccaa-6c71-40bd-a864-86ddcf274588.jpg"
   },
   {
     "id": "38afd83e-a697-42ff-8c95-c5f637933628",
@@ -1877,7 +1877,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "38afd83e-a697-42ff-8c95-c5f637933628.png"
+    "image": "38afd83e-a697-42ff-8c95-c5f637933628.jpg"
   },
   {
     "id": "a8051382-06ae-459a-a082-7a731d5f1036",
@@ -1891,7 +1891,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a8051382-06ae-459a-a082-7a731d5f1036.png"
+    "image": "a8051382-06ae-459a-a082-7a731d5f1036.jpg"
   },
   {
     "id": "57518b30-2b84-48c5-9cde-1a86940a60b4",
@@ -1905,7 +1905,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "57518b30-2b84-48c5-9cde-1a86940a60b4.png"
+    "image": "57518b30-2b84-48c5-9cde-1a86940a60b4.jpg"
   },
   {
     "id": "4922dcfb-86d8-4404-bb81-2fdbdc453c2a",
@@ -1919,7 +1919,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "4922dcfb-86d8-4404-bb81-2fdbdc453c2a.png"
+    "image": "4922dcfb-86d8-4404-bb81-2fdbdc453c2a.jpg"
   },
   {
     "id": "1b5a367e-5369-4b8c-9cf3-d7f1aacf29aa",
@@ -1933,7 +1933,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "1b5a367e-5369-4b8c-9cf3-d7f1aacf29aa.png"
+    "image": "1b5a367e-5369-4b8c-9cf3-d7f1aacf29aa.jpg"
   },
   {
     "id": "9a48fe17-9925-42e1-85d5-5ea6db69b2b9",
@@ -1947,7 +1947,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "9a48fe17-9925-42e1-85d5-5ea6db69b2b9.png"
+    "image": "9a48fe17-9925-42e1-85d5-5ea6db69b2b9.jpg"
   },
   {
     "id": "745fb9ea-a7eb-4a07-af7c-56d6f050cb63",
@@ -1961,7 +1961,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "745fb9ea-a7eb-4a07-af7c-56d6f050cb63.png"
+    "image": "745fb9ea-a7eb-4a07-af7c-56d6f050cb63.jpg"
   },
   {
     "id": "a42be363-8d21-4fd1-859b-fc0b157c3a0a",
@@ -1975,7 +1975,7 @@
     "Limit": "3",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "a42be363-8d21-4fd1-859b-fc0b157c3a0a.png"
+    "image": "a42be363-8d21-4fd1-859b-fc0b157c3a0a.jpg"
   },
   {
     "id": "089811cd-e8ad-4c9d-b1a5-ab2f76d27ae7",
@@ -1989,7 +1989,7 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "089811cd-e8ad-4c9d-b1a5-ab2f76d27ae7.png"
+    "image": "089811cd-e8ad-4c9d-b1a5-ab2f76d27ae7.jpg"
   },
   {
     "id": "41a79012-8358-4f6c-a40c-9bea3780454b",
@@ -2003,7 +2003,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "41a79012-8358-4f6c-a40c-9bea3780454b.png"
+    "image": "41a79012-8358-4f6c-a40c-9bea3780454b.jpg"
   },
   {
     "id": "fc039a99-e311-4adc-abad-6e9c44560455",
@@ -2017,7 +2017,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "fc039a99-e311-4adc-abad-6e9c44560455.png"
+    "image": "fc039a99-e311-4adc-abad-6e9c44560455.jpg"
   },
   {
     "id": "f4da205a-9360-4d41-8596-764e825d55ef",
@@ -2031,7 +2031,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "f4da205a-9360-4d41-8596-764e825d55ef.png"
+    "image": "f4da205a-9360-4d41-8596-764e825d55ef.jpg"
   },
   {
     "id": "768809c2-468f-46bc-8362-cadbcd7402dd",
@@ -2045,7 +2045,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "768809c2-468f-46bc-8362-cadbcd7402dd.png"
+    "image": "768809c2-468f-46bc-8362-cadbcd7402dd.jpg"
   },
   {
     "id": "83afe48e-38bf-45d4-b4f6-7aafc5cd6415",
@@ -2059,7 +2059,7 @@
     "Limit": "4",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "83afe48e-38bf-45d4-b4f6-7aafc5cd6415.png"
+    "image": "83afe48e-38bf-45d4-b4f6-7aafc5cd6415.jpg"
   },
   {
     "id": "2b135cc9-79f6-4284-92f1-0df7491683b7",
@@ -2076,12 +2076,12 @@
         "name": "Planet Vegeta",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "2b135cc9-79f6-4284-92f1-0df7491683b7.Horizontal.png"
+        "image": "2b135cc9-79f6-4284-92f1-0df7491683b7.Horizontal.jpg"
       }
     ],
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "2b135cc9-79f6-4284-92f1-0df7491683b7.png"
+    "image": "2b135cc9-79f6-4284-92f1-0df7491683b7.jpg"
   },
   {
     "id": "3a5cac0e-2384-48af-93ec-03a1a5ae4782",
@@ -2095,6 +2095,6 @@
     "Limit": "1",
     "Set": "Set 04 - Android Saga",
     "set_id": "af655f80-adcc-4e49-87a2-04497d060e99",
-    "image": "3a5cac0e-2384-48af-93ec-03a1a5ae4782.png"
+    "image": "3a5cac0e-2384-48af-93ec-03a1a5ae4782.jpg"
   }
 ]

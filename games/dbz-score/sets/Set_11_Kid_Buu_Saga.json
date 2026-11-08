@@ -11,7 +11,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "ea50af61-fa5f-4d95-8cc3-28d098c35062.png"
+    "image": "ea50af61-fa5f-4d95-8cc3-28d098c35062.jpg"
   },
   {
     "id": "391bad43-fc9c-4c6b-b201-9e34d412cf81",
@@ -26,7 +26,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "391bad43-fc9c-4c6b-b201-9e34d412cf81.png"
+    "image": "391bad43-fc9c-4c6b-b201-9e34d412cf81.jpg"
   },
   {
     "id": "7f8800b0-4e32-4e11-bd20-1bf3ef038d9d",
@@ -40,7 +40,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7f8800b0-4e32-4e11-bd20-1bf3ef038d9d.png"
+    "image": "7f8800b0-4e32-4e11-bd20-1bf3ef038d9d.jpg"
   },
   {
     "id": "dcd9dabe-ae48-406f-9f61-786aec586aba",
@@ -54,7 +54,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "dcd9dabe-ae48-406f-9f61-786aec586aba.png"
+    "image": "dcd9dabe-ae48-406f-9f61-786aec586aba.jpg"
   },
   {
     "id": "b5682555-97b6-4e69-a6b2-f88fa122c528",
@@ -68,7 +68,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b5682555-97b6-4e69-a6b2-f88fa122c528.png"
+    "image": "b5682555-97b6-4e69-a6b2-f88fa122c528.jpg"
   },
   {
     "id": "227efbd4-5ca9-4b5a-ac3e-afc41676f46e",
@@ -88,12 +88,12 @@
         "name": "Trunks, the Weaponsmaster",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "227efbd4-5ca9-4b5a-ac3e-afc41676f46e.Horizontal.png"
+        "image": "227efbd4-5ca9-4b5a-ac3e-afc41676f46e.Horizontal.jpg"
       }
     ],
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "227efbd4-5ca9-4b5a-ac3e-afc41676f46e.png"
+    "image": "227efbd4-5ca9-4b5a-ac3e-afc41676f46e.jpg"
   },
   {
     "id": "74b9615a-9e01-45e7-887c-f9c5566c70c3",
@@ -108,7 +108,7 @@
     "Endurance": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "74b9615a-9e01-45e7-887c-f9c5566c70c3.png"
+    "image": "74b9615a-9e01-45e7-887c-f9c5566c70c3.jpg"
   },
   {
     "id": "323f9506-606b-4950-9004-34c61be16086",
@@ -125,7 +125,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "323f9506-606b-4950-9004-34c61be16086.png"
+    "image": "323f9506-606b-4950-9004-34c61be16086.jpg"
   },
   {
     "id": "09f656e9-8079-4fd5-a11a-b580b238a0ff",
@@ -139,7 +139,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "09f656e9-8079-4fd5-a11a-b580b238a0ff.png"
+    "image": "09f656e9-8079-4fd5-a11a-b580b238a0ff.jpg"
   },
   {
     "id": "fe1da5dc-f7a2-4beb-9da7-12903256811d",
@@ -156,7 +156,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fe1da5dc-f7a2-4beb-9da7-12903256811d.png"
+    "image": "fe1da5dc-f7a2-4beb-9da7-12903256811d.jpg"
   },
   {
     "id": "fb7fd241-fc7a-48f6-8e6e-94f357621534",
@@ -170,7 +170,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fb7fd241-fc7a-48f6-8e6e-94f357621534.png"
+    "image": "fb7fd241-fc7a-48f6-8e6e-94f357621534.jpg"
   },
   {
     "id": "4f8a8b9f-3f00-4ad6-9345-9761c89bc4f0",
@@ -187,7 +187,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "4f8a8b9f-3f00-4ad6-9345-9761c89bc4f0.png"
+    "image": "4f8a8b9f-3f00-4ad6-9345-9761c89bc4f0.jpg"
   },
   {
     "id": "77f5de06-d597-4ee3-aec9-fe312fb21640",
@@ -204,7 +204,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "77f5de06-d597-4ee3-aec9-fe312fb21640.png"
+    "image": "77f5de06-d597-4ee3-aec9-fe312fb21640.jpg"
   },
   {
     "id": "ad893663-cf39-42f9-a8ed-1481cb6d5d27",
@@ -218,7 +218,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "ad893663-cf39-42f9-a8ed-1481cb6d5d27.png"
+    "image": "ad893663-cf39-42f9-a8ed-1481cb6d5d27.jpg"
   },
   {
     "id": "9587fee4-1444-4037-a595-7421945c6d09",
@@ -232,7 +232,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9587fee4-1444-4037-a595-7421945c6d09.png"
+    "image": "9587fee4-1444-4037-a595-7421945c6d09.jpg"
   },
   {
     "id": "5b6db982-b2fb-4376-a93a-de43ffa7ccc4",
@@ -249,7 +249,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "5b6db982-b2fb-4376-a93a-de43ffa7ccc4.png"
+    "image": "5b6db982-b2fb-4376-a93a-de43ffa7ccc4.jpg"
   },
   {
     "id": "180f3ce9-5fb6-4de8-866e-f0a0d88f097a",
@@ -263,7 +263,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "180f3ce9-5fb6-4de8-866e-f0a0d88f097a.png"
+    "image": "180f3ce9-5fb6-4de8-866e-f0a0d88f097a.jpg"
   },
   {
     "id": "f4ea0fb4-6cb5-4839-8fed-c0fe7ac1fee2",
@@ -280,7 +280,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f4ea0fb4-6cb5-4839-8fed-c0fe7ac1fee2.png"
+    "image": "f4ea0fb4-6cb5-4839-8fed-c0fe7ac1fee2.jpg"
   },
   {
     "id": "af89bb68-92e0-48ab-975f-2ae6a99d01fb",
@@ -294,7 +294,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "af89bb68-92e0-48ab-975f-2ae6a99d01fb.png"
+    "image": "af89bb68-92e0-48ab-975f-2ae6a99d01fb.jpg"
   },
   {
     "id": "19c07b89-08c1-4ddf-a7ed-7beb69c17c5a",
@@ -311,7 +311,7 @@
     "Card Level": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "19c07b89-08c1-4ddf-a7ed-7beb69c17c5a.png"
+    "image": "19c07b89-08c1-4ddf-a7ed-7beb69c17c5a.jpg"
   },
   {
     "id": "337f059d-8107-40ba-9ba0-f9296adae835",
@@ -325,7 +325,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "337f059d-8107-40ba-9ba0-f9296adae835.png"
+    "image": "337f059d-8107-40ba-9ba0-f9296adae835.jpg"
   },
   {
     "id": "2d8b3247-6643-44cd-a0cd-c734432c71ee",
@@ -339,7 +339,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "2d8b3247-6643-44cd-a0cd-c734432c71ee.png"
+    "image": "2d8b3247-6643-44cd-a0cd-c734432c71ee.jpg"
   },
   {
     "id": "e94e8f1c-7d8d-494a-8336-e42fea6042e5",
@@ -353,7 +353,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e94e8f1c-7d8d-494a-8336-e42fea6042e5.png"
+    "image": "e94e8f1c-7d8d-494a-8336-e42fea6042e5.jpg"
   },
   {
     "id": "a4730d7f-73ae-4256-9367-5af2e87f3c26",
@@ -370,12 +370,12 @@
         "name": "Snake Way",
         "type": "Horizontal",
         "size": "Horizontal",
-        "image": "a4730d7f-73ae-4256-9367-5af2e87f3c26.Horizontal.png"
+        "image": "a4730d7f-73ae-4256-9367-5af2e87f3c26.Horizontal.jpg"
       }
     ],
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a4730d7f-73ae-4256-9367-5af2e87f3c26.png"
+    "image": "a4730d7f-73ae-4256-9367-5af2e87f3c26.jpg"
   },
   {
     "id": "d15b219e-535e-43ab-82fc-668f1b82ed47",
@@ -389,7 +389,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d15b219e-535e-43ab-82fc-668f1b82ed47.png"
+    "image": "d15b219e-535e-43ab-82fc-668f1b82ed47.jpg"
   },
   {
     "id": "e9e49aad-c350-4e54-9bc3-87a1c5f9bdef",
@@ -403,7 +403,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e9e49aad-c350-4e54-9bc3-87a1c5f9bdef.png"
+    "image": "e9e49aad-c350-4e54-9bc3-87a1c5f9bdef.jpg"
   },
   {
     "id": "501b7301-682f-4c70-bb00-0f48fcbf94e9",
@@ -417,7 +417,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "501b7301-682f-4c70-bb00-0f48fcbf94e9.png"
+    "image": "501b7301-682f-4c70-bb00-0f48fcbf94e9.jpg"
   },
   {
     "id": "113340c6-5ce4-4cbf-8f70-d56e597ea2de",
@@ -432,7 +432,7 @@
     "Endurance": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "113340c6-5ce4-4cbf-8f70-d56e597ea2de.png"
+    "image": "113340c6-5ce4-4cbf-8f70-d56e597ea2de.jpg"
   },
   {
     "id": "1fe41601-bcab-44e4-a8ca-c7cfa0d9f281",
@@ -446,7 +446,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1fe41601-bcab-44e4-a8ca-c7cfa0d9f281.png"
+    "image": "1fe41601-bcab-44e4-a8ca-c7cfa0d9f281.jpg"
   },
   {
     "id": "46f9790c-f6f1-4c25-919f-87fb2c3aef3d",
@@ -460,7 +460,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "46f9790c-f6f1-4c25-919f-87fb2c3aef3d.png"
+    "image": "46f9790c-f6f1-4c25-919f-87fb2c3aef3d.jpg"
   },
   {
     "id": "294e92f6-08f1-4cd0-b6b9-412ba4f2d1d4",
@@ -474,7 +474,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "294e92f6-08f1-4cd0-b6b9-412ba4f2d1d4.png"
+    "image": "294e92f6-08f1-4cd0-b6b9-412ba4f2d1d4.jpg"
   },
   {
     "id": "f42552cf-32cf-4e84-9aef-c04e78408e6b",
@@ -488,7 +488,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f42552cf-32cf-4e84-9aef-c04e78408e6b.png"
+    "image": "f42552cf-32cf-4e84-9aef-c04e78408e6b.jpg"
   },
   {
     "id": "9edd303b-c384-44a2-ae03-a5d8de36ad2a",
@@ -502,7 +502,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9edd303b-c384-44a2-ae03-a5d8de36ad2a.png"
+    "image": "9edd303b-c384-44a2-ae03-a5d8de36ad2a.jpg"
   },
   {
     "id": "2b46fb75-90dc-4010-aeb8-66b7e4a3dd46",
@@ -516,7 +516,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "2b46fb75-90dc-4010-aeb8-66b7e4a3dd46.png"
+    "image": "2b46fb75-90dc-4010-aeb8-66b7e4a3dd46.jpg"
   },
   {
     "id": "fe6bd743-554e-4e92-902a-18e71126b380",
@@ -530,7 +530,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fe6bd743-554e-4e92-902a-18e71126b380.png"
+    "image": "fe6bd743-554e-4e92-902a-18e71126b380.jpg"
   },
   {
     "id": "a33b3492-7867-410a-a47b-50077cf6f748",
@@ -544,7 +544,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a33b3492-7867-410a-a47b-50077cf6f748.png"
+    "image": "a33b3492-7867-410a-a47b-50077cf6f748.jpg"
   },
   {
     "id": "d8ffcd3d-19a4-4268-ad73-2a17329ca7fe",
@@ -558,7 +558,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d8ffcd3d-19a4-4268-ad73-2a17329ca7fe.png"
+    "image": "d8ffcd3d-19a4-4268-ad73-2a17329ca7fe.jpg"
   },
   {
     "id": "9ad555eb-dd54-45ae-bece-0f404542d8f9",
@@ -573,7 +573,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9ad555eb-dd54-45ae-bece-0f404542d8f9.png"
+    "image": "9ad555eb-dd54-45ae-bece-0f404542d8f9.jpg"
   },
   {
     "id": "0ea8384d-5359-480c-805f-40e219d31874",
@@ -587,7 +587,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "0ea8384d-5359-480c-805f-40e219d31874.png"
+    "image": "0ea8384d-5359-480c-805f-40e219d31874.jpg"
   },
   {
     "id": "3eed18e6-0557-4459-a0d8-9ada85c21f8b",
@@ -601,7 +601,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "3eed18e6-0557-4459-a0d8-9ada85c21f8b.png"
+    "image": "3eed18e6-0557-4459-a0d8-9ada85c21f8b.jpg"
   },
   {
     "id": "700e2511-d440-4828-aef0-80380dce68c1",
@@ -615,7 +615,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "700e2511-d440-4828-aef0-80380dce68c1.png"
+    "image": "700e2511-d440-4828-aef0-80380dce68c1.jpg"
   },
   {
     "id": "98535fda-740e-454b-803e-b27e384e17c6",
@@ -630,7 +630,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "98535fda-740e-454b-803e-b27e384e17c6.png"
+    "image": "98535fda-740e-454b-803e-b27e384e17c6.jpg"
   },
   {
     "id": "180870c0-c03e-46b4-9d5f-113246bb5c6f",
@@ -644,7 +644,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "180870c0-c03e-46b4-9d5f-113246bb5c6f.png"
+    "image": "180870c0-c03e-46b4-9d5f-113246bb5c6f.jpg"
   },
   {
     "id": "d9f9f50a-c09d-4d1f-8580-79affc9b254b",
@@ -658,7 +658,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d9f9f50a-c09d-4d1f-8580-79affc9b254b.png"
+    "image": "d9f9f50a-c09d-4d1f-8580-79affc9b254b.jpg"
   },
   {
     "id": "c5486a03-261e-445c-bac1-625a1169996e",
@@ -672,7 +672,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "c5486a03-261e-445c-bac1-625a1169996e.png"
+    "image": "c5486a03-261e-445c-bac1-625a1169996e.jpg"
   },
   {
     "id": "e69b2a66-66f3-4945-b9c3-dd21fe04a817",
@@ -686,7 +686,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e69b2a66-66f3-4945-b9c3-dd21fe04a817.png"
+    "image": "e69b2a66-66f3-4945-b9c3-dd21fe04a817.jpg"
   },
   {
     "id": "c4688059-984d-49fe-9b1e-09f377dc829e",
@@ -700,7 +700,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "c4688059-984d-49fe-9b1e-09f377dc829e.png"
+    "image": "c4688059-984d-49fe-9b1e-09f377dc829e.jpg"
   },
   {
     "id": "84e0207f-67e2-4834-8207-1bc1dd747d28",
@@ -714,7 +714,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "84e0207f-67e2-4834-8207-1bc1dd747d28.png"
+    "image": "84e0207f-67e2-4834-8207-1bc1dd747d28.jpg"
   },
   {
     "id": "cf994ef5-64a4-43e1-b4ec-3deba8b33e5f",
@@ -728,7 +728,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "cf994ef5-64a4-43e1-b4ec-3deba8b33e5f.png"
+    "image": "cf994ef5-64a4-43e1-b4ec-3deba8b33e5f.jpg"
   },
   {
     "id": "4ffe0b00-469b-4b10-b9b6-a452627fd11f",
@@ -742,7 +742,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "4ffe0b00-469b-4b10-b9b6-a452627fd11f.png"
+    "image": "4ffe0b00-469b-4b10-b9b6-a452627fd11f.jpg"
   },
   {
     "id": "10d93ee8-1cf1-429d-a7dd-e199463cf773",
@@ -756,7 +756,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "10d93ee8-1cf1-429d-a7dd-e199463cf773.png"
+    "image": "10d93ee8-1cf1-429d-a7dd-e199463cf773.jpg"
   },
   {
     "id": "f715c8e3-eb09-42a5-81b9-00499b2b8a91",
@@ -771,7 +771,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f715c8e3-eb09-42a5-81b9-00499b2b8a91.png"
+    "image": "f715c8e3-eb09-42a5-81b9-00499b2b8a91.jpg"
   },
   {
     "id": "b5f070e5-9e77-4815-b885-62c0f551eb35",
@@ -785,7 +785,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b5f070e5-9e77-4815-b885-62c0f551eb35.png"
+    "image": "b5f070e5-9e77-4815-b885-62c0f551eb35.jpg"
   },
   {
     "id": "0168c8a9-181e-4df3-9d54-60d2f6dd54d4",
@@ -799,7 +799,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "0168c8a9-181e-4df3-9d54-60d2f6dd54d4.png"
+    "image": "0168c8a9-181e-4df3-9d54-60d2f6dd54d4.jpg"
   },
   {
     "id": "11d97e58-73f7-4554-b546-1c66b22b5b5e",
@@ -813,7 +813,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "11d97e58-73f7-4554-b546-1c66b22b5b5e.png"
+    "image": "11d97e58-73f7-4554-b546-1c66b22b5b5e.jpg"
   },
   {
     "id": "3c357acb-6910-4f71-a459-38ad21638686",
@@ -827,7 +827,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "3c357acb-6910-4f71-a459-38ad21638686.png"
+    "image": "3c357acb-6910-4f71-a459-38ad21638686.jpg"
   },
   {
     "id": "8ea17d8a-399e-4f95-a354-356157be03ac",
@@ -841,7 +841,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8ea17d8a-399e-4f95-a354-356157be03ac.png"
+    "image": "8ea17d8a-399e-4f95-a354-356157be03ac.jpg"
   },
   {
     "id": "b7431d34-7bf6-412a-a10f-fd5c284d1ef3",
@@ -855,7 +855,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b7431d34-7bf6-412a-a10f-fd5c284d1ef3.png"
+    "image": "b7431d34-7bf6-412a-a10f-fd5c284d1ef3.jpg"
   },
   {
     "id": "00f5edfc-714f-4f32-a46c-dc492f86ee44",
@@ -869,7 +869,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "00f5edfc-714f-4f32-a46c-dc492f86ee44.png"
+    "image": "00f5edfc-714f-4f32-a46c-dc492f86ee44.jpg"
   },
   {
     "id": "d3962777-f14f-44a3-9dcb-d8eb0da0e0ce",
@@ -883,7 +883,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d3962777-f14f-44a3-9dcb-d8eb0da0e0ce.png"
+    "image": "d3962777-f14f-44a3-9dcb-d8eb0da0e0ce.jpg"
   },
   {
     "id": "eae4c932-7c4a-4fa6-940e-1a8a7a118a6d",
@@ -897,7 +897,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "eae4c932-7c4a-4fa6-940e-1a8a7a118a6d.png"
+    "image": "eae4c932-7c4a-4fa6-940e-1a8a7a118a6d.jpg"
   },
   {
     "id": "8e6ea75e-db8e-4b57-bba1-17ee64b5c8f0",
@@ -911,7 +911,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8e6ea75e-db8e-4b57-bba1-17ee64b5c8f0.png"
+    "image": "8e6ea75e-db8e-4b57-bba1-17ee64b5c8f0.jpg"
   },
   {
     "id": "a96b34c8-22c6-4e13-8f06-5de181904f97",
@@ -925,7 +925,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a96b34c8-22c6-4e13-8f06-5de181904f97.png"
+    "image": "a96b34c8-22c6-4e13-8f06-5de181904f97.jpg"
   },
   {
     "id": "d977c528-bd3e-44bf-9802-4bd9b50eab54",
@@ -939,7 +939,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d977c528-bd3e-44bf-9802-4bd9b50eab54.png"
+    "image": "d977c528-bd3e-44bf-9802-4bd9b50eab54.jpg"
   },
   {
     "id": "a8965b45-b981-4842-a631-68e692847b7b",
@@ -953,7 +953,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a8965b45-b981-4842-a631-68e692847b7b.png"
+    "image": "a8965b45-b981-4842-a631-68e692847b7b.jpg"
   },
   {
     "id": "94617db0-caa5-4c1b-b7a8-34378b824ef1",
@@ -967,7 +967,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "94617db0-caa5-4c1b-b7a8-34378b824ef1.png"
+    "image": "94617db0-caa5-4c1b-b7a8-34378b824ef1.jpg"
   },
   {
     "id": "f0038d24-5240-401d-a889-de0c2518dc57",
@@ -984,7 +984,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f0038d24-5240-401d-a889-de0c2518dc57.png"
+    "image": "f0038d24-5240-401d-a889-de0c2518dc57.jpg"
   },
   {
     "id": "aa75f285-ac23-4eb7-846c-59ef2133bd93",
@@ -998,7 +998,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "aa75f285-ac23-4eb7-846c-59ef2133bd93.png"
+    "image": "aa75f285-ac23-4eb7-846c-59ef2133bd93.jpg"
   },
   {
     "id": "995781fc-9b0b-4b4b-aba6-655d107a4de9",
@@ -1012,7 +1012,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "995781fc-9b0b-4b4b-aba6-655d107a4de9.png"
+    "image": "995781fc-9b0b-4b4b-aba6-655d107a4de9.jpg"
   },
   {
     "id": "23b4ab20-84e3-43c5-b466-b5adfbf8ebb7",
@@ -1026,7 +1026,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "23b4ab20-84e3-43c5-b466-b5adfbf8ebb7.png"
+    "image": "23b4ab20-84e3-43c5-b466-b5adfbf8ebb7.jpg"
   },
   {
     "id": "9ffe4492-bbc2-4bfb-8298-4e9958a1bd4b",
@@ -1040,7 +1040,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9ffe4492-bbc2-4bfb-8298-4e9958a1bd4b.png"
+    "image": "9ffe4492-bbc2-4bfb-8298-4e9958a1bd4b.jpg"
   },
   {
     "id": "efcf34a4-33ea-4206-83b1-f3d11f39484d",
@@ -1054,7 +1054,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "efcf34a4-33ea-4206-83b1-f3d11f39484d.png"
+    "image": "efcf34a4-33ea-4206-83b1-f3d11f39484d.jpg"
   },
   {
     "id": "98dab584-8d9c-497b-af40-9300d4e407a1",
@@ -1069,7 +1069,7 @@
     "Endurance": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "98dab584-8d9c-497b-af40-9300d4e407a1.png"
+    "image": "98dab584-8d9c-497b-af40-9300d4e407a1.jpg"
   },
   {
     "id": "1f68f9f0-11b2-4067-80e0-bb2da7ffbcff",
@@ -1083,7 +1083,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1f68f9f0-11b2-4067-80e0-bb2da7ffbcff.png"
+    "image": "1f68f9f0-11b2-4067-80e0-bb2da7ffbcff.jpg"
   },
   {
     "id": "d5b4a056-ffae-4406-ab25-b8b2f5dce688",
@@ -1097,7 +1097,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d5b4a056-ffae-4406-ab25-b8b2f5dce688.png"
+    "image": "d5b4a056-ffae-4406-ab25-b8b2f5dce688.jpg"
   },
   {
     "id": "4ac790d9-51f6-4301-b019-ca7829847c2b",
@@ -1111,7 +1111,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "4ac790d9-51f6-4301-b019-ca7829847c2b.png"
+    "image": "4ac790d9-51f6-4301-b019-ca7829847c2b.jpg"
   },
   {
     "id": "62231a27-3f4a-494e-a18d-018f165457e6",
@@ -1126,7 +1126,7 @@
     "Endurance": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "62231a27-3f4a-494e-a18d-018f165457e6.png"
+    "image": "62231a27-3f4a-494e-a18d-018f165457e6.jpg"
   },
   {
     "id": "e011e8ea-36f4-4bfa-bd62-3a5865c447fc",
@@ -1140,7 +1140,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e011e8ea-36f4-4bfa-bd62-3a5865c447fc.png"
+    "image": "e011e8ea-36f4-4bfa-bd62-3a5865c447fc.jpg"
   },
   {
     "id": "8aedc9cd-9030-4ae8-a279-2d02942b224c",
@@ -1154,7 +1154,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8aedc9cd-9030-4ae8-a279-2d02942b224c.png"
+    "image": "8aedc9cd-9030-4ae8-a279-2d02942b224c.jpg"
   },
   {
     "id": "f824c7a4-1541-494e-a888-9606548606f6",
@@ -1168,7 +1168,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f824c7a4-1541-494e-a888-9606548606f6.png"
+    "image": "f824c7a4-1541-494e-a888-9606548606f6.jpg"
   },
   {
     "id": "a787fd35-c544-445a-b07a-6f18e5454ec2",
@@ -1185,7 +1185,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a787fd35-c544-445a-b07a-6f18e5454ec2.png"
+    "image": "a787fd35-c544-445a-b07a-6f18e5454ec2.jpg"
   },
   {
     "id": "28a6ad2d-e2e1-4987-8d65-f9eec605a887",
@@ -1199,7 +1199,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "28a6ad2d-e2e1-4987-8d65-f9eec605a887.png"
+    "image": "28a6ad2d-e2e1-4987-8d65-f9eec605a887.jpg"
   },
   {
     "id": "2dbc4f56-ef4a-491a-bc1c-b968763d8c88",
@@ -1216,7 +1216,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "2dbc4f56-ef4a-491a-bc1c-b968763d8c88.png"
+    "image": "2dbc4f56-ef4a-491a-bc1c-b968763d8c88.jpg"
   },
   {
     "id": "413aa898-24fd-44c6-acd3-6bbf12c62b9e",
@@ -1230,7 +1230,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "413aa898-24fd-44c6-acd3-6bbf12c62b9e.png"
+    "image": "413aa898-24fd-44c6-acd3-6bbf12c62b9e.jpg"
   },
   {
     "id": "07c24f99-c9b1-4f0e-a803-282aef96b2c7",
@@ -1245,7 +1245,7 @@
     "Endurance": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "07c24f99-c9b1-4f0e-a803-282aef96b2c7.png"
+    "image": "07c24f99-c9b1-4f0e-a803-282aef96b2c7.jpg"
   },
   {
     "id": "fb98fe90-25ad-4e0e-8ab8-e0ad2a41c31f",
@@ -1259,7 +1259,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fb98fe90-25ad-4e0e-8ab8-e0ad2a41c31f.png"
+    "image": "fb98fe90-25ad-4e0e-8ab8-e0ad2a41c31f.jpg"
   },
   {
     "id": "768eda8a-2aa3-4969-890c-662f33983f4f",
@@ -1273,7 +1273,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "768eda8a-2aa3-4969-890c-662f33983f4f.png"
+    "image": "768eda8a-2aa3-4969-890c-662f33983f4f.jpg"
   },
   {
     "id": "cc68a6b4-e11f-4320-a78b-a59f746f3bbb",
@@ -1290,7 +1290,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "cc68a6b4-e11f-4320-a78b-a59f746f3bbb.png"
+    "image": "cc68a6b4-e11f-4320-a78b-a59f746f3bbb.jpg"
   },
   {
     "id": "048f5f35-72e6-4f69-8cf6-4775204d1181",
@@ -1307,7 +1307,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "048f5f35-72e6-4f69-8cf6-4775204d1181.png"
+    "image": "048f5f35-72e6-4f69-8cf6-4775204d1181.jpg"
   },
   {
     "id": "8eb87023-a5d1-43d1-be6c-a151d4c42ee2",
@@ -1321,7 +1321,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8eb87023-a5d1-43d1-be6c-a151d4c42ee2.png"
+    "image": "8eb87023-a5d1-43d1-be6c-a151d4c42ee2.jpg"
   },
   {
     "id": "8774731d-8c32-42a7-aaf1-35dd14df53ba",
@@ -1338,7 +1338,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8774731d-8c32-42a7-aaf1-35dd14df53ba.png"
+    "image": "8774731d-8c32-42a7-aaf1-35dd14df53ba.jpg"
   },
   {
     "id": "ec0d6c43-0c9d-4f14-b473-38c2e243800e",
@@ -1355,7 +1355,7 @@
     "Card Level": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "ec0d6c43-0c9d-4f14-b473-38c2e243800e.png"
+    "image": "ec0d6c43-0c9d-4f14-b473-38c2e243800e.jpg"
   },
   {
     "id": "0eac8649-a14b-4ad3-9cdc-7ddaf75b77cb",
@@ -1369,7 +1369,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "0eac8649-a14b-4ad3-9cdc-7ddaf75b77cb.png"
+    "image": "0eac8649-a14b-4ad3-9cdc-7ddaf75b77cb.jpg"
   },
   {
     "id": "179d89cf-a177-4fbe-833a-62c770112022",
@@ -1386,7 +1386,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "179d89cf-a177-4fbe-833a-62c770112022.png"
+    "image": "179d89cf-a177-4fbe-833a-62c770112022.jpg"
   },
   {
     "id": "2fbd658a-b784-42ed-b668-467d058e72dc",
@@ -1400,7 +1400,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "2fbd658a-b784-42ed-b668-467d058e72dc.png"
+    "image": "2fbd658a-b784-42ed-b668-467d058e72dc.jpg"
   },
   {
     "id": "76935c66-afa3-46a8-8c4c-aef5a5b88ea1",
@@ -1414,7 +1414,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "76935c66-afa3-46a8-8c4c-aef5a5b88ea1.png"
+    "image": "76935c66-afa3-46a8-8c4c-aef5a5b88ea1.jpg"
   },
   {
     "id": "21e3e22a-3445-4953-80d0-9a0276f5d3b4",
@@ -1429,7 +1429,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "21e3e22a-3445-4953-80d0-9a0276f5d3b4.png"
+    "image": "21e3e22a-3445-4953-80d0-9a0276f5d3b4.jpg"
   },
   {
     "id": "8c3b11b3-5201-4f42-9776-d7016c5e00e2",
@@ -1443,7 +1443,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8c3b11b3-5201-4f42-9776-d7016c5e00e2.png"
+    "image": "8c3b11b3-5201-4f42-9776-d7016c5e00e2.jpg"
   },
   {
     "id": "543e1bd3-9e9e-4ce2-98c0-dc03ad1095dd",
@@ -1457,7 +1457,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "543e1bd3-9e9e-4ce2-98c0-dc03ad1095dd.png"
+    "image": "543e1bd3-9e9e-4ce2-98c0-dc03ad1095dd.jpg"
   },
   {
     "id": "125751f0-4e30-4ede-ae13-e2bb62ae984a",
@@ -1471,7 +1471,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "125751f0-4e30-4ede-ae13-e2bb62ae984a.png"
+    "image": "125751f0-4e30-4ede-ae13-e2bb62ae984a.jpg"
   },
   {
     "id": "b0944bec-e35f-43d9-9dc6-63c301e03970",
@@ -1486,7 +1486,7 @@
     "Endurance": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b0944bec-e35f-43d9-9dc6-63c301e03970.png"
+    "image": "b0944bec-e35f-43d9-9dc6-63c301e03970.jpg"
   },
   {
     "id": "59be6535-ff12-4e8a-9df2-6f577d6bbdf8",
@@ -1503,7 +1503,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "59be6535-ff12-4e8a-9df2-6f577d6bbdf8.png"
+    "image": "59be6535-ff12-4e8a-9df2-6f577d6bbdf8.jpg"
   },
   {
     "id": "f3db9d3f-a99e-4171-aed4-b0c0f4fbe58d",
@@ -1517,7 +1517,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f3db9d3f-a99e-4171-aed4-b0c0f4fbe58d.png"
+    "image": "f3db9d3f-a99e-4171-aed4-b0c0f4fbe58d.jpg"
   },
   {
     "id": "d083b773-c1e4-43ec-8d2f-8765ed3232b8",
@@ -1531,7 +1531,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d083b773-c1e4-43ec-8d2f-8765ed3232b8.png"
+    "image": "d083b773-c1e4-43ec-8d2f-8765ed3232b8.jpg"
   },
   {
     "id": "9206316b-3f53-42fb-92fa-4b21e85f3187",
@@ -1545,7 +1545,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9206316b-3f53-42fb-92fa-4b21e85f3187.png"
+    "image": "9206316b-3f53-42fb-92fa-4b21e85f3187.jpg"
   },
   {
     "id": "7106dbc2-3aab-4750-8732-8710ab54e6a0",
@@ -1559,7 +1559,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7106dbc2-3aab-4750-8732-8710ab54e6a0.png"
+    "image": "7106dbc2-3aab-4750-8732-8710ab54e6a0.jpg"
   },
   {
     "id": "d4ea03b7-69e1-47b7-9e6c-8e8f20fc6ac4",
@@ -1573,7 +1573,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d4ea03b7-69e1-47b7-9e6c-8e8f20fc6ac4.png"
+    "image": "d4ea03b7-69e1-47b7-9e6c-8e8f20fc6ac4.jpg"
   },
   {
     "id": "12b79578-ed6f-46e8-b0f6-971359bc3222",
@@ -1587,7 +1587,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "12b79578-ed6f-46e8-b0f6-971359bc3222.png"
+    "image": "12b79578-ed6f-46e8-b0f6-971359bc3222.jpg"
   },
   {
     "id": "1a974b0f-fe50-4b4a-a19d-6f511a12cbf7",
@@ -1601,7 +1601,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1a974b0f-fe50-4b4a-a19d-6f511a12cbf7.png"
+    "image": "1a974b0f-fe50-4b4a-a19d-6f511a12cbf7.jpg"
   },
   {
     "id": "e2afc5c7-36ef-4d46-8cdb-b7aa6439532a",
@@ -1616,7 +1616,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e2afc5c7-36ef-4d46-8cdb-b7aa6439532a.png"
+    "image": "e2afc5c7-36ef-4d46-8cdb-b7aa6439532a.jpg"
   },
   {
     "id": "fcba4307-8394-48c6-9e93-fd6654173ea9",
@@ -1630,7 +1630,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fcba4307-8394-48c6-9e93-fd6654173ea9.png"
+    "image": "fcba4307-8394-48c6-9e93-fd6654173ea9.jpg"
   },
   {
     "id": "976ede91-3e32-4bec-9f48-71c9c799b753",
@@ -1645,7 +1645,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "976ede91-3e32-4bec-9f48-71c9c799b753.png"
+    "image": "976ede91-3e32-4bec-9f48-71c9c799b753.jpg"
   },
   {
     "id": "71b09c8a-aea1-4a9c-8c28-4cede5c20a79",
@@ -1660,7 +1660,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "71b09c8a-aea1-4a9c-8c28-4cede5c20a79.png"
+    "image": "71b09c8a-aea1-4a9c-8c28-4cede5c20a79.jpg"
   },
   {
     "id": "1e6fcde9-8a48-4745-813b-8ba39c0641b5",
@@ -1674,7 +1674,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1e6fcde9-8a48-4745-813b-8ba39c0641b5.png"
+    "image": "1e6fcde9-8a48-4745-813b-8ba39c0641b5.jpg"
   },
   {
     "id": "1c7565f6-6c20-46c4-aa1d-6ca7ac17b3b6",
@@ -1688,7 +1688,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1c7565f6-6c20-46c4-aa1d-6ca7ac17b3b6.png"
+    "image": "1c7565f6-6c20-46c4-aa1d-6ca7ac17b3b6.jpg"
   },
   {
     "id": "fe716d0d-fa03-46e7-82fb-43a60001e524",
@@ -1703,7 +1703,7 @@
     "Endurance": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fe716d0d-fa03-46e7-82fb-43a60001e524.png"
+    "image": "fe716d0d-fa03-46e7-82fb-43a60001e524.jpg"
   },
   {
     "id": "21436a50-076c-4be9-b617-a064af367aea",
@@ -1717,7 +1717,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "21436a50-076c-4be9-b617-a064af367aea.png"
+    "image": "21436a50-076c-4be9-b617-a064af367aea.jpg"
   },
   {
     "id": "6fc04bf0-a299-4aa7-b34a-9da2752dd957",
@@ -1731,7 +1731,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "6fc04bf0-a299-4aa7-b34a-9da2752dd957.png"
+    "image": "6fc04bf0-a299-4aa7-b34a-9da2752dd957.jpg"
   },
   {
     "id": "54d5c5c6-0b7f-479f-b029-f3cb90f38f5d",
@@ -1746,7 +1746,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "54d5c5c6-0b7f-479f-b029-f3cb90f38f5d.png"
+    "image": "54d5c5c6-0b7f-479f-b029-f3cb90f38f5d.jpg"
   },
   {
     "id": "88af3f1c-d5b2-4af2-a69a-8346335e9337",
@@ -1760,7 +1760,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "88af3f1c-d5b2-4af2-a69a-8346335e9337.png"
+    "image": "88af3f1c-d5b2-4af2-a69a-8346335e9337.jpg"
   },
   {
     "id": "d4b731b4-bfb0-4e3e-b137-a2e7a48a5a3f",
@@ -1774,7 +1774,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d4b731b4-bfb0-4e3e-b137-a2e7a48a5a3f.png"
+    "image": "d4b731b4-bfb0-4e3e-b137-a2e7a48a5a3f.jpg"
   },
   {
     "id": "a408accb-dc05-43ab-b937-8156e39a0e87",
@@ -1791,7 +1791,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a408accb-dc05-43ab-b937-8156e39a0e87.png"
+    "image": "a408accb-dc05-43ab-b937-8156e39a0e87.jpg"
   },
   {
     "id": "fc20a266-8d31-4649-8b17-fc9cbe2fe741",
@@ -1808,7 +1808,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fc20a266-8d31-4649-8b17-fc9cbe2fe741.png"
+    "image": "fc20a266-8d31-4649-8b17-fc9cbe2fe741.jpg"
   },
   {
     "id": "37bc5cf7-d51e-4968-b3c1-c04c3e49e9ce",
@@ -1822,7 +1822,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "37bc5cf7-d51e-4968-b3c1-c04c3e49e9ce.png"
+    "image": "37bc5cf7-d51e-4968-b3c1-c04c3e49e9ce.jpg"
   },
   {
     "id": "aa5046cd-e956-44b6-80df-484efa6f4bc4",
@@ -1839,7 +1839,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "aa5046cd-e956-44b6-80df-484efa6f4bc4.png"
+    "image": "aa5046cd-e956-44b6-80df-484efa6f4bc4.jpg"
   },
   {
     "id": "544fc8d6-defa-4b0a-9607-7f5089b8fe15",
@@ -1853,7 +1853,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "544fc8d6-defa-4b0a-9607-7f5089b8fe15.png"
+    "image": "544fc8d6-defa-4b0a-9607-7f5089b8fe15.jpg"
   },
   {
     "id": "1378686e-02db-445b-8bd5-88f5ddf50584",
@@ -1870,7 +1870,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1378686e-02db-445b-8bd5-88f5ddf50584.png"
+    "image": "1378686e-02db-445b-8bd5-88f5ddf50584.jpg"
   },
   {
     "id": "f53fd960-6d52-47bb-9c2c-d072b9bc4051",
@@ -1887,7 +1887,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f53fd960-6d52-47bb-9c2c-d072b9bc4051.png"
+    "image": "f53fd960-6d52-47bb-9c2c-d072b9bc4051.jpg"
   },
   {
     "id": "1bbb5429-cd80-4e57-8732-8fbc5d1ce139",
@@ -1901,7 +1901,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1bbb5429-cd80-4e57-8732-8fbc5d1ce139.png"
+    "image": "1bbb5429-cd80-4e57-8732-8fbc5d1ce139.jpg"
   },
   {
     "id": "9564a82c-1bb5-4d11-adb7-d861ef3f1e78",
@@ -1915,7 +1915,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9564a82c-1bb5-4d11-adb7-d861ef3f1e78.png"
+    "image": "9564a82c-1bb5-4d11-adb7-d861ef3f1e78.jpg"
   },
   {
     "id": "a4c71367-127a-45db-8384-c4e65d98d046",
@@ -1929,7 +1929,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a4c71367-127a-45db-8384-c4e65d98d046.png"
+    "image": "a4c71367-127a-45db-8384-c4e65d98d046.jpg"
   },
   {
     "id": "4587c016-cd53-4ceb-adc5-16787e24259e",
@@ -1943,7 +1943,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "4587c016-cd53-4ceb-adc5-16787e24259e.png"
+    "image": "4587c016-cd53-4ceb-adc5-16787e24259e.jpg"
   },
   {
     "id": "894796f2-772b-4b75-be68-6f59b75d7a28",
@@ -1957,7 +1957,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "894796f2-772b-4b75-be68-6f59b75d7a28.png"
+    "image": "894796f2-772b-4b75-be68-6f59b75d7a28.jpg"
   },
   {
     "id": "19858c99-d45a-4f42-8f24-0bb7cf0b6c3e",
@@ -1971,7 +1971,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "19858c99-d45a-4f42-8f24-0bb7cf0b6c3e.png"
+    "image": "19858c99-d45a-4f42-8f24-0bb7cf0b6c3e.jpg"
   },
   {
     "id": "9c32e402-cf0a-4e4a-8819-445709c328a3",
@@ -1986,7 +1986,7 @@
     "Endurance": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "9c32e402-cf0a-4e4a-8819-445709c328a3.png"
+    "image": "9c32e402-cf0a-4e4a-8819-445709c328a3.jpg"
   },
   {
     "id": "e921a68e-c4e2-463a-83f8-629d7580ba31",
@@ -2000,7 +2000,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e921a68e-c4e2-463a-83f8-629d7580ba31.png"
+    "image": "e921a68e-c4e2-463a-83f8-629d7580ba31.jpg"
   },
   {
     "id": "02c9460a-23fc-443e-a78f-8b218bda9451",
@@ -2017,7 +2017,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "02c9460a-23fc-443e-a78f-8b218bda9451.png"
+    "image": "02c9460a-23fc-443e-a78f-8b218bda9451.jpg"
   },
   {
     "id": "b06c8cfd-28f0-4747-8203-f64a2e9eca5e",
@@ -2031,7 +2031,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b06c8cfd-28f0-4747-8203-f64a2e9eca5e.png"
+    "image": "b06c8cfd-28f0-4747-8203-f64a2e9eca5e.jpg"
   },
   {
     "id": "a2469ba1-f516-412d-acda-84e90bbef974",
@@ -2045,7 +2045,7 @@
     "Limit": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "a2469ba1-f516-412d-acda-84e90bbef974.png"
+    "image": "a2469ba1-f516-412d-acda-84e90bbef974.jpg"
   },
   {
     "id": "7b1b887c-b585-42c9-86df-59e4a9e3e2b8",
@@ -2062,7 +2062,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7b1b887c-b585-42c9-86df-59e4a9e3e2b8.png"
+    "image": "7b1b887c-b585-42c9-86df-59e4a9e3e2b8.jpg"
   },
   {
     "id": "f932658f-471b-4bb7-abd7-f8dff006c890",
@@ -2079,7 +2079,7 @@
     "Card Level": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f932658f-471b-4bb7-abd7-f8dff006c890.png"
+    "image": "f932658f-471b-4bb7-abd7-f8dff006c890.jpg"
   },
   {
     "id": "bd991377-b14e-4c70-b3d9-d1792d4a4127",
@@ -2096,7 +2096,7 @@
     "Card Level": "5",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "bd991377-b14e-4c70-b3d9-d1792d4a4127.png"
+    "image": "bd991377-b14e-4c70-b3d9-d1792d4a4127.jpg"
   },
   {
     "id": "ffda8391-8c3f-47fb-9dcd-b614d141190f",
@@ -2110,7 +2110,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "ffda8391-8c3f-47fb-9dcd-b614d141190f.png"
+    "image": "ffda8391-8c3f-47fb-9dcd-b614d141190f.jpg"
   },
   {
     "id": "7447fb84-97e7-4422-be19-db97d5d9aa32",
@@ -2124,7 +2124,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7447fb84-97e7-4422-be19-db97d5d9aa32.png"
+    "image": "7447fb84-97e7-4422-be19-db97d5d9aa32.jpg"
   },
   {
     "id": "5f4b563a-7beb-4c5f-abc6-a815962f5af9",
@@ -2138,7 +2138,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "5f4b563a-7beb-4c5f-abc6-a815962f5af9.png"
+    "image": "5f4b563a-7beb-4c5f-abc6-a815962f5af9.jpg"
   },
   {
     "id": "3c82461b-afd8-4da6-a44f-20b3b72857aa",
@@ -2153,7 +2153,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "3c82461b-afd8-4da6-a44f-20b3b72857aa.png"
+    "image": "3c82461b-afd8-4da6-a44f-20b3b72857aa.jpg"
   },
   {
     "id": "5736b1b6-776f-4feb-927d-8953477cf8e8",
@@ -2168,7 +2168,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "5736b1b6-776f-4feb-927d-8953477cf8e8.png"
+    "image": "5736b1b6-776f-4feb-927d-8953477cf8e8.jpg"
   },
   {
     "id": "96fc74fe-5fee-4c86-91ed-fba3afc11a91",
@@ -2182,7 +2182,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "96fc74fe-5fee-4c86-91ed-fba3afc11a91.png"
+    "image": "96fc74fe-5fee-4c86-91ed-fba3afc11a91.jpg"
   },
   {
     "id": "d6fde1f2-2d15-4937-aaab-7c33962c67c6",
@@ -2196,7 +2196,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d6fde1f2-2d15-4937-aaab-7c33962c67c6.png"
+    "image": "d6fde1f2-2d15-4937-aaab-7c33962c67c6.jpg"
   },
   {
     "id": "bddd2155-a83e-4bfd-ac21-afb886b915af",
@@ -2211,7 +2211,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "bddd2155-a83e-4bfd-ac21-afb886b915af.png"
+    "image": "bddd2155-a83e-4bfd-ac21-afb886b915af.jpg"
   },
   {
     "id": "13264dac-361c-4aa6-baec-8a41f4021593",
@@ -2225,7 +2225,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "13264dac-361c-4aa6-baec-8a41f4021593.png"
+    "image": "13264dac-361c-4aa6-baec-8a41f4021593.jpg"
   },
   {
     "id": "8fd4dfe7-04d4-4621-b925-85e41d954350",
@@ -2239,7 +2239,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "8fd4dfe7-04d4-4621-b925-85e41d954350.png"
+    "image": "8fd4dfe7-04d4-4621-b925-85e41d954350.jpg"
   },
   {
     "id": "d6e0afec-dc4e-492d-aee0-ce1a211d5d92",
@@ -2253,7 +2253,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d6e0afec-dc4e-492d-aee0-ce1a211d5d92.png"
+    "image": "d6e0afec-dc4e-492d-aee0-ce1a211d5d92.jpg"
   },
   {
     "id": "df3cc3b9-b2ac-40d7-8ab0-100b7a930956",
@@ -2268,7 +2268,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "df3cc3b9-b2ac-40d7-8ab0-100b7a930956.png"
+    "image": "df3cc3b9-b2ac-40d7-8ab0-100b7a930956.jpg"
   },
   {
     "id": "1c47e266-5399-4221-b963-1cf5c0133843",
@@ -2282,7 +2282,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "1c47e266-5399-4221-b963-1cf5c0133843.png"
+    "image": "1c47e266-5399-4221-b963-1cf5c0133843.jpg"
   },
   {
     "id": "392a8e3c-a0de-4f13-a795-46566fcca313",
@@ -2296,7 +2296,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "392a8e3c-a0de-4f13-a795-46566fcca313.png"
+    "image": "392a8e3c-a0de-4f13-a795-46566fcca313.jpg"
   },
   {
     "id": "b18e7604-0c6b-4642-b852-8cce1c1139ce",
@@ -2313,7 +2313,7 @@
     "Card Level": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b18e7604-0c6b-4642-b852-8cce1c1139ce.png"
+    "image": "b18e7604-0c6b-4642-b852-8cce1c1139ce.jpg"
   },
   {
     "id": "fe402734-aa7d-4154-8db3-8dafb1efdb8c",
@@ -2330,7 +2330,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "fe402734-aa7d-4154-8db3-8dafb1efdb8c.png"
+    "image": "fe402734-aa7d-4154-8db3-8dafb1efdb8c.jpg"
   },
   {
     "id": "bdc0e2cc-31ad-4868-993a-26fa12b99199",
@@ -2344,7 +2344,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "bdc0e2cc-31ad-4868-993a-26fa12b99199.png"
+    "image": "bdc0e2cc-31ad-4868-993a-26fa12b99199.jpg"
   },
   {
     "id": "7ba3474f-6e8b-4fbc-94d2-191e420c9162",
@@ -2358,7 +2358,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7ba3474f-6e8b-4fbc-94d2-191e420c9162.png"
+    "image": "7ba3474f-6e8b-4fbc-94d2-191e420c9162.jpg"
   },
   {
     "id": "f36cfdf1-d23a-4025-9232-526d0432c340",
@@ -2372,7 +2372,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f36cfdf1-d23a-4025-9232-526d0432c340.png"
+    "image": "f36cfdf1-d23a-4025-9232-526d0432c340.jpg"
   },
   {
     "id": "23734c61-2828-40cb-808c-27892a95755b",
@@ -2389,7 +2389,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "23734c61-2828-40cb-808c-27892a95755b.png"
+    "image": "23734c61-2828-40cb-808c-27892a95755b.jpg"
   },
   {
     "id": "7f96c397-a3b0-4ea0-a03c-3d04ea82d067",
@@ -2406,7 +2406,7 @@
     "Card Level": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7f96c397-a3b0-4ea0-a03c-3d04ea82d067.png"
+    "image": "7f96c397-a3b0-4ea0-a03c-3d04ea82d067.jpg"
   },
   {
     "id": "eac55158-8ae7-4aac-9823-d5748c8f1c3c",
@@ -2423,7 +2423,7 @@
     "Card Level": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "eac55158-8ae7-4aac-9823-d5748c8f1c3c.png"
+    "image": "eac55158-8ae7-4aac-9823-d5748c8f1c3c.jpg"
   },
   {
     "id": "498e8539-dd04-4c72-9f1c-852bee8604f1",
@@ -2440,7 +2440,7 @@
     "Card Level": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "498e8539-dd04-4c72-9f1c-852bee8604f1.png"
+    "image": "498e8539-dd04-4c72-9f1c-852bee8604f1.jpg"
   },
   {
     "id": "06a7d488-26d5-4e60-8a0a-d99f481dc90f",
@@ -2454,7 +2454,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "06a7d488-26d5-4e60-8a0a-d99f481dc90f.png"
+    "image": "06a7d488-26d5-4e60-8a0a-d99f481dc90f.jpg"
   },
   {
     "id": "bb2022af-c03f-42c1-9e9c-2325e9b8ff90",
@@ -2468,7 +2468,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "bb2022af-c03f-42c1-9e9c-2325e9b8ff90.png"
+    "image": "bb2022af-c03f-42c1-9e9c-2325e9b8ff90.jpg"
   },
   {
     "id": "d949a907-17af-46fb-afc9-62da3b34fe67",
@@ -2483,7 +2483,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "d949a907-17af-46fb-afc9-62da3b34fe67.png"
+    "image": "d949a907-17af-46fb-afc9-62da3b34fe67.jpg"
   },
   {
     "id": "39cd0dd1-71fc-4cbb-a6f6-51edc54c9105",
@@ -2497,7 +2497,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "39cd0dd1-71fc-4cbb-a6f6-51edc54c9105.png"
+    "image": "39cd0dd1-71fc-4cbb-a6f6-51edc54c9105.jpg"
   },
   {
     "id": "2091a3f7-822c-4025-8a8c-573e737798fa",
@@ -2511,7 +2511,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "2091a3f7-822c-4025-8a8c-573e737798fa.png"
+    "image": "2091a3f7-822c-4025-8a8c-573e737798fa.jpg"
   },
   {
     "id": "65156a67-082a-43f8-9ca2-051cac96c363",
@@ -2525,7 +2525,7 @@
     "Limit": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "65156a67-082a-43f8-9ca2-051cac96c363.png"
+    "image": "65156a67-082a-43f8-9ca2-051cac96c363.jpg"
   },
   {
     "id": "ae2fc481-f9c5-431b-aa6c-0fbc22399f53",
@@ -2539,7 +2539,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "ae2fc481-f9c5-431b-aa6c-0fbc22399f53.png"
+    "image": "ae2fc481-f9c5-431b-aa6c-0fbc22399f53.jpg"
   },
   {
     "id": "0ac9f838-4a85-4e61-a510-6c472448f73a",
@@ -2554,7 +2554,7 @@
     "Endurance": "2",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "0ac9f838-4a85-4e61-a510-6c472448f73a.png"
+    "image": "0ac9f838-4a85-4e61-a510-6c472448f73a.jpg"
   },
   {
     "id": "7cf06a63-bdc8-4e89-b78f-c48bba1b8169",
@@ -2568,7 +2568,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "7cf06a63-bdc8-4e89-b78f-c48bba1b8169.png"
+    "image": "7cf06a63-bdc8-4e89-b78f-c48bba1b8169.jpg"
   },
   {
     "id": "08d83e0d-5eaf-47a5-a342-bda01665b4ef",
@@ -2582,7 +2582,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "08d83e0d-5eaf-47a5-a342-bda01665b4ef.png"
+    "image": "08d83e0d-5eaf-47a5-a342-bda01665b4ef.jpg"
   },
   {
     "id": "f00b25a2-2a27-425d-827d-94780a81e0a4",
@@ -2596,7 +2596,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "f00b25a2-2a27-425d-827d-94780a81e0a4.png"
+    "image": "f00b25a2-2a27-425d-827d-94780a81e0a4.jpg"
   },
   {
     "id": "4722178e-4cc6-4196-a597-3808e6cc6976",
@@ -2610,7 +2610,7 @@
     "Limit": "4",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "4722178e-4cc6-4196-a597-3808e6cc6976.png"
+    "image": "4722178e-4cc6-4196-a597-3808e6cc6976.jpg"
   },
   {
     "id": "0e790abe-f11c-472e-9b30-3f0e5734efd9",
@@ -2624,7 +2624,7 @@
     "Limit": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "0e790abe-f11c-472e-9b30-3f0e5734efd9.png"
+    "image": "0e790abe-f11c-472e-9b30-3f0e5734efd9.jpg"
   },
   {
     "id": "70984b4f-d286-45b0-b198-de940ae9b5ea",
@@ -2638,7 +2638,7 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "70984b4f-d286-45b0-b198-de940ae9b5ea.png"
+    "image": "70984b4f-d286-45b0-b198-de940ae9b5ea.jpg"
   },
   {
     "id": "b4332ebc-b7e3-448e-b90c-9d551e96f810",
@@ -2655,7 +2655,7 @@
     "Card Level": "1",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "b4332ebc-b7e3-448e-b90c-9d551e96f810.png"
+    "image": "b4332ebc-b7e3-448e-b90c-9d551e96f810.jpg"
   },
   {
     "id": "e4f1d6bc-5e7d-4f9c-b1e8-9bee977a9312",
@@ -2669,6 +2669,6 @@
     "Limit": "3",
     "Set": "Set 11 - Kid Buu Saga",
     "set_id": "4cfe18bb-9de6-4e31-89c6-0ec76650429d",
-    "image": "e4f1d6bc-5e7d-4f9c-b1e8-9bee977a9312.png"
+    "image": "e4f1d6bc-5e7d-4f9c-b1e8-9bee977a9312.jpg"
   }
 ]
